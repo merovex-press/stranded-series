@@ -2,7 +2,7 @@
 
 
 | V-shift | Acc.(g) | Duration (extended range) | typical range to slipknot (5AU) | Earth  to Moon (400,00 km) | Earth to Mars (.5 AU) | Earth to Pluto (30 AU) | Earth to Oort  cloud (1 ly)
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 0 | 0.01 | 130 (520) days | 65 days | 34 hours | 17 days | 6 months | 40 years |
 | 1 | 0.1 | 40 (160) days | 20 days | 11 hours | 5.5 days | 56 days | 12.5 years |
 | 2 | 0.5 | 18 (72) days | 9 days | 5 hours | 2.5 days | 25 days | 5.5 years |
