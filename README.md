@@ -2,7 +2,7 @@
 
 ## LOGLINE
 
-When a failing Imperial Postal Marine embeds an AI into his skull, he ignites a perpetual war between insanity and being the greatest Postal Marine.
+Forced to crash land, a Slipstream Anthropologist must struggles to survive on an alien world that feels strangely similar.
 
 ## FORMAT
 
@@ -38,7 +38,7 @@ The intent is to have four episodes written. They are all released at the same t
 ## SYNOPSIS
 <!-- The Synopsis of your series is short document of less than 1 page (4-5 paragraphs) that summarizes the world of the story, the major characters and the central tension. -->
 
-The year is 1907. 
+The year is 1907.
 
 ## SETTING
 
@@ -101,3 +101,5 @@ Each Episode should be summarized in 2-4 paragraphs. -->
 ## GLOSSARY
 Many episodic series take place in a world removed from our own. This may be because of a SciFi or Fantasy setting, or it may be due to jargon of a particular sub-culture (eg the Military or Prison)
 In such cases it can be useful to compile a glossary of terms and terminology to inform the writing and development of the story and contribute to a consistent and authentic story world as the series progresses.
+
+* Knot - the point where a ship can use the slipstream to travel to another system.
