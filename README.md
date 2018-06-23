@@ -67,7 +67,7 @@ A visual gallery of images that provide a mood-board and visual guide to the aes
 ## SYNOPSIS
 <!-- The Synopsis of your series is short document of less than 1 page (4-5 paragraphs) that summarizes the world of the story, the major characters and the central tension. -->
 
-The year is 1907.
+The year is 1907. Kaius Minjen, a Slipstream Anthropologist running from his past, lands a plum appointment to the Migdal Orbital to observe the Migdalians. Anarchists slip in and attack the station, forcing him to abandon and land on the surface.
 
 ## SETTING
 
