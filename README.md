@@ -71,7 +71,7 @@ The year is 1907. Kaius Minjen, a Slipstream Anthropologist running from his pas
 
 ## SETTING
 
-<!-- Setting details the time, place and period of your series - the Where and When. The length of this document can vary depending on the genre of the series. A SciFi drama for example may need detailed description of the setting where as a suburban drama in the present day may be relatively short. -->
+_Setting details the time, place and period of your series - the Where and When. The length of this document can vary depending on the genre of the series. A SciFi drama for example may need detailed description of the setting where as a suburban drama in the present day may be relatively short._
 
 ### Tropes
 
