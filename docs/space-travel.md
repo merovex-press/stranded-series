@@ -2,7 +2,7 @@
 
 ## Spacecraft
 
-**Design.** Spacecraft are symmetrically built around a frame. Propulsion is reaction-based, so a considerable amount of the ship's total mass is its consumable reaction material. Ships cannot travel in atmosphere as gravity will crush the frame. Travel between planet and orbitals is done through interface vehicles. Ships are built like office towers, with small decks stacked on top of each other, which experience gravity only when the ship is under thrust.
+**Design.** Spacecraft are symmetrically built around a frame. Propulsion is reaction-based, so a considerable amount of the ship's total mass is its consumable reaction material. Ships cannot travel in atmosphere as gravity will crush the frame. Travel between planet and orbitals is done through interface vehicles. **Ships are built like office towers** (Pringles cans), with small decks stacked on top of each other, which experience gravity only when the ship is under thrust.
 
 **Travel.** When traveling, ships accelerate to the midpoint of their journey, turn around, and decelerate. No dogfights, no Immelmann or Crazy Ivan maneuvers. Safe travel means accelerating to a midpoint at 1.0-1.5 G, turn around, decelerate at 1.0-1.5 G, over a period of several days.
 
