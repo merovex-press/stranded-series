@@ -1,27 +1,30 @@
 # Slipstream Series Bible
 
 * [LOGLINE](#logline)
-* [FORMAT](#format)
-* [AUDIENCE](#audience)
+* [OVERVIEW](#overview)
+   * [FORMAT](#format)
+   * [AUDIENCE](#audience)
+   * [CREATORS STATEMENT](#creators-statement)
+   * [LOOK AND FEEL](#look-and-feel)
+   * [VISUAL REFERENCES](#visual-references)
 * [SYNOPSIS](#synopsis)
 * [SETTING](#setting)
 * [WORLD   BACKGROUND](#world--background)
-* [CREATORS STATEMENT](#creators-statement)
-* [LOOK AND FEEL](#look-and-feel)
-* [VISUAL REFERENCES](#visual-references)
 * [SERIES OUTLINE](#series-outline)
 * [CHARACTERS](#characters)
    * [POV CHARACTERS](#pov-characters)
    * [MINOR CHARACTERS](#minor-characters)
 * [KEY LOCATIONS](#key-locations)
 * [EPISODE STORY OUTLINES](#episode-story-outlines)
-* [Season One](#season-one)
+   * [Season One](#season-one)
 
 ## LOGLINE
 
 Forced to crash land, a Slipstream Anthropologist must struggles to survive on an alien world that feels strangely similar.
 
-## FORMAT
+## OVERVIEW
+
+### FORMAT
 
 The **Historical Sci-Fi** series comprises novellas approximately 21,000 words long. This yields a read-time of about 100 minutes, and an voice-over narration time of 120 minutes.
 
@@ -41,7 +44,7 @@ The intent is to have four episodes written. They are all released at the same t
 - The Genre of the series
 - The Release pattern of episodes (how often and how spaced apart) -->
 
-## AUDIENCE
+### AUDIENCE
 <!-- Here you should clearly define your target audience; by age, demographic or interests - sometimes around  particular network, channel or medium.  You may also take into consideration the audiences of other shows and aim your project to appeal to the same audience as a similar series, or one in the same style or genre. -->
 
 **My audience are "Protector Caste" adults seeking inspiration.** We believe that we are responsible for serving a higher purpose. We may have served in the military, but we may also be a first-responder. We want to see humanity as it is, but also how it should be. We want to be inspired and lauded for our service. We watch war movies to be inspired, not for the violence of it.
@@ -51,6 +54,15 @@ The intent is to have four episodes written. They are all released at the same t
 **My audience doesn't have time.** We're busy, easily distracted, or don't like to put a lot into reading. We want something short enough that we can read while waiting for something to happen. A novella that we can crush in 1.5 hours is perfect.
 
 **My audience are Christians.** We are tired of seeing science fiction espouse anti-Christian philosophy. Decisions should reflect or have consequences based on Christian values.
+
+### CREATORS STATEMENT
+The Creators Statement is an opportunity to clearly and succinctly spell out the thematic and conceptual ideas and premise behind your series. What are the metaphors and philosophies embedded in your story? How do your characters reflect the questions you wish to explore? What are the underlying beliefs that drive the story?
+
+### LOOK AND FEEL
+The Look + Feel section details the intended visual aesthetics of your series. What is the Style of the show, how will it appear to audiences? What are the techniques, colours, compositions, and visual influences on the series?
+
+### VISUAL REFERENCES
+A visual gallery of images that provide a mood-board and visual guide to the aesthetic style of the show. Interiors, exteriors, tones, texture, style, costume and design. This may also include images and elements drawn from other productions or artists that ‘resonate’ with you as relevant or informative to your project.
 
 ## SYNOPSIS
 <!-- The Synopsis of your series is short document of less than 1 page (4-5 paragraphs) that summarizes the world of the story, the major characters and the central tension. -->
@@ -65,15 +77,6 @@ The year is 1907.
 ## WORLD + BACKGROUND
 
 The World + Background section outlines the world of your series going beyond the Where and When to encompass
-
-## CREATORS STATEMENT
-The Creators Statement is an opportunity to clearly and succinctly spell out the thematic and conceptual ideas and premise behind your series. What are the metaphors and philosophies embedded in your story? How do your characters reflect the questions you wish to explore? What are the underlying beliefs that drive the story?
-
-## LOOK AND FEEL
-The Look + Feel section details the intended visual aesthetics of your series. What is the Style of the show, how will it appear to audiences? What are the techniques, colours, compositions, and visual influences on the series?
-
-## VISUAL REFERENCES
-A visual gallery of images that provide a mood-board and visual guide to the aesthetic style of the show. Interiors, exteriors, tones, texture, style, costume and design. This may also include images and elements drawn from other productions or artists that ‘resonate’ with you as relevant or informative to your project.
 
 ## SERIES OUTLINE
 
@@ -111,6 +114,7 @@ This section should list the locations and provide a 1-2 paragraph description o
 
 Each Episode should be summarized in 2-4 paragraphs. -->
 
-## Season One
+* [Season One](/docs/outline-season-1.md)
 
-1. **[Episode Name](docs/episodes/episode-name).** One paragraph summary, linking to the synopsis. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit.
+## LICENSE
+This project is licensed under the MIT License - see the LICENSE.md file for details
