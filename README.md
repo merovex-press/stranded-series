@@ -88,7 +88,7 @@ The Series Outline is a self contained document of 1-2 pages that overviews char
 
 <!-- The Characters section should list all your major characters and in 2-3 paragraphs for each, outline their personal characteristics, wants, needs, obstacles and flaws. It should also clearly indicate the relationships between characters. -->
 
-* **Kaius Menjen.** ipsum lorem
+* **[Kaius Minjen](/docs/characters/kaius-minjen.md).** ipsum lorem
 * **name** ipsum lorem.
 * **name** ipsum lorem.
 * **name** ipsum lorem.
