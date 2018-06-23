@@ -97,12 +97,3 @@ Each Episode should be summarized in 2-4 paragraphs. -->
 ## Season One
 
 1. **[Episode Name](docs/episodes/episode-name).** One paragraph summary, linking to the synopsis. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit.
-
-
-
-## GLOSSARY
-Many episodic series take place in a world removed from our own. This may be because of a SciFi or Fantasy setting, or it may be due to jargon of a particular sub-culture (eg the Military or Prison)
-In such cases it can be useful to compile a glossary of terms and terminology to inform the writing and development of the story and contribute to a consistent and authentic story world as the series progresses.
-
-* Knot - the point where a ship can use the slipstream to travel to another system.
-* V-Shift - the rate of motion (0-6)
