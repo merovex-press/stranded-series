@@ -10,3 +10,6 @@
 | 4 | 1.5 | 10 (40) days | 5 days | 3 hours | 34 hours | 14 days | 3 years |
 | 5 | 2 | 9 (36) days | 4.5 days | 2.5 hours | 29 hours | 12 days | 2.8 years |
 | 6 | 3 | 8 (32) days | 4 days | 2 hours | 24 hours | 10 days | 2.3 years |
+
+* Civilian ships never travel at more than 1G (V-shift 3) for longer than a full day.
+* Military ships never travel at more than 2G (V-shift 5) for longer than a full day.

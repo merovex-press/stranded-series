@@ -64,6 +64,8 @@ The Series Outline is a self contained document of 1-2 pages that overviews char
 
 ## CHARACTERS
 
+### POV CHARACTERS
+
 <!-- The Characters section should list all your major characters and in 2-3 paragraphs for each, outline their personal characteristics, wants, needs, obstacles and flaws. It should also clearly indicate the relationships between characters. -->
 
 * **Kaius Menjen.** ipsum lorem
@@ -73,7 +75,7 @@ The Series Outline is a self contained document of 1-2 pages that overviews char
 * **name** ipsum lorem.
 * **name** ipsum lorem.
 
-## MINOR CHARACTERS
+### MINOR CHARACTERS
 <!-- The Minor Characters section is a listing of minor characters in the story with a brief sentence on who they are. -->
 
 * Mary - a aeroplane pilot and friend to Bob.
@@ -103,3 +105,4 @@ Many episodic series take place in a world removed from our own. This may be bec
 In such cases it can be useful to compile a glossary of terms and terminology to inform the writing and development of the story and contribute to a consistent and authentic story world as the series progresses.
 
 * Knot - the point where a ship can use the slipstream to travel to another system.
+* V-Shift - the rate of motion (0-6)
