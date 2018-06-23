@@ -1,4 +1,4 @@
-
+Khēmía
 
 ## Timeline
 
@@ -14,6 +14,8 @@
 ## Peoples
 
 They call the planet "Luominen"
+
+The continent is called Tashemeaw, Tamehew
 
 Word for God "Subirano" Sortzailea (Basque)
 

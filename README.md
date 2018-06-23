@@ -73,6 +73,19 @@ The year is 1907. Kaius Minjen, a Slipstream Anthropologist running from his pas
 
 <!-- Setting details the time, place and period of your series - the Where and When. The length of this document can vary depending on the genre of the series. A SciFi drama for example may need detailed description of the setting where as a suburban drama in the present day may be relatively short. -->
 
+### Tropes
+
+Look at the [Mohs Scale of Violence](http://tvtropes.org/pmwiki/pmwiki.php/Main/MohsScaleOfViolenceHardness)
+
+I write in the [Romantic](http://tvtropes.org/pmwiki/pmwiki.php/Main/RomanticismVersusEnlightenment) vein (Romanticist-themed science fiction might portray the future as an unpleasant Crapsack World, with high technology but low social quality, full of depression, dehumanization and alienation (e.g. everything Cyberpunk) with the happy souls being those who escaped to the countryside, if possible)
+
+* [Lost Technology](http://tvtropes.org/pmwiki/pmwiki.php/Main/LostTechnology) - The hero comes from a society that got a leapfrog in technology from the ancients. Results in
+* [Steampunk](http://tvtropes.org/pmwiki/pmwiki.php/Main/Steampunk) and [Steampunk Index](http://tvtropes.org/pmwiki/pmwiki.php/Main/SteampunkIndex)
+* [Insufficiently Advanced Alien](http://tvtropes.org/pmwiki/pmwiki.php/Main/InsufficientlyAdvancedAlien) - Humanity is able to travel, but lacks sufficient technology to do much else.
+* [God Guise](http://tvtropes.org/pmwiki/pmwiki.php/Main/GodGuise) - Hero takes advantage of false god worship due to [This is my Boomstick](http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisIsMyBoomstick). But, by the end of the first season....
+* [Unwanted Faith](http://tvtropes.org/pmwiki/pmwiki.php/Main/UnwantedFalseFaith) he no longer wants to be worshipped, but a religion has formed.
+* [One Small Fib (4.5)](http://tvtropes.org/pmwiki/pmwiki.php/Mohs/OneBigLie) - FTL travel, not significant to the plot.
+
 
 ## WORLD + BACKGROUND
 
