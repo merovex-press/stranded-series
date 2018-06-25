@@ -20,7 +20,7 @@
 
 ## LOGLINE
 
-Forced to crash land, a Slipstream Anthropologist must struggles to survive on an alien world that feels strangely similar.
+Forced to crash land, a Slipstream Anthropologist struggles to survive on an alien world that feels strangely similar.
 
 ## OVERVIEW
 
@@ -36,6 +36,10 @@ Each episode/novella comprises either:
 There will be a defined A, B, C and maybe D story. There will be an ensemble cast, but the focus remains on the Hero.
 
 The intent is to have four episodes written. They are all released at the same time. Then, one additional Novella every 6 weeks. This results in a 12-book year.
+
+Five seasons, 60 books.
+
+Story engine. what keeps driving the plot? Relationships. Describe what drives the story.
 
 <!-- The Format of your series encompasses a number of structural elements of your series. These include:
 - The Length of episodes
@@ -56,13 +60,13 @@ The intent is to have four episodes written. They are all released at the same t
 **My audience are Christians.** We are tired of seeing science fiction espouse anti-Christian philosophy. Decisions should reflect or have consequences based on Christian values.
 
 ### CREATORS STATEMENT
-The Creators Statement is an opportunity to clearly and succinctly spell out the thematic and conceptual ideas and premise behind your series. What are the metaphors and philosophies embedded in your story? How do your characters reflect the questions you wish to explore? What are the underlying beliefs that drive the story?
+_The Creators Statement is an opportunity to clearly and succinctly spell out the thematic and conceptual ideas and premise behind your series. What are the metaphors and philosophies embedded in your story? How do your characters reflect the questions you wish to explore? What are the underlying beliefs that drive the story?_
 
 ### LOOK AND FEEL
-The Look + Feel section details the intended visual aesthetics of your series. What is the Style of the show, how will it appear to audiences? What are the techniques, colours, compositions, and visual influences on the series?
+_The Look + Feel section details the intended visual aesthetics of your series. What is the Style of the show, how will it appear to audiences? What are the techniques, colors, compositions, and visual influences on the series?_
 
 ### VISUAL REFERENCES
-A visual gallery of images that provide a mood-board and visual guide to the aesthetic style of the show. Interiors, exteriors, tones, texture, style, costume and design. This may also include images and elements drawn from other productions or artists that ‘resonate’ with you as relevant or informative to your project.
+_A visual gallery of images that provide a mood-board and visual guide to the aesthetic style of the show. Interiors, exteriors, tones, texture, style, costume and design. This may also include images and elements drawn from other productions or artists that ‘resonate’ with you as relevant or informative to your project._
 
 ## SYNOPSIS
 <!-- The Synopsis of your series is short document of less than 1 page (4-5 paragraphs) that summarizes the world of the story, the major characters and the central tension. -->
