@@ -41,6 +41,8 @@ Five seasons, 60 books.
 
 Story engine. what keeps driving the plot? Relationships. Describe what drives the story.
 
+Slipstream-0x01-Title-of-episode.pdf = Series title - season x episode - episode title.
+
 <!-- The Format of your series encompasses a number of structural elements of your series. These include:
 - The Length of episodes
 - The Number of episodes
