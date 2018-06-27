@@ -134,7 +134,7 @@ This section should list the locations and provide a 1-2 paragraph description o
 
 Each Episode should be summarized in 2-4 paragraphs. -->
 
-* [Season One](/docs/outline-season-1.md)
+1. [Season One](/docs/1x00-outline.md)
 
 ## LICENSE
 This project is licensed under the MIT License - see the LICENSE.md file for details

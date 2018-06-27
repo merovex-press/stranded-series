@@ -11,6 +11,8 @@ Realization sentence.
 
 ## Season One
 
+One-paragraph summary of Season One.
+
 1. **1x01 - [title](docs/episodes/1x01.md).**
 One paragraph summary, linking to the synopsis.
 Backstory sentence.
