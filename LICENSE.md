@@ -1,6 +1,4 @@
-# LICENSE
-
-Attribution-NonCommercial-NoDerivatives 4.0 International
+# LICENSE - Attribution-NonCommercial-NoDerivatives 4.0 International (CC-BY-NC-ND-4.0)
 
 =======================================================================
 
@@ -147,11 +145,11 @@ the Licensor hereby grants You a worldwide, royalty-free,
 non-sublicensable, non-exclusive, irrevocable license to
 exercise the Licensed Rights in the Licensed Material to:
 
-  a. reproduce and Share the Licensed Material, in whole or
-     in part, for NonCommercial purposes only; and
+a. reproduce and Share the Licensed Material, in whole or
+in part, for NonCommercial purposes only; and
 
-  b. produce and reproduce, but not Share, Adapted Material
-     for NonCommercial purposes only.
+b. produce and reproduce, but not Share, Adapted Material
+for NonCommercial purposes only.
 
 2. Exceptions and Limitations. For the avoidance of doubt, where
 Exceptions and Limitations apply to Your use, this Public
@@ -175,18 +173,18 @@ simply making modifications authorized by this Section 2(a)
 
 5. Downstream recipients.
 
-  a. Offer from the Licensor -- Licensed Material. Every
-     recipient of the Licensed Material automatically
-     receives an offer from the Licensor to exercise the
-     Licensed Rights under the terms and conditions of this
-     Public License.
+a. Offer from the Licensor -- Licensed Material. Every
+recipient of the Licensed Material automatically
+receives an offer from the Licensor to exercise the
+Licensed Rights under the terms and conditions of this
+Public License.
 
-  b. No downstream restrictions. You may not offer or impose
-     any additional or different terms or conditions on, or
-     apply any Effective Technological Measures to, the
-     Licensed Material if doing so restricts exercise of the
-     Licensed Rights by any recipient of the Licensed
-     Material.
+b. No downstream restrictions. You may not offer or impose
+any additional or different terms or conditions on, or
+apply any Effective Technological Measures to, the
+Licensed Material if doing so restricts exercise of the
+Licensed Rights by any recipient of the Licensed
+Material.
 
 6. No endorsement. Nothing in this Public License constitutes or
 may be construed as permission to assert or imply that You
@@ -227,31 +225,31 @@ a. Attribution.
 
 1. If You Share the Licensed Material, You must:
 
-  a. retain the following if it is supplied by the Licensor
-     with the Licensed Material:
+a. retain the following if it is supplied by the Licensor
+with the Licensed Material:
 
-       i. identification of the creator(s) of the Licensed
-          Material and any others designated to receive
-          attribution, in any reasonable manner requested by
-          the Licensor (including by pseudonym if
-          designated);
+i. identification of the creator(s) of the Licensed
+Material and any others designated to receive
+attribution, in any reasonable manner requested by
+the Licensor (including by pseudonym if
+designated);
 
-      ii. a copyright notice;
+ii. a copyright notice;
 
-     iii. a notice that refers to this Public License;
+iii. a notice that refers to this Public License;
 
-      iv. a notice that refers to the disclaimer of
-          warranties;
+iv. a notice that refers to the disclaimer of
+warranties;
 
-       v. a URI or hyperlink to the Licensed Material to the
-          extent reasonably practicable;
+v. a URI or hyperlink to the Licensed Material to the
+extent reasonably practicable;
 
-  b. indicate if You modified the Licensed Material and
-     retain an indication of any previous modifications; and
+b. indicate if You modified the Licensed Material and
+retain an indication of any previous modifications; and
 
-  c. indicate the Licensed Material is licensed under this
-     Public License, and include the text of, or the URI or
-     hyperlink to, this Public License.
+c. indicate the Licensed Material is licensed under this
+Public License, and include the text of, or the URI or
+hyperlink to, this Public License.
 
 For the avoidance of doubt, You do not have permission under
 this Public License to Share Adapted Material.
