@@ -1,22 +1,19 @@
 # Slipstream Series Bible
 
-* [LOGLINE](#logline)
-* [OVERVIEW](#overview)
-   * [FORMAT](#format)
-   * [AUDIENCE](#audience)
-   * [CREATORS STATEMENT](#creators-statement)
-   * [LOOK AND FEEL](#look-and-feel)
-   * [VISUAL REFERENCES](#visual-references)
-* [SYNOPSIS](#synopsis)
+* [GENRE](#genre)
+  * [Key Tropes](#key-tropes)
+* [LOGLINE (1-2 sentence)](#logline-1-2-sentence)
+* [SUMMARY (one-paragraph)](#summary-one-paragraph)
+* [SYNOPSIS (one-pager)](#synopsis-one-pager)
+* [CHARACTERS](#characters)
+  * [POV CHARACTERS](#pov-characters)
+  * [MINOR CHARACTERS](#minor-characters)
 * [SETTING](#setting)
 * [WORLD   BACKGROUND](#world--background)
 * [SERIES OUTLINE](#series-outline)
-* [CHARACTERS](#characters)
-   * [POV CHARACTERS](#pov-characters)
-   * [MINOR CHARACTERS](#minor-characters)
+* [SEASONS](#seasons)
 * [KEY LOCATIONS](#key-locations)
-* [EPISODE STORY OUTLINES](#episode-story-outlines)
-   * [Season One](#season-one)
+* [LICENSE](#license)
 
 ## GENRE
 
