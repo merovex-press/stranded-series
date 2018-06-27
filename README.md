@@ -20,7 +20,7 @@
 
 Slipstream is a "one-small-fib" science-fiction novella series that mixes elements of Steampunk with faster-than-light travel and tinged with [Romanticism](http://tvtropes.org/pmwiki/pmwiki.php/Main/RomanticismVersusEnlightenment). The average read-time for an episode is 90-120 minutes (21-29,000 words).
 
-[Romanticist-themed science fiction might portray the future as an unpleasant Crapsack World, with high technology but low social quality, full of depression, dehumanization and alienation (e.g. everything Cyberpunk) with the happy souls being those who escaped to the countryside, if possible]
+[Romanticist-themed science fiction might portray the future as an unpleasant [Crapsack World](https://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld), with high technology but low social quality, full of depression, dehumanization and alienation (e.g. everything Cyberpunk) with the happy souls being those who escaped to the countryside, if possible]
 
 ### Key Tropes
 
@@ -32,6 +32,7 @@ Slipstream is a "one-small-fib" science-fiction novella series that mixes elemen
 * [God Guise](http://tvtropes.org/pmwiki/pmwiki.php/Main/GodGuise) - Hero takes advantage of false god worship due to [This is my Boomstick](http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisIsMyBoomstick). But, by the end of the first season....
 * [Unwanted Faith](http://tvtropes.org/pmwiki/pmwiki.php/Main/UnwantedFalseFaith) he no longer wants to be worshipped, but a religion has formed.
 * [One Small Fib (4.5)](http://tvtropes.org/pmwiki/pmwiki.php/Mohs/OneBigLie) - FTL travel, not significant to the plot.
+* Knight in Sour Armor - The world is filled with idealists who believe in truth and justice and devote their lives to fighting for it. And then the world keeps letting them down. For them, Being Good Sucks. But rather than giving up on their goals, they replace their shiny armor with a full plate of pure cynicism. These characters realize they live in a dark, cruel and brutal world and choose to fight not because they believe they will truly make a difference, but because it's the right thing to do.
 
 ## LOGLINE (1-2 sentence)
 
@@ -50,13 +51,27 @@ The year is 1907. Kaius Minjen, a Slipstream Anthropologist running from his pas
 
 <!-- The Characters section should list all your major characters and in 2-3 paragraphs for each, outline their personal characteristics, wants, needs, obstacles and flaws. It should also clearly indicate the relationships between characters. -->
 
-1. **[Kaius Minjen](/docs/characters/kaius-minjen.md).** One-paragraph summary
-2. **name** One-paragraph summary.
-3. **name** One-paragraph summary.
-4. **name** One-paragraph summary.
-5. **name** One-paragraph summary.
-6. **name** One-paragraph summary.
-7. **name** One-paragraph summary.
+### [Kaius Minjen](/docs/characters/kaius-minjen.md)
+One-paragraph summary
+
+### name
+One-paragraph summary.
+
+### name
+One-paragraph summary.
+
+### name
+One-paragraph summary.
+
+### name
+One-paragraph summary.
+
+### name
+One-paragraph summary.
+
+### name
+One-paragraph summary.
+
 
 <!-- ten things:
 
