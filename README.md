@@ -87,8 +87,12 @@ The World + Background section outlines the world of your series going beyond th
 _The Series Outline is a self contained document of 1-2 pages that overviews character and narrative arcs over the course of the series. Much like a feature-film Treatment it focuses on the major events and the journey of the protagonists._
 
 ## SEASONS
-1. [Season One](/docs/1x00-outline.md)
 
+1. [Season One](/docs/1x00-outline.md) One-paragraph summary of Season One.
+2. [Season Two](/docs/1x00-outline.md) One-paragraph summary of Season Two.
+3. [Season Three](/docs/1x00-outline.md) One-paragraph summary of Season Three.
+4. [Season Four](/docs/1x00-outline.md) One-paragraph summary of Season Four.
+5. [Season Five](/docs/1x00-outline.md) One-paragraph summary of Season Five.
 
 ## KEY LOCATIONS
 
@@ -96,13 +100,6 @@ _Key Locations lays out the central locations in the series, the recurring locat
 
 * **name** One paragraph summary. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit.
 
-
-## EPISODE STORY OUTLINES
-<!-- The Episode Storylines provide a focused summary of the major plot arcs for each episode showing both the storyline within each episode and how each episode contributes to any over-arching story line across the series.
-
-Each Episode should be summarized in 2-4 paragraphs. -->
-
-
-
 ## LICENSE
-This project is licensed under the MIT License - see the LICENSE.md file for details
+
+Copyright 2018 - Benjamin C. Wilson - All Rights Reserved

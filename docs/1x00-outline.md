@@ -2,8 +2,6 @@
 
 _The Episode Storylines provide a focused summary of the major plot arcs for each episode showing both the storyline within each episode and how each episode contributes to any over-arching story line across the series. Each Episode should be summarized in 2-4 paragraphs._
 
-One-paragraph summary of Season One.
-
 ## 0x01 - [Pilot: Crash](docs/episodes/0x01-crash.md)
 Backstory sentence.
 Catalyst sentence.
