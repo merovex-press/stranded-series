@@ -1,17 +1,18 @@
 # Slipstream Series Bible
 
 * [GENRE](#genre)
-  * [Key Tropes](#key-tropes)
+   * [Key Tropes](#key-tropes)
 * [LOGLINE (1-2 sentence)](#logline-1-2-sentence)
 * [SUMMARY (one-paragraph)](#summary-one-paragraph)
 * [SYNOPSIS (one-pager)](#synopsis-one-pager)
 * [CHARACTERS](#characters)
-  * [POV CHARACTERS](#pov-characters)
-  * [MINOR CHARACTERS](#minor-characters)
-* [SETTING](#setting)
-* [WORLD   BACKGROUND](#world--background)
+   * [POV CHARACTERS](#pov-characters)
+   * [MINOR CHARACTERS](#minor-characters)
+* [MILIEU](#milieu)
+   * [SETTING](#setting)
+   * [WORLD   BACKGROUND](#world--background)
 * [SERIES OUTLINE](#series-outline)
-* [SEASONS](#seasons)
+   * [SEASONS](#seasons)
 * [KEY LOCATIONS](#key-locations)
 * [LICENSE](#license)
 
@@ -75,7 +76,9 @@ The year is 1907. Kaius Minjen, a Slipstream Anthropologist running from his pas
 
 * Mary - a aeroplane pilot and friend to Bob.
 
-## SETTING
+## MILIEU
+
+### SETTING
 
 _Setting details the time, place and period of your series - the Where and When. The length of this document can vary depending on the genre of the series. A SciFi drama for example may need detailed description of the setting where as a suburban drama in the present day may be relatively short._
 
@@ -83,7 +86,7 @@ One-paragraph summary of the setting.
 
 Slipstream is a "one-small-fib" science-fiction series
 
-## WORLD + BACKGROUND
+### WORLD + BACKGROUND
 
 The World + Background section outlines the world of your series going beyond the Where and When to encompass the Why - the circumstances, rules and given principles of the world your story plays out in. Consider:
 
@@ -98,7 +101,7 @@ The World + Background section outlines the world of your series going beyond th
 
 _The Series Outline is a self contained document of 1-2 pages that overviews character and narrative arcs over the course of the series. Much like a feature-film Treatment it focuses on the major events and the journey of the protagonists._
 
-## SEASONS
+### SEASONS
 
 1. [Season One](/docs/1x00-outline.md) One-paragraph summary of Season One.
 2. [Season Two](/docs/1x00-outline.md) One-paragraph summary of Season Two.
