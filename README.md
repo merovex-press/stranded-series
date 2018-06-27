@@ -35,11 +35,13 @@ Slipstream is a "one-small-fib" science-fiction novella series that mixes elemen
 * [Unwanted Faith](http://tvtropes.org/pmwiki/pmwiki.php/Main/UnwantedFalseFaith) he no longer wants to be worshipped, but a religion has formed.
 * [One Small Fib (4.5)](http://tvtropes.org/pmwiki/pmwiki.php/Mohs/OneBigLie) - FTL travel, not significant to the plot.
 
-## LOGLINE
+## LOGLINE (1-2 sentence)
 
 Forced to crash land, a Slipstream Anthropologist struggles to survive on an alien world that feels strangely similar.
 
-## SYNOPSIS
+## SUMMARY (one-paragraph)
+
+## SYNOPSIS (one-pager)
 <!-- The Synopsis of your series is short document of less than 1 page (4-5 paragraphs) that summarizes the world of the story, the major characters and the central tension. -->
 
 The year is 1907. Kaius Minjen, a Slipstream Anthropologist running from his past, lands a plum appointment to the Migdal Orbital to observe the Migdalians. Anarchists slip in and attack the station, forcing him to abandon and land on the surface.
@@ -50,13 +52,26 @@ The year is 1907. Kaius Minjen, a Slipstream Anthropologist running from his pas
 
 <!-- The Characters section should list all your major characters and in 2-3 paragraphs for each, outline their personal characteristics, wants, needs, obstacles and flaws. It should also clearly indicate the relationships between characters. -->
 
-1. **[Kaius Minjen](/docs/characters/kaius-minjen.md).** ipsum lorem
-2. **name** ipsum lorem.
-3. **name** ipsum lorem.
-4. **name** ipsum lorem.
-5. **name** ipsum lorem.
-6. **name** ipsum lorem.
-7. **name** ipsum lorem.
+1. **[Kaius Minjen](/docs/characters/kaius-minjen.md).** One-paragraph summary
+2. **name** One-paragraph summary.
+3. **name** One-paragraph summary.
+4. **name** One-paragraph summary.
+5. **name** One-paragraph summary.
+6. **name** One-paragraph summary.
+7. **name** One-paragraph summary.
+
+<!-- ten things:
+
+1. Goal / Opposition
+2. Motivation (why goal?)
+3. Backstory
+4. Will to Act
+5. Belief System (point-of-view & attitudes)
+6. Room to Grow
+7. Believability
+8. Characterization tools
+9. I have to care about the character
+10. Supporting cast -->
 
 ### MINOR CHARACTERS
 <!-- The Minor Characters section is a listing of minor characters in the story with a brief sentence on who they are. -->
