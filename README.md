@@ -22,6 +22,19 @@
 
 Slipstream is a "one-small-fib" science-fiction novella series that mixes elements of Steampunk with faster-than-light travel. The average read-time for an episode is 90-120 minutes (21-29,000 words).
 
+### Tropes
+
+Look at the [Mohs Scale of Violence](http://tvtropes.org/pmwiki/pmwiki.php/Main/MohsScaleOfViolenceHardness)
+
+I write in the [Romantic](http://tvtropes.org/pmwiki/pmwiki.php/Main/RomanticismVersusEnlightenment) vein (Romanticist-themed science fiction might portray the future as an unpleasant Crapsack World, with high technology but low social quality, full of depression, dehumanization and alienation (e.g. everything Cyberpunk) with the happy souls being those who escaped to the countryside, if possible)
+
+* [Lost Technology](http://tvtropes.org/pmwiki/pmwiki.php/Main/LostTechnology) - The hero comes from a society that got a leapfrog in technology from the ancients. Results in
+* [Steampunk](http://tvtropes.org/pmwiki/pmwiki.php/Main/Steampunk) and [Steampunk Index](http://tvtropes.org/pmwiki/pmwiki.php/Main/SteampunkIndex)
+* [Insufficiently Advanced Alien](http://tvtropes.org/pmwiki/pmwiki.php/Main/InsufficientlyAdvancedAlien) - Humanity is able to travel, but lacks sufficient technology to do much else.
+* [God Guise](http://tvtropes.org/pmwiki/pmwiki.php/Main/GodGuise) - Hero takes advantage of false god worship due to [This is my Boomstick](http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisIsMyBoomstick). But, by the end of the first season....
+* [Unwanted Faith](http://tvtropes.org/pmwiki/pmwiki.php/Main/UnwantedFalseFaith) he no longer wants to be worshipped, but a religion has formed.
+* [One Small Fib (4.5)](http://tvtropes.org/pmwiki/pmwiki.php/Mohs/OneBigLie) - FTL travel, not significant to the plot.
+
 ## LOGLINE
 
 Forced to crash land, a Slipstream Anthropologist struggles to survive on an alien world that feels strangely similar.
@@ -39,18 +52,7 @@ One-paragraph summary of the setting.
 
 Slipstream is a "one-small-fib" science-fiction series
 
-### Tropes
 
-Look at the [Mohs Scale of Violence](http://tvtropes.org/pmwiki/pmwiki.php/Main/MohsScaleOfViolenceHardness)
-
-I write in the [Romantic](http://tvtropes.org/pmwiki/pmwiki.php/Main/RomanticismVersusEnlightenment) vein (Romanticist-themed science fiction might portray the future as an unpleasant Crapsack World, with high technology but low social quality, full of depression, dehumanization and alienation (e.g. everything Cyberpunk) with the happy souls being those who escaped to the countryside, if possible)
-
-* [Lost Technology](http://tvtropes.org/pmwiki/pmwiki.php/Main/LostTechnology) - The hero comes from a society that got a leapfrog in technology from the ancients. Results in
-* [Steampunk](http://tvtropes.org/pmwiki/pmwiki.php/Main/Steampunk) and [Steampunk Index](http://tvtropes.org/pmwiki/pmwiki.php/Main/SteampunkIndex)
-* [Insufficiently Advanced Alien](http://tvtropes.org/pmwiki/pmwiki.php/Main/InsufficientlyAdvancedAlien) - Humanity is able to travel, but lacks sufficient technology to do much else.
-* [God Guise](http://tvtropes.org/pmwiki/pmwiki.php/Main/GodGuise) - Hero takes advantage of false god worship due to [This is my Boomstick](http://tvtropes.org/pmwiki/pmwiki.php/Main/ThisIsMyBoomstick). But, by the end of the first season....
-* [Unwanted Faith](http://tvtropes.org/pmwiki/pmwiki.php/Main/UnwantedFalseFaith) he no longer wants to be worshipped, but a religion has formed.
-* [One Small Fib (4.5)](http://tvtropes.org/pmwiki/pmwiki.php/Mohs/OneBigLie) - FTL travel, not significant to the plot.
 
 
 ## WORLD + BACKGROUND
