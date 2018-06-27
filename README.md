@@ -51,25 +51,25 @@ The year is 1907. Kaius Minjen, a Slipstream Anthropologist running from his pas
 
 <!-- The Characters section should list all your major characters and in 2-3 paragraphs for each, outline their personal characteristics, wants, needs, obstacles and flaws. It should also clearly indicate the relationships between characters. -->
 
-### [Kaius Minjen](/docs/characters/kaius-minjen.md)
+#### [Kaius Minjen](/docs/characters/kaius-minjen.md)
 One-paragraph summary
 
-### name
+#### name
 One-paragraph summary.
 
-### name
+#### name
 One-paragraph summary.
 
-### name
+#### name
 One-paragraph summary.
 
-### name
+#### name
 One-paragraph summary.
 
-### name
+#### name
 One-paragraph summary.
 
-### name
+#### name
 One-paragraph summary.
 
 
