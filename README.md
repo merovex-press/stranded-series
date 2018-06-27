@@ -7,6 +7,13 @@
 * [SYNOPSIS (one-pager)](#synopsis-one-pager)
 * [CHARACTERS](#characters)
    * [POV CHARACTERS](#pov-characters)
+      - [Kaius Minjen](#kaius-minjen)
+      * [name](#name)
+      * [name](#name-1)
+      * [name](#name-2)
+      * [name](#name-3)
+      * [name](#name-4)
+      * [name](#name-5)
    * [MINOR CHARACTERS](#minor-characters)
 * [MILIEU](#milieu)
    * [SETTING](#setting)
@@ -51,8 +58,11 @@ The year is 1907. Kaius Minjen, a Slipstream Anthropologist running from his pas
 
 <!-- The Characters section should list all your major characters and in 2-3 paragraphs for each, outline their personal characteristics, wants, needs, obstacles and flaws. It should also clearly indicate the relationships between characters. -->
 
-#### [Kaius Minjen](/docs/characters/kaius-minjen.md)
-One-paragraph summary
+* [Kaius Minjen sketch](/docs/characters/kaius-minjen.md)
+
+#### Kaius Minjen
+One-paragraph summary.
+
 
 #### name
 One-paragraph summary.
