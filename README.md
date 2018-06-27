@@ -20,7 +20,7 @@
 
 ## GENRE
 
-90-minute OSF Science Fiction Novella series
+Slipstream is a "one-small-fib" science-fiction novella series that mixes elements of Steampunk with faster-than-light travel. The average read-time for an episode is 90-120 minutes (21-29,000 words).
 
 ## LOGLINE
 
@@ -34,6 +34,10 @@ The year is 1907. Kaius Minjen, a Slipstream Anthropologist running from his pas
 ## SETTING
 
 _Setting details the time, place and period of your series - the Where and When. The length of this document can vary depending on the genre of the series. A SciFi drama for example may need detailed description of the setting where as a suburban drama in the present day may be relatively short._
+
+One-paragraph summary of the setting.
+
+Slipstream is a "one-small-fib" science-fiction series
 
 ### Tropes
 
@@ -51,11 +55,18 @@ I write in the [Romantic](http://tvtropes.org/pmwiki/pmwiki.php/Main/Romanticism
 
 ## WORLD + BACKGROUND
 
-The World + Background section outlines the world of your series going beyond the Where and When to encompass
+The World + Background section outlines the world of your series going beyond the Where and When to encompass the Why - the circumstances, rules and given principles of the world your story plays out in. Consider:
+
+- The Events that have lead to the current ‘situation’
+- The Backstory of the characters
+- Social groupings and hierarchies
+- Character and World Relationships
+- Established Behaviors and Attitudes
+- Rules that govern the Tone of the story (certain types of humor, language, inflections)
 
 ## SERIES OUTLINE
 
-The Series Outline is a self contained document of 1-2 pages that overviews character and narrative arcs over the course of the series. Much like a feature-film Treatment it focuses on the major events and the journey of the protagonists.
+_The Series Outline is a self contained document of 1-2 pages that overviews character and narrative arcs over the course of the series. Much like a feature-film Treatment it focuses on the major events and the journey of the protagonists._
 
 ## CHARACTERS
 
@@ -78,9 +89,7 @@ The Series Outline is a self contained document of 1-2 pages that overviews char
 
 ## KEY LOCATIONS
 
-<!-- Key Locations lays out the central locations in the series, the recurring locations that are important to the characters and the world and the dominant locations where the story will play out.
-
-This section should list the locations and provide a 1-2 paragraph description of each. -->
+_Key Locations lays out the central locations in the series, the recurring locations that are important to the characters and the world and the dominant locations where the story will play out. This section should list the locations and provide a 1-2 paragraph description of each._
 
 * **name** One paragraph summary. Sed dignissim lacinia nunc. Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel, suscipit quis, luctus non, massa. Fusce ac turpis quis ligula lacinia aliquet. Mauris ipsum. Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque volutpat condimentum velit.
 
