@@ -30,3 +30,16 @@ Midpoint sentence.
 Crisis sentence.
 Showdown sentence.
 Realization sentence.
+
+
+## Template
+
+1. **1x01 - [title](docs/episodes/1x01.md).**
+One paragraph summary, linking to the synopsis.
+Backstory sentence.
+Catalyst sentence.
+Big Event sentence.
+Midpoint sentence.
+Crisis sentence.
+Showdown sentence.
+Realization sentence.
