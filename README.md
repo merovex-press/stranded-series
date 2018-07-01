@@ -7,13 +7,6 @@
 * [SYNOPSIS (one-pager)](#synopsis-one-pager)
 * [CHARACTERS](#characters)
    * [POV CHARACTERS](#pov-characters)
-      - [Kaius Minjen](#kaius-minjen)
-      * [name](#name)
-      * [name](#name-1)
-      * [name](#name-2)
-      * [name](#name-3)
-      * [name](#name-4)
-      * [name](#name-5)
    * [MINOR CHARACTERS](#minor-characters)
 * [MILIEU](#milieu)
    * [SETTING](#setting)
@@ -43,14 +36,16 @@ Slipstream is a "one-small-fib" science-fiction novella series that mixes elemen
 
 ## LOGLINE (1-2 sentence)
 
-Forced to crash land, a Slipstream Anthropologist struggles to survive on an alien world that feels strangely similar.
+Crashing on a backward world, a Slipstream Anthropologist struggles to adapt to a strangely similar alien world and earn his way back home.
 
 ## SUMMARY (one-paragraph)
+
+Albert Harred nears the end of a two-year tour as a Slipstream Anthropologist studying a pre-industrial society, when he is forced to crash land after his station is attacked by Anarchists. On surface, he struggles to adapt to an alien society where he increasingly is viewed as a god. This drags him into a cold war between two nations at a time when he hopes to find technology to get him home. He finds the technology and mirrors the approach his own world took when they learned to get to space. The war heats up and he (maybe) escapes and returns home...returning to a world wracked by war and confronted with the risk of his having empowered a more potent threat.
 
 ## SYNOPSIS (one-pager)
 <!-- The Synopsis of your series is short document of less than 1 page (4-5 paragraphs) that summarizes the world of the story, the major characters and the central tension. -->
 
-The year is 1907. Kaius Minjen, a Slipstream Anthropologist running from his past, lands a plum appointment to the Migdal Orbital to observe the Migdalians. Anarchists slip in and attack the station, forcing him to abandon and land on the surface.
+The year is 1907. Albert Harred, a Slipstream Anthropologist running from his past, lands a plum appointment to the Migdal Orbital to observe the Migdalians. Anarchists slip in and attack the station, forcing him to abandon and land on the surface.
 
 ## CHARACTERS
 
@@ -58,9 +53,9 @@ The year is 1907. Kaius Minjen, a Slipstream Anthropologist running from his pas
 
 <!-- The Characters section should list all your major characters and in 2-3 paragraphs for each, outline their personal characteristics, wants, needs, obstacles and flaws. It should also clearly indicate the relationships between characters. -->
 
-* [Kaius Minjen sketch](/docs/characters/kaius-minjen.md)
+* [Albert Harred sketch](/docs/characters/albert-harred.md)
 
-#### Kaius Minjen
+#### Albert Harred
 One-paragraph summary.
 
 
