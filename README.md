@@ -1,4 +1,4 @@
-# Slipstream Series Bible
+# Stranded Series Bible
 
 * [GENRE](#genre)
    * [Key Tropes](#key-tropes)
@@ -18,7 +18,9 @@
 
 ## GENRE
 
-Slipstream is a "one-small-fib" science-fiction novella series that mixes elements of Steampunk with faster-than-light travel and tinged with [Romanticism](http://tvtropes.org/pmwiki/pmwiki.php/Main/RomanticismVersusEnlightenment). The average read-time for an episode is 90-120 minutes (21-29,000 words).
+STRANDED is a "one-small-fib" science-fiction novella series that mixes elements of Steampunk with faster-than-light travel and tinged with [Romanticism](http://tvtropes.org/pmwiki/pmwiki.php/Main/RomanticismVersusEnlightenment). The average read-time for an episode is 90-120 minutes (21-29,000 words).
+
+The one word for this series is regret.
 
 [Romanticist-themed science fiction might portray the future as an unpleasant [Crapsack World](https://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld), with high technology but low social quality, full of depression, dehumanization and alienation (e.g. everything Cyberpunk) with the happy souls being those who escaped to the countryside, if possible]
 
@@ -36,7 +38,7 @@ Slipstream is a "one-small-fib" science-fiction novella series that mixes elemen
 
 ## LOGLINE (1-2 sentence)
 
-Crashing on a backward world, a Slipstream Anthropologist struggles to adapt to a strangely similar alien world and earn his way back home.
+When a slipstream Anthropologist crash-lands on an alien world he was observing, he must struggle to adapt to his new environment and find a way back home.
 
 ## SUMMARY (one-paragraph)
 
@@ -104,7 +106,7 @@ _Setting details the time, place and period of your series - the Where and When.
 
 One-paragraph summary of the setting.
 
-Slipstream is a "one-small-fib" science-fiction series
+Stranded is a "one-small-fib" science-fiction series
 
 ### WORLD + BACKGROUND
 
