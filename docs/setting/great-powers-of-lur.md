@@ -7,6 +7,12 @@
 * Herritar - Ottomans
 * hasiera = Europeans -->
 
+* [Eutanio Empire](#eutanio-empire)
+* [Herritar](#herritar)
+* [Mofricka](#mofricka)
+* [Sakumani Empire](#sakumani-empire)
+* [Tedesko](#tedesko)
+
 ## Eutanio Empire
 
 Eutanio (England) avoids aggression due to its efforts to consolidate its global empire and make sense of the technology discovered in new world Khēmi (Aztec) temples. This is the most mercantile and privatized society. They retained the 13 colonies by embracing equal representation.
