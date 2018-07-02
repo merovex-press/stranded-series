@@ -104,9 +104,13 @@ One-paragraph summary.
 
 _Setting details the time, place and period of your series - the Where and When. The length of this document can vary depending on the genre of the series. A SciFi drama for example may need detailed description of the setting where as a suburban drama in the present day may be relatively short._
 
-One-paragraph summary of the setting.
+The [Eutanio Empire](#) emerged from a series of [Hasierian imperial struggles](#) as a great power due to its industrialization and naval dominance. Fueled by these successes, they embarked in exploration and archeology. Their explorers [discovered alien technology in ancient temples](#), accelerating their technological growth. Other [great powers](#) struggled to catch up by espionage and exploration, with the [Sakumani Empire](#) being the most successful.
 
-Stranded is a "one-small-fib" science-fiction series
+This setting is similar to 19th century Earth and European great powers. As such, this is an era of very-limited democracy, rabid nationalism, and unchecked technological growth tinged with apocalyptic fears. Traditional religion, already in decline after the imperial struggles, was effectively killed by the discoveries; with a new religion based on the alien technology emerging.
+
+Technologically, the imperial struggles transitioned Hasierian from smoothbore weapons to American Civil War technology all based on steam. The Alien technology automated the weapons to modern-era assault weapons, but the infrastructure to support more than coal/steam technology has not been developed; and the nationalist competition checks Eutanian moves to build out that technology. Eutaino has sufficient means to build out its space program, which is a bit of an irony, with launches occurring from the equivalent of Africa.
+
+
 
 ### WORLD + BACKGROUND
 

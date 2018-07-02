@@ -5,6 +5,7 @@ Khēmía
 * 1860 - Slipstream technology theorized
 * 1870 - Archeologists discovered rocket-launching technology in ancient Khēmi temples
 * 1871 - Discover the same technology in Vaŝinĉik temples.
+* 1872 - Odyssey Ltd. formed.
 * 1878 - Slipstreams confirmed
 * 1889 - Other slipstream systems identified
 * 1898 - Orbital in Migdal system started
