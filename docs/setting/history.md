@@ -3,13 +3,14 @@
 ## Break in Earth History
 
 * 1756-1763 - Seven Years War occurs as the 4th intercolonial war between England/France.
-* 1765-1773 - Strain between American colonies and heavily indebted Britain led to a new Parliament that incorporated representation of American colonies. This prevents the American Revolutionary War. A
+* 1765-1773 - Strain between American colonies and heavily indebted Britain led to a new Parliament that incorporated representation of American colonies. This prevents the American Revolutionary War.
+* 1773 - Reform Act of 1773 groups the American colonies into six provinces (Canada, New England, Pennsylvania, Virginia, Carolina, Georgia) each with their own parliament. Each province given limited representation in British Parliament.
 * 1783-1815 - French economy collapses due to Seven Year's War debt and speculation and takes the government with it. The French Revolution is a decade early, ends the same but with American participation in Europe.
 * 1802-1815 - War between France and most of Europe. Ended by British & American deployment of Toltec weaponry
 * 1783-1833 - Anglo-American anti-slavery movement ends slave trade
   - 1807 during a break in the French Troubles
   - 1833 ends slavery in all British holdings by stages & "apprenticeships". Slave owners were compensated. American high-society slave owners were well-compensated, lower-class owners were not, leading to some animosity.
-  - 1876 - Apprenticeships ended
+  - 1846-48 - Apprenticeships ended in American provinces (Virginia, Carolina, Georgia) to increase representation in Parliament, leading to local civil conflicts in each province by the lower class "masters," which was put down by General Scott. Robert Lee
 
 ## Society for Toltec Technology Trove Research Efforts (ST3R) / Society for Alien Research (SAR)
 
@@ -48,6 +49,30 @@ The cannon was quickly replaced by what we would consider modern field artillery
 * 1829 - the [HAO Improved (HAOi) 4.5-inch](https://en.wikipedia.org/wiki/QF_4.5-inch_howitzer) accepted by British military
 * 1830 - HAOi 4.5-inch placed in service.
 
-## This
+## Power (Engines, Electricity & Locomotion)
+
+Engine development was slower as it derived from patent research. Dates below indicate when they were commercially available.
+
+* Oil discovered - 1826, knock 20 years off of evolution of oil
+* Diesel engine - 1828 (as biomass engine)
+* Gasoline engine - 1836, limited use to highly urban environments due to poor infrastructure and lack of access to gas.
+* Diesel locomotive - 1839 - Slow and mechanically inefficient
+* Diesel-magneto / Diesel-electric - 1842
+* Gasoline automobile - 1845, limited utility in favor of biomass trucks.
+* Oil-burning naval ships - 1888
+* Electricity - 1820 - using hydropower. Biomass generators commercially available by 1839
 
 ## Slipstream Technology
+
+Slipstream technology describes the ability to get from Earth to Slipstream and through Slipstream
+* Slipstream travel discovered in computer - 1828
+* 1881 - Society for Slipsteam Research (SSR) established
+* 1828-1870 - Building out the infrastructure
+* 1870 - Earth to Orbit - Reusable spacecraft.
+* 1876 - Orbit to Slipstream
+* 1880 - First successful jump between Earth and another system
+* 1880 - SSR Renamed Odyssey, Ltd.
+* 1889 - Slipstreams all mapped out
+* 1898 - Orbital in Migdal system started
+* 1904 - Migdal Orbital operational
+* 1907 - Migdal Orbital attacked
