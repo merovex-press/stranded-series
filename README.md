@@ -1,6 +1,6 @@
 # Stranded Series Bible
 
-* [GENRE](#genre)
+* [FRANCHISE](#franchise)
    * [Key Tropes](#key-tropes)
 * [LOGLINE (1-2 sentence)](#logline-1-2-sentence)
 * [SUMMARY (one-paragraph)](#summary-one-paragraph)
@@ -16,13 +16,29 @@
 * [KEY LOCATIONS](#key-locations)
 * [LICENSE](#license)
 
-## GENRE
+## FRANCHISE
 
-STRANDED is a "one-small-fib" science-fiction novella series that mixes elements of Steampunk with faster-than-light travel and tinged with [Romanticism](http://tvtropes.org/pmwiki/pmwiki.php/Main/RomanticismVersusEnlightenment). The average read-time for an episode is 90-120 minutes (21-29,000 words).
+STRANDED is a "one-small-fib" science-fiction novella series that mixes elements of Steampunk with faster-than-light travel and tinged with [Romanticism](http://tvtropes.org/pmwiki/pmwiki.php/Main/RomanticismVersusEnlightenment).
+
+[Romanticist-themed science fiction might portray the future as an unpleasant [Crapsack World](https://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld), with high technology but low social quality, full of depression, dehumanization and alienation (e.g. everything Cyberpunk) with the happy souls being those who escaped to the countryside, if possible]
+
+### Character
+
+Short summary of the central character
+
+### Conflict
+
+Short summary of the central conflict
+
+### Theme
+
+What is the philosophical question explored in this series
 
 The one word for this series is regret.
 
-[Romanticist-themed science fiction might portray the future as an unpleasant [Crapsack World](https://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld), with high technology but low social quality, full of depression, dehumanization and alienation (e.g. everything Cyberpunk) with the happy souls being those who escaped to the countryside, if possible]
+### Pattern
+
+The average read-time for an episode in this series is 120 minutes @ 220wpm ± 10% (26,500±2,500 words or 80±8 pages ).
 
 ### Key Tropes
 
