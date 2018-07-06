@@ -1,10 +1,10 @@
 # History
 
-## Break in Earth History
+## Point of Divergence
 
 * 1756-1763 - Seven Years War occurs as the 4th intercolonial war between England/France.
 * 1765-1773 - Strain between American colonies and heavily indebted Britain led to a new Parliament that incorporated representation of American colonies. This prevents the American Revolutionary War.
-* 1773 - Reform Act of 1773 groups the American colonies into six provinces (Canada, New England, Pennsylvania, Virginia, Carolina, Georgia) each with their own parliament. Each province given limited representation in British Parliament.
+* 1773 (get year from the Great Courses lecture) - Reform Act of 1773 groups the American colonies into six provinces (Canada, New England, Pennsylvania, Virginia, Carolina, Georgia) each with their own parliament. Each province given limited representation in British Parliament.
 * 1783-1815 - French economy collapses due to Seven Year's War debt and speculation and takes the government with it. The French Revolution is a decade early, ends the same but with American participation in Europe.
 * 1802-1815 - War between France and most of Europe. Ended by British & American deployment of Toltec weaponry
 * 1783-1833 - Anglo-American anti-slavery movement ends slave trade
