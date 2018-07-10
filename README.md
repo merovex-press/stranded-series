@@ -38,7 +38,11 @@ The one word for this series is regret.
 
 ### Pattern
 
-The average read-time for an episode in this series is 120 minutes @ 220wpm ± 10% (26,500±2,500 words or 80±8 pages ).
+The average read-time for an episode in this series is 120 minutes @ 220wpm ± 10% (26,500±2,500 words or 80±8 pages).
+
+Each episode
+
+Each story will have a typical A/B plot, with a C carrying the coninuing
 
 ### Key Tropes
 
@@ -51,6 +55,7 @@ The average read-time for an episode in this series is 120 minutes @ 220wpm ± 1
 * [Unwanted Faith](http://tvtropes.org/pmwiki/pmwiki.php/Main/UnwantedFalseFaith) he no longer wants to be worshipped, but a religion has formed.
 * [One Small Fib (4.5)](http://tvtropes.org/pmwiki/pmwiki.php/Mohs/OneBigLie) - FTL travel, not significant to the plot.
 * Knight in Sour Armor - The world is filled with idealists who believe in truth and justice and devote their lives to fighting for it. And then the world keeps letting them down. For them, Being Good Sucks. But rather than giving up on their goals, they replace their shiny armor with a full plate of pure cynicism. These characters realize they live in a dark, cruel and brutal world and choose to fight not because they believe they will truly make a difference, but because it's the right thing to do.
+* Fish Out of Water
 
 ## LOGLINE (1-2 sentence)
 
@@ -145,7 +150,7 @@ _The Series Outline is a self contained document of 1-2 pages that overviews cha
 
 ### SEASONS
 
-1. [Season One](/docs/1x00-outline.md) One-paragraph summary of Season One.
+1. [Season One](/docs/1x00-outline.md) Alfred crash lands on the planet and goes through the seven stages of grief via each episode; finally accepting his fate but holding onto a hope that he may be rescued somehow.
 2. [Season Two](/docs/1x00-outline.md) One-paragraph summary of Season Two.
 3. [Season Three](/docs/1x00-outline.md) One-paragraph summary of Season Three.
 4. [Season Four](/docs/1x00-outline.md) One-paragraph summary of Season Four.
