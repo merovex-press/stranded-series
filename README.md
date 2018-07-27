@@ -55,7 +55,7 @@ Each story will have a typical A/B plot, with a C carrying the coninuing
 * [Unwanted Faith](http://tvtropes.org/pmwiki/pmwiki.php/Main/UnwantedFalseFaith) he no longer wants to be worshipped, but a religion has formed.
 * [One Small Fib (4.5)](http://tvtropes.org/pmwiki/pmwiki.php/Mohs/OneBigLie) - FTL travel, not significant to the plot.
 * Knight in Sour Armor - The world is filled with idealists who believe in truth and justice and devote their lives to fighting for it. And then the world keeps letting them down. For them, Being Good Sucks. But rather than giving up on their goals, they replace their shiny armor with a full plate of pure cynicism. These characters realize they live in a dark, cruel and brutal world and choose to fight not because they believe they will truly make a difference, but because it's the right thing to do.
-* Fish Out of Water
+* [Fish Out of Water](https://tvtropes.org/pmwiki/pmwiki.php/Main/FishOutOfWater)
 
 ## LOGLINE (1-2 sentence)
 
@@ -63,7 +63,18 @@ When a slipstream Anthropologist crash-lands on an alien world he was observing,
 
 ## SUMMARY (one-paragraph)
 
-Albert Harred nears the end of a two-year tour as a Slipstream Anthropologist studying a pre-industrial society, when he is forced to crash land after his station is attacked by Anarchists. On surface, he struggles to adapt to an alien society where he increasingly is viewed as a god. This drags him into a cold war between two nations at a time when he hopes to find technology to get him home. He finds the technology and mirrors the approach his own world took when they learned to get to space. The war heats up and he (maybe) escapes and returns home...returning to a world wracked by war and confronted with the risk of his having empowered a more potent threat.
+Albert Harred nears the end of a two-year tour as a Slipstream Anthropologist studying a pre-industrial society, when he is forced to crash land after his station is attacked by Anarchists.
+
+<!-- On surface, he struggles to adapt to an alien society where he increasingly is viewed as a god. This drags him into a cold war between two nations at a time when he hopes to find technology to get him home. He finds the technology and mirrors the approach his own world took when they learned to get to space. The war heats up and he (maybe) escapes and returns home...returning to a world wracked by war and confronted with the risk of his having empowered a more potent threat. -->
+
+Albert Harred nears the end of a two-year tour as a Slipstream Anthropologist studying a pre-industrial society, when he is forced to crash land after his station is attacked. He struggles to adapt in the alien society. The striking similarities convinces him that they are connected. He quests a pyramid that he believes has the technology to lead him home.
+
+Guma (Lord) Fadian Castrel struggles with other warlords (Counsel of Advisors to the Emperor). To survive, he must become Kerdguma (Supreme Counselor / Guardian). While a distraction, Harred's arrival in Castrel's province offers Castrel a chance to technologically leapfrog his rivals. He humors Harred's quest to return while subsequently undermining him--he fears Harred's return home would ultimately destroy Castrel's homeworld. (Similar to [William Adams](https://en.wikipedia.org/wiki/William_Adams_%28sailor%29))
+
+* Guma (lord)
+* Kerdguma (great lord) - Counselor
+* Guma Fadian (shepherd) Castrel (bird-of-prey)
+* Fifealde - butterfly (female)
 
 ## SYNOPSIS (one-pager)
 <!-- The Synopsis of your series is short document of less than 1 page (4-5 paragraphs) that summarizes the world of the story, the major characters and the central tension. -->
@@ -165,3 +176,5 @@ _Key Locations lays out the central locations in the series, the recurring locat
 ## LICENSE
 
 Copyright 2018 - Benjamin C. Wilson - All Rights Reserved
+
+Goal: Inspire the next generation of Christian's to engage in secular literature for God's glory.
