@@ -26,6 +26,8 @@ STRANDED is a "one-small-fib" science-fiction novella series that mixes elements
 
 Short summary of the central character
 
+man raised in a famous family feels a need to prove himself. He was given a lot of free-passes because of his family. This garnered resentment of someone he thought was his friend. He gets the girl of his dreams because of his notoriety, but pushes away from her to prove himself. 
+
 ### Conflict
 
 Short summary of the central conflict
@@ -43,6 +45,8 @@ The average read-time for an episode in this series is 120 minutes @ 220wpm ± 1
 Each episode
 
 Each story will have a typical A/B plot, with a C carrying the coninuing
+
+* Development Editing = $550, Copy/proofreading $550. $1100 editing total.
 
 ### Key Tropes
 
