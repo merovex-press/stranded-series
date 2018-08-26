@@ -22,23 +22,52 @@ STRANDED is a "one-small-fib" science-fiction novella series that mixes elements
 
 [Romanticist-themed science fiction might portray the future as an unpleasant [Crapsack World](https://tvtropes.org/pmwiki/pmwiki.php/Main/CrapsackWorld), with high technology but low social quality, full of depression, dehumanization and alienation (e.g. everything Cyberpunk) with the happy souls being those who escaped to the countryside, if possible]
 
-### Character
+* Concept
+* Theme & Central Conflict
+* Central Character
+* Supporting Characters
+* Setting
+  - World
+  - How people interact
+  - Dialog
+  - Story Style
 
-Short summary of the central character
 
-man raised in a famous family feels a need to prove himself. He was given a lot of free-passes because of his family. This garnered resentment of someone he thought was his friend. He gets the girl of his dreams because of his notoriety, but pushes away from her to prove himself. 
+### Concept
 
-### Conflict
-
-Short summary of the central conflict
-
-### Theme
+### Central Conflict / Theme
 
 What is the philosophical question explored in this series
 
 The one word for this series is regret.
 
-### Pattern
+Short summary of the central conflict. Central conflict is the necessity of a choice between two equal but irreconcilable ideas. It cannot be resolved.
+
+Two levels of conflict in every show. One is superficial, the other speaks to the series theme
+
+### Characters
+
+> The theme determines the central conflict, and that central conflict must be embodied in the lead characters.
+
+**Central Character**
+
+Short summary of the central character.
+
+* Make sure you understand why he does htings.
+* Make sure the central character embodies the theme.
+
+man raised in a famous family feels a need to prove himself. He was given a lot of free-passes because of his family. This garnered resentment of someone he thought was his friend. He gets the girl of his dreams because of his notoriety, but pushes away from her to prove himself.
+
+### World
+
+#### How people interact
+
+
+### Story Style
+
+#### Dialog
+
+#### Pattern
 
 The average read-time for an episode in this series is 120 minutes @ 220wpm ± 10% (26,500±2,500 words or 80±8 pages).
 
@@ -48,7 +77,7 @@ Each story will have a typical A/B plot, with a C carrying the coninuing
 
 * Development Editing = $550, Copy/proofreading $550. $1100 editing total.
 
-### Key Tropes
+#### Key Tropes
 
 <!-- Look at the [Mohs Scale of Violence](http://tvtropes.org/pmwiki/pmwiki.php/Main/MohsScaleOfViolenceHardness) -->
 
