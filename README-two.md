@@ -1,11 +1,7 @@
 # Stranded
 
-<!-- contents -->
-Table of Contents
-=================
-
+<!--ts-->
    * [Stranded](#stranded)
-   * [Table of Contents](#table-of-contents)
       * [Concept](#concept)
          * [Logline](#logline)
          * [Summary](#summary)
@@ -20,7 +16,10 @@ Table of Contents
          * [Dialog](#dialog)
          * [Format](#format)
       * [Series Outline](#series-outline)
-<!-- /contents -->
+
+<!-- Added by: merovex, at:  -->
+
+<!--te-->
 
 ## Concept
 

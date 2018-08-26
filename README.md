@@ -1,9 +1,6 @@
 # Stranded Series Bible
 
-<!-- contents -->
-Table of Contents
-=================
-
+<!--ts-->
    * [Stranded Series Bible](#stranded-series-bible)
       * [FRANCHISE](#franchise)
          * [Concept](#concept)
@@ -35,7 +32,10 @@ Table of Contents
          * [SEASONS](#seasons)
       * [KEY LOCATIONS](#key-locations)
       * [LICENSE](#license)
-<!-- /contents -->
+
+<!-- Added by: merovex, at:  -->
+
+<!--te-->
 
 ## FRANCHISE
 
