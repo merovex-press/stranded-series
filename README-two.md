@@ -1,12 +1,15 @@
 # Stranded
+
+<!-- contents -->
 Table of Contents
 =================
 
    * [Stranded](#stranded)
+   * [Table of Contents](#table-of-contents)
       * [Concept](#concept)
          * [Logline](#logline)
          * [Summary](#summary)
-      * [Theme &amp; Central Conflict](#theme--central-conflict)
+      * [Theme](#theme)
       * [Characters](#characters)
          * [Central Character](#central-character)
          * [Supporting Characters](#supporting-characters)
@@ -15,9 +18,9 @@ Table of Contents
       * [Style](#style)
          * [How people interact](#how-people-interact)
          * [Dialog](#dialog)
-         * [Story Style](#story-style)
+         * [Format](#format)
       * [Series Outline](#series-outline)
-   * [Table of Contents](#table-of-contents)
+<!-- /contents -->
 
 ## Concept
 
@@ -25,7 +28,7 @@ Table of Contents
 
 ### Summary
 
-## Theme & Central Conflict
+## Theme
 
 ## Characters
 
@@ -43,6 +46,6 @@ Table of Contents
 
 ### Dialog
 
-### Story Style
+### Format
 
 ## Series Outline

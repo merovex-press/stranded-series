@@ -1,20 +1,41 @@
 # Stranded Series Bible
 
-* [FRANCHISE](#franchise)
-   * [Key Tropes](#key-tropes)
-* [LOGLINE (1-2 sentence)](#logline-1-2-sentence)
-* [SUMMARY (one-paragraph)](#summary-one-paragraph)
-* [SYNOPSIS (one-pager)](#synopsis-one-pager)
-* [CHARACTERS](#characters)
-   * [POV CHARACTERS](#pov-characters)
-   * [MINOR CHARACTERS](#minor-characters)
-* [MILIEU](#milieu)
-   * [SETTING](#setting)
-   * [WORLD   BACKGROUND](#world--background)
-* [SERIES OUTLINE](#series-outline)
-   * [SEASONS](#seasons)
-* [KEY LOCATIONS](#key-locations)
-* [LICENSE](#license)
+<!-- contents -->
+Table of Contents
+=================
+
+   * [Stranded Series Bible](#stranded-series-bible)
+      * [FRANCHISE](#franchise)
+         * [Concept](#concept)
+         * [Central Conflict / Theme](#central-conflict--theme)
+         * [Characters](#characters)
+         * [World](#world)
+            * [How people interact](#how-people-interact)
+         * [Story Style](#story-style)
+            * [Dialog](#dialog)
+            * [Pattern](#pattern)
+            * [Key Tropes](#key-tropes)
+      * [LOGLINE (1-2 sentence)](#logline-1-2-sentence)
+      * [SUMMARY (one-paragraph)](#summary-one-paragraph)
+      * [SYNOPSIS (one-pager)](#synopsis-one-pager)
+      * [CHARACTERS](#characters-1)
+         * [POV CHARACTERS](#pov-characters)
+            * [Albert Harred](#albert-harred)
+            * [name](#name)
+            * [name](#name-1)
+            * [name](#name-2)
+            * [name](#name-3)
+            * [name](#name-4)
+            * [name](#name-5)
+         * [MINOR CHARACTERS](#minor-characters)
+      * [MILIEU](#milieu)
+         * [SETTING](#setting)
+         * [WORLD   BACKGROUND](#world--background)
+      * [SERIES OUTLINE](#series-outline)
+         * [SEASONS](#seasons)
+      * [KEY LOCATIONS](#key-locations)
+      * [LICENSE](#license)
+<!-- /contents -->
 
 ## FRANCHISE
 
