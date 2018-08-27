@@ -8,12 +8,15 @@
       * [Theme](#theme)
       * [Characters](#characters)
       * [Setting](#setting)
-      * [Style](#style)
+      * [Create a Mood Board](#create-a-mood-board)
+      * [Style / Tone](#style--tone)
          * [How people interact](#how-people-interact)
          * [Dialog](#dialog)
          * [Format](#format)
+      * [Pilot](#pilot)
       * [Series Outline](#series-outline)
          * [Season One](#season-one)
+      * [Future Seasons](#future-seasons)
       * [LICENSE](#license)
 
 <!-- Added by: merovex, at:  -->
@@ -67,8 +70,7 @@ Duty. Honor. Country.
 <!-- Describe you main protagonist and other key characters in the series. Write less about their background and more about their current circumstances and shared conflict. A short paragraph for each is ideal. Clarify how they view their world, and how they relate to others. Create irony with their behavior. Find the flaw in a hero, and a redeeming quality in an antagonist.  -->
 
 * **Central Character** - This is where we’re really going to get to know your main character. Even if this is an ensemble, dive deep into at least one principle character. Attach some images of a popular star who fits the type. An actor you think is both interesting to executives, but who’s personality and type conveys the character you have in mind. Consider images that maybe show wardrobe design. This is fun, think of it like casting your project. Then go into detail on who this person is. Include a few important defining moments from their backstory. What brings them to the story the pilot will tell. What will happen to them? What inner conflict will they struggle with? What positive qualities make them great? What flaws might be their downfall.
-
-
+* **Antagonist**  An antagonist could be the source of the conflict our main character will need to face. A broad villain type works in certain types of action adventure dramas. It could also be someone who seems good on the outside but is manipulating situations. Many popular shows play with the idea of who the villains and heroes are by blurring the lines, and upending expectations. Throw in some specifics about this character and his or her back story. In what ways will he challenge the lead? How will he help him to grow? Might they work together at some point? Will they ever come into direct conflict?
 
 * Supporting Characters
 
@@ -76,7 +78,24 @@ Duty. Honor. Country.
 
 * World
 
-## Style
+What type of music is popular in this universe you created? Or fashion? What’s happening in the background of your key locations?
+What are the politics of the police force this show centers on? Any pertinent history?
+Include any and all specifics about your world that you absolutely love and help convey the depth of your knowledge of your universe. Go as deep as you like as long as it feels somehow pertinent to the stories you will be telling.
+Paint a picture of the world we are going to visit each week in a way that makes us curious to know more about it, and to keep coming back.
+
+## Create a Mood Board
+
+ncluding something like a Moodboard in your Show Bible can allow you to go even further when defining the tone of your project. Give us a look at the world, on an even broader canvas. Think of it as a chance to fully create the world your show takes place in. With no budget. 
+
+## Style / Tone
+
+A hand-held ‘gritty’ camera aesthetic to compliment the dramatic and modern sci-fi production design. Visual components from District 9, or Dredd, as well as from Blade Runner 2049. Sci-fi cityscapes done as old-school matte paintings lends a certain nostalgia to the texture, but also a cool unique look audiences aren’t as used to today. Shy away from CG and look for practical effects, creature masks, and animatronics. A more “lived in” feel.
+
+The tone section should include a visual style you wish to emulate or emphasize. Reference projects and styles you find inspiring.
+Discuss any rules that you think should govern the tone of this series to make it unique: “Everything will be handheld to give the show a raw, lived in feeling, despite the glossy sci-fi production design.”
+Create juxtapositions between your concept and your “look” that make your show dynamic.
+What type of score will you use? Somber? Electronic? Does the show have a generally negative outlook? Positive? How should that manifest in each plot? These are instructions for future writers as well as executives.
+
 
 ### How people interact
 
@@ -84,14 +103,49 @@ Duty. Honor. Country.
 
 ### Format
 
+## Pilot
+
+Teaser- 2-3 pages sometimes called the “cold open”. Show us a character, often the main character, and tease some sort of conflict. Try ending on a cliffhanger. Ask the questions the episode will attempt to answer.
+
+Act one - Give us a bit more on the main characters for this episode. If the teaser was a crime, then act one is the crime scene investigation. Ramp up the tension through the act and bring us to another cliffhanger.
+
+Act two - Similar to the second act in a movie, this is the act where the character will be to struggle with the conflict head on. This should feel like an uphill battle, but with emerging hope. At the end of the act begin to flip expectations.
+
+Act three - Things have derailed and we’re in a low point for our character. Joseph Campbell calls this “the belly of the beast”. Our character is defeated, and trapped. But our audience will stay tuned in to see if there is any hope of survival, or what fate the character will suffer.
+
+Act four - Against all odds, our character will prevail. What did he/she learn from what happened in acts one and two? What mistakes were made? What lesson has become available to them? What inner resolve have the drawn from? They apply this to the conflict at hand and resolve it.
+
+Act five- Often this is a wrap up. Provide some additional closure, and perhaps tease out where the story will go next- in future episodes. What future conflict is still to come? How was today’s “win” just one battle in what looks more like it may be a war?
+
+
 ## Series Outline
 
 <!-- Write a list of 8 to 12 episode descriptions, similar to a Logline for each, so we quickly understand the content of each proposed episode, and can see an arc of story over the course of a season. -->
 
 ### Season One
 
+One-sentence logline of the A-story. One sentence logline of the B-Story. A-story is always the episode problem. B-story is always the central conflict (duty, honor, country - Loyalty).
 
-One paragraph
+* **EPISODE 1: “DISCOVERY”** Gleason investigates a violent murder in on of New Tyrelle’s poorer districts. His son Max struggles to make friends and can’t get adjusted to their new life.
+
+* **EPISODE 2: “THE KEY”** Gordon asks Gleason to personally attend to a potentially criminal concern he has over a key employee. ALISON makes a disturbing discovery that a recent work injury was no accident.
+
+* **EPISODE 3: “DEJA VU”** Gleason and Lance are caught in a firefight, Gleason suffers severe injuries. Lance has to choose between what’s best for his family and his own moral code.
+
+* **EPISODE 4: “LOREM IPSUM”** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum.
+
+* **EPISODE 5: “LOREM IPSUM”** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum.
+
+* **EPISODE 6: “LOREM IPSUM”** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum.
+
+## Future Seasons
+
+* **SEASON 1** The first season ends with Gleason learning that his partner Lance has been covering up for the criminal syndicate.
+
+* **SEASON 2** The second season focuses on Gleason trying to force Lance to do the right thing, but ultimately having to confront and arrest him. Meanwhile Gleason and ALISON become close. At the end of the season Max is kidnapped.
+
+* **SEASON 3** The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands.
+
 
 ## LICENSE
 
