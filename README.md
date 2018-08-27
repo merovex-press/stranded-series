@@ -22,6 +22,12 @@
 
 ## Concept
 
+* Coming two to three shows to form your “show cross”. Try taking one project considered a “classic”, one you draw your own inspiration from, and then one current hit.
+
+1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home.
+2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity
+3. ...
+
 ### Logline
 
 A homesick slipstream scientist watches an alien society from space. When his orbital is attacked, he is forced to abandon ship and finds himself stranded on the planet's surface.
@@ -60,7 +66,10 @@ Duty. Honor. Country.
 
 <!-- Describe you main protagonist and other key characters in the series. Write less about their background and more about their current circumstances and shared conflict. A short paragraph for each is ideal. Clarify how they view their world, and how they relate to others. Create irony with their behavior. Find the flaw in a hero, and a redeeming quality in an antagonist.  -->
 
-* Central Character
+* **Central Character** - This is where we’re really going to get to know your main character. Even if this is an ensemble, dive deep into at least one principle character. Attach some images of a popular star who fits the type. An actor you think is both interesting to executives, but who’s personality and type conveys the character you have in mind. Consider images that maybe show wardrobe design. This is fun, think of it like casting your project. Then go into detail on who this person is. Include a few important defining moments from their backstory. What brings them to the story the pilot will tell. What will happen to them? What inner conflict will they struggle with? What positive qualities make them great? What flaws might be their downfall.
+
+
+
 * Supporting Characters
 
 ## Setting
