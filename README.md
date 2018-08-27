@@ -38,19 +38,19 @@ In the 18th century, humanity discovered advanced alien technology in the Toltec
 
 He awakes hostage on an alien world. He uses his knowledge of advanced technology to survive. He tries desperately to develop the means to return home while trying to maneuver in the real war on the alien planet. But, he must keep the alien humans from mastering the technology and awaking the real threat to his homeworld.
 
-**Alien ruler** wants to dominate his wee continent. He paints himself as the victim and tries to seduce Albert (whom he calls "Herbert", which is a play on words) to support him with newfangled weapons. He wants a doomsday weapon. He is "Country."
+**Alien ruler - Country** wants to dominate his wee continent. He paints himself as the victim and tries to seduce Albert (whom he calls "Herbert", which is a play on words) to support him with newfangled weapons. He wants a doomsday weapon. He is "Country."
 
-**Alien scientist** works for AR. He's assigned to help with the doomsday weapon and steal ideas from Albert. His fanatical dedication to AR is slowly eroded by his interaction with Albert. He decides (or pretends to) help Albert get home. He is "Duty."
+**Alien scientist - Duty** works for AR. He's assigned to help with the doomsday weapon and steal ideas from Albert. His fanatical dedication to AR is slowly eroded by his interaction with Albert. He decides (or pretends to) help Albert get home. He is "Duty."
 
-**Alien princess** is AR's daughter. She falls in love with Albert and wants him to fall in love with her. She is "Honor."
+**Alien princess - Honor** is AR's daughter. She falls in love with Albert and wants him to fall in love with her. She is "Honor."
 
 Contrast this with Albert's homeworld:
 
-**Albert's Father** wants to keep his domination of industry. When his son is reported missing, he is split between serving his company and saving his son who is probably dead. "I have another."
+**Albert's Father - Country** wants to keep his domination of industry. When his son is reported missing, he is split between serving his company and saving his son who is probably dead. "I have another."
 
-**Albert's best Friend** was with him when they were attacked, and helped Albert escape. We learn early on this was a ruse to get rid of Albert so that his friend could go after the widow...
+**Albert's best Friend - Duty** was with him when they were attacked, and helped Albert escape. We learn early on this was a ruse to get rid of Albert so that his friend could go after the widow...
 
-**Albert's wife & Family** she is heartbroken when he left, and mourns when she finds him reported missing. She is suspicious of the best friend, especially after he clearly makes advances to him. She is the steel that pushes Father to do something, and develops to be a force to be reckoned with.
+**Albert's wife & Family - Honor** she is heartbroken when he left, and mourns when she finds him reported missing. She is suspicious of the best friend, especially after he clearly makes advances to him. She is the steel that pushes Father to do something, and develops to be a force to be reckoned with.
 
 ## Theme
 
