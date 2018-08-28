@@ -25,8 +25,8 @@
 
 ## Concept
 
-* Coming two to three shows to form your “show cross”. Try taking one project considered a “classic”, one you draw your own inspiration from, and then one current hit.
-
+**Show Cross**
+<!-- Coming two to three shows to form your “show cross”. Try taking one project considered a “classic”, one you draw your own inspiration from, and then one current hit. -->
 1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home.
 2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity
 3. ...
@@ -85,7 +85,7 @@ Paint a picture of the world we are going to visit each week in a way that makes
 
 ## Create a Mood Board
 
-ncluding something like a Moodboard in your Show Bible can allow you to go even further when defining the tone of your project. Give us a look at the world, on an even broader canvas. Think of it as a chance to fully create the world your show takes place in. With no budget. 
+ncluding something like a Moodboard in your Show Bible can allow you to go even further when defining the tone of your project. Give us a look at the world, on an even broader canvas. Think of it as a chance to fully create the world your show takes place in. With no budget.
 
 ## Style / Tone
 
