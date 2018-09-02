@@ -138,9 +138,9 @@ One-sentence logline of the A-story. One sentence logline of the B-Story. A-stor
 
 ## Future Seasons
 
-* **SEASON 1** The first season ends with Gleason learning that his partner Lance has been covering up for the criminal syndicate.
+* **SEASON 1** The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers.
 
-* **SEASON 2** The second season focuses on Gleason trying to force Lance to do the right thing, but ultimately having to confront and arrest him. Meanwhile Gleason and ALISON become close. At the end of the season Max is kidnapped.
+* **SEASON 2** The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile...
 
 * **SEASON 3** The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands.
 
@@ -149,4 +149,4 @@ One-sentence logline of the A-story. One sentence logline of the B-Story. A-stor
 
 Copyright 2018 - Benjamin C. Wilson - All Rights Reserved
 
-Goal: Inspire the next generation of Christian's to engage in secular literature for God's glory.
+Goal: Inspire the next generation of Christians to engage in secular literature for God's glory.
