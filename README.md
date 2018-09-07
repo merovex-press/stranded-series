@@ -101,12 +101,13 @@ What type of score will you use? Somber? Electronic? Does the show have a genera
 
 * Each season comprises eight episodes.
 * Each episode is 26,500±2,500 words or 80±8 pages in length, split into 8 segments.
+* Write the entire first season, then drop the first four as single novellas and one bundle. Then drop the next novel every six weeks, which buys you six months.
 
 <!-- The average read-time for an episode in this series is 120 minutes @ 220wpm ± 10% (26,500±2,500 words or 80±8 pages). -->
 
 ## Pilot
 
-Teaser- 2-3 pages sometimes called the “cold open”. Show us a character, often the main character, and tease some sort of conflict. Try ending on a cliffhanger. Ask the questions the episode will attempt to answer.
+Teaser - 2-3 pages sometimes called the “cold open”. Show us a character, often the main character, and tease some sort of conflict. Try ending on a cliffhanger. Ask the questions the episode will attempt to answer.
 
 Act one - Give us a bit more on the main characters for this episode. If the teaser was a crime, then act one is the crime scene investigation. Ramp up the tension through the act and bring us to another cliffhanger.
 
@@ -126,6 +127,8 @@ Write a list of 8 episode descriptions, similar to a Logline for each, so we qui
 ### Season One
 
 One-sentence logline of the A-story. One sentence logline of the B-Story. A-story is always the episode problem. B-story is always the central conflict (duty, honor, country - Loyalty).
+
+In Jack Ryan, the B-Story was about his struggle between being a Boy Scout and delivering on mission. By the end of the first season, Ryan did the mission thing, which was shoot the target with disregard of the crowd.
 
 * **EPISODE 1: “DISCOVERY”** Gleason investigates a violent murder in on of New Tyrelle’s poorer districts. His son Max struggles to make friends and can’t get adjusted to their new life.
 
