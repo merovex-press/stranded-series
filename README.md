@@ -76,18 +76,16 @@ Contrast this with Albert's homeworld:
 
 * World
 
-What type of music is popular in this universe you created? Or fashion? What’s happening in the background of your key locations?
-What are the politics of the police force this show centers on? Any pertinent history?
-Include any and all specifics about your world that you absolutely love and help convey the depth of your knowledge of your universe. Go as deep as you like as long as it feels somehow pertinent to the stories you will be telling.
-Paint a picture of the world we are going to visit each week in a way that makes us curious to know more about it, and to keep coming back.
+* What type of music is popular in this universe you created? Or fashion? What’s happening in the background of your key locations?
+* What are the politics of the police force this show centers on? Any pertinent history?
+* Include any and all specifics about your world that you absolutely love and help convey the depth of your knowledge of your universe. Go as deep as you like as long as it feels somehow pertinent to the stories you will be telling.
+* Paint a picture of the world we are going to visit each week in a way that makes us curious to know more about it, and to keep coming back.
 
 ## Create a Mood Board
 
-ncluding something like a Moodboard in your Show Bible can allow you to go even further when defining the tone of your project. Give us a look at the world, on an even broader canvas. Think of it as a chance to fully create the world your show takes place in. With no budget.
+Including something like a Moodboard in your Show Bible can allow you to go even further when defining the tone of your project. Give us a look at the world, on an even broader canvas. Think of it as a chance to fully create the world your show takes place in. With no budget.
 
 ## Style / Tone
-
-A hand-held ‘gritty’ camera aesthetic to compliment the dramatic and modern sci-fi production design. Visual components from District 9, or Dredd, as well as from Blade Runner 2049. Sci-fi cityscapes done as old-school matte paintings lends a certain nostalgia to the texture, but also a cool unique look audiences aren’t as used to today. Shy away from CG and look for practical effects, creature masks, and animatronics. A more “lived in” feel.
 
 The tone section should include a visual style you wish to emulate or emphasize. Reference projects and styles you find inspiring.
 Discuss any rules that you think should govern the tone of this series to make it unique: “Everything will be handheld to give the show a raw, lived in feeling, despite the glossy sci-fi production design.”
@@ -100,6 +98,11 @@ What type of score will you use? Somber? Electronic? Does the show have a genera
 ### Dialog
 
 ### Format
+
+* Each season comprises eight episodes.
+* Each episode is 26,500±2,500 words or 80±8 pages in length, split into 8 segments.
+
+<!-- The average read-time for an episode in this series is 120 minutes @ 220wpm ± 10% (26,500±2,500 words or 80±8 pages). -->
 
 ## Pilot
 
@@ -118,7 +121,7 @@ Act five- Often this is a wrap up. Provide some additional closure, and perhaps 
 
 ## Series Outline
 
-<!-- Write a list of 8 to 12 episode descriptions, similar to a Logline for each, so we quickly understand the content of each proposed episode, and can see an arc of story over the course of a season. -->
+Write a list of 8 episode descriptions, similar to a Logline for each, so we quickly understand the content of each proposed episode, and can see an arc of story over the course of a season.
 
 ### Season One
 
@@ -136,6 +139,10 @@ One-sentence logline of the A-story. One sentence logline of the B-Story. A-stor
 
 * **EPISODE 6: “LOREM IPSUM”** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum.
 
+* **EPISODE 8: “LOREM IPSUM”** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum.
+
+* **EPISODE 8: “LOREM IPSUM”** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum.
+
 ## Future Seasons
 
 * **SEASON 1** The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers.
@@ -144,6 +151,9 @@ One-sentence logline of the A-story. One sentence logline of the B-Story. A-stor
 
 * **SEASON 3** The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands.
 
+## BUSINESS PLAN
+
+* [Artist?](https://jestockart.com/contact/)
 
 ## LICENSE
 
