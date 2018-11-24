@@ -125,8 +125,8 @@ a 1-2 page that gives an overview of the characters, major series arcs.
 
 _a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline._
 
-* Season One
-*
+### Season One
+
 | # | Title | Tagline |
 | -- | -- | -- |
 | [01x01](/docs/episodes/0x01-Crash.md) | Pilot | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
