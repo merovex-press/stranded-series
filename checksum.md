@@ -135,11 +135,11 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 
 ## Future Seasons
 
-| Season| Synopsis |
+| #| Synopsis |
 | -- | -- |
-| **SEASON 1** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
-| **SEASON 2** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
-| **SEASON 3** | The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands. |
+| **1** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
+| **2** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
+| **3** | The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands. |
 
 ## Glossary
 
