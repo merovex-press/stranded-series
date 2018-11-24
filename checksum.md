@@ -13,7 +13,8 @@ Table of Contents
       * [Conflict (What)](#conflict-what)
       * [Theme (Why)](#theme-why)
       * [Story Pattern (How)](#story-pattern-how)
-   * [Synopsis - a one-page (4-5 paragraph) summary of the world, major characters and central tension.](#synopsis---a-one-page-4-5-paragraph-summary-of-the-world-major-characters-and-central-tension)
+   * [Synopsis](#synopsis)
+   * [Setting (Where &amp; When)](#setting-where--when)
    * [Characters](#characters)
       * [Minor Characters](#minor-characters)
    * [Key Locations](#key-locations)
@@ -52,10 +53,15 @@ A brief moral argument that is the series organizing principle, stated as a ques
 
 The basic flow of each episode. [Breaking Bad: “Walt has a problem. His solution works, but brings him into conflict with people more evil than himself. To solve that conflict, he must become more evil than they.”] Rabkin, William. Writing the Pilot: Creating the Series (p. 84). moon & sun & whiskey inc.. Kindle Edition.
 
-## Synopsis - a one-page (4-5 paragraph) summary of the world, major characters and central tension.
+## Synopsis
+
+a one-page (4-5 paragraph) summary of the world, major characters and central tension.
 
 
-* Setting (Where & When) - Setting details (where & when) that backdrop the series. This is lengthy for Science Fiction, but shorter for a suburban housewife drama setting.
+## Setting (Where & When)
+
+Setting details (where & when) that backdrop the series. This is lengthy for Science Fiction, but shorter for a suburban housewife drama setting.
+
 ## Characters
 
 This section comprises all your major characters and in 2-3 paragraphs for each, outline their personal characteristics, wants, needs, obstacles and flaws. It should also clearly indicate the relationships between characters.
