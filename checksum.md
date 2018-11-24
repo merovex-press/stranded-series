@@ -64,6 +64,7 @@ Stranded is the story of a man who took his family and homeland for granted. -->
 | **Character** | Stranded is the story of a man who took his family & homeland for granted. |
 | **Conflict**  | His career focus neglected his family, and he's now isolated on an alien planet.  |
 | **Theme**     | Stranded asks whether one can glorify God while focusing on things of this world. |
+| **Pattern**   | Alfred has a problem. His solution works but increases the friction between him and his hosts. To solve that conflict...  |
 
 <!-- ### Conflict (What)
 
@@ -83,9 +84,9 @@ A brief summary of the central conflict. [Breaking Bad: "He’s failed repeatedl
 2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity
 3. ...
 
-### Story Pattern (How)
+<!-- ### Story Pattern (How)
 
-The basic flow of each episode. [Breaking Bad: "Walt has a problem. His solution works, but brings him into conflict with people more evil than himself. To solve that conflict, he must become more evil than they."] <cite>Rabkin, William. Writing the Pilot: Creating the Series (p. 84). moon & sun & whiskey inc.. Kindle Edition.</cite>
+The basic flow of each episode. [Breaking Bad: "Walt has a problem. His solution works, but brings him into conflict with people more evil than himself. To solve that conflict, he must become more evil than they."] <cite>Rabkin, William. Writing the Pilot: Creating the Series (p. 84). moon & sun & whiskey inc.. Kindle Edition.</cite> -->
 
 #### Create a Mood Board
 
