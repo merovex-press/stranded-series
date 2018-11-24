@@ -65,9 +65,7 @@ Contrast this with Albert's homeworld:
 
 **Albert's Father - Country** wants to keep his domination of industry. When his son is reported missing, he is split between serving his company and saving his son who is probably dead. "I have another."
 
-**Albert's "best" Friend - Duty** was with him when they were attacked, and helped Albert escape. We learn early on this was a ruse to get rid of Albert so that his friend could go after the widow...
-
-**Albert's true best Friend - Duty** with him before being sent home. He is the action between the Father & Wife...while the Father comes to want his son home, he can't do the work.
+**Albert's best Friend - Duty** was with him when they were attacked, and helped Albert escape. We learn early on this was a ruse to get rid of Albert so that his friend could go after the widow...
 
 **Albert's wife & Family - Honor** she is heartbroken when he left, and mourns when she finds him reported missing. She is suspicious of the best friend, especially after he clearly makes advances to him. She is the steel that pushes Father to do something, and develops to be a force to be reckoned with.
 
@@ -78,12 +76,10 @@ Contrast this with Albert's homeworld:
 
 * World
 
-This is an alt-history where "alien" technology was discovered in the 18th Century. This kept America and Britain unified, led to significant achievements technologically, and questions about the order of things.
-
-<!-- * What type of music is popular in this universe you created? Or fashion? What’s happening in the background of your key locations?
+* What type of music is popular in this universe you created? Or fashion? What’s happening in the background of your key locations?
 * What are the politics of the police force this show centers on? Any pertinent history?
 * Include any and all specifics about your world that you absolutely love and help convey the depth of your knowledge of your universe. Go as deep as you like as long as it feels somehow pertinent to the stories you will be telling.
-* Paint a picture of the world we are going to visit each week in a way that makes us curious to know more about it, and to keep coming back. -->
+* Paint a picture of the world we are going to visit each week in a way that makes us curious to know more about it, and to keep coming back.
 
 ## Create a Mood Board
 
@@ -92,11 +88,10 @@ Including something like a Moodboard in your Show Bible can allow you to go even
 ## Style / Tone
 
 The tone section should include a visual style you wish to emulate or emphasize. Reference projects and styles you find inspiring.
-
 Discuss any rules that you think should govern the tone of this series to make it unique: “Everything will be handheld to give the show a raw, lived in feeling, despite the glossy sci-fi production design.”
-
 Create juxtapositions between your concept and your “look” that make your show dynamic.
 What type of score will you use? Somber? Electronic? Does the show have a generally negative outlook? Positive? How should that manifest in each plot? These are instructions for future writers as well as executives.
+
 
 ### How people interact
 
@@ -107,18 +102,12 @@ What type of score will you use? Somber? Electronic? Does the show have a genera
 * Each season comprises eight episodes.
 * Each episode is 26,500±2,500 words or 80±8 pages in length, split into 8 segments.
 * Write the entire first season, then drop the first four as single novellas and one bundle. Then drop the next novel every six weeks, which buys you six months.
-* Each season should model a Biblical theme story (e.g. Gideon, David)
 
-<!-- The average read-time for an episode in this series is 120 minutes @ 220wpm ± 10% (26,500±2,500 words or 80±8 pages).
-This is 212 Audible minutes @ 125wpm or 3.5 hours.
-
-This is 212,000 words (191 to 233 @ ± 10%), equivalent to three novels ~71Kw (64 - 78).
--->
+<!-- The average read-time for an episode in this series is 120 minutes @ 220wpm ± 10% (26,500±2,500 words or 80±8 pages). -->
 
 ## Pilot
 
 Teaser - 2-3 pages sometimes called the “cold open”. Show us a character, often the main character, and tease some sort of conflict. Try ending on a cliffhanger. Ask the questions the episode will attempt to answer.
-* First scene "what do you miss most," asked by his nemesis..."motorcycle." This leads to an argument between the two friends and Albert who think it should be his wife. Need to show this is Edwardian era (1911).
 
 Act one - Give us a bit more on the main characters for this episode. If the teaser was a crime, then act one is the crime scene investigation. Ramp up the tension through the act and bring us to another cliffhanger.
 
@@ -167,8 +156,7 @@ In Jack Ryan, the B-Story was about his struggle between being a Boy Scout and d
 
 ## BUSINESS PLAN
 
-* [Artist]()
-* [Editor]()
+* [Artist?](https://jestockart.com/contact/)
 
 ## LICENSE
 

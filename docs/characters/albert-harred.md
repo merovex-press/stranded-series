@@ -6,3 +6,6 @@
 * Quantum GmbH is the other company.
 * Can't go home because of the gravity well...
 * Wife name "Tearsa"
+
+* Was 38 in 1915 when his daughter Anne was born.
+* Born 1877 in Chicago
