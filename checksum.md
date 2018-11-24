@@ -5,7 +5,7 @@ Table of Contents
 =================
 
 * [Stranded Series Bible](#stranded-series-bible)
-   * [Concept/Franchise Theme, Conflict, Character, Story Pattern](#conceptfranchise-theme-conflict-character-story-pattern)
+   * [Concept/Franchise](#conceptfranchise)
       * [Format](#format)
       * [Audience](#audience)
       * [Logline](#logline)
@@ -22,7 +22,7 @@ Table of Contents
    * [Glossary - a listing of world-unique terms](#glossary---a-listing-of-world-unique-terms)
 <!-- /contents -->
 
-## Concept/Franchise Theme, Conflict, Character, Story Pattern
+## Concept/Franchise
 
 ### Format
 
