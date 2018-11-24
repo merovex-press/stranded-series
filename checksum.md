@@ -6,6 +6,14 @@ Table of Contents
 
 * [Stranded Series Bible](#stranded-series-bible)
    * [Concept/Franchise Theme, Conflict, Character, Story Pattern](#conceptfranchise-theme-conflict-character-story-pattern)
+      * [Format](#format)
+      * [Audience](#audience)
+      * [Logline](#logline)
+      * [Character (Who)](#character-who)
+      * [Conflict (What)](#conflict-what)
+      * [Theme (Why)](#theme-why)
+      * [Story Pattern (How)](#story-pattern-how)
+   * [Synopsis - a one-page (4-5 paragraph) summary of the world, major characters and central tension.](#synopsis---a-one-page-4-5-paragraph-summary-of-the-world-major-characters-and-central-tension)
    * [Characters](#characters)
       * [Minor Characters](#minor-characters)
    * [Key Locations](#key-locations)
@@ -15,14 +23,38 @@ Table of Contents
 <!-- /contents -->
 
 ## Concept/Franchise Theme, Conflict, Character, Story Pattern
-* Logline - “A hotshot investment banker is forced to work as CFO of a struggling NASCAR team. His success comes from deal making and compromise, but the owner demands total victory and the team of misfits won’t compromise and come together as a team. The series asks whether community is more important than the individual.”
-* Character (Who) - A brief summary of the central protagonist and why he must actively participate. [Breaking Bad: “Breaking Bad is the story of a man who is desperate to assert his impact on the world.”]
-* Conflict (What) - A brief summary of the central conflict. [Breaking Bad: “He’s failed repeatedly in his past (even while others profited from his intelligence), and is now faced with terminal cancer. He is the smartest man around, and he’s going to prove it.”]
-* Theme (Why) - A brief moral argument that is the series organizing principle, stated as a question. [Breaking Bad: Whether success in this world means one must become evil.]
-* Story Pattern (How) - The basic flow of each episode. [Breaking Bad: “Walt has a problem. His solution works, but brings him into conflict with people more evil than himself. To solve that conflict, he must become more evil than they.”] Rabkin, William. Writing the Pilot: Creating the Series (p. 84). moon & sun & whiskey inc.. Kindle Edition.
-* Synopsis - a one-page (4-5 paragraph) summary of the world, major characters and central tension.
-* Format - a listing of key features of your series (number & length of episodes, structure of episodes, genre, release pattern)
-* Audience - a narrative description of your target audience. This would be the anonymous “someone” you write to in your novels
+
+### Format
+
+a listing of key features of your series (number & length of episodes, structure of episodes, genre, release pattern)
+
+### Audience
+
+a narrative description of your target audience. This would be the anonymous “someone” you write to in your novels
+
+### Logline
+
+“A hotshot investment banker is forced to work as CFO of a struggling NASCAR team. His success comes from deal making and compromise, but the owner demands total victory and the team of misfits won’t compromise and come together as a team. The series asks whether community is more important than the individual.”
+
+### Character (Who)
+
+A brief summary of the central protagonist and why he must actively participate. [Breaking Bad: “Breaking Bad is the story of a man who is desperate to assert his impact on the world.”]
+
+### Conflict (What)
+
+A brief summary of the central conflict. [Breaking Bad: “He’s failed repeatedly in his past (even while others profited from his intelligence), and is now faced with terminal cancer. He is the smartest man around, and he’s going to prove it.”]
+
+### Theme (Why)
+
+A brief moral argument that is the series organizing principle, stated as a question. [Breaking Bad: Whether success in this world means one must become evil.]
+
+### Story Pattern (How)
+
+The basic flow of each episode. [Breaking Bad: “Walt has a problem. His solution works, but brings him into conflict with people more evil than himself. To solve that conflict, he must become more evil than they.”] Rabkin, William. Writing the Pilot: Creating the Series (p. 84). moon & sun & whiskey inc.. Kindle Edition.
+
+## Synopsis - a one-page (4-5 paragraph) summary of the world, major characters and central tension.
+
+
 * Setting (Where & When) - Setting details (where & when) that backdrop the series. This is lengthy for Science Fiction, but shorter for a suburban housewife drama setting.
 ## Characters
 
