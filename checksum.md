@@ -126,14 +126,17 @@ a 1-2 page that gives an overview of the characters, major series arcs.
 _a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline._
 
 * Season One
-  - Pilot - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
-  - Two - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
-  - Three - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
-  - Four - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
-  - Five - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
-  - Six - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
-  - Seven - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
-  - Eight - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo. 
+* 
+| # | Title | Tagline |
+| -- | -- | -- |
+| [S1Ex](#) | Pilot | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1Ex](#) | Two | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1Ex](#) | Three | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1Ex](#) | Four | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1Ex](#) | Five | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1Ex](#) | Six | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1Ex](#) | Seven | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1Ex](#) | Eight | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo. |
 
 ## Glossary
 
