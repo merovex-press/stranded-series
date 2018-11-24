@@ -6,13 +6,6 @@ Table of Contents
 
 * [Stranded Series Bible](#stranded-series-bible)
    * [Concept/Franchise](#conceptfranchise)
-      * [Format](#format)
-      * [Audience](#audience)
-      * [Logline](#logline)
-      * [Character (Who)](#character-who)
-      * [Conflict (What)](#conflict-what)
-      * [Theme (Why)](#theme-why)
-      * [Story Pattern (How)](#story-pattern-how)
    * [Synopsis](#synopsis)
    * [Setting (Where &amp; When)](#setting-where--when)
    * [Characters](#characters)
@@ -20,12 +13,10 @@ Table of Contents
    * [Key Locations](#key-locations)
    * [Series Outline](#series-outline)
    * [Story Outlines](#story-outlines)
-   * [Glossary - a listing of world-unique terms](#glossary---a-listing-of-world-unique-terms)
+   * [Glossary](#glossary)
 <!-- /contents -->
 
 ## Concept/Franchise
-
-
 
 <!-- The average read-time for an episode in this series is 120 minutes @ 220wpm ± 10% (26,500±2,500 words or 80±8 pages).
 This is 212 Audible minutes @ 125wpm or 3.5 hours.
@@ -41,6 +32,7 @@ This is 212,000 words (191 to 233 @ ± 10%), equivalent to three novels ~71Kw (6
 | **Theme**     | Stranded asks whether one can glorify God while focusing on things of this world. |
 | **Pattern**   | Alfred has a problem. His solution works but increases his visibility to and animosity of the aliens. To solve that conflict...  |
 | **Format**    | Each season comprises 8 novella episodes (26,500±2,500 words or 80±8 pages). Each novella comprises 8 segments or 24 scenes (~1100 words per scene). Write the first four and drop every six weeks; write the next four if the first take off. |
+| **Style/Tone**   |   |
 | **Audience**  | _Who is the target audience? a narrative description of your target audience. This would be the anonymous "someone" you write to in your novels._  |
 | **Show Cross**   |  1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home. <br> 2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity <br> 3. ...  |
 
@@ -61,18 +53,18 @@ A brief summary of the central conflict. [Breaking Bad: "He’s failed repeatedl
 
 The basic flow of each episode. [Breaking Bad: "Walt has a problem. His solution works, but brings him into conflict with people more evil than himself. To solve that conflict, he must become more evil than they."] <cite>Rabkin, William. Writing the Pilot: Creating the Series (p. 84). moon & sun & whiskey inc.. Kindle Edition.</cite> -->
 
-#### Create a Mood Board
+<!-- #### Create a Mood Board
 
-Including something like a Moodboard in your Show Bible can allow you to go even further when defining the tone of your project. Give us a look at the world, on an even broader canvas. Think of it as a chance to fully create the world your show takes place in. With no budget.
+Including something like a Moodboard in your Show Bible can allow you to go even further when defining the tone of your project. Give us a look at the world, on an even broader canvas. Think of it as a chance to fully create the world your show takes place in. With no budget. -->
 
-#### Style / Tone
+<!-- #### Style / Tone
 
-The tone section should include a visual style you wish to emulate or emphasize. Reference projects and styles you find inspiring.
+The tone section should include a style you wish to emulate or emphasize. Reference projects and styles you find inspiring.
 
 Discuss any rules that you think should govern the tone of this series to make it unique: "Everything will be handheld to give the show a raw, lived in feeling, despite the glossy sci-fi production design."
 
 Create juxtapositions between your concept and your "look" that make your show dynamic.
-What type of score will you use? Somber? Electronic? Does the show have a generally negative outlook? Positive? How should that manifest in each plot? These are instructions for future writers as well as executives.
+What type of score will you use? Somber? Electronic? Does the show have a generally negative outlook? Positive? How should that manifest in each plot? These are instructions for future writers as well as executives. -->
 
 ## Synopsis
 
