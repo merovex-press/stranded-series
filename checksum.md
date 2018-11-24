@@ -69,9 +69,11 @@ A brief summary of the central conflict. [Breaking Bad: “He’s failed repeate
 
 ### Theme (Why)
 
-A brief moral argument that is the series organizing principle, stated as a question. [Breaking Bad: Whether success in this world means one must become evil.]
+**_A brief moral argument that is the series organizing principle, stated as a question. [Breaking Bad: Whether success in this world means one must become evil.]_**
 
-Duty. Honor. Country.
+<!-- Duty. Honor. Country. -->
+
+"Anything outside of God is misplaced Glory."
 
 ### Story Pattern (How)
 
