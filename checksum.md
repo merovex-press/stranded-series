@@ -1,5 +1,7 @@
 # Stranded Series Bible
 
+<!-- contents --><!-- \/contents -->
+
 ## Concept/Franchise Theme, Conflict, Character, Story Pattern
 * Logline - “A hotshot investment banker is forced to work as CFO of a struggling NASCAR team. His success comes from deal making and compromise, but the owner demands total victory and the team of misfits won’t compromise and come together as a team. The series asks whether community is more important than the individual.”
 * Character (Who) - A brief summary of the central protagonist and why he must actively participate. [Breaking Bad: “Breaking Bad is the story of a man who is desperate to assert his impact on the world.”]
