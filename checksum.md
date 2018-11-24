@@ -25,6 +25,19 @@ Table of Contents
 
 ## Concept/Franchise
 
+
+**Show Cross**
+<!-- Coming two to three shows to form your “show cross”. Try taking one project considered a “classic”, one you draw your own inspiration from, and then one current hit. -->
+1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home.
+2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity
+3. ...
+
+### Logline
+
+A homesick slipstream scientist watches an alien society from space. When his orbital is attacked, he is forced to abandon ship and finds himself stranded on the planet's surface.
+
+<!-- Write a short and powerful description of the core concept. Two sentences is ideal. A logline for a scripted series will often describe the main character's plight and unique circumstance that drives the story.  -->
+
 ### Format
 
 a listing of key features of your series (number & length of episodes, structure of episodes, genre, release pattern)
@@ -55,7 +68,11 @@ The basic flow of each episode. [Breaking Bad: “Walt has a problem. His soluti
 
 ## Synopsis
 
-a one-page (4-5 paragraph) summary of the world, major characters and central tension.
+_**a one-page (4-5 paragraph) summary of the world, major characters and central tension.**_
+
+<!-- Write an overview of the series idea, describing the world or setting it takes place in, the unique conflicts faced, and the dynamics between main characters that fuel the story. This is a great sales tool because you're going to highlight the most interesting facets and themes of the series. You should be able to do this in three paragraphs, but a few pages is ok so long as the writing is "tight" and reads efficiently, moving the story beat by beat. -->
+
+In the 18th century, humanity discovered advanced alien technology in the Toltec Indian mounds. Over the next 150 years, society embraces the technology and develops interstellar travel via the slipstream, all while retaining paranoid nationalism. When they encounter other human settlements on alien worlds, they chose to study them out of concern that "alien" use of slipstream technology puts them at risk.
 
 
 ## Setting (Where & When)
@@ -83,4 +100,6 @@ a 1-2 page that gives an overview of the characters, major series arcs.
 
 a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline.
 
-## Glossary - a listing of world-unique terms
+## Glossary
+
+a listing of world-unique terms
