@@ -84,13 +84,9 @@ Setting details (where & when) that backdrop the series. This is lengthy for Sci
 **_This section comprises all your major characters and in 2-3 paragraphs for each, outline their personal characteristics, wants, needs, obstacles and flaws. It should also clearly indicate the relationships between characters._**
 
 **_Describe you main protagonist and other key characters in the series. Write less about their background and more about their current circumstances and shared conflict. A short paragraph for each is ideal. Clarify how they view their world, and how they relate to others. Create irony with their behavior. Find the flaw in a hero, and a redeeming quality in an antagonist._**
-
-| **Albert Harred, protagonist** is the descendent of one of the Slipstream discoverers. His drive to honor the family legacy leads him to turn his back on his new family and spend two years on a research orbital. As his tour wraps up, his orbital is attacked by anarchists, forcing him to abandon ship. The ship inexplicably navigates straight to the surface below. He crashes.
-
-He awakes hostage on an alien world. He uses his knowledge of advanced technology to survive. He tries desperately to develop the means to return home while trying to maneuver in the real war on the alien planet. But, he must keep the alien humans from mastering the technology and awaking the real threat to his homeworld.
-
 | Name | Summary |
 | -- | -- |
+| **Albert Harred, protagonist** | is the descendent of one of the Slipstream discoverers. His drive to honor the family legacy leads him to turn his back on his new family and spend two years on a research orbital. As his tour wraps up, his orbital is attacked by anarchists, forcing him to abandon ship. The ship inexplicably navigates straight to the surface below. He crashes. He awakes hostage on an alien world. He uses his knowledge of advanced technology to survive. He tries desperately to develop the means to return home while trying to maneuver in the real war on the alien planet. But, he must keep the alien humans from mastering the technology and awaking the real threat to his homeworld.|
 | **Alien ruler - Country, Antagonist** | wants to dominate his wee continent. He paints himself as the victim and tries to seduce Albert (whom he calls "Herbert", which is a play on words) to support him with newfangled weapons. He wants a doomsday weapon. He is "Country."|
 | **Alien scientist - Duty** | works for AR. He's assigned to help with the doomsday weapon and steal ideas from Albert. His fanatical dedication to AR is slowly eroded by his interaction with Albert. He decides (or pretends to) help Albert get home. He is "Duty."|
 | **Alien princess - Honor** | is AR's daughter. She falls in love with Albert and wants him to fall in love with her. She is "Honor."|
