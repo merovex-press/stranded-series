@@ -78,12 +78,6 @@ A brief summary of the central conflict. [Breaking Bad: "He’s failed repeatedl
 
 <!-- "Anything outside of God is misplaced Glory." -->
 
-**Show Cross**
-<!-- Coming two to three shows to form your "show cross". Try taking one project considered a "classic", one you draw your own inspiration from, and then one current hit. -->
-1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home.
-2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity
-3. ...
-
 <!-- ### Story Pattern (How)
 
 The basic flow of each episode. [Breaking Bad: "Walt has a problem. His solution works, but brings him into conflict with people more evil than himself. To solve that conflict, he must become more evil than they."] <cite>Rabkin, William. Writing the Pilot: Creating the Series (p. 84). moon & sun & whiskey inc.. Kindle Edition.</cite> -->
