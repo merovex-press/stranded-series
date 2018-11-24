@@ -64,7 +64,7 @@ Stranded is the story of a man who took his family and homeland for granted. -->
 | **Character** | Stranded is the story of a man who took his family & homeland for granted. |
 | **Conflict**  | His career focus neglected his family, and he's now isolated on an alien planet.  |
 | **Theme**     | Stranded asks whether one can glorify God while focusing on things of this world. |
-| **Pattern**   | Alfred has a problem. His solution works but increases the friction between him and his hosts. To solve that conflict...  |
+| **Pattern**   | Alfred has a problem. His solution works but increases his visibility to and animosity of the aliens. To solve that conflict...  |
 
 <!-- ### Conflict (What)
 
