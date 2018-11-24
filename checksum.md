@@ -53,21 +53,19 @@ a narrative description of your target audience. This would be the anonymous "so
 
 A homesick slipstream scientist watches an alien society from space. When his orbital is attacked, he is forced to abandon ship and finds himself stranded on the planet's surface.
 
-**Show Cross**
-<!-- Coming two to three shows to form your "show cross". Try taking one project considered a "classic", one you draw your own inspiration from, and then one current hit. -->
-1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home.
-2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity
-3. ...
+<!-- ### Character (Who)
 
-### Character (Who)
+<!-- **_A brief summary of the central protagonist and why he must actively participate. [Breaking Bad: "Breaking Bad is the story of a man who is desperate to assert his impact on the world."]_** -->
 
-**_A brief summary of the central protagonist and why he must actively participate. [Breaking Bad: "Breaking Bad is the story of a man who is desperate to assert his impact on the world."]_**
+Stranded is the story of a man who took his family and homeland for granted. -->
 
-**Albert Harred, protagonist** is the descendent of one of the Slipstream discoverers. His drive to honor the family legacy leads him to turn his back on his new family and spend two years on a research orbital. As his tour wraps up, his orbital is attacked by anarchists, forcing him to abandon ship. The ship inexplicably navigates straight to the surface below. He crashes.
+| XX | XX |
+| -- | -- |
+| Character | Stranded is the story of a man who took his family & homeland for granted. |
+| Conflict  | His career focus neglected his family, and he's now isolated on an alien planet.  |
+| Theme     | Stranded asks whether one can glorify God while focusing on things of this world. |
 
-He awakes hostage on an alien world. He uses his knowledge of advanced technology to survive. He tries desperately to develop the means to return home while trying to maneuver in the real war on the alien planet. But, he must keep the alien humans from mastering the technology and awaking the real threat to his homeworld.
-
-### Conflict (What)
+<!-- ### Conflict (What)
 
 A brief summary of the central conflict. [Breaking Bad: "He’s failed repeatedly in his past (even while others profited from his intelligence), and is now faced with terminal cancer. He is the smartest man around, and he’s going to prove it."]
 
@@ -77,7 +75,13 @@ A brief summary of the central conflict. [Breaking Bad: "He’s failed repeatedl
 
 <!-- Duty. Honor. Country. -->
 
-"Anything outside of God is misplaced Glory."
+<!-- "Anything outside of God is misplaced Glory." -->
+
+**Show Cross**
+<!-- Coming two to three shows to form your "show cross". Try taking one project considered a "classic", one you draw your own inspiration from, and then one current hit. -->
+1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home.
+2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity
+3. ...
 
 ### Story Pattern (How)
 
