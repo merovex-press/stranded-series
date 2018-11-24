@@ -1,6 +1,18 @@
 # Stranded Series Bible
 
-<!-- contents --><!-- \/contents -->
+<!-- contents -->
+Table of Contents
+=================
+
+* [Stranded Series Bible](#stranded-series-bible)
+   * [Concept/Franchise Theme, Conflict, Character, Story Pattern](#conceptfranchise-theme-conflict-character-story-pattern)
+   * [Characters](#characters)
+      * [Minor Characters - A bulleted list of bit-part characters with a sentence of who they are.](#minor-characters---a-bulleted-list-of-bit-part-characters-with-a-sentence-of-who-they-are)
+   * [Key Locations](#key-locations)
+   * [Series Outline](#series-outline)
+   * [Story Outlines](#story-outlines)
+   * [Glossary - a listing of world-unique terms](#glossary---a-listing-of-world-unique-terms)
+<!-- /contents -->
 
 ## Concept/Franchise Theme, Conflict, Character, Story Pattern
 * Logline - “A hotshot investment banker is forced to work as CFO of a struggling NASCAR team. His success comes from deal making and compromise, but the owner demands total victory and the team of misfits won’t compromise and come together as a team. The series asks whether community is more important than the individual.”
