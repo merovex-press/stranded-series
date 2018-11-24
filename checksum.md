@@ -59,11 +59,11 @@ A homesick slipstream scientist watches an alien society from space. When his or
 
 Stranded is the story of a man who took his family and homeland for granted. -->
 
-| XX | XX |
+| Topic | Notes |
 | -- | -- |
-| Character | Stranded is the story of a man who took his family & homeland for granted. |
-| Conflict  | His career focus neglected his family, and he's now isolated on an alien planet.  |
-| Theme     | Stranded asks whether one can glorify God while focusing on things of this world. |
+| **Character** | Stranded is the story of a man who took his family & homeland for granted. |
+| **Conflict**  | His career focus neglected his family, and he's now isolated on an alien planet.  |
+| **Theme**     | Stranded asks whether one can glorify God while focusing on things of this world. |
 
 <!-- ### Conflict (What)
 
