@@ -63,7 +63,7 @@ A homesick slipstream scientist watches an alien society from space. When his or
 | **Conflict**  | His career focus neglected his family, and he's now isolated on an alien planet.  |
 | **Theme**     | Stranded asks whether one can glorify God while focusing on things of this world. |
 | **Pattern**   | Alfred has a problem. His solution works but increases his visibility to and animosity of the aliens. To solve that conflict...  |
-| **Show Cross**   |  1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home. <br> 2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity 3. ... <br> |
+| **Show Cross**   |  1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home. <br> 2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity <br> 3. ...  |
 
 
 <!-- ### Conflict (What)
