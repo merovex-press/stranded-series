@@ -25,22 +25,21 @@ Table of Contents
 
 ## Concept/Franchise
 
-
-**Show Cross**
-<!-- Coming two to three shows to form your “show cross”. Try taking one project considered a “classic”, one you draw your own inspiration from, and then one current hit. -->
-1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home.
-2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity
-3. ...
-
-### Logline
-
-A homesick slipstream scientist watches an alien society from space. When his orbital is attacked, he is forced to abandon ship and finds himself stranded on the planet's surface.
-
-<!-- Write a short and powerful description of the core concept. Two sentences is ideal. A logline for a scripted series will often describe the main character's plight and unique circumstance that drives the story.  -->
-
 ### Format
 
-a listing of key features of your series (number & length of episodes, structure of episodes, genre, release pattern)
+**_a listing of key features of your series (number & length of episodes, structure of episodes, genre, release pattern)_**
+
+
+* Each season comprises eight episodes.
+* Each episode is 26,500±2,500 words or 80±8 pages in length, split into 8 segments.
+* Write the entire first season, then drop the first four as single novellas and one bundle. Then drop the next novel every six weeks, which buys you six months.
+* Each season should model a Biblical theme story (e.g. Gideon, David)
+
+<!-- The average read-time for an episode in this series is 120 minutes @ 220wpm ± 10% (26,500±2,500 words or 80±8 pages).
+This is 212 Audible minutes @ 125wpm or 3.5 hours.
+
+This is 212,000 words (191 to 233 @ ± 10%), equivalent to three novels ~71Kw (64 - 78).
+-->
 
 ### Audience
 
@@ -48,7 +47,15 @@ a narrative description of your target audience. This would be the anonymous “
 
 ### Logline
 
-“A hotshot investment banker is forced to work as CFO of a struggling NASCAR team. His success comes from deal making and compromise, but the owner demands total victory and the team of misfits won’t compromise and come together as a team. The series asks whether community is more important than the individual.”
+<!-- Write a short and powerful description of the core concept. Two sentences is ideal. A logline for a scripted series will often describe the main character's plight and unique circumstance that drives the story.  -->
+
+**Show Cross**
+<!-- Coming two to three shows to form your “show cross”. Try taking one project considered a “classic”, one you draw your own inspiration from, and then one current hit. -->
+1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home.
+2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity
+3. ...
+
+A homesick slipstream scientist watches an alien society from space. When his orbital is attacked, he is forced to abandon ship and finds himself stranded on the planet's surface.
 
 ### Character (Who)
 
