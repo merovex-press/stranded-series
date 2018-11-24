@@ -7,7 +7,7 @@ Table of Contents
 * [Stranded Series Bible](#stranded-series-bible)
    * [Concept/Franchise Theme, Conflict, Character, Story Pattern](#conceptfranchise-theme-conflict-character-story-pattern)
    * [Characters](#characters)
-      * [Minor Characters - A bulleted list of bit-part characters with a sentence of who they are.](#minor-characters---a-bulleted-list-of-bit-part-characters-with-a-sentence-of-who-they-are)
+      * [Minor Characters](#minor-characters)
    * [Key Locations](#key-locations)
    * [Series Outline](#series-outline)
    * [Story Outlines](#story-outlines)
@@ -28,7 +28,9 @@ Table of Contents
 
 This section comprises all your major characters and in 2-3 paragraphs for each, outline their personal characteristics, wants, needs, obstacles and flaws. It should also clearly indicate the relationships between characters.
 
-### Minor Characters - A bulleted list of bit-part characters with a sentence of who they are.
+### Minor Characters
+
+A bulleted list of bit-part characters with a sentence of who they are.
 * “Mike Watkins - Bus driver & friend of Barry.”
 
 ## Key Locations
