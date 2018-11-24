@@ -43,7 +43,7 @@ This is 212,000 words (191 to 233 @ ± 10%), equivalent to three novels ~71Kw (6
 
 ### Audience
 
-a narrative description of your target audience. This would be the anonymous “someone” you write to in your novels.
+a narrative description of your target audience. This would be the anonymous "someone" you write to in your novels.
 
 * Christian...
 
@@ -54,18 +54,18 @@ a narrative description of your target audience. This would be the anonymous “
 A homesick slipstream scientist watches an alien society from space. When his orbital is attacked, he is forced to abandon ship and finds himself stranded on the planet's surface.
 
 **Show Cross**
-<!-- Coming two to three shows to form your “show cross”. Try taking one project considered a “classic”, one you draw your own inspiration from, and then one current hit. -->
+<!-- Coming two to three shows to form your "show cross". Try taking one project considered a "classic", one you draw your own inspiration from, and then one current hit. -->
 1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home.
 2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity
 3. ...
 
 ### Character (Who)
 
-A brief summary of the central protagonist and why he must actively participate. [Breaking Bad: “Breaking Bad is the story of a man who is desperate to assert his impact on the world.”]
+A brief summary of the central protagonist and why he must actively participate. [Breaking Bad: "Breaking Bad is the story of a man who is desperate to assert his impact on the world."]
 
 ### Conflict (What)
 
-A brief summary of the central conflict. [Breaking Bad: “He’s failed repeatedly in his past (even while others profited from his intelligence), and is now faced with terminal cancer. He is the smartest man around, and he’s going to prove it.”]
+A brief summary of the central conflict. [Breaking Bad: "He’s failed repeatedly in his past (even while others profited from his intelligence), and is now faced with terminal cancer. He is the smartest man around, and he’s going to prove it."]
 
 ### Theme (Why)
 
@@ -77,7 +77,7 @@ A brief summary of the central conflict. [Breaking Bad: “He’s failed repeate
 
 ### Story Pattern (How)
 
-The basic flow of each episode. [Breaking Bad: “Walt has a problem. His solution works, but brings him into conflict with people more evil than himself. To solve that conflict, he must become more evil than they.”] Rabkin, William. Writing the Pilot: Creating the Series (p. 84). moon & sun & whiskey inc.. Kindle Edition.
+The basic flow of each episode. [Breaking Bad: "Walt has a problem. His solution works, but brings him into conflict with people more evil than himself. To solve that conflict, he must become more evil than they."] <cite>Rabkin, William. Writing the Pilot: Creating the Series (p. 84). moon & sun & whiskey inc.. Kindle Edition.</cite>
 
 #### Create a Mood Board
 
@@ -87,9 +87,9 @@ Including something like a Moodboard in your Show Bible can allow you to go even
 
 The tone section should include a visual style you wish to emulate or emphasize. Reference projects and styles you find inspiring.
 
-Discuss any rules that you think should govern the tone of this series to make it unique: “Everything will be handheld to give the show a raw, lived in feeling, despite the glossy sci-fi production design.”
+Discuss any rules that you think should govern the tone of this series to make it unique: "Everything will be handheld to give the show a raw, lived in feeling, despite the glossy sci-fi production design."
 
-Create juxtapositions between your concept and your “look” that make your show dynamic.
+Create juxtapositions between your concept and your "look" that make your show dynamic.
 What type of score will you use? Somber? Electronic? Does the show have a generally negative outlook? Positive? How should that manifest in each plot? These are instructions for future writers as well as executives.
 
 ## Synopsis
@@ -137,7 +137,7 @@ Contrast this with Albert's homeworld:
 ### Minor Characters
 
 A bulleted list of bit-part characters with a sentence of who they are.
-* “Mike Watkins - Bus driver & friend of Barry.”
+* "Mike Watkins - Bus driver & friend of Barry."
 
 ## Key Locations
 
