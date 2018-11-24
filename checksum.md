@@ -29,7 +29,7 @@ Table of Contents
 
 **_a listing of key features of your series (number & length of episodes, structure of episodes, genre, release pattern)_**
 
-* Each season comprises eight episodes.
+* Each season comprises eight episodes, one sequence per episode.
 * Each episode is 26,500±2,500 words or 80±8 pages in length, split into 8 segments.
 * Episode structure will follow 8-segment, with an A-story, B-Story and perhaps C-Story.
 * Write the entire first season, then drop the first four as single novellas and one bundle. Then drop the next novel every six weeks, which buys you six months.
@@ -61,7 +61,11 @@ A homesick slipstream scientist watches an alien society from space. When his or
 
 ### Character (Who)
 
-A brief summary of the central protagonist and why he must actively participate. [Breaking Bad: "Breaking Bad is the story of a man who is desperate to assert his impact on the world."]
+**_A brief summary of the central protagonist and why he must actively participate. [Breaking Bad: "Breaking Bad is the story of a man who is desperate to assert his impact on the world."]_**
+
+**Albert Harred, protagonist** is the descendent of one of the Slipstream discoverers. His drive to honor the family legacy leads him to turn his back on his new family and spend two years on a research orbital. As his tour wraps up, his orbital is attacked by anarchists, forcing him to abandon ship. The ship inexplicably navigates straight to the surface below. He crashes.
+
+He awakes hostage on an alien world. He uses his knowledge of advanced technology to survive. He tries desperately to develop the means to return home while trying to maneuver in the real war on the alien planet. But, he must keep the alien humans from mastering the technology and awaking the real threat to his homeworld.
 
 ### Conflict (What)
 
