@@ -129,14 +129,14 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 *
 | # | Title | Tagline |
 | -- | -- | -- |
-| [S1E1](/episodes/0x01-Crash.md) | Pilot | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [S1E2](#) | Two | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [S1E3](#) | Three | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [S1E4](#) | Four | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [S1E5](#) | Five | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [S1E6](#) | Six | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [S1E7](#) | Seven | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [S1E8](#) | Eight | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo. |
+| [S1E1](/docs/episodes/0x01-Crash.md) | Pilot | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1E2](/docs/episodes/1x02.md) | Two | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1E3](/docs/episodes/1x03.md) | Three | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1E4](/docs/episodes/1x04.md) | Four | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1E5](/docs/episodes/1x05.md) | Five | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1E6](/docs/episodes/1x06.md) | Six | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1E7](/docs/episodes/1x07.md) | Seven | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
+| [S1E8](/docs/episodes/1x08.md) | Eight | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo. |
 
 ## Glossary
 
