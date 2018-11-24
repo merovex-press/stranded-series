@@ -133,6 +133,14 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 | [01x07](/docs/episodes/1x07.md) | Seven | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
 | [01x08](/docs/episodes/1x08.md) | Eight | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo. |
 
+## Future Seasons
+
+| Season| Synopsis |
+| -- | -- |
+| **SEASON 1** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
+| **SEASON 2** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
+| **SEASON 3** | The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands. |
+
 ## Glossary
 
 [a listing of world-unique terms](/docs/glossary.md)
