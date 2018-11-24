@@ -123,11 +123,21 @@ a 1-2 page that gives an overview of the characters, major series arcs.
 
 ## Story Outlines
 
-a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline.
+_a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline._
+
+* Season One
+  - Pilot - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
+  - Two - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
+  - Three - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
+  - Four - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
+  - Five - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
+  - Six - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
+  - Seven - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo.
+  - Eight - Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo. 
 
 ## Glossary
 
-[a listing of world-unique terms](/blob/master/docs/glossary.md)
+[a listing of world-unique terms](/docs/glossary.md)
 
 ## BUSINESS PLAN
 
