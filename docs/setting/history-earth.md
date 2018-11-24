@@ -5,7 +5,7 @@
 * 1756-1763 - Seven Years War occurs as the 4th intercolonial war between England/France.
 * 1765-1771 - Strain between American colonies and heavily indebted Britain led to a new Parliament that incorporated representation of American colonies. This prevents the American Revolutionary War.
   - 1765-66 - Stamp Act passed and repealed.
-  - 1766 - Parliament invites a delegation of American colonies to work out differences. The [Declaratory Act of 1766](https://en.wikipedia.org/wiki/Declaratory_Act) never occurs.
+  - 1766 - Parliament invites a delegation of American colonies to work out differences. **_The [Declaratory Act of 1766](https://en.wikipedia.org/wiki/Declaratory_Act) never occurs._**
   - 1767-69 - A series of conversations were had between Parliament and colonial legislatures.
   - 1769 - Rights of Englishmen Act of 1769 extended to continental colonial Englishmen.
   - 1771 - Reform in America Act of 1771 transforms the continental colonies to six provinces: Canada, New England, Pennsylvania, Virginia, Carolina, Georgia. Each province given limited representation in British Parliament.

@@ -28,7 +28,7 @@ This is 212,000 words (191 to 233 @ ± 10%), equivalent to three novels ~71Kw (6
 | -- | -- |
 | **Logline**   | A homesick slipstream scientist watches an alien society from space. When his orbital is attacked, he is forced to abandon ship and finds himself stranded on the planet's surface.  |
 | **Character** | Stranded is the story of a man who took his family & homeland for granted. |
-| **Conflict**  | His career focus neglected his family, and he's now stranded on an alien planet.  |
+| **Conflict**  | His career focus neglected his family, and he's now stranded on an alien planet worried he will never get back to them.  |
 | **Theme**     | Stranded asks whether one can glorify God while focusing on self-aggrandizement. |
 | **Pattern**   | Alfred has a problem. <br> His solution works but increases his visibility to or animosity of the aliens. <br> To solve that conflict...  |
 | **Format**    | Each season comprises 8 novella episodes (26,500±2,500 words or 80±8 pages). <br> Each novella comprises 8 segments or 24 scenes (~1100 words per scene). <br> Write the first four, then drop one every six weeks; write the next four if the first take off. |
@@ -127,4 +127,15 @@ a listing of the individual episode Story Treatments that focuses on the story a
 
 ## Glossary
 
-a listing of world-unique terms
+[a listing of world-unique terms](/blob/master/docs/glossary.md)
+
+## BUSINESS PLAN
+
+* [Artist]()
+* [Editor]()
+
+## LICENSE
+
+Copyright 2018 - Benjamin C. Wilson - All Rights Reserved
+
+Goal: Inspire the next generation of Christians to engage in secular literature for God's glory.
