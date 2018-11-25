@@ -36,6 +36,7 @@ This is 212,000 words (191 to 233 @ ± 10%), equivalent to three novels ~71Kw (6
 | **Audience**  | _Who is the target audience? a narrative description of your target audience. This would be the anonymous "someone" you write to in your novels._  |
 | **Show Cross**   |  1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home. <br> 2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity <br> 3. ...  |
 
+_We often thank the gifts instead of the giver._
 
 <!-- ### Conflict (What)
 
