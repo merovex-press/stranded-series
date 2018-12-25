@@ -31,7 +31,7 @@ This is 212,000 words (191 to 233 @ ± 10%), equivalent to three novels ~71Kw (6
 | **Conflict**  | His career focus neglected his family, and he's now stranded on an alien planet worried he will never get back to them.  |
 | **Theme**     | Stranded asks whether one can glorify God while focusing on self-aggrandizement. |
 | **Pattern**   | Alfred has a problem. <br> His solution works but, but puts him at odds with the aliens. <br> He solves that problem, but it requires him to become more like the aliens.  |
-| **Stories**   | A &mdash; Episode problem.<br> B &mdash; Rescue efforts <br> C &mdash; This.  |
+| **Stories**   | A &mdash; Episode problem.<br> B &mdash; (bonum) Rescue efforts <br> C &mdash; (malum) This.  |
 | **Format**    | Each season comprises 8 novella episodes (26,500±2,500 words or 80±8 pages). <br> Each novella comprises 8 segments or 24 scenes (~1100 words per scene). <br> Write the first four, then drop one every six weeks; write the next four if the first take off. |
 | **Style/Tone**   |   |
 | **Audience**  | _Who is the target audience? a narrative description of your target audience. This would be the anonymous "someone" you write to in your novels._  |
@@ -123,6 +123,14 @@ a 1-2 page that gives an overview of the characters, major series arcs.
 
 _a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline._
 
+### Seasons
+
+| #| Synopsis |
+| -- | -- |
+| **1** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
+| **2** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
+| **3** | The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands. |
+
 ### Season One
 
 | # | Title | Tagline |
@@ -136,13 +144,7 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 | [01x07](/docs/episodes/1x07.md) | Seven | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
 | [01x08](/docs/episodes/1x08.md) | Eight | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo. |
 
-## Future Seasons
 
-| #| Synopsis |
-| -- | -- |
-| **1** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
-| **2** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
-| **3** | The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands. |
 
 ## Glossary
 
