@@ -94,7 +94,7 @@ The average read-time for an episode in this series is 120 minutes @ 220wpm ± 1
 
 Each episode
 
-Each story will have a typical A/B plot, with a C carrying the coninuing
+Each story will have a typical A/B plot, with a C carrying the continuing
 
 * Development Editing = $550, Copy/proofreading $550. $1100 editing total.
 
