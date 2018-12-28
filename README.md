@@ -127,30 +127,15 @@ A 1-2 paragraph summary of each central location in the series. As you execute a
 
 a 1-2 page that gives an overview of the characters, major series arcs.
 
-## Story Outlines
+## Seasons
 
 _a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline._
-
-### Seasons
 
 | #| Synopsis |
 | -- | -- |
 | **1** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
 | **2** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
 | **3** | The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands. |
-
-### Season One
-
-| # | Title | Tagline |
-| -- | -- | -- |
-| [01x01](/docs/episodes/0x01-Crash.md) | Pilot - Stasis | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [01x02](/docs/episodes/1x02.md) | Two - Trigger | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [01x03](/docs/episodes/1x03.md) | Three - Quest | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [01x04](/docs/episodes/1x04.md) | Four - Surprise | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [01x05](/docs/episodes/1x05.md) | Five - Critical Choice | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [01x06](/docs/episodes/1x06.md) | Six - Climax | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [01x07](/docs/episodes/1x07.md) | Seven - Reversal | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo |
-| [01x08](/docs/episodes/1x08.md) | Eight - Resolution | Donec ut magna non neque congue consequat. Donec ipsum nibh, molestie vitae purus vel, blandit volutpat leo. |
 
 ## Glossary
 
