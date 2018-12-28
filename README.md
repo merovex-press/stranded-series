@@ -86,7 +86,11 @@ In the 18th century, humanity discovered advanced alien technology in the Toltec
 
 _Setting details (where & when) that backdrop the series. This is lengthy for Science Fiction, but shorter for a suburban housewife drama setting._
 
-Stranded is an alt-history Science-Fiction novella series. The story occurs during the early 20th Century, 160 years after mankind discovered ancient alien technology in British America. This led to the re-discovery of the Slipstream, providing faster-than-light travel. Mankind discovers "Elysion," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up an orbital to observe Elysion, which led to Elysian anthropology.
+**Stranded** is an alt-history Science-Fiction novella series.
+
+The story picks in the early 20th Century up after 160 years of [technologic acceleration](https://tvtropes.org/pmwiki/pmwiki.php/Main/GivingRadioToTheRomans) after the English discovered [ancient alien technology](https://tvtropes.org/pmwiki/pmwiki.php/Main/AncientAstronauts) in British America.
+
+This led to the re-discovery of the Slipstream, providing faster-than-light travel. Mankind discovers "Elysion," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up an orbital to observe Elysion, which led to Elysian anthropology.
 
 Elysion is inhabited with humans genetically identical to Earth. Alfred encounters the Hela, a dark-skinned Indo-European ethnicity speaking what Alfred determines is an older Germanic (Icelandic) language. The Hela, technologically in the Renaissance, are in the early stages of a civil war, with a rival branch of the ruling family seeking to gain power.
 
