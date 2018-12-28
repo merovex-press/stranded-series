@@ -39,7 +39,7 @@ This is 212,000 words (191 to 233 @ ± 10%), equivalent to three novels ~71Kw (6
 | **Format**    | Each season comprises 8 novella episodes (26,500±2,500 words or 80±8 pages). <br> Each novella comprises 8 segments or 24 scenes (~1100 words per scene). <br> Write the first four, then drop one every six weeks; write the next four if the first take off. |
 | **Style/Tone**   |   |
 | **Audience**  | _Who is the target audience? a narrative description of your target audience. This would be the anonymous "someone" you write to in your novels._  |
-| **Show Cross**   |  1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home. <br> 2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity <br> 3. Breaking Bad - a man who   |
+| **Show Cross**   |  1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home. <br> 2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity <br> 3. Breaking Bad - a man who makes things worse in an effort to make things better.  |
 
 
 _We often thank the gifts instead of the giver. Thank you for more breath to praise you with._
@@ -84,7 +84,11 @@ In the 18th century, humanity discovered advanced alien technology in the Toltec
 
 ## Setting (Where & When)
 
-Setting details (where & when) that backdrop the series. This is lengthy for Science Fiction, but shorter for a suburban housewife drama setting.
+_Setting details (where & when) that backdrop the series. This is lengthy for Science Fiction, but shorter for a suburban housewife drama setting._
+
+Stranded is an alt-history Science-Fiction novella series. The story occurs during the early 20th Century, 160 years after mankind discovered ancient alien technology in British America. This led to the re-discovery of the Slipstream, providing faster-than-light travel. Mankind discovers "Elysion," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up an orbital to observe Elysion, which led to Elysian anthropology.
+
+Elysion is inhabited with humans genetically identical to Earth. Alfred encounters the Hela, a dark-skinned Indo-European ethnicity speaking what Alfred determines is an older Germanic (Icelandic) language. The Hela, technologically in the Renaissance, are in the early stages of a civil war, with a rival branch of the ruling family seeking to gain power.
 
 ## Characters
 
