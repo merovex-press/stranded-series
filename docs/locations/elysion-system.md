@@ -28,9 +28,15 @@ Note: Habitability calculation provided from [Tobias Mueller's calculator](http:
 Junior looks 5% larger in Elysion sky than our Sun. ()
 Senior looks
 
+0834 C160222-9 T ..G.. ..	De,Lo          	O       	K2V               HWG..GG         	Bergerac
+  --  1.    H // X6E0000-0 //  0.3 au
+                            /   10 rad. X630000
+  --  2. *  W // C160222-9 //  0.6 au
+  --  3.    G // Large GG  //  1.2 au
 
+## Planets
 
-# Planets
+### Junior
 
 | Name | Distance | Orbit |
 | --- | --- | --- |
