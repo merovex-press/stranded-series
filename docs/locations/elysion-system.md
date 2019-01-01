@@ -31,6 +31,10 @@ HZ Inner: 0.67	Outer 0.97
 
 # Planets
 
+| Name | Distance | Orbit |
+| --- | --- | --- |
+| Elysion | 0.8<sub>AU</sub> | 300d<sub>⊕</sub> |
+
 ## Elysol
 
 Elysol is the parent star to the Elysion stellar system. It is a [Class K main-sequence star](https://en.wikipedia.org/wiki/K-type_main-sequence_star) with a temperature of 4540K. It has a stellar mass of  0.9, a solar luminosity of 0.5, and solar radius of 0.86. It is more orange in color than the Sun. "Elysol" is a portmanteau of Elysion and Sol. It appears similar to Toliman (A-Cent B), but lack of a companion star leads scientists to conclude
