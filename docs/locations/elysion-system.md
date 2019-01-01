@@ -1,5 +1,6 @@
 # Elysion System
 
-| # | Name | Type |
-| --- | --- | --- |
-| 0 | Eylsion Senior  | G2V Star |
+| # | Name | Distance | Type |
+| --- | --- | --- | --- |
+| 0 | Elysion Senior  | 0 | G2V Star |
+| 1 | x | 0.35 | ?? | 
