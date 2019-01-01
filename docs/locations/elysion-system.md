@@ -11,7 +11,8 @@
 | 6 | --- | 5.1<sub>AU</sub>  |   |   |
 | 7 | Elysion Junior | 9.9<sub>AU</sub>  |   |   |
 
-
+| # | Name | Distance | Type |
+| --- | --- | --- | --- |
 | 0 | Elysion Junior  | 0 | K5V Star |
 | 1 | x | 0.2<sub>AU</sub> | ?? |
 | 2 | x | 0.5<sub>AU</sub>  |   |   |
