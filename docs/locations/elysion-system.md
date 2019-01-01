@@ -1,4 +1,6 @@
-# Elysion System
+# Elysol System
+
+Elysol is a binary system comprising Elysol Senior (G2V, primary) and Elysol Junior (KV5, companion). They orbit one another with a periodicity of roughly 79 solar years, where Senior's circular diameter to viewers on Elysion from 
 
 | # | Name | Distance | Type |
 | --- | --- | --- | --- |

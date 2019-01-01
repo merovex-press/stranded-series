@@ -8,7 +8,7 @@ External ship access is accessed via the central hub, itself 59 feet across. The
 
 Gravity is created by the Habitat's spin (π rpm). The Medial floor has an effective gravity of 1G, with the Outer and Inner off ± 0.3G.
 
-From the surface of Elysion, the space station's angular diameter is 1/2 the size of Jupiter's Europa, making it 
+From the surface of Elysion, the space station's angular diameter is 1/2 the size of Jupiter's Europa, making it impractical to detect with telescopes under 60 power.
 
 ## Artificial Gravity
 
