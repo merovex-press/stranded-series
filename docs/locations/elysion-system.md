@@ -18,9 +18,9 @@ Elysion System comprises a primary star (Elysol); five planets: Moho, Eve, Kerbi
 | Junior | K1V | 5260K | 0.5L<sub>☉</sub> | 0.9M<sub>☉</sub>  | 0.00803<sub>AU</sub> |
 
 
-| Semimajor Axis | Eccentricity | True Anomaly |
-| --- | --- | --- |
-| 17.57 AU | 0.5179 | 0° |
+| Semimajor Axis | Eccentricity | True Anomaly | Closest | Furthest |
+| --- | --- | --- | --- | --- |
+| 17.57 AU | 0.5179 | 0° | 11.2<sub>AU</sub> | 35.6<sub>AU</sub> |
 
 Note: Habitability calculation provided from [Tobias Mueller's calculator](http://astro.twam.info/hz/) based on data frim [Müller & Haghighipour (2014)](http://dx.doi.org/10.1088/0004-637X/782/1/26)
 
