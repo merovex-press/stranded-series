@@ -28,8 +28,8 @@
 | Junior | K1V | 5260K | 0.5L<sub>☉</sub> | 0.9M<sub>☉</sub>  | 0.008<sub>AU</sub> | 0.67&ndash;0.97<sub>AU</sub> |
 
 
-| Semimajor Axis | Eccentricity | True Anomaly | Closest | Furthest |
-| --- | --- | --- | --- | --- |
-| 17.57 AU | 0.5179 | 0° | 11.2<sub>AU</sub> | 35.6<sub>AU</sub> |
+| Semimajor Axis | Eccentricity | Closest | Furthest |
+| --- | --- | --- | --- |
+| 17.57 AU | 0.5179 | 8.4<sub>AU</sub> | 27.0<sub>AU</sub> |
 
 Note: Habitability calculation provided from [Tobias Mueller's calculator](http://astro.twam.info/hz/) based on data frim [Müller & Haghighipour (2014)](http://dx.doi.org/10.1088/0004-637X/782/1/26)
