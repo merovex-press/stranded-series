@@ -25,15 +25,16 @@ Elysion System comprises a primary star (Elysol); five planets: Moho, Eve, Kerbi
 Note: Habitability calculation provided from [Tobias Mueller's calculator](http://astro.twam.info/hz/) based on data frim [Müller & Haghighipour (2014)](http://dx.doi.org/10.1088/0004-637X/782/1/26)
 
 
-### Junior
+Junior looks 5% larger in Elysion sky than our Sun. ()
+Senior looks
 
-HZ Inner: 0.67	Outer 0.97
+
 
 # Planets
 
 | Name | Distance | Orbit |
 | --- | --- | --- |
-| Elysion | 0.8<sub>AU</sub> | 300d<sub>⊕</sub> |
+| Elysion | 0.8<sub>AU</sub> | 300d<sub>⊕</sub> (1.21 years per earth year) |
 
 ## Elysol
 
