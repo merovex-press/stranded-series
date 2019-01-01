@@ -10,6 +10,8 @@ Elysion System comprises a primary star (Elysol); five planets: Moho, Eve, Kerbi
 
 ## Stars
 
+![Alternate image text](/images/elysion-system.png)
+
 | Star | Type | Temperature | Luminosity | Mass |
 | --- | --- | --- | --- | --- |
 | Senior | G2V | 5790K | 1.5l<sub>☉</sub> | 1.1M<sub>☉</sub>  |
