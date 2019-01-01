@@ -14,8 +14,8 @@ Elysion System comprises a primary star (Elysol); five planets: Moho, Eve, Kerbi
 
 | Star | Type | Temperature | Luminosity | Mass | Diameter| HZ |
 | --- | --- | --- | --- | --- | --- | --- |
-| Senior | G2V | 5790K | 1.5L<sub>☉</sub> | 1.1M<sub>☉</sub>  | 0.011<sub>AU</sub> |1.0&ndash;1.44 |
-| Junior | K1V | 5260K | 0.5L<sub>☉</sub> | 0.9M<sub>☉</sub>  | 0.008<sub>AU</sub> |Inner: 0.67&ndash;0.97|
+| Senior | G2V | 5790K | 1.5L<sub>☉</sub> | 1.1M<sub>☉</sub>  | 0.011<sub>AU</sub> | 1.0&ndash;1.44 |
+| Junior | K1V | 5260K | 0.5L<sub>☉</sub> | 0.9M<sub>☉</sub>  | 0.008<sub>AU</sub> | 0.67&ndash;0.97|
 
 
 | Semimajor Axis | Eccentricity | True Anomaly | Closest | Furthest |
