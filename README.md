@@ -30,7 +30,7 @@ This is 212,000 words (191 to 233 @ ± 10%), equivalent to three novels ~71Kw (6
 
 | Topic | Notes |
 | -- | -- |
-| **Logline**   | A homesick slipstream scientist watches an alien society from space. When his orbital is attacked, he is forced to abandon ship and finds himself stranded on the planet's surface.  |
+| **Logline**   | Wrongfully accused of murder, anthropologist Alfred Sevrin flees the orbital to the alien world below. Alfred must adapt to the alien society and its intrigues, and decides to use his superior understanding of technology to his advantage. |
 | **Character** | Stranded is the story of a man who took his family & homeland for granted. |
 | **Conflict**  | His career focus neglected his family, and he's now stranded on an alien planet worried he will never get back to them.  |
 | **Theme**     | Stranded asks whether one can glorify God while focusing on self-aggrandizement. |
