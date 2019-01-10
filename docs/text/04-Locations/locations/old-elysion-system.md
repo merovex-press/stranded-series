@@ -10,7 +10,7 @@ Elysion System comprises a primary star (Elysol); five planets: Moho, Eve, Kerbi
 
 ## Stars
 
-![Elysion System with Habitability Zones](/images/elysion-system.png)
+<!-- ![Elysion System with Habitability Zones](/images/elysion-system.png) -->
 
 | Star | Type | Temperature | Luminosity | Mass | Diameter| HZ |
 | --- | --- | --- | --- | --- | --- | --- |

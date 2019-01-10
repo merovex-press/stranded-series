@@ -1,0 +1,5 @@
+.DS_Store
+*.tex
+*.glg
+*.gls
+docs/text/images

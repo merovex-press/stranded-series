@@ -2,7 +2,7 @@
 
 Elysol is a binary system comprising Elysol Senior (G2V, primary) and Elysol Junior (KV5, companion). They orbit one another with a periodicity of roughly 79 solar years, where Senior's circular diameter to viewers on Elysion from 1' to 3' wide in the sky. Junior appears 5% closer than the Sun from the Earth.
 
-![Elysion System with Habitability Zones](/images/elysion-system.png)
+<!-- [Elysion System with Habitability Zones](/images/elysion-system.png) -->
 
 | Star | Type | Temperature | Luminosity | Mass | Diameter| HZ |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16,7 +16,7 @@ Elysol is a binary system comprising Elysol Senior (G2V, primary) and Elysol Jun
 
 Note: Habitability calculation provided from [Tobias Mueller's calculator](http://astro.twam.info/hz/) based on data frim [Müller & Haghighipour (2014)](http://dx.doi.org/10.1088/0004-637X/782/1/26)
 
-![Elysion System with Habitability Zones](/images/from-elysion.jpg)
+<!-- [Elysion System with Habitability Zones](/images/from-elysion.jpg) -->
 
 | # | Name | Distance | Type |
 | --- | --- | --- | --- |

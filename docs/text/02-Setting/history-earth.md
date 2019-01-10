@@ -70,6 +70,7 @@ Engine development was slower as it derived from patent research. Dates below in
 ## Slipstream Technology
 
 Slipstream technology describes the ability to get from Earth to Slipstream and through Slipstream
+
 * Slipstream travel discovered in computer - 1828
 * 1881 - Society for Slipsteam Research (SSR) established
 * 1828-1870 - Building out the infrastructure
