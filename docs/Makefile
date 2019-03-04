@@ -14,7 +14,7 @@ LATEX_CLASS = book
 EPUB_BUILDER_FLAGS = \
 	--epub-cover-image=$(IMAGES_DIR)cover.png \
 	--css=templates/$(CSS_FILE) \
-	--template templates/epub.html \
+	--template=templates/epub.html \
 	--metadata-file=$(METADATA) \
 	--metadata=version:$(VERSION) \
 	--lua-filter templates/latex.lua \
@@ -32,7 +32,7 @@ HTML_BUILDER_FLAGS = \
 
 PDF_BUILDER_FLAGS = \
 	-V documentclass=$(LATEX_CLASS) \
-	--template templates/pdf.tex \
+	--template=templates/pdf.tex \
 	--metadata-file=$(METADATA) \
 	--metadata=version:$(VERSION) \
 	--lua-filter templates/latex.lua \
