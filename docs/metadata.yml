@@ -1,0 +1,10 @@
+---
+# ===============================================
+# Book formatting - Avoid
+#
+links-as-notes: true
+fontsize: 10pt
+# linestretch: 1.1
+# fontfamily: "librecaslon" # http://www.tug.dk/FontCatalogue
+trimsize: Novella
+---

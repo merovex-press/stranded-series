@@ -1,0 +1,92 @@
+# The book's title. Will be used everywhere!
+title: "Stranded Series Bible"
+
+epub_cover: "cover.jpg" # Name of bookcover
+
+# If you have returning characters, put them here:
+# returning_characters: ""
+#next_book: Title of next book in series
+
+# The book's language.
+language: "en"
+
+# Type: 'fiction' or 'nonfiction'
+type: 'fiction'
+
+# Status: 'draft' or 'final'
+status: "final"
+
+wordcount: 1000
+
+# Chapter Style based on Memoir class
+# ftp://ftp.tex.ac.uk/tex-archive/documentation/MemoirChapStyles/MemoirChapStyles.pdf
+chapter_style: "chappell"
+
+# Headers used for LaTeX, cannot be more than 6.
+# If you want to use "Part" then add to beginning of the array and remove on of the others
+headers:
+  - chapter
+  - section
+  - subsection
+  - subsubsection
+  - paragraph
+  - subparagraph
+
+# Your book copyright info.
+# Here's some examples:
+#
+#   Copyright 2019 by Ben Wilson.
+#   Copyright 2019 by Ben Wilson. This work is licensed under MIT License.
+#   This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
+#   This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License.
+#   This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+#
+copyright: "Copyright (C) 2019 Ben Wilson."
+
+# Who's publishing this book.
+publisher: "Ben Wilson"
+
+# When this book was published.
+published_at: "2019-01-10"
+
+# Some book description.
+subject: "[Your book description]"
+
+# Some keywords that identify this book.
+keywords: "[Your book keywords (comma-separated)]"
+
+# WTF UUID?
+# https://en.wikipedia.org/wiki/Universally_unique_identifier
+uuid: "db4b05e5-83c2-4cf7-8d2c-ea74325542e7"
+
+# Your book identification like ISBN or ISSN.
+identifier:
+  id: "9-87654-3231-0123"
+  type: "ISBN-13" # can be ISBN, ISSN or URL
+
+# This book authors.
+authors:
+  - "Ben Wilson"
+
+# The base URL from your source code.
+base_url: http://example.com
+
+series:
+  title: "Series TItle"
+  books:
+    - "Book in Series"
+    - "Book in Series"
+#
+fonts:
+  serif: "Georgia"
+  sans:  "Tahoma"
+  mono:  "Courier"
+
+designer:
+  book: "Ben Wilson"
+  cover: "Ben Wilson"
+
+editors:
+  text:
+
+

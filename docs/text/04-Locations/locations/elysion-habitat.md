@@ -1,4 +1,4 @@
-# Elysion Habitat
+<!-- ## Elysion Habitat
 
 The **Elysion Habitat** is a precursor orbital in a geostationary orbit over Western Cronus, the largest continent on Elysion. The English occupied it only a few years before series start and use it for a base to study the inhabitants below.
 
@@ -10,7 +10,7 @@ Gravity is created by the Habitat's spin (π rpm). The Medial floor has an effec
 
 From the surface of Elysion, the space station's angular diameter is 1/2 the size of Jupiter's Europa, making it impractical to detect with telescopes under 60 power.
 
-## Artificial Gravity
+### Artificial Gravity
 
 
 | # | Metric | Imperial |
@@ -42,4 +42,4 @@ This provides a three-story/level space.
 | --- |  --- |
 | Ground (Outer) | 93.9m |
 | Medial         | 90.6m // 297' 3-1/4" // 99yds |
-| Top (Inner)    |
+| Top (Inner)    | -->
