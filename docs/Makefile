@@ -32,7 +32,7 @@ HTML_BUILDER_FLAGS = \
 
 PDF_BUILDER_FLAGS = \
 	-V documentclass=$(LATEX_CLASS) \
-	--template=templates/pdf.tex \
+	--template=pdf.tex \
 	--metadata-file=$(METADATA) \
 	--metadata=version:$(VERSION) \
 	--lua-filter templates/latex.lua \
