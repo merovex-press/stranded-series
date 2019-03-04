@@ -3,3 +3,5 @@
 *.glg
 *.gls
 docs/text/images
+builds/
+docs/builds/
