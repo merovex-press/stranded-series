@@ -6,7 +6,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Build Book
+          name: Build Book.
           command: |
             cd docs
             ls -al templates
