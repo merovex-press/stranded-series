@@ -9,6 +9,7 @@ jobs:
           name: Build Book
           command: |
             cd docs
+            ls -al templates
             make book
             mkdir -p /tmp/builds
             cp -r build/* /tmp/builds
