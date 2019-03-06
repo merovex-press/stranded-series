@@ -79,6 +79,7 @@ Elysion inhabitants are humans genetically identical to Earth. Alfred encounters
 | **[Michael&nbsp;Richards - Alfred's "best" Friend - Duty](#)** | was with him when they were attacked, and helped Alfred escape. We learn early on this was a ruse to get rid of Alfred so that his friend could go after the widow...|
 | **[Charles&nbsp;Napier - Alfred's true best Friend - Duty](#)** | with him before being sent home. He is the action between the Father & Wife...while the Father comes to want his son home, he can't do the work.|
 | **[Deborah&nbsp;Downey - Alfred's wife & Family  - Honor](#)** | she is heartbroken when he left, and mourns when she finds him reported missing. She is suspicious of the friend, especially after he clearly makes advances to him. She is the steel that pushes Father to do something, and develops to be a force to be reckoned with.|
+| Clarance Dankworth | Hot-headed Ulster orphan who managed to get into a public school with Alfred and became "Blaster" to Alfred's "Master." He is stranded along with Alfred. |
 
 * Phyllis Douglas
 * Elizabeth Rodgers
