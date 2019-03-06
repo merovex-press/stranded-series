@@ -78,14 +78,13 @@ Elysion inhabitants are humans genetically identical to Earth. Alfred encounters
 | **[Dr.&nbsp;Sevrin - Alfred's Father - Country](#)** | wants to keep his domination of industry. When his son is reported missing, he is split between serving his company and saving his son who is probably dead. "I have another."|
 | **[Michael&nbsp;Richards - Alfred's "best" Friend - Duty](#)** | was with him when they were attacked, and helped Alfred escape. We learn early on this was a ruse to get rid of Alfred so that his friend could go after the widow...|
 | **[Charles&nbsp;Napier - Alfred's true best Friend - Duty](#)** | with him before being sent home. He is the action between the Father & Wife...while the Father comes to want his son home, he can't do the work.|
-| **[Deborah&nbsp;Downey - Alfred's wife & Family  - Honor](#)** | she is heartbroken when he left, and mourns when she finds him reported missing. She is suspicious of the friend, especially after he clearly makes advances to him. She is the steel that pushes Father to do something, and develops to be a force to be reckoned with.|
-| Clarance Dankworth | Hot-headed Ulster orphan who managed to get into a public school with Alfred and became "Blaster" to Alfred's "Master." He is stranded along with Alfred. |
+| **[Mabel&nbsp;Downey - Alfred's wife & Family  - Honor](#)** | she is heartbroken when he left, and mourns when she finds him reported missing. She is suspicious of the friend, especially after he clearly makes advances to him. She is the steel that pushes Father to do something, and develops to be a force to be reckoned with.|
+| **[Clarance Dankworth](#)** | Hot-headed Ulster orphan who managed to get into a public school with Alfred and became "Blaster" to Alfred's "Master." He replaces Charles as the unofficial Sevrin guardian. He is stranded along with Alfred. |
+| **[Slora Hanlon](#)**   | Thrown into prison the episode after Alfred and after Mabel prays for Alfred. He's the mentor. |
 
 * Phyllis Douglas
 * Elizabeth Rodgers
 * Bill Blackburn
-* Clarance Dankworth
-* Slora Hanlon
 
 <!-- * **Central Character** - This is where we’re really going to get to know your main character. Even if this is an ensemble, dive deep into at least one principle character. Attach some images of a popular star who fits the type. An actor you think is both interesting to executives, but who’s personality and type conveys the character you have in mind. Consider images that maybe show wardrobe design. This is fun, think of it like casting your project. Then go into detail on who this person is. Include a few important defining moments from their backstory. What brings them to the story the pilot will tell. What will happen to them? What inner conflict will they struggle with? What positive qualities make them great? What flaws might be their downfall.
 * **Antagonist**  An antagonist could be the source of the conflict our main character will need to face. A broad villain type works in certain types of action adventure dramas. It could also be someone who seems good on the outside but is manipulating situations. Many popular shows play with the idea of who the villains and heroes are by blurring the lines, and upending expectations. Throw in some specifics about this character and his or her back story. In what ways will he challenge the lead? How will he help him to grow? Might they work together at some point? Will they ever come into direct conflict? -->
