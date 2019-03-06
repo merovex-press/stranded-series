@@ -5,7 +5,7 @@
 * Works for the [Odyssey Ltd.](/docs/setting/odyssey-ltd.md) company
 * Quantum GmbH is the other company.
 * Can't go home because of the gravity well...
-* Wife name "Tearsa"
+* Wife name "Mabel, 10 years his junior," married when she was 17 and he was 32.
 
-* Was 38 in 1915 when his daughter Anne was born.
+* Was 33 in 1915 when his daughter Anne was born.
 * Born 1877 in Chicago
