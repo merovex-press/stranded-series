@@ -35,7 +35,7 @@ This is 212,000 words (191 to 233 @ ± 10%), equivalent to three novels ~71Kw (6
 | **Conflict**  | His career focus neglected his family, and he's now stranded on an alien planet worried he will never get back to them.  |
 | **Theme**     | Stranded asks whether one can glorify God while focusing on self-aggrandizement. |
 | **Pattern**   | Albert has a problem. <br> His solution works but, but puts him at odds with the aliens. <br> He solves that problem, but it requires him to become more like the aliens.  |
-| **Stories**   | A &mdash; Episode problem.<br> B &mdash; (bonum) Rescue efforts <br> C &mdash; (malum) This.  |
+| **Stories**   | A &mdash; Episode problem.<br> B &mdash; (bonum) Rescue efforts <br> C &mdash; (malum) Alien plot against Albert;<br>D &mdash; Alien rebellion |
 | **Format**    | Each season comprises 8 novella episodes (26,500±2,500 words or 80±8 pages). <br> Each novella comprises 8 segments or 24 scenes (~1100 words per scene). <br> Write the first four, then drop one every six weeks; write the next four if the first take off. |
 | **Style/Tone**   |   |
 | **Audience**  | _Who is the target audience? a narrative description of your target audience. This would be the anonymous "someone" you write to in your novels._  |
