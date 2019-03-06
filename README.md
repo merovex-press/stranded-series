@@ -4,10 +4,6 @@
 Table of Contents
 =================
 
-[Anglish Wikipedia](https://anglish.miraheze.org/wiki/Main_leaf)
-https://ishamcook.com/2017/02/12/why-english-is-750-and-not-1500-years-old/
-https://anglish.fandom.com/wiki/English_Wordbook
-
 * [Stranded Series Bible](#stranded-series-bible)
    * [Concept/Franchise](#conceptfranchise)
    * [Synopsis](#synopsis)
@@ -43,39 +39,10 @@ This is 212,000 words (191 to 233 @ ± 10%), equivalent to three novels ~71Kw (6
 | **Format**    | Each season comprises 8 novella episodes (26,500±2,500 words or 80±8 pages). <br> Each novella comprises 8 segments or 24 scenes (~1100 words per scene). <br> Write the first four, then drop one every six weeks; write the next four if the first take off. |
 | **Style/Tone**   |   |
 | **Audience**  | _Who is the target audience? a narrative description of your target audience. This would be the anonymous "someone" you write to in your novels._  |
-| **Show Cross**   |  1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home. <br> 2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity <br> 3. Breaking Bad - a man who makes things worse in an effort to make things better.  |
+| **Show Cross**   |  1. [Grizzly Adams](https://en.wikipedia.org/wiki/The_Life_and_Times_of_Grizzly_Adams) - a man who is forced out on his own and wants to return home. <br> 2. [Macgyver](https://en.wikipedia.org/wiki/MacGyver) - a man who is able to solve problems with ingenuity <br> 3. [Breaking Bad](https://en.wikipedia.org/wiki/Breaking_Bad) - a man who makes things worse in an effort to make things better.  |
 
 
 _We often thank the gifts instead of the giver. Thank you for more breath to praise you with._
-
-<!-- ### Conflict (What)
-
-A brief summary of the central conflict. [Breaking Bad: "He’s failed repeatedly in his past (even while others profited from his intelligence), and is now faced with terminal cancer. He is the smartest man around, and he’s going to prove it."]
-
-### Theme (Why)
-
-**_A brief moral argument that is the series organizing principle, stated as a question. [Breaking Bad: Whether success in this world means one must become evil.]_**
-
-<!-- Duty. Honor. Country. -->
-
-<!-- "Anything outside of God is misplaced Glory." -->
-
-<!-- ### Story Pattern (How)
-
-The basic flow of each episode. [Breaking Bad: "Walt has a problem. His solution works, but brings him into conflict with people more evil than himself. To solve that conflict, he must become more evil than they."] <cite>Rabkin, William. Writing the Pilot: Creating the Series (p. 84). moon & sun & whiskey inc.. Kindle Edition.</cite> -->
-
-<!-- #### Create a Mood Board
-
-Including something like a Moodboard in your Show Bible can allow you to go even further when defining the tone of your project. Give us a look at the world, on an even broader canvas. Think of it as a chance to fully create the world your show takes place in. With no budget. -->
-
-<!-- #### Style / Tone
-
-The tone section should include a style you wish to emulate or emphasize. Reference projects and styles you find inspiring.
-
-Discuss any rules that you think should govern the tone of this series to make it unique: "Everything will be handheld to give the show a raw, lived in feeling, despite the glossy sci-fi production design."
-
-Create juxtapositions between your concept and your "look" that make your show dynamic.
-What type of score will you use? Somber? Electronic? Does the show have a generally negative outlook? Positive? How should that manifest in each plot? These are instructions for future writers as well as executives. -->
 
 ## Synopsis
 
@@ -104,19 +71,21 @@ Elysion inhabitants are humans genetically identical to Earth. Alfred encounters
 
 | Name | Summary |
 | -- | -- |
-| **[Albert&nbsp;Sevrin, protagonist](#)** | is the descendent of one of the Slipstream discoverers. His drive to honor the family legacy leads him to turn his back on his new family and spend two years on a research orbital. As his tour wraps up, his orbital is attacked by anarchists, forcing him to abandon ship. The ship inexplicably navigates straight to the surface below. He crashes. He awakes hostage on an alien world. He uses his knowledge of advanced technology to survive. He tries desperately to develop the means to return home while trying to maneuver in the real war on the alien planet. But, he must keep the alien humans from mastering the technology and awaking the real threat to his homeworld.|
-| **[Adomas&nbsp;Galliulin - Alien ruler - Country, Antagonist](#)** | wants to dominate his wee continent. He paints himself as the victim and tries to seduce Albert (whom he calls "Herbert", which is a play on words) to support him with newfangled weapons. He wants a doomsday weapon. He is "Country."|
-| **[Tongo&nbsp;Rad - Alien scientist - Duty](#)** | works for AR. He's assigned to help with the doomsday weapon and steal ideas from Albert. His fanatical dedication to AR is slowly eroded by his interaction with Albert. He decides (or pretends to) help Albert get home. He is "Duty."|
-| **[Irina&nbsp;Galliulin - Alien princess - Honor](#)** | is AR's daughter. She falls in love with Albert and wants him to fall in love with her. She is "Honor."|
-| **[Dr.&nbsp;Sevrin - Albert's Father - Country](#)** | wants to keep his domination of industry. When his son is reported missing, he is split between serving his company and saving his son who is probably dead. "I have another."|
-| **[Michael&nbsp;Richards - Albert's "best" Friend - Duty](#)** | was with him when they were attacked, and helped Albert escape. We learn early on this was a ruse to get rid of Albert so that his friend could go after the widow...|
-| **[Charles&nbsp;Napier - Albert's true best Friend - Duty](#)** | with him before being sent home. He is the action between the Father & Wife...while the Father comes to want his son home, he can't do the work.|
-| **[Deborah&nbsp;Downey - Albert's wife & Family  - Honor](#)** | she is heartbroken when he left, and mourns when she finds him reported missing. She is suspicious of the best friend, especially after he clearly makes advances to him. She is the steel that pushes Father to do something, and develops to be a force to be reckoned with.|
+| **[Alfred&nbsp;Sevrin, protagonist](#)** | is the descendent of one of the Slipstream discoverers. His drive to honor the family legacy leads him to turn his back on his new family and spend two years on a research orbital. As his tour wraps up, his orbital is attacked by anarchists, forcing him to abandon ship. The ship inexplicably navigates straight to the surface below. He crashes. He awakes hostage on an alien world. He uses his knowledge of advanced technology to survive. He tries desperately to develop the means to return home while trying to maneuver in the real war on the alien planet. But, he must keep the alien humans from mastering the technology and awaking the real threat to his homeworld.|
+| **[Adomas&nbsp;Galliulin - Alien ruler - Country, Antagonist](#)** | wants to dominate his wee continent. He paints himself as the victim and tries to seduce Alfred (whom he calls "Herbert", which is a play on words) to support him with newfangled weapons. He wants a doomsday weapon. He is "Country."|
+| **[Tongo&nbsp;Rad - Alien scientist - Duty](#)** | works for AR. He's assigned to help with the doomsday weapon and steal ideas from Alfred. His fanatical dedication to AR is slowly eroded by his interaction with Alfred. He decides (or pretends to) help Alfred get home. He is "Duty."|
+| **[Irina&nbsp;Galliulin - Alien princess - Honor](#)** | is AR's daughter. She falls in love with Alfred and wants him to fall in love with her. She is "Honor."|
+| **[Dr.&nbsp;Sevrin - Alfred's Father - Country](#)** | wants to keep his domination of industry. When his son is reported missing, he is split between serving his company and saving his son who is probably dead. "I have another."|
+| **[Michael&nbsp;Richards - Alfred's "best" Friend - Duty](#)** | was with him when they were attacked, and helped Alfred escape. We learn early on this was a ruse to get rid of Alfred so that his friend could go after the widow...|
+| **[Charles&nbsp;Napier - Alfred's true best Friend - Duty](#)** | with him before being sent home. He is the action between the Father & Wife...while the Father comes to want his son home, he can't do the work.|
+| **[Deborah&nbsp;Downey - Alfred's wife & Family  - Honor](#)** | she is heartbroken when he left, and mourns when she finds him reported missing. She is suspicious of the friend, especially after he clearly makes advances to him. She is the steel that pushes Father to do something, and develops to be a force to be reckoned with.|
 
 * Phyllis Douglas
 * Elizabeth Rodgers
 * Bill Blackburn
-*
+* Clarance Dankworth
+* Slora Hanlon
+
 <!-- * **Central Character** - This is where we’re really going to get to know your main character. Even if this is an ensemble, dive deep into at least one principle character. Attach some images of a popular star who fits the type. An actor you think is both interesting to executives, but who’s personality and type conveys the character you have in mind. Consider images that maybe show wardrobe design. This is fun, think of it like casting your project. Then go into detail on who this person is. Include a few important defining moments from their backstory. What brings them to the story the pilot will tell. What will happen to them? What inner conflict will they struggle with? What positive qualities make them great? What flaws might be their downfall.
 * **Antagonist**  An antagonist could be the source of the conflict our main character will need to face. A broad villain type works in certain types of action adventure dramas. It could also be someone who seems good on the outside but is manipulating situations. Many popular shows play with the idea of who the villains and heroes are by blurring the lines, and upending expectations. Throw in some specifics about this character and his or her back story. In what ways will he challenge the lead? How will he help him to grow? Might they work together at some point? Will they ever come into direct conflict? -->
 
@@ -143,8 +112,8 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 
 | #| Synopsis |
 | -- | -- |
-| **[1](/season-one.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
-| **2** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
+| **[1](/season-one.md)** | The first season ends with Alfred escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
+| **2** | The second season focuses on Alfred trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
 | **3** | The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands. |
 
 ## Glossary
