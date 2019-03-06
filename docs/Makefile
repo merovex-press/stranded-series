@@ -4,6 +4,7 @@ TEMPLATE_DIR = templates/
 IMAGES_DIR = images/
 CSS_FILE = style.css
 VERSION = $(shell git describe --abbrev=0 --tags)
+VERSION := $(if $(VERSION),$(VERSION),"none")
 OUTPUT_BASENAME = $(shell basename $(CURDIR))-$(VERSION)
 
 # CHAPTERS = text/*.md
