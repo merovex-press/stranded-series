@@ -66,11 +66,40 @@ $endif$
 $if(beamerarticle)$
 \usepackage{beamerarticle} % needs to be loaded first
 $endif$
-$if(fontfamily)$
-\usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
+% $if(fontfamily)$
+% \usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
+% $else$
+% % \usepackage{lmodern}
+% \usepackage{fontspec}
+% \usepackage{xunicode}
+% \usepackage{xltxtra}
+% \defaultfontfeatures{Mapping=tex-text}
+%
+% % \usepackage{cabin}
+% % \usepackage{librecaslon}
+% % \setmainfont{Libre Caslon Text}
+% % \setsansfont{Droid Sans}
+% % \setmonofont{Droid Sans Mono}
+% % % \setsansfont{cabin}
+% $endif$
+\usepackage{fontspec}
+\usepackage{xunicode}
+\usepackage{xltxtra}
+
+$if(seriffont)$
+  \setmainfont{$seriffont$}
 $else$
-% \usepackage{lmodern}
-\usepackage{librecaslon}
+  \setmainfont{Libre Caslon Text}
+$endif$
+$if(seriffont)$
+  \setsansfont{$sansfont$}
+$else$
+  \setsansfont{Helvetica}
+$endif$
+$if(seriffont)$
+  \setmonofont{$monofont$}
+$else$
+  \setmonofont{Courier}
 $endif$
 
 \usepackage{setspace}
@@ -109,21 +138,21 @@ $else$
   \usepackage{unicode-math}
 $endif$
   \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
-$for(fontfamilies)$
-  \newfontfamily{$fontfamilies.name$}[$fontfamilies.options$]{$fontfamilies.font$}
-$endfor$
-$if(mainfont)$
-    \setmainfont[$for(mainfontoptions)$$mainfontoptions$$sep$,$endfor$]{$mainfont$}
-$endif$
-$if(romanfont)$
-	\setromanfont[$for(romanfontoptions)$$romanfontoptions$$sep$,$endfor$]{$romanfont$}
-$endif$
-$if(sansfont)$
-    \setsansfont[$for(sansfontoptions)$$sansfontoptions$$sep$,$endfor$]{$sansfont$}
-$endif$
-$if(monofont)$
-    \setmonofont[Mapping=tex-ansi$if(monofontoptions)$,$for(monofontoptions)$$monofontoptions$$sep$,$endfor$$endif$]{$monofont$}
-$endif$
+% $for(fontfamilies)$
+%   \newfontfamily{$fontfamilies.name$}[$fontfamilies.options$]{$fontfamilies.font$}
+% $endfor$
+% $if(mainfont)$
+%     \setmainfont[$for(mainfontoptions)$$mainfontoptions$$sep$,$endfor$]{$mainfont$}
+% $endif$
+% $if(romanfont)$
+% 	\setromanfont[$for(romanfontoptions)$$romanfontoptions$$sep$,$endfor$]{$romanfont$}
+% $endif$
+% $if(sansfont)$
+%     \setsansfont[$for(sansfontoptions)$$sansfontoptions$$sep$,$endfor$]{$sansfont$}
+% $endif$
+% $if(monofont)$
+%     \setmonofont[Mapping=tex-ansi$if(monofontoptions)$,$for(monofontoptions)$$monofontoptions$$sep$,$endfor$$endif$]{$monofont$}
+% $endif$
 $if(mathfont)$
 $if(mathspec)$
   \ifxetex
@@ -223,7 +252,7 @@ $endif$
 
 \newcommand{\AFourSize}{paperwidth=210mm,paperheight=297mm,margin=2cm,twoside}
 \newcommand{\Letter}{paperwidth=8.5in,paperheight=11in,margin=1.0in,twoside}
-\newcommand{\USTrade}{paperwidth=6in,paperheight=9in,left=0.875in,right=0.625in,top=0.825in,bottom=0.825in,twoside}
+\newcommand{\USTrade}{paperwidth=6in,paperheight=9in,left=0.875in,right=0.625in,top=0.525in,bottom=0.525in,twoside}
 \newcommand{\Digest}{paperwidth=5.5in,paperheight=8.5in,left=0.875in,right=0.625in,top=0.825in,bottom=0.825in,twoside}
 \newcommand{\USSmallTrade}{paperwidth=5.25in,paperheight=8in,left=0.875in,right=0.625in,top=0.825in,bottom=0.825in,twoside}
 \newcommand{\Novella}{paperwidth=5in,paperheight=8in,left=0.775in,right=0.525in,top=0.825in,bottom=0.725in,twoside}
@@ -329,18 +358,22 @@ $endif$
 \newcommand{\currpage}{\footnotesize\thepage} % use in headers
 \fancyhead{} % clear header fields, required
 \fancyfoot{} % clear footer fields, required
-\fancyfoot[C]{\currpage}
+% \fancyfoot[C]{\currpage}
+\fancyhead[LE,RO]{\currpage}
 
 \fancyhead[CO]{ \footnotesize\MakeUppercase{$title$}  } % Odd Page, Right side
 \fancyhead[CE]{ \footnotesize\MakeUppercase{$author$} } % Even Page, Right side
 \renewcommand\headrulewidth{0pt} % for no rule line under header
 
 \titleformat{\chapter}[display]
-  {\bfseries\Large}
-  {\filright\MakeUppercase{\chaptertitlename} \Huge\thechapter}
-  {1ex}
-  {\titlerule\vspace{1ex}\filleft}
-  [\vspace{1ex}\titlerule]
+  {\normalfont\sffamily\huge\bfseries\color{blue}}
+  {\chaptertitlename\ \thechapter}{20pt}{\Huge}
+% \titleformat{\chapter}[display]
+%   {\bfseries\Large}
+%   {\filright\MakeUppercase{\chaptertitlename} \Huge\thechapter}
+%   {1ex}
+%   {\titlerule\vspace{1ex}\filleft}
+%   [\vspace{1ex}\titlerule]
 
 $if(lang)$
   \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
