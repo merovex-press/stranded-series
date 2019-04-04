@@ -1,14 +1,19 @@
+TARGET=$(shell cat wip)
 SHELL = /bin/bash
 BUILD_DIR = build/
 TEMPLATE_DIR = templates/
-IMAGES_DIR = wip/images/
+IMAGES_DIR = $(TARGET)/images/
 CSS_FILE = style.css
 VERSION = $(shell git describe --abbrev=0 --tags)
 VERSION := $(if $(VERSION),$(VERSION),"none")
-OUTPUT_BASENAME = $(shell basename $(CURDIR))-$(VERSION)
+# BRANCH := $(shell git for-each-ref --format='%(objectname) %(refname:short)' refs/heads | awk "/^$$(git rev-parse HEAD)/ {print \$$2}")
+
+OUTPUT_BASENAME = $(shell basename $(CURDIR))-$(TARGET)-$(VERSION)
+
+
 
 # CHAPTERS = text/*.md
-CHAPTERS = $(shell find wip/text -type f -name '*.md' | sort )
+CHAPTERS = $(shell find ${TARGET}/text -type f -name '*.md' | sort )
 METADATA = metadata.yml
 LATEX_CLASS = book
 
