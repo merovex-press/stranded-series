@@ -1,14 +1,14 @@
 SHELL = /bin/bash
 BUILD_DIR = build/
 TEMPLATE_DIR = templates/
-IMAGES_DIR = images/
+IMAGES_DIR = wip/images/
 CSS_FILE = style.css
 VERSION = $(shell git describe --abbrev=0 --tags)
 VERSION := $(if $(VERSION),$(VERSION),"none")
 OUTPUT_BASENAME = $(shell basename $(CURDIR))-$(VERSION)
 
 # CHAPTERS = text/*.md
-CHAPTERS = $(shell find text -type f -name '*.md' | sort )
+CHAPTERS = $(shell find wip/text -type f -name '*.md' | sort )
 METADATA = metadata.yml
 LATEX_CLASS = book
 
