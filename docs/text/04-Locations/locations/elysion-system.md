@@ -45,8 +45,7 @@ Note: Habitability calculation provided from [Tobias Mueller's calculator](http:
 | # | Name | Distance | Type |
 | --- | --- | --- | --- |
 | 0 | Elysion Junior  | 0 | K5V Star |
-| 1 | x | 0.2<sub>AU</sub> | ?? |
-| 2 | x | 0.5<sub>AU</sub>  |   |   |
-| 3 | Elysion | 0.8<sub>AU</sub>  |   |   |
-| 4 | X | 1.4<sub>AU</sub>  |   |   |
-| 5 | x | 2.6<sub>AU</sub>  |   |   |
+| 1 | x | 0.4<sub>AU</sub>  |   |   |
+| 2 | Elysion | 0.6<sub>AU</sub>  |   |   |
+| 3 | X | 1.4<sub>AU</sub>  |   |   |
+| 4 | x | 2.6<sub>AU</sub>  |   |   |
