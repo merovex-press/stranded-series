@@ -58,15 +58,18 @@ The cannon was quickly replaced by what we would consider modern field artillery
 
 Engine development was slower as it derived from patent research. Dates below indicate when they were commercially available.
 
+* 1820 - Electricity using hydropower. Biomass generators commercially available by 1839
 * 1826 - Oil discovered, knock 20 years off of evolution of oil
 * 1828 - Diesel engine (called the biomass engine)
-* 1836 - JL Chandler reverse engineered neutrino power, receiving a patent on the Chandler Power Cubes.
+* **1836 - JL Chandler reverse engineered neutrino power, receiving a patent on the Chandler Power Cubes.**
 * 1836 - Gasoline engine - limited use to highly urban environments due to poor infrastructure and lack of access to gas.
 * 1839 - Diesel locomotive - Slow and mechanically inefficient
-* 1842 - First Neutrinovoltaic powered locomotive using the MicroChandler Power Cube.
-* Gasoline automobile - 1845, limited utility in favor of biomass trucks.
-* Oil-burning naval ships - 1888
-* Electricity - 1820 - using hydropower. Biomass generators commercially available by 1839
+* **1842 - First Neutrinovoltaic powered (NVP) locomotive using the MicroChandler Power Cube.**
+* 1845 - Gasoline automobile limited utility in favor of biomass trucks.
+* **1859 - First Neutrinovoltaic powered (NVP) automobile. [See real timeline](https://en.wikipedia.org/wiki/History_of_the_electric_vehicle#Electric_model_cars)**
+* 1888 - Oil-burning naval ships
+* 1869 - NVP "Victoria" Taxies introduced by Walter C. Bersey (10y early, see Images)
+
 
 ### Slipstream Technology
 
