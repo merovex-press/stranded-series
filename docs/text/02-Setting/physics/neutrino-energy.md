@@ -15,7 +15,7 @@ Johnathan Link Chandler was the first to reverse engineer the Toltec Neutrino En
 | ---- | ---- |--- | ---- | ---- | ---- |
 | Neutrino Power Cell | 1x1x1 | 1 | 2 1/4" | 9oz each | 122 Watt |
 | MicroChandler Power Cube | 3x3x3 | 27 | 6 3/4" | 15# 3oz | 3.3KW |
-| MiniChandler Power Cube | 8x8x5 | 320 | 18"x18"x11 | 1/4" | 180# | 39KW |
+| MiniChandler Power Cube | 8x8x5 | 320 | 18"x18"x11-1/4" | 180# | 39KW |
 | FullChandler Power Cube | 16x16x16 | 4096 | 1 yard cubed | 2304# or 1t. | 500KW |
 
 - annixxite
