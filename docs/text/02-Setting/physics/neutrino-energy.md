@@ -7,6 +7,19 @@
 * **Neutrino Energy Harvesting** is when energy can be derived from many different sources such as radio waves, vibrations, heat, or light, and these sources can be either natural or artificial. Solar cells convert light; thermoelectric generators convert heat flux (temperature differences); and Neutrino Power Cubes convert vibrations caused by neutrinos and anti-neutrinos into electricity.
 * Today is the era of "**homo electricus**," and electricity will continue to play an important role in mankind's never-ending strides towards further development.
 
+### Neutrino Power Cube
+
+Johnathan Link Chandler was the first to reverse engineer the Toltec Neutrino Engine, creating the Chandler Neutrino Power Cell, and Power Cubes, 33 PD
+
+| Name | Size | Volume | Weight | Power |
+| ---- | ---- | ---- | ---- | ---- |
+| Neutrino Power Cell | 1x1x1 | 2 1/4" | 9oz each | 122 Watt |
+| MicroChandler Power Cube | 3x3x3 | 27 | 6 3/4" | 15# 3oz | 3.3KW |
+| MiniChandler Power Cube | 8x8x5 | 320 | 18"x18"x11|1/4" | 180# | 39KW |
+| FullChandler Power Cube | 16x16x16 | 4096 | 1 yard cubed | 2304# or 1t. | 500KW |
+
+- annixxite
+
 ### References
 
 * [Neutrino energy: harnessing the power of cosmic radiation](https://www.power-technology.com/features/neutrino-energy-harnessing-the-power-of-cosmic-radiation/)
