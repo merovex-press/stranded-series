@@ -2,6 +2,8 @@
 
 ### Spacecraft
 
+<!-- Do not break the reaction-based system to keep him on the planet. -->
+
 **Design.** Spacecraft are symmetrically built around a frame. Propulsion is reaction-based, so a considerable amount of the ship's total mass is its consumable reaction material. Ships cannot travel in atmosphere as gravity will crush the frame. Travel between planet and orbitals is done through interface vehicles. **Ships are built like office towers** (Pringles cans), with small decks stacked on top of each other, which experience gravity only when the ship is under thrust.
 
 **Travel.** When traveling, ships accelerate to the midpoint of their journey, turn around, and decelerate. No dogfights, no Immelmann or Crazy Ivan maneuvers. Safe travel means accelerating to a midpoint at 1.0-1.5 G, turn around, decelerate at 1.0-1.5 G, over a period of several days.
@@ -15,7 +17,6 @@
 Knot
 
 ### Inner System
-
 
 
 | V-shift | Acc.(g) | Duration (extended range) | typical range to slipknot (5AU) | Earth  to Moon (400,00 km) | Earth to Mars (.5 AU) | Earth to Pluto (30 AU) | Earth to Oort  cloud (1 ly)
