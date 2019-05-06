@@ -5,7 +5,7 @@
 * 1756-1763 - Seven Years War occurs as the 4th intercolonial war between England/France.
 * 1765-1771 - Strain between American colonies and heavily indebted Britain led to a new Parliament that incorporated representation of American colonies. This prevents the American Revolutionary War.
   - 1765-66 - Stamp Act passed and repealed.
-  - 1766 - Parliament invites a delegation of American colonies to work out differences. **_The [Declaratory Act of 1766](https://en.wikipedia.org/wiki/Declaratory_Act) never occurs._**
+  - **1766 - Parliament invites a delegation of American colonies to work out differences. _The [Declaratory Act of 1766](https://en.wikipedia.org/wiki/Declaratory_Act) never occurs._**
   - 1767-69 - A series of conversations were had between Parliament and colonial legislatures.
   - 1769 - Rights of Englishmen Act of 1769 extended to continental colonial Englishmen.
   - 1771 - Reform in America Act of 1771 transforms the continental colonies to six provinces: Canada, New England, Pennsylvania, Virginia, Carolina, Georgia. Each province given limited representation in British Parliament.
@@ -33,9 +33,11 @@
 
 ### Weapons Development
 
+Weapons development in the 19th Century accelerated based on access to working Toltec weapons. Toltecs continued to use slug-throwing weapons, so this accelerates the introduction of semi- and full-automatic weaponry. Based on the Neutrino discoveries, scientists speculate the Toltec withheld their more advanced weaponry from Earth.
+
 #### Personal Weapons
 
-Several weapons were found in the Toltec Indian Mound Temple. Anglo-American first reverse-engineered the actual weapon as the first generation. A second iteration led to improvements
+Several weapons were found in the Toltec Indian Mound Temple. Anglo-American first reverse-engineered the actual weapon as the first generation. A second iteration led to improvements.
 
 * 1803 - Pennsylvania Toltec Arms, Ltd. (PTA Ltd.) chartered by Jacob Dickert and Martin Meylin Jr. to reverse-engineer & produce Toltec weapons, moved by royal request to Harper's Ferry.
 * 1807 first successful reverse-engineered prototype built
@@ -61,28 +63,30 @@ Engine development was slower as it derived from patent research. Dates below in
 * 1820 - Electricity using hydropower. Biomass generators commercially available by 1839
 * 1826 - Oil discovered, knock 20 years off of evolution of oil
 * 1828 - Diesel engine (called the biomass engine)
-* **1836 - JL Chandler reverse engineered neutrino power, receiving a patent on the Chandler Power Cubes.**
+* **1836 - JL Chandler reverse engineered neutrino power, receiving a patent on the Chandler Power Cubes. (15 June)**
 * 1836 - Gasoline engine - limited use to highly urban environments due to poor infrastructure and lack of access to gas.
 * 1839 - Diesel locomotive - Slow and mechanically inefficient
 * **1842 - First Neutrinovoltaic powered (NVP) locomotive using the MicroChandler Power Cube.**
 * 1845 - Gasoline automobile limited utility in favor of biomass trucks.
-* **1859 - First Neutrinovoltaic powered (NVP) automobile. [See real timeline](https://en.wikipedia.org/wiki/History_of_the_electric_vehicle#Electric_model_cars)**
-* 1888 - Oil-burning naval ships
-* 1869 - NVP "Victoria" Taxies introduced by Walter C. Bersey (10y early, see Images)
-
+* **1845 - Chandler died (29 December), Chandler's patent on the CPCs lapses in 1846.**
+* **1859 - First Neutrinovoltaic powered (NVP) automobile by Tucker. [See real timeline](https://en.wikipedia.org/wiki/History_of_the_electric_vehicle#Electric_model_cars)**
+* 1861 - Latimer Clark and Sir Charles Bright coined the name "volt" for the unit of resistance. **This countered the growing interest in naming it the "Chand" or "Chandle" as part of the resistance to Toltec influences. The term was in widespread use by 1869.**
+* **1869 - NVP "Victoria" Taxies introduced by Walter C. Bersey** (10y early, see Images)
+* **1888 - NVP oceangoing ships**  (Oil-burning naval ships)
 
 ### Slipstream Technology
 
 Slipstream technology describes the ability to get from Earth to Slipstream and through Slipstream
 
-* Slipstream travel discovered in computer - 1828
+* 1828 - Slipstream travel discovered in computer
 * 1881 - Society for Slipsteam Research (SSR) established
 * 1828-1870 - Building out the infrastructure
-* 1870 - Earth to Orbit - Reusable spacecraft.
+* 1870 - Earth to Orbit - Reusable spacecraft based on Toltec designs
+* 1873 - First Man on the Moon
 * 1876 - Orbit to Slipstream
 * 1880 - First successful jump between Earth and another system
 * 1880 - SSR Renamed Odyssey, Ltd.
 * 1889 - Slipstreams all mapped out
 * 1898 - Orbital in Migdal system started
 * 1904 - Migdal Orbital operational
-* 1907 - Migdal Orbital attacked
+* 1911 - Migdal Orbital attacked
