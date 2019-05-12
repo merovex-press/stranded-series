@@ -1,3 +1,5 @@
+## Character Tip
+
 A Visual. When I see the face of my character, it automatically starts the cauldron bubbling with possible characteristics. So I immediately figure out my character’s age and then go looking on the internet for a headshot that reaches out and says, “I’m your character.” I want the image to surprise me a bit, too.
 
 A Voice. I begin a voice journal, which is a free-form document of the character talking to me. I may prod them with questions, but I mainly want to keep typing until a distinctive sound begins to appear. As a bonus, what the character tells me about their background may prove useful in the book.

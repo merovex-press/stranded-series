@@ -5,6 +5,7 @@ author: "Ben Wilson"
 website: "https://merovex.com"
 imprint: "images/logo.png"
 toc: true
+toc-depth: 2
 # Other titles
 other-titles:
   - Bellicose

@@ -1,4 +1,4 @@
-## Neutrino Energy
+### Neutrino Energy
 
 * The neutrino is the source of abundant, clean, renewable energy.
 * Neutrinovoltaic - a low voltage system of 12/24/48V DC
@@ -9,7 +9,7 @@
 
 ### Chandler Neutrino Power Cube
 
-Johnathan Link Chandler was the first to reverse engineer the Toltec Neutrino Engine, creating the Chandler Neutrino Power Cell, and Power Cubes. The NVPC (Neutrino-voltaic Power Cube) is a 2.25" cube. Chandler encased them in a thin layer of white porcelain with four brass electrodes flush with the body. This allows the cubes to be tethered to create the larger power cubes.
+**Johnathan Link Chandler** was the first to reverse engineer the Toltec Neutrino Engine, creating the Chandler Neutrino Power Cell, and Power Cubes. The NVPC (Neutrino-voltaic Power Cube) is a 2.25" cube. Chandler encased them in a thin layer of white porcelain with four brass electrodes flush with the body. This allows the cubes to be tethered to create the larger power cubes.
 
 | Name | Use | Size | # | Volume | Weight | Power |
 | ---- | --- | ---- |--- | ---- | ---- | ---- |
@@ -26,7 +26,7 @@ The 1-Stone power cube was enough to power late 19C destroyers. The HMS Dreadnou
 
 When humanity found the Toltec orbitals, they saw just how closely Chandler's design worked, with 160-Stone cubes. The Toltec called them Annichites.
 
-### References
+#### References
 
 * [Neutrino energy: harnessing the power of cosmic radiation](https://www.power-technology.com/features/neutrino-energy-harnessing-the-power-of-cosmic-radiation/)
 * [Neutrino energy](https://neutrino-energy.com/)

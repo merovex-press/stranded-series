@@ -1,6 +1,6 @@
-## Space travel
+### Space travel
 
-### Spacecraft
+#### Spacecraft
 
 <!-- Do not break the reaction-based system to keep him on the planet. -->
 
@@ -12,11 +12,11 @@
 
 **Payload.** These concerns combine to suggest that a ships payload section is relatively small (10-30% of the ship’s mass), Given the limits on payload, space for crew, weapons, cargo, and extras is limited. Slipdrives are small to allow FTL travel within the design constraints (i.e. we wanted ships both with slipdrives and with guns), and so the limit on FTL travel comes from the point of departure, well above the ecliptic of the system.
 
-### Slipstream
+#### Slipstream
 
 Knot
 
-### Inner System
+#### Inner System
 
 
 | V-shift | Acc.(g) | Duration (extended range) | typical range to slipknot (5AU) | Earth  to Moon (400,00 km) | Earth to Mars (.5 AU) | Earth to Pluto (30 AU) | Earth to Oort  cloud (1 ly)
