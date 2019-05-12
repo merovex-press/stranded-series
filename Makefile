@@ -10,10 +10,8 @@ VERSION := $(if $(VERSION),$(VERSION),"none")
 
 OUTPUT_BASENAME = $(shell basename $(CURDIR))-$(TARGET)-$(VERSION)
 
-
-
 # CHAPTERS = text/*.md
-CHAPTERS = $(shell find ${TARGET}/text -type f -name '*.md' | sort )
+CHAPTERS = $(shell find ${TARGET} -type f -name '*.md' | sort )
 METADATA = metadata.yml
 LATEX_CLASS = book
 
