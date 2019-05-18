@@ -1,7 +1,5 @@
 # Tropes Detailed
 
-
-
 ## Being Good Sucks
 
 ## CrapsackWorld

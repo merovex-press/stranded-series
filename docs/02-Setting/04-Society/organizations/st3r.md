@@ -1,6 +1,6 @@
-## Society for Toltec Technology Trove Research Efforts (ST3R) / Society for Alien Research (SAR)
+### Society for Toltec Technology Trove Research Efforts (ST3R) / Society for Alien Research (SAR)
 
-### Directors
+#### Directors
 
 * Robert Scot (1793 until his death in 1823)
 * William Kneass (1824 until his death in 1840)
