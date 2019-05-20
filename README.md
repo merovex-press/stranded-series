@@ -1,4 +1,4 @@
-# Stranded Series Bible
+# Strand Series Bible
 
 <!-- contents -->
 Table of Contents
@@ -30,7 +30,7 @@ This is 212,000 words (191 to 233 @ ± 10%), equivalent to three novels ~71Kw (6
 
 | Topic | Notes |
 | -- | -- |
-| **Logline**   | Wrongfully accused of murder, anthropologist Albert Sevrin flees the orbital to the alien world below. Albert must adapt to the alien society and its intrigues, and decides to use his superior understanding of technology to his advantage. |
+| **Logline**   | Wrongfully accused of murder, anthropologist Albert Strand flees the orbital to the alien world below. Albert must adapt to the alien society and its intrigues, and decides to use his superior understanding of technology to his advantage. |
 | **Character** | Stranded is the story of a man who took his family & homeland for granted. |
 | **Conflict**  | His career focus neglected his family, and he's now stranded on an alien planet worried he will never get back to them.  |
 | **Theme**     | Stranded asks whether one can glorify God while focusing on self-aggrandizement. |
@@ -52,7 +52,7 @@ _**a one-page (4-5 paragraph) summary of the world, major characters and central
 
 In the 18th century, humanity discovered advanced alien technology in the Toltec Indian mounds. Over the next 150 years, society embraces the technology and develops interstellar travel via the slipstream, all while retaining paranoid nationalism. When they encounter other human settlements on alien worlds, they chose to study them out of concern that "alien" use of slipstream technology puts them at risk.
 
-Albert Sevrin is a descendent of the original discoverer of the Indian mounds and lives under that shadow. Putting career before family, he lobbied hard to be assigned to the Orbital.
+Albert Strand is a descendent of the original discoverer of the Indian mounds and lives under that shadow. Putting career before family, he lobbied hard to be assigned to the Orbital.
 
 
 ## Setting (Where & When)
@@ -73,15 +73,15 @@ Elysion inhabitants are humans genetically identical to Earth. Albert encounters
 
 | Name | Summary |
 | -- | -- |
-| **[Albert&nbsp;Sevrin, protagonist](#)** | is the descendent of one of the Slipstream discoverers. His drive to honor the family legacy leads him to turn his back on his new family and spend two years on a research orbital. As his tour wraps up, his orbital is attacked by anarchists, forcing him to abandon ship. The ship inexplicably navigates straight to the surface below. He crashes. He awakes hostage on an alien world. He uses his knowledge of advanced technology to survive. He tries desperately to develop the means to return home while trying to maneuver in the real war on the alien planet. But, he must keep the alien humans from mastering the technology and awaking the real threat to his homeworld.|
+| **[Albert&nbsp;Strand, protagonist](#)** | is the descendent of one of the Slipstream discoverers. His drive to honor the family legacy leads him to turn his back on his new family and spend two years on a research orbital. As his tour wraps up, his orbital is attacked by anarchists, forcing him to abandon ship. The ship inexplicably navigates straight to the surface below. He crashes. He awakes hostage on an alien world. He uses his knowledge of advanced technology to survive. He tries desperately to develop the means to return home while trying to maneuver in the real war on the alien planet. But, he must keep the alien humans from mastering the technology and awaking the real threat to his homeworld.|
 | **[Adomas&nbsp;Galliulin - Alien ruler - Country, Antagonist](#)** | wants to dominate his wee continent. He paints himself as the victim and tries to seduce Albert (whom he calls "Herbert", which is a play on words) to support him with newfangled weapons. He wants a doomsday weapon. He is "Country."|
 | **[Tongo&nbsp;Rad - Alien scientist - Duty](#)** | works for AR. He's assigned to help with the doomsday weapon and steal ideas from Albert. His fanatical dedication to AR is slowly eroded by his interaction with Albert. He decides (or pretends to) help Albert get home. He is "Duty."|
 | **[Irina&nbsp;Galliulin - Alien princess - Honor](#)** | is AR's daughter. She falls in love with Albert and wants him to fall in love with her. She is "Honor."|
-| **[Dr.&nbsp;Sevrin - Albert's Father - Country](#)** | wants to keep his domination of industry. When his son is reported missing, he is split between serving his company and saving his son who is probably dead. "I have another."|
+| **[Dr.&nbsp;Strand - Albert's Father - Country](#)** | wants to keep his domination of industry. When his son is reported missing, he is split between serving his company and saving his son who is probably dead. "I have another."|
 | **[Michael&nbsp;Richards - Albert's "best" Friend - Duty](#)** | was with him when they were attacked, and helped Albert escape. We learn early on this was a ruse to get rid of Albert so that his friend could go after the widow...|
 | **[Charles&nbsp;Napier - Albert's true best Friend - Duty](#)** | with him before being sent home. He is the action between the Father & Wife...while the Father comes to want his son home, he can't do the work.|
 | **[Mabel&nbsp;Downey - Albert's wife & Family  - Honor](#)** | she is heartbroken when he left, and mourns when she finds him reported missing. She is suspicious of the friend, especially after he clearly makes advances to him. She is the steel that pushes Father to do something, and develops to be a force to be reckoned with.|
-| **[Clarance Dankworth](#)** | Hot-headed Ulster orphan who managed to get into a public school with Albert and became "Blaster" to Albert's "Master." He replaces Charles as the unofficial Sevrin guardian. He is stranded along with Albert. |
+| **[Clarance Dankworth](#)** | Hot-headed Ulster orphan who managed to get into a public school with Albert and became "Blaster" to Albert's "Master." He replaces Charles as the unofficial Strand guardian. He is stranded along with Albert. |
 | **[Slora Hanlon](#)**   | Thrown into prison the episode after Albert and after Mabel prays for Albert. He's the mentor. |
 
 * Phyllis Douglas
@@ -118,9 +118,11 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 | **2** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
 | **3** | The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands. |
 
+1. Albert Strand craves exploration and adventure but is trapped in London. When the opportunity to go to the Elysian Orbital, he persuades the deciders he can go. Once at the orbital, however, he encounters more boredom until his schoolmate "Blaster" arrives. (News of increased hostility with Germany). The orbital crew begin to argue and fight, wondering whether it was something to do with the Orbital, when a member ends up murdered. Strand is implicated, and when he and Blaster board
+
 ## Glossary
 
-[a listing of world-unique terms](/docs/glossary.md)
+[a listing of world-unique terms](/docs/99-Miscellaneous/glossary.md)
 
 ## BUSINESS PLAN
 
