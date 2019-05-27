@@ -118,7 +118,9 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 | **2** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
 | **3** | The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands. |
 
-1. Albert Strand craves exploration and adventure but is trapped in London. When the opportunity to go to the Elysian Orbital, he persuades the deciders he can go. Once at the orbital, however, he encounters more boredom until his schoolmate "Blaster" arrives. (News of increased hostility with Germany). The orbital crew begin to argue and fight, wondering whether it was something to do with the Orbital, when a member ends up murdered. Strand is implicated, and when he and Blaster board
+1. Albert Strand craves exploration and adventure but is trapped in London. When the opportunity to go to the Elysian Orbital, he persuades the deciders he can go. Once at the orbital, however, he encounters more boredom until his schoolmate Clarance "Blaster" Dankworth arrives. (News of increased hostility with Germany). The orbital crew begin to argue and fight, wondering whether it was something to do with the Orbital, when a member ends up murdered. Mike Richards implicates Strand & Dankworth, but when the two board the transfer shuttle an explosion sends them to the planet's surface instead.
+2. Strand regains consciousness in time to pull the shuttle's emergency parachute. Landing hard, Strand sets up a camp while Dankworth is unconscious. The two try to explore quietly, but are caught up by the locals while raiding a farm for food. They are held by the farmer when soldiers arrive looking for the wrecked ship; the farmer's son helps them escape.
+3. ...
 
 ## Glossary
 
