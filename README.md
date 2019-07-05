@@ -124,7 +124,7 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 
 ## Glossary
 
-[a listing of world-unique terms](/docs/99-Miscellaneous/glossary.md)
+[a listing of world-unique terms](/series-bible/99-Miscellaneous/glossary.md)
 
 ## BUSINESS PLAN
 
