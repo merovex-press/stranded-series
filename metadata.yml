@@ -23,7 +23,7 @@ country: Printed in the United States of America
 # ===============================================
 # Book formatting
 #
-links-as-notes: true
+links-as-notes: false
 fontsize: 10pt
 trimsize: Novella
 toc: false
