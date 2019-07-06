@@ -1,5 +1,9 @@
 # Overview
 
+<!-- concept-overview -->
+**Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
+<!-- concept-overview -->
+
 **Logline.** Wrongfully accused of murder, anthropologist Albert Strand flees the orbital to the alien world below. Albert must adapt to the alien society and its intrigues, and decides to use his superior understanding of technology to his advantage.
 
 ## Character & Conflict
@@ -21,6 +25,12 @@ _Who is the target audience? a narrative description of your target audience. Th
   - [Breaking Bad](https://en.wikipedia.org/wiki/Breaking_Bad) - a man who makes things worse in an effort to make things better.
 
 ## Format
+
+<!-- format-overview -->
+
+**Stranded** is a series of novellas, with eight novellas to a season. The intent is for a reader to complete a novella in roughly two hours of reading, or under four hours listening via Audible. This size was chosen to favor flying.
+
+<!-- /format-overview -->
 
 Each season comprises eight novella episodes (26,500±2,500 words or 80±8 pages). Therefore, each season is 212,000 words (191 to 233 @ ± 10%), or about three 70,000 novels. Each novella comprises 8 three-scene segments or 24 scenes (~1100 words per scene).
 
