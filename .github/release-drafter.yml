@@ -1,4 +1,26 @@
+name-template: 'v$NEXT_MINOR_VERSION'
+tag-template: 'v$NEXT_MINOR_VERSION'
+categories:
+  - title: 'Releases'
+    labels:
+      - 'releasing'
+      - 'publishing'
+  - title: 'Work in Progress'
+    labels:
+      - 'writing'
+      - 'docs'
+  - title: 'Bug Fixes'
+    labels:
+      - 'fix'
+      - 'typo'
+      - 'bug'
+  - title: 'Maintenance'
+    labels:
+      - 'chore'
+      - 'feat'
+
+change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 template: |
-  ## What’s Changed
+  ## Changes
 
   $CHANGES
