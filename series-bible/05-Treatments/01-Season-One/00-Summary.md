@@ -1,3 +1,7 @@
+---
+season: 1
+synopsis: The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers.
+---
 ## Season One
 
 Follows the [seven stages of grief](https://www.betterhelp.com/advice/grief/understanding-the-stages-of-grief/)

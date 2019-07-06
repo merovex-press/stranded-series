@@ -18,20 +18,14 @@ def replace(file_path, tag, content)
   string = File.open(file_path,'r').read()
 
   string = string.scan(/(<!-- #{tag} -->.*<!-- \/#{tag} -->)/imu).flatten.join("\n")
-  # return content.gsub(/<!-- #{tag} -->(.*)<!-- \/#{tag} -->/im, string)
   return substitute(tag,content,string)
 end
-
-# Open source files and build array
-
 actions.each do |key, value|
-  # puts "Replacing #{key} from #{value}."
   content = replace(value, key, content)
 end
 
-
+## Characters
 characters = []
-
 Dir.glob("./series-bible/03-Characters/*.md").each { |file|
   begin
     y = YAML.load_file(file)
@@ -45,10 +39,27 @@ characters.sort_by { |k| k["order"] }.each do |c|
   character_section << "### #{c['name']} (#{c['role']})\n\n#{c['summary']}\n\n"
 end
 character_section << "<!-- /character-section -->"
-
-# puts character_section
 content = substitute("character-section",content,character_section)
-# puts characters.inspect
+
+## Seasons
+seasons = []
+Dir.glob("./series-bible/05-Treatments/**/*.md").each { |file|
+  begin
+    y = YAML.load_file(file)
+    y['filename'] = file
+    seasons << y if y.is_a? Hash
+  rescue
+  end
+}
+# puts seasons.inspect
+season_section = "<!-- season-section -->\n| # | Synopsis |\n| :-: | - |\n"
+seasons.sort_by { |k| k["season"] }.each do |c|
+  season_section << "| **[#{c['season']}](#{c['filename']})** | #{c['synopsis']} |\n"
+end
+season_section << "<!-- /season-section -->"
+
+
+content = substitute("season-section",content,season_section)
 # puts content
 
 File.open('README.md','w').write(content)
