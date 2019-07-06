@@ -2,11 +2,26 @@
 
 <!-- concept-overview -->
 **Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
-<!-- concept-overview -->
+<!-- /concept-overview -->
 
-<!-- contents -->
+<!--ts-->
+   * [Strand Series](#strand-series)
+      * [Setting](#setting)
+      * [Format](#format)
+      * [Characters](#characters)
+         * [Albert Strand (hero)](#albert-strand-hero)
+         * [Clarance Dankworth (ally)](#clarance-dankworth-ally)
+      * [Key Locations](#key-locations)
+      * [Series Outline](#series-outline)
+      * [Seasons](#seasons)
+      * [Glossary](#glossary)
+      * [Contributing](#contributing)
+      * [Commit Style](#commit-style)
+      * [LICENSE](#license)
 
-<!-- /contents -->
+<!-- Added by: merovex, at:  -->
+
+<!--te-->
 
 _We often thank the gifts instead of the giver. Thank you for more breath to praise you with._
 
@@ -66,10 +81,11 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 
 [a listing of world-unique terms](/series-bible/99-Miscellaneous/glossary.md)
 
-## BUSINESS PLAN
+## Contributing
 
-* [Artist]()
-* [Editor]()
+First of all, thank you for thinking of contributing. Writing is a largely solo effort, so direct contribution is unlikely with the exception of beta readers and editors. If you find a mistake somewhere, the reader community and I would love it if you would create an issue. I will review and address all legitimate issues posted.
+
+Before creating an issue, please [check this list](https://github.com/Merovex/stranded-series/issues) as you might find out that you don't need to create one. When you are creating a report, please include as many details as possible.
 
 ## Commit Style
 
