@@ -2,22 +2,11 @@
 
 <!-- concept-overview -->
 **Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
-<!-- /concept-overview -->
+<!-- concept-overview -->
 
-## Contents
+<!-- contents -->
 
-* [Setting](#setting)
-* [Format](#format)
-* [Characters](#characters)
-  * [Albert Strand (hero)](#albert-strand-hero)
-  * [Clarance Dankworth (ally)](#clarance-dankworth-ally)
-* [Key Locations](#key-locations)
-* [Series Outline](#series-outline)
-* [Seasons](#seasons)
-* [Glossary](#glossary)
-* [Contributing](#contributing)
-* [Commit Style](#commit-style)
-* [LICENSE](#license)
+<!-- /contents -->
 
 _We often thank the gifts instead of the giver. Thank you for more breath to praise you with._
 
@@ -40,6 +29,13 @@ Elysion inhabitants are humans genetically identical to Earth. Albert encounters
 <!-- /format-overview -->
 
 ## Characters
+
+**_This section comprises all your major characters and in 2-3 paragraphs for each, outline their personal characteristics, wants, needs, obstacles and flaws. It should also clearly indicate the relationships between characters._**
+
+**_Describe you main protagonist and other key characters in the series. Write less about their background and more about their current circumstances and shared conflict. A short paragraph for each is ideal. Clarify how they view their world, and how they relate to others. Create irony with their behavior. Find the flaw in a hero, and a redeeming quality in an antagonist._**
+
+* **Central Character** - This is where we’re really going to get to know your main character. Even if this is an ensemble, dive deep into at least one principle character. Attach some images of a popular star who fits the type. An actor you think is both interesting to executives, but who’s personality and type conveys the character you have in mind. Consider images that maybe show wardrobe design. This is fun, think of it like casting your project. Then go into detail on who this person is. Include a few important defining moments from their backstory. What brings them to the story the pilot will tell. What will happen to them? What inner conflict will they struggle with? What positive qualities make them great? What flaws might be their downfall.
+* **Antagonist**  An antagonist could be the source of the conflict our main character will need to face. A broad villain type works in certain types of action adventure dramas. It could also be someone who seems good on the outside but is manipulating situations. Many popular shows play with the idea of who the villains and heroes are by blurring the lines, and upending expectations. Throw in some specifics about this character and his or her back story. In what ways will he challenge the lead? How will he help him to grow? Might they work together at some point? Will they ever come into direct conflict?
 
 <!-- character-section -->
 ### Albert Strand (hero)
@@ -73,15 +69,25 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 | **[2](./series-bible/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
 <!-- /season-section -->
 
+### Old synopes
+| #| Synopsis |
+| -- | -- |
+| **[1](/season-one.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
+| **2** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
+| **3** | The third season begins with the quest to get Max back. Gleason leaves the force to take matters into his own hands. |
+
+1. Albert Strand craves exploration and adventure but is trapped in London. When the opportunity to go to the Elysian Orbital, he persuades the deciders he can go. Once at the orbital, however, he encounters more boredom until his schoolmate Clarance "Blaster" Dankworth arrives. (News of increased hostility with Germany). The orbital crew begin to argue and fight, wondering whether it was something to do with the Orbital, when a member ends up murdered. Mike Richards implicates Strand & Dankworth, but when the two board the transfer shuttle an explosion sends them to the planet's surface instead.
+2. Strand regains consciousness in time to pull the shuttle's emergency parachute. Landing hard, Strand sets up a camp while Dankworth is unconscious. The two try to explore quietly, but are caught up by the locals while raiding a farm for food. They are held by the farmer when soldiers arrive looking for the wrecked ship; the farmer's son helps them escape.
+3. ...
+
 ## Glossary
 
 [a listing of world-unique terms](/series-bible/99-Miscellaneous/glossary.md)
 
-## Contributing
+## BUSINESS PLAN
 
-First of all, thank you for thinking of contributing. Writing is a largely solo effort, so direct contribution is unlikely with the exception of beta readers and editors. If you find a mistake somewhere, the reader community and I would love it if you would create an issue. I will review and address all legitimate issues posted.
-
-Before creating an issue, please [check this list](https://github.com/Merovex/stranded-series/issues) as you might find out that you don't need to create one. When you are creating a report, please include as many details as possible.
+* [Artist]()
+* [Editor]()
 
 ## Commit Style
 

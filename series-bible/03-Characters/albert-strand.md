@@ -1,3 +1,9 @@
+---
+name: Albert Strand
+role: hero
+order: 1
+summary: This is a summary of Albert strand.
+---
 ## Albert Strand
 
 Born 1882.
