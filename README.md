@@ -92,6 +92,9 @@ In order to try to put some structure to my commits, I add the following "types"
 3. **typo**: correctionA commit of this type shows a correction to any work (whether for publication or not.)
 3. **cleanup**: a commit of this type is used when making formatting, organization or other fixes that are otherwise immaterial.
 
+* https://github.com/toolmantim/release-drafter#readme
+* https://github.com/settings/installations/1239713
+
 ## LICENSE
 
 Copyright 2018 - Benjamin C. Wilson - All Rights Reserved
