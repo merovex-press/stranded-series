@@ -1,4 +1,10 @@
-# Strand Series Bible
+# Strand Series
+
+A little info about the project (concept)
+
+## Motivation
+
+Strand Series is an alternative history novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home. I wrote this series in Markdown and used a Pandoc wrapper (Verkilo) to
 
 <!-- contents -->
 Table of Contents
@@ -87,8 +93,8 @@ Elysion inhabitants are humans genetically identical to Earth. Albert encounters
 * Elizabeth Rodgers
 * Bill Blackburn
 
-<!-- * **Central Character** - This is where we’re really going to get to know your main character. Even if this is an ensemble, dive deep into at least one principle character. Attach some images of a popular star who fits the type. An actor you think is both interesting to executives, but who’s personality and type conveys the character you have in mind. Consider images that maybe show wardrobe design. This is fun, think of it like casting your project. Then go into detail on who this person is. Include a few important defining moments from their backstory. What brings them to the story the pilot will tell. What will happen to them? What inner conflict will they struggle with? What positive qualities make them great? What flaws might be their downfall.
-* **Antagonist**  An antagonist could be the source of the conflict our main character will need to face. A broad villain type works in certain types of action adventure dramas. It could also be someone who seems good on the outside but is manipulating situations. Many popular shows play with the idea of who the villains and heroes are by blurring the lines, and upending expectations. Throw in some specifics about this character and his or her back story. In what ways will he challenge the lead? How will he help him to grow? Might they work together at some point? Will they ever come into direct conflict? -->
+* **Central Character** - This is where we’re really going to get to know your main character. Even if this is an ensemble, dive deep into at least one principle character. Attach some images of a popular star who fits the type. An actor you think is both interesting to executives, but who’s personality and type conveys the character you have in mind. Consider images that maybe show wardrobe design. This is fun, think of it like casting your project. Then go into detail on who this person is. Include a few important defining moments from their backstory. What brings them to the story the pilot will tell. What will happen to them? What inner conflict will they struggle with? What positive qualities make them great? What flaws might be their downfall.
+* **Antagonist**  An antagonist could be the source of the conflict our main character will need to face. A broad villain type works in certain types of action adventure dramas. It could also be someone who seems good on the outside but is manipulating situations. Many popular shows play with the idea of who the villains and heroes are by blurring the lines, and upending expectations. Throw in some specifics about this character and his or her back story. In what ways will he challenge the lead? How will he help him to grow? Might they work together at some point? Will they ever come into direct conflict?
 
 ### Minor Characters
 
