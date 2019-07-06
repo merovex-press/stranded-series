@@ -34,6 +34,17 @@ Elysion inhabitants are humans genetically identical to Earth. Albert encounters
 
 **_Describe you main protagonist and other key characters in the series. Write less about their background and more about their current circumstances and shared conflict. A short paragraph for each is ideal. Clarify how they view their world, and how they relate to others. Create irony with their behavior. Find the flaw in a hero, and a redeeming quality in an antagonist._**
 
+<!-- character-section -->
+### Albert Strand (hero)
+
+This is a summary of Albert strand.
+
+### Clarance Dankworth (ally)
+
+Clarance is "Blaster" to Albert's "Master," and the reason why they had to flee New Briton Orbital. He is read and willing to fight, and has a knack for being proficient in any weapon. During the first season, he is such a loyal companion of Albert's that the natives haul him away to kill him...Rasputin style. He manages to survive, later coming back with a rebel army of sorts as an effort to save Albert. Fiercely loyal to Albert.
+
+<!-- /character-section -->
+
 * **Central Character** - This is where we’re really going to get to know your main character. Even if this is an ensemble, dive deep into at least one principle character. Attach some images of a popular star who fits the type. An actor you think is both interesting to executives, but who’s personality and type conveys the character you have in mind. Consider images that maybe show wardrobe design. This is fun, think of it like casting your project. Then go into detail on who this person is. Include a few important defining moments from their backstory. What brings them to the story the pilot will tell. What will happen to them? What inner conflict will they struggle with? What positive qualities make them great? What flaws might be their downfall.
 * **Antagonist**  An antagonist could be the source of the conflict our main character will need to face. A broad villain type works in certain types of action adventure dramas. It could also be someone who seems good on the outside but is manipulating situations. Many popular shows play with the idea of who the villains and heroes are by blurring the lines, and upending expectations. Throw in some specifics about this character and his or her back story. In what ways will he challenge the lead? How will he help him to grow? Might they work together at some point? Will they ever come into direct conflict?
 
