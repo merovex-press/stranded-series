@@ -22,12 +22,12 @@ _Who is the target audience? a narrative description of your target audience. Th
 
 ## Format
 
-Each season comprises 8 novella episodes (26,500±2,500 words or 80±8 pages). Therefore, each season is 212,000 words (191 to 233 @ ± 10%), or about three 70Kw novels. Each novella comprises 8 three-scene segments or 24 scenes (~1100 words per scene).
+Each season comprises eight novella episodes (26,500±2,500 words or 80±8 pages). Therefore, each season is 212,000 words (191 to 233 @ ± 10%), or about three 70,000 novels. Each novella comprises 8 three-scene segments or 24 scenes (~1100 words per scene).
 
 * Reading pace: Average adult reading time is 220wpm. Therefore, each novella should take about two hours to read ± 10% (26,500±2,500 words or 80±8 pages)
 * Listening pace: Audible standard voice pace is 125wpm. A novella should complete in about 3.5 hours.
 
-### Pattern
+### Episode Pattern
 
 * **Pattern.**
   - Albert has a problem.
