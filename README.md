@@ -69,6 +69,7 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 | **[2](./series-bible/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
 <!-- /season-section -->
 
+### Old synopes
 | #| Synopsis |
 | -- | -- |
 | **[1](/season-one.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
