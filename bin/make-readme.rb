@@ -4,6 +4,7 @@ actions = {
   "series-outline" => "series-bible/01-Overview/10-series-outline.md",
   "setting-overview" => "series-bible/02-Setting/00-Overview.md",
   "format-overview" => "series-bible/01-Overview/01-concept.md",
+  "concept-overview" => "series-bible/01-Overview/01-concept.md",
 }
 
 content = File.open('README.md','r').read()
@@ -22,5 +23,5 @@ actions.each do |key, value|
   content = replace(value, key, content)
 end
 
-File.open('Readme-new.md','w').write(content)
+File.open('README.md','w').write(content)
 # puts content

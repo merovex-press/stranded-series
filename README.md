@@ -1,6 +1,8 @@
 # Strand Series
 
+<!-- concept-overview -->
 **Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
+<!-- concept-overview -->
 
 <!-- contents -->
 
@@ -11,17 +13,20 @@ _We often thank the gifts instead of the giver. Thank you for more breath to pra
 ## Setting
 
 <!-- setting-overview -->
+The story occurs after 160 years of [technologic acceleration](https://tvtropes.org/pmwiki/pmwiki.php/Main/GivingRadioToTheRomans) after the English discovered [ancient alien technology](https://tvtropes.org/pmwiki/pmwiki.php/Main/AncientAstronauts) in British America. Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
 
+Toltec writings led to British "discovery" of the [Slipstream](./series-bible/08-Science-Cosmology/slipstream.md), providing faster-than-light travel. Traveling the slipsteam reveals "[Elysion](./series-bible/04-Locations/Elysion/00-elysion.md)," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.
+
+Elysion inhabitants are humans genetically identical to Earth. Albert encounters the Hela, a dark-skinned, Indo-European-appearing ethnicity speaking what Albert determines is an older Germanic (Icelandic) language. The Hela, technologically in the Renaissance, are in the early stages of a civil war, with a rival branch of the ruling family seeking to gain power.
 <!-- /setting-overview -->
 
-## Concept/Franchise
+## Format
 
-<!-- concept-overview -->
+<!-- format-overview -->
 
 **Stranded** is a series of novellas, with eight novellas to a season. The intent is for a reader to complete a novella in roughly two hours of reading, or under four hours listening via Audible. This size was chosen to favor flying.
 
-<!-- /concept-overview -->
-
+<!-- /format-overview -->
 
 ## Characters
 
