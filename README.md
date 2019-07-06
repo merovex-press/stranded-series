@@ -4,24 +4,20 @@
 **Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
 <!-- /concept-overview -->
 
-<!--ts-->
-   * [Strand Series](#strand-series)
-      * [Setting](#setting)
-      * [Format](#format)
-      * [Characters](#characters)
-         * [Albert Strand (hero)](#albert-strand-hero)
-         * [Clarance Dankworth (ally)](#clarance-dankworth-ally)
-      * [Key Locations](#key-locations)
-      * [Series Outline](#series-outline)
-      * [Seasons](#seasons)
-      * [Glossary](#glossary)
-      * [Contributing](#contributing)
-      * [Commit Style](#commit-style)
-      * [LICENSE](#license)
+## Contents
 
-<!-- Added by: merovex, at:  -->
-
-<!--te-->
+* [Setting](#setting)
+* [Format](#format)
+* [Characters](#characters)
+  * [Albert Strand (hero)](#albert-strand-hero)
+  * [Clarance Dankworth (ally)](#clarance-dankworth-ally)
+* [Key Locations](#key-locations)
+* [Series Outline](#series-outline)
+* [Seasons](#seasons)
+* [Glossary](#glossary)
+* [Contributing](#contributing)
+* [Commit Style](#commit-style)
+* [LICENSE](#license)
 
 _We often thank the gifts instead of the giver. Thank you for more breath to praise you with._
 
