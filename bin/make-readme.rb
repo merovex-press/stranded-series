@@ -34,10 +34,6 @@ Read more about [%{name}](%{filename})
 
 HERE
 
-season_template =<<HERE;
-| **[%{season}](%{filename})** | %{synopsis} |
-HERE
-
 toc_template = "%s* [%s](#%s)\n"
 
 # ============================================
@@ -75,13 +71,32 @@ Dir.glob("./series-bible/05-Treatments/**/*.md").each { |file|
   begin
     y = YAML.load_file(file)
     seasons << {
-      :season => y['season'].to_i,
-      :synopsis => y['synopsis'],
+      :name => y['name'],
+      :role => y['role'],
+      :order => y['order'],
+      :summary => y['summary'],
       :filename => file,
     } if y.is_a? Hash
   rescue
   end
 }
+# ============================================
+## Locations
+locations = []
+Dir.glob("./series-bible/04-Locations/**/*.md").each { |file|
+  begin
+    y = YAML.load_file(file)
+    locations << {
+      :name => y['name'],
+      :role => y['role'],
+      :order => y['order'],
+      :summary => y['summary'],
+      :filename => file,
+    } if y.is_a? Hash
+  rescue
+  end
+}
+
 content = buildList(
   "character-section",
   character_template,
@@ -90,10 +105,17 @@ content = buildList(
   content
 )
 content = buildList(
+  "location-section",
+  "* **[%{name}](%{filename}).** %{summary}",
+  locations,
+  :name,
+  content
+)
+content = buildList(
   "season-section",
-  season_template,
+  "| **[%{order}](%{filename})** | %{summary} |",
   seasons,
-  :season,
+  :order,
   content,
   "| # | Synopsis |\n| :-: | - |\n"
 )

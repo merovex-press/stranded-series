@@ -19,7 +19,7 @@
 * [Glossary](#glossary)
 * [Contributing](#contributing)
 * [Commit Style](#commit-style)
-* [LICENSE](#license)
+* [License](#license)
 <!-- /toc -->
 
 _We often thank the gifts instead of the giver. Thank you for more breath to praise you with._
@@ -50,7 +50,7 @@ These are the major characters in the series and their roles.
 
 ### Albert Strand (hero)
 
-This is a summary of Albert strand.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Read more about [Albert Strand](./series-bible/03-Characters/albert-strand.md)
 
@@ -66,6 +66,8 @@ Read more about [Clarance Dankworth](./series-bible/03-Characters/clarance-dankw
 ## Key Locations
 
 * **[Elysion Orbital](#)**
+<!-- location-section --><!-- auto-populated -->
+* **[Elysion System](./series-bible/04-Locations/Elysion/elysion-system.md).** Elysion is a binary system (G2V, KV5). Third planet around Elysion Junior is Elysion, the focal planet for the system.<!-- /location-section -->
 
 <!-- series-outline --><!-- auto-populated -->
 
@@ -81,9 +83,7 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 <!-- season-section --><!-- auto-populated -->
 | # | Synopsis |
 | :-: | - |
-| **[1](./series-bible/05-Treatments/01-Season-One/00-Summary.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
-| **[2](./series-bible/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
-<!-- /season-section -->
+| **[1](./series-bible/05-Treatments/01-Season-One/00-Summary.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. || **[2](./series-bible/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |<!-- /season-section -->
 
 ## Glossary
 
