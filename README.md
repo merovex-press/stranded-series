@@ -81,10 +81,12 @@ a 1-2 page that gives an overview of the characters, major series arcs.
 _a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline._
 
 <!-- season-section --><!-- auto-populated -->
+
 | # | Synopsis |
 | :-: | |
 | **[1](./series-bible/05-Treatments/01-Season-One/00-Summary.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
 | **[2](./series-bible/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
+
 <!-- /season-section -->
 
 ## Tropes
