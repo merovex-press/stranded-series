@@ -106,14 +106,14 @@ content = buildList(
 )
 content = buildList(
   "location-section",
-  "* **[%{name}](%{filename}).** %{summary}",
+  "* **[%{name}](%{filename}).** %{summary}\n",
   locations,
   :name,
   content
 )
 content = buildList(
   "season-section",
-  "| **[%{order}](%{filename})** | %{summary} |",
+  "| **[%{order}](%{filename})** | %{summary} |\n",
   seasons,
   :order,
   content,

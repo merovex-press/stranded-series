@@ -65,9 +65,10 @@ Read more about [Clarance Dankworth](./series-bible/03-Characters/clarance-dankw
 
 ## Key Locations
 
-* **[Elysion Orbital](#)**
 <!-- location-section --><!-- auto-populated -->
-* **[Elysion System](./series-bible/04-Locations/Elysion/elysion-system.md).** Elysion is a binary system (G2V, KV5). Third planet around Elysion Junior is Elysion, the focal planet for the system.<!-- /location-section -->
+* **[Elysion System](./series-bible/04-Locations/Elysion/elysion-system.md).** Elysion is a binary system (G2V, KV5). Third planet around Elysion Junior is Elysion, the focal planet for the system.
+* **[New Briton Orbital](./series-bible/04-Locations/Elysion/new-briton-orbital.md).** New Briton Orbital is the Toltec orbital over Elysion that allows the British to observe the planet below
+<!-- /location-section -->
 
 <!-- series-outline --><!-- auto-populated -->
 
@@ -83,7 +84,9 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 <!-- season-section --><!-- auto-populated -->
 | # | Synopsis |
 | :-: | - |
-| **[1](./series-bible/05-Treatments/01-Season-One/00-Summary.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. || **[2](./series-bible/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |<!-- /season-section -->
+| **[1](./series-bible/05-Treatments/01-Season-One/00-Summary.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
+| **[2](./series-bible/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
+<!-- /season-section -->
 
 ## Glossary
 
