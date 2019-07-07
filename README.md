@@ -97,7 +97,7 @@ Before creating an issue, please [check this list](https://github.com/Merovex/st
 
 ## Commit Style
 
-In order to try to put some structure to my commits, I add the following "types" to commit messages using the format <type>(<scope>): <subject>.
+In order to try to put some structure to my commits, I add the following "types" to commit messages using the format `<type>(<scope>): <subject>`.
 
 1. **wip**: a commit of this type shows forward progress in a for-publication work
 2. **docs**: A commit of this type shows progress in supporting materials (e.g. README, series bible, etc.)
