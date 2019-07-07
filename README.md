@@ -98,6 +98,7 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 * **[Giving Radio to the Romans](./series-bible/AA-Appendix/Tropes/Giving-Radio-to-the-Romans.md).** Going back in time and giving modern technology to ancient people.
 * **[Hobbes Was Right](./series-bible/AA-Appendix/Tropes/Hobbes-Was-Right.md).** Humans Are Bastards, and only tyranny can make them anything else.
 * **[Knight in Sour Armor](./series-bible/AA-Appendix/Tropes/Knight-in-Sour-Armor.md).** The Hero knows their job isn't easy, but they keep trying anyway, despite how cruel the world can be.
+* **[One Big Lie](./series-bible/AA-Appendix/Tropes/Mohs-Scale-of-Science-Fiction-Hardness.md).** The level of realism and unrealism in a Science Fiction story.
 <!-- /trope-section -->
 
 ## Glossary
