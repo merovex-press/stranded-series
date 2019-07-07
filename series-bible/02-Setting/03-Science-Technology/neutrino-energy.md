@@ -1,4 +1,4 @@
-### Neutrino Energy
+<!-- ### Neutrino Energy
 
 * The neutrino is the source of abundant, clean, renewable energy.
 * Neutrinovoltaic - a low voltage system of 12/24/48V DC
@@ -13,4 +13,4 @@
 * [Neutrino energy](https://neutrino-energy.com/)
 * [Neutrino Wiki](https://neutrino-wiki.com/)
 
-[WO2016142056A1]: https://patents.google.com/patent/WO2016142056A1/en
+[WO2016142056A1]: https://patents.google.com/patent/WO2016142056A1/en -->

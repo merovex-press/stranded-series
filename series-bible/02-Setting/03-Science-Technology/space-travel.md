@@ -1,4 +1,6 @@
-### Space travel
+### Space Travel
+
+This section discusses slower-than-light (STL) space travel.
 
 #### Spacecraft
 

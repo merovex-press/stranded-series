@@ -5,6 +5,8 @@
 
 **Stranded Timeline.** The Toltec Mounds are found throughout the Mississippi river valley (the [Ohio Hopewell region](https://en.wikipedia.org/wiki/Hopewell_tradition#Ohio_Hopewell_culture)). These are likewise confused with the Toltecs by an Englishman who fancied himself an adept at native cultures. He persuaded enough people that he was right until the name stuck until the period of Babylonian Captivity (1826-40). There is no relationship between the Toltecs and the advanced technology discovered at the Toltec Mound.
 
+**Real name.** Once the Brits were able to read the "Toltec" language, they learned the people called themselves the Khēmía (adj. Khēmi).
+
 ### Toltec Mound
 
 Most of the mounds in the Mississippi & Ohio valleys show evidence of having had things removed, with a few scraps. One mound was left oddly intact, known in our timeline as the [Toltec Mound](https://en.wikipedia.org/wiki/Toltec_Mounds_Archeological_State_Park) (34°38'49"N 92°3'55"W) built by the [Plum Bayou culture](https://en.wikipedia.org/wiki/Plum_Bayou_culture). The Toltec Mound site provided the trove of advanced knowledge and technology that drives this series. This trove was discovered by Ephraim George Biggs on 30 November 1782.

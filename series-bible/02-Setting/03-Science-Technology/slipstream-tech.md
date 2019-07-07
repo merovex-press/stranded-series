@@ -1,6 +1,10 @@
-### Slipstream Technology
+### Slipstream Travel
+
+This section discusses faster-than-light (FTL) space travel.
 
 Slipstream technology describes the ability to get from Earth to Slipstream and through Slipstream. Odyssey Limited is the Crown chartered company responsible for exploitation of Slipsteam tech and non-solar system exploration.
+
+#### Timeline
 
 * 1828 - Slipstream travel discovered in computer
 * 1831 - Society for Slipsteam Research (SSR) established
