@@ -1,11 +1,13 @@
 # Strand Series
 
-<!-- concept-overview -->
+<!-- concept-overview --><!-- auto-populated -->
+
 **Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
 <!-- /concept-overview -->
 
 ## Contents
 
+<!-- toc --><!-- auto-populated -->
 * [Setting](#setting)
 * [Format](#format)
 * [Characters](#characters)
@@ -18,12 +20,14 @@
 * [Contributing](#contributing)
 * [Commit Style](#commit-style)
 * [LICENSE](#license)
+<!-- /toc -->
 
 _We often thank the gifts instead of the giver. Thank you for more breath to praise you with._
 
 ## Setting
 
-<!-- setting-overview -->
+<!-- setting-overview --><!-- auto-populated -->
+
 The story occurs after 160 years of [technologic acceleration](https://tvtropes.org/pmwiki/pmwiki.php/Main/GivingRadioToTheRomans) after the English discovered [ancient alien technology](https://tvtropes.org/pmwiki/pmwiki.php/Main/AncientAstronauts) in British America. Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
 
 Toltec writings led to British "discovery" of the [Slipstream](./series-bible/08-Science-Cosmology/slipstream.md), providing faster-than-light travel. Traveling the slipsteam reveals "[Elysion](./series-bible/04-Locations/Elysion/00-elysion.md)," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.
@@ -33,17 +37,16 @@ Elysion inhabitants are humans genetically identical to Earth. Albert encounters
 
 ## Format
 
-<!-- format-overview -->
+<!-- format-overview --><!-- auto-populated -->
 
 **Stranded** is a series of novellas, with eight novellas to a season. The intent is for a reader to complete a novella in roughly two hours of reading, or under four hours listening via Audible. This size was chosen to favor flying.
-
 <!-- /format-overview -->
 
 ## Characters
 
 These are the major characters in the series and their roles.
 
-<!-- character-section -->
+<!-- character-section --><!-- auto-populated -->
 
 ### Albert Strand (hero)
 
@@ -64,7 +67,8 @@ Read more about [Clarance Dankworth](./series-bible/03-Characters/clarance-dankw
 
 * **[Elysion Orbital](#)**
 
-<!-- series-outline -->
+<!-- series-outline --><!-- auto-populated -->
+
 ## Series Outline
 
 a 1-2 page that gives an overview of the characters, major series arcs.
@@ -74,7 +78,9 @@ a 1-2 page that gives an overview of the characters, major series arcs.
 
 _a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline._
 
-<!-- season-section -->
+<!-- season-section --><!-- auto-populated -->
+| # | Synopsis |
+| :-: | - |
 | **[1](./series-bible/05-Treatments/01-Season-One/00-Summary.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
 | **[2](./series-bible/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
 <!-- /season-section -->
@@ -101,7 +107,7 @@ In order to try to put some structure to my commits, I add the following "types"
 * https://github.com/toolmantim/release-drafter#readme
 * https://github.com/settings/installations/1239713
 
-## LICENSE
+## License
 
 Copyright 2018 - Benjamin C. Wilson - All Rights Reserved
 
