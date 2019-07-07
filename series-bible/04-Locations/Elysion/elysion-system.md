@@ -49,7 +49,6 @@ Note: Habitability calculation provided from [Tobias Mueller's calculator](http:
 
 | # | Name | Distance | Type |
 | --- | --- | --- | --- |
-<<<<<<< HEAD:series-bible/04-Locations/Elysion/elysion-system.md
 | 0 | Elysol Junior  | 0 | K5V Star |
 | 1 | x | 0.2<sub>AU</sub> | ?? |
 | 2 | x | 0.5<sub>AU</sub>  |   |   |
@@ -60,10 +59,9 @@ Note: Habitability calculation provided from [Tobias Mueller's calculator](http:
 ### Elysion
 
 Earth first became aware of Elysion via Toltec documentation. Three years before Season One, the Brits made their first successful jump through the Slipstream to Elysol and then to the Elysion Orbital.
-=======
+
 | 0 | Elysion Junior  | 0 | K5V Star |
 | 1 | x | 0.4<sub>AU</sub>  |   |   |
 | 2 | Elysion | 0.6<sub>AU</sub>  |   |   |
 | 3 | X | 1.4<sub>AU</sub>  |   |   |
 | 4 | x | 2.6<sub>AU</sub>  |   |   |
->>>>>>> f51b6236ee8d678af87e3177ed678bd034b61ee7:docs/text/04-Locations/locations/elysion-system.md
