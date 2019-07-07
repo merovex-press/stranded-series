@@ -56,7 +56,7 @@ More on [Albert Strand](./series-bible/03-Characters/albert-strand.md)
 
 ### Clarance Dankworth (ally)
 
-Clarance is "Blaster" to Albert's "Master," and the reason why they had to flee New Briton Orbital. He is read and willing to fight, and has a knack for being proficient in any weapon. During the first season, he is such a loyal companion of Albert's that the natives haul him away to kill him...Rasputin style. He manages to survive, later coming back with a rebel army of sorts as an effort to save Albert. Fiercely loyal to Albert.
+Clarance is "Blaster" to Albert's "Master," and the reason why they had to flee New Briton Orbital. He is a _Blood Knight_, lives for fighting and battle, and has a knack for being proficient in any weapon. During the first season, he is such a loyal companion of Albert's that the natives haul him away to kill him...Rasputin style. He manages to survive, later coming back with a rebel army of sorts as an effort to save Albert. Fiercely loyal to Albert.
 
 More on [Clarance Dankworth](./series-bible/03-Characters/clarance-dankworth.md)
 
@@ -91,6 +91,7 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 
 <!-- trope-section --><!-- auto-populated -->
 * **[Being Good Sucks](./series-bible/AA-Appendix/Tropes/Being-Good-Sucks.md).** Doing right is hard and no fun.
+* **[Blood Knight](./series-bible/AA-Appendix/Tropes/Blood-Knight.md).** Lives for fighting and battling.
 * **[Crapsack World](./series-bible/AA-Appendix/Tropes/Crapsack-World.md).** Life here SUCKS.
 * **[Giving Radio to the Romans](./series-bible/AA-Appendix/Tropes/Giving-Radio-to-the-Romans.md).** Going back in time and giving modern technology to ancient people.
 * **[Hobbes Was Right](./series-bible/AA-Appendix/Tropes/Hobbes-Was-Right.md).** Humans Are Bastards, and only tyranny can make them anything else.
@@ -99,7 +100,7 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 
 ## Glossary
 
-[a listing of world-unique terms](/series-bible/99-Miscellaneous/glossary.md)
+[a listing of world-unique terms](./series-bible/GG-Glossary/glossary.md)
 
 ## Contributing
 

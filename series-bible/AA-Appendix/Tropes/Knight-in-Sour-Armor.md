@@ -28,9 +28,6 @@ Will often overlap with [The Snark Knight][UzouGqDL]. Compare [Angst? What Angst
 
 #### Knight in Sour Armor / Playing With
 
-Created: Jul 07, 2019 12:56 PM
-URL: https://tvtropes.org/pmwiki/pmwiki.php/PlayingWith/KnightInSourArmor
-
 **Basic Trope**: A cynical character who is nevertheless [obstinately good][HAdZYHjX].
 
 - **Straight**: Alice [Lime][h2Gj56UI] is an experienced police detective who honestly expects most of her cases to end [in tragedy][y1AhbVbG]... [but not for lack of trying][hM1P6s0q].

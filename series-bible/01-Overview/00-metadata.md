@@ -7,6 +7,7 @@ rights: Copyright © 2019 Ben Wilson
 trimsize: Textbook
 crop: true
 toc: true
+links-as-notes: true
 # lccn:  # http://www.loc.gov/publish/pcn/
 
 isbn: # Paperback
