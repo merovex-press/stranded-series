@@ -30,29 +30,24 @@ These are examples of teams that fit **all five** of the character tropes. Remem
 
 As a rule of thumb, if your band example has to justify more than two types, or a single trope with more than two sentences of qualifiers, you're trying to fool yourself. If it isn't a Five-Man Band, it isn't a Five-Man Band.
 
-## Examples
-
-open/close all folders
-
-
 <!-- Reference URLs -->
-[EFkJWNpM]: 5_man_band_2-6d59140e-f430-431b-8fdb-28fcc2ba7d36.jpg 
-[msRYnP7v]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheLeader 
-[xEGOLr2Z]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheHero 
-[bB6fIcqX]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheLancer 
-[Ld41ALqA]: https://tvtropes.org/pmwiki/pmwiki.php/Main/Foil 
-[vi78sP08]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero 
-[YDBUsnHc]: https://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker 
-[pgA5PZhq]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheSmartGuy 
-[vHGcwCml]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheTrickster 
-[sYP1KxeK]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheBigGuy 
-[lm204qrW]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChick 
-[nrzSY30u]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheHeart 
-[2U3D4aVg]: https://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeAmigos 
-[Ox3KlVqO]: https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerTrio 
-[Ftq2THNh]: https://tvtropes.org/pmwiki/pmwiki.php/Main/CastCalculus 
-[3RstFD4S]: https://tvtropes.org/pmwiki/pmwiki.php/Main/FixedRelativeStrength 
-[CuChoTZ3]: https://tvtropes.org/pmwiki/pmwiki.php/Main/CommandRoster 
-[lu9PxRdA]: https://tvtropes.org/pmwiki/pmwiki.php/Main/ThePsychoRangers 
-[1grFNlkm]: https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilCounterpart 
-[yqLCXrzE]: https://tvtropes.org/pmwiki/pmwiki.php/Main/FourTemperamentEnsemble 
+[EFkJWNpM]: 5_man_band_2-6d59140e-f430-431b-8fdb-28fcc2ba7d36.jpg
+[msRYnP7v]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheLeader
+[xEGOLr2Z]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheHero
+[bB6fIcqX]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheLancer
+[Ld41ALqA]: https://tvtropes.org/pmwiki/pmwiki.php/Main/Foil
+[vi78sP08]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero
+[YDBUsnHc]: https://tvtropes.org/pmwiki/pmwiki.php/Main/DeadpanSnarker
+[pgA5PZhq]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheSmartGuy
+[vHGcwCml]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheTrickster
+[sYP1KxeK]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheBigGuy
+[lm204qrW]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheChick
+[nrzSY30u]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheHeart
+[2U3D4aVg]: https://tvtropes.org/pmwiki/pmwiki.php/Main/ThreeAmigos
+[Ox3KlVqO]: https://tvtropes.org/pmwiki/pmwiki.php/Main/PowerTrio
+[Ftq2THNh]: https://tvtropes.org/pmwiki/pmwiki.php/Main/CastCalculus
+[3RstFD4S]: https://tvtropes.org/pmwiki/pmwiki.php/Main/FixedRelativeStrength
+[CuChoTZ3]: https://tvtropes.org/pmwiki/pmwiki.php/Main/CommandRoster
+[lu9PxRdA]: https://tvtropes.org/pmwiki/pmwiki.php/Main/ThePsychoRangers
+[1grFNlkm]: https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilCounterpart
+[yqLCXrzE]: https://tvtropes.org/pmwiki/pmwiki.php/Main/FourTemperamentEnsemble

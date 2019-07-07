@@ -31,10 +31,6 @@ There may be a few cursory alien plants and rodents or perhaps a [Monster of the
 
 One of two standard solutions to the [Fermi Paradox][Wuwb29XT]; the other is [Invisible Aliens][ssGcqtp7], in which aliens exist but are being hidden or removed by [Applied Phlebotinum][UIWzLzRL].
 
-## Examples:
-
-open/close all folders
-
 <!-- Reference URLs -->
 [E47HSzhs]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AbsentAliens
 [FsNUD7SB]: https://tvtropes.org/pmwiki/pmwiki.php/Main/SciFiWritersHaveNoSenseOfScale

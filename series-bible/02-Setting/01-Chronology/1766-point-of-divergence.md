@@ -1,4 +1,4 @@
-### 1763-1772: Point of Divergence
+### 1763-1776: Point of Divergence
 
 The Seven Year's War occurs as the fourth intercolonial war between England and France (1756-63). The war progressed as depicted in history.
 
@@ -6,9 +6,10 @@ The relationship strain between England and its 13 American continental colonies
 
 Four pieces of legislation resulted from these negotiations:
 
-* **Rights of Englishmen Act of 1769** extended to continental colonial Englishmen.
-* **Reform in America Act of 1771** transforms the continental colonies to six provinces: Canada, New England, Pennsylvania, Virginia, Carolina, Georgia. Each province given limited representation in British Parliament.
+* **Rights of Englishmen Act of 1769** extended to _continental colonial_ Englishmen (not to Caribbean Colonials).
+* **Reform in America Act of 1771** transforms the continental colonies to six provinces: Canada, New England, Pennsylvania, Virginia, Carolina, Georgia. In exchange, each province given limited representation in British Parliament.
 * **Rights of Religious Liberty Act of 1772** permits provinces to manage their own religious affairs. In exchange, the American provinces cooperated with levying taxes that paid down British debt.
+* **Discovery of Toltec Technology - 2 August 1776.** Ephraim George Biggs, a surveyor, discovered what became known as the Biggs Toltec Mound.
 
 <!-- * 1756-1763 - Seven Years War occurs as the 4th intercolonial war between England/France.
 * 1765-1771 - Strain between American colonies and heavily indebted Britain led to a new Parliament that incorporated representation of American colonies. This prevents the American Revolutionary War.

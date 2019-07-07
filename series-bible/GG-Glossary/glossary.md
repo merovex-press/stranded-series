@@ -7,7 +7,7 @@ In such cases it can be useful to compile a glossary of terms and terminology to
 ## Space Travel
 
 **Knot**
-: the point where a ship can use the slipstream to travel to another system.
+: the point where a ship can use the slipstream to travel to another system. This also refers to the number of jumps a ship takes between source and destination (e.g., two knots from Sol to Elysion).
 
 **Slipdrive**
 : a small FTL drive that allows one to travel between two systems
