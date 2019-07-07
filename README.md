@@ -41,14 +41,22 @@ Elysion inhabitants are humans genetically identical to Earth. Albert encounters
 
 ## Characters
 
+These are the major characters in the series and their roles.
+
 <!-- character-section -->
+
 ### Albert Strand (hero)
 
 This is a summary of Albert strand.
 
+Read more about [Albert Strand](./series-bible/03-Characters/albert-strand.md)
+
+
 ### Clarance Dankworth (ally)
 
 Clarance is "Blaster" to Albert's "Master," and the reason why they had to flee New Briton Orbital. He is read and willing to fight, and has a knack for being proficient in any weapon. During the first season, he is such a loyal companion of Albert's that the natives haul him away to kill him...Rasputin style. He manages to survive, later coming back with a rebel army of sorts as an effort to save Albert. Fiercely loyal to Albert.
+
+Read more about [Clarance Dankworth](./series-bible/03-Characters/clarance-dankworth.md)
 
 <!-- /character-section -->
 
@@ -67,8 +75,6 @@ a 1-2 page that gives an overview of the characters, major series arcs.
 _a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline._
 
 <!-- season-section -->
-| # | Synopsis |
-| :-: | - |
 | **[1](./series-bible/05-Treatments/01-Season-One/00-Summary.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
 | **[2](./series-bible/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
 <!-- /season-section -->
