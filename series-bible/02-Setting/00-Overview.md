@@ -3,7 +3,7 @@
 _Setting details (where & when) that backdrop the series. This is lengthy for Science Fiction, but shorter for a suburban housewife drama setting._
 
 <!-- setting-overview -->
-The story occurs after 160 years of [technologic acceleration](https://tvtropes.org/pmwiki/pmwiki.php/Main/GivingRadioToTheRomans) after the English discovered [ancient alien technology](https://tvtropes.org/pmwiki/pmwiki.php/Main/AncientAstronauts) in British America. Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
+**Stranded** occurs after 160 years of [technologic acceleration](https://tvtropes.org/pmwiki/pmwiki.php/Main/GivingRadioToTheRomans) after the English discovered [ancient alien technology](Advanced-Ancient-Humans.md) in British America. Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
 
 Toltec writings led to British "discovery" of the [Slipstream](./series-bible/08-Science-Cosmology/slipstream.md), providing faster-than-light travel. Traveling the slipsteam reveals "[Elysion](./series-bible/04-Locations/Elysion/00-elysion.md)," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.
 
