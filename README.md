@@ -90,9 +90,11 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 ## Tropes
 
 <!-- trope-section --><!-- auto-populated -->
+* **[Absent Aliens](./series-bible/AA-Appendix/Tropes/Absent-Aliens.md).** Humans are the only intelligent life in the universe.
 * **[Being Good Sucks](./series-bible/AA-Appendix/Tropes/Being-Good-Sucks.md).** Doing right is hard and no fun.
 * **[Blood Knight](./series-bible/AA-Appendix/Tropes/Blood-Knight.md).** Lives for fighting and battling.
 * **[Crapsack World](./series-bible/AA-Appendix/Tropes/Crapsack-World.md).** Life here SUCKS.
+* **[Five-Man Band](./series-bible/AA-Appendix/Tropes/Five-Man-Band.md).** One leads, one contrasts, one thinks, one lifts, and one keeps all of the above from killing one another.
 * **[Giving Radio to the Romans](./series-bible/AA-Appendix/Tropes/Giving-Radio-to-the-Romans.md).** Going back in time and giving modern technology to ancient people.
 * **[Hobbes Was Right](./series-bible/AA-Appendix/Tropes/Hobbes-Was-Right.md).** Humans Are Bastards, and only tyranny can make them anything else.
 * **[Knight in Sour Armor](./series-bible/AA-Appendix/Tropes/Knight-in-Sour-Armor.md).** The Hero knows their job isn't easy, but they keep trying anyway, despite how cruel the world can be.
