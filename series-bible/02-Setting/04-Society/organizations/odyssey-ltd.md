@@ -1,3 +1,3 @@
 ### Odyssey Limited
 
-This is the limited charter company established by the Eutanio Crown for Slipstream exploration.
+This is the limited charter company established by the British Crown for Slipstream exploration.
