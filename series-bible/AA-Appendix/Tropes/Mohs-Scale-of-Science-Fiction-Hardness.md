@@ -1,5 +1,5 @@
 ---
-name: One Big Lie
+name: One Big Lie (Mohs Scale)
 summary: The level of realism and unrealism in a Science Fiction story.
 type: trope
 Created: Jul 07, 2019 3:39 PM
