@@ -87,10 +87,10 @@ Before creating an issue, please [check this list](https://github.com/Merovex/st
 
 In order to try to put some structure to my commits, I add the following "types" to commit messages using the format <type>(<scope>): <subject>.
 
-1. **writing**: a commit of this type shows forward progress in a for-publication work
+1. **wip**: a commit of this type shows forward progress in a for-publication work
 2. **docs**: A commit of this type shows progress in supporting materials (e.g. README, series bible, etc.)
 3. **typo**: correctionA commit of this type shows a correction to any work (whether for publication or not.)
-3. **cleanup**: a commit of this type is used when making formatting, organization or other fixes that are otherwise immaterial.
+3. **clean**: a commit of this type is used when making formatting, organization or other fixes that are otherwise immaterial.
 
 * https://github.com/toolmantim/release-drafter#readme
 * https://github.com/settings/installations/1239713

@@ -3,21 +3,21 @@ tag-template: 'v$NEXT_MINOR_VERSION'
 categories:
   - title: 'Releases'
     labels:
-      - 'releasing'
-      - 'publishing'
+      - 'release'
+      - 'publish'
   - title: 'Work in Progress'
     labels:
-      - 'writing'
+      - 'wip'
       - 'docs'
   - title: 'Bug Fixes'
     labels:
       - 'fix'
       - 'typo'
-      - 'bug'
   - title: 'Maintenance'
     labels:
       - 'chore'
       - 'feat'
+      - 'clean'
 
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 template: |
