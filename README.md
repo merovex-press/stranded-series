@@ -47,22 +47,20 @@ Elysion inhabitants are humans genetically identical to Earth. Albert encounters
 
 These are the major characters in the series and their roles.
 
-<!-- character-section --><!-- auto-populated -->
-
+<!-- major-character-section --><!-- auto-populated -->
 ### Albert Strand (hero)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Read more about [Albert Strand](./series-bible/03-Characters/albert-strand.md)
-
+More on [Albert Strand](./series-bible/03-Characters/albert-strand.md)
 
 ### Clarance Dankworth (ally)
 
 Clarance is "Blaster" to Albert's "Master," and the reason why they had to flee New Briton Orbital. He is read and willing to fight, and has a knack for being proficient in any weapon. During the first season, he is such a loyal companion of Albert's that the natives haul him away to kill him...Rasputin style. He manages to survive, later coming back with a rebel army of sorts as an effort to save Albert. Fiercely loyal to Albert.
 
-Read more about [Clarance Dankworth](./series-bible/03-Characters/clarance-dankworth.md)
+More on [Clarance Dankworth](./series-bible/03-Characters/clarance-dankworth.md)
 
-<!-- /character-section -->
+<!-- /major-character-section -->
 
 ## Key Locations
 
@@ -83,10 +81,8 @@ a 1-2 page that gives an overview of the characters, major series arcs.
 _a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline._
 
 <!-- season-section --><!-- auto-populated -->
-| # | Synopsis |
-| :-: | - |
-| **[1](./series-bible/05-Treatments/01-Season-One/00-Summary.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
 | **[2](./series-bible/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
+| **[1](./series-bible/05-Treatments/01-Season-One/00-Summary.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
 <!-- /season-section -->
 
 ## Tropes
@@ -112,10 +108,13 @@ Before creating an issue, please [check this list](https://github.com/Merovex/st
 
 In order to try to put some structure to my commits, I add the following "types" to commit messages using the format `<type>(<scope>): <subject>`.
 
-1. **wip**: a commit of this type shows forward progress in a for-publication work
-2. **docs**: A commit of this type shows progress in supporting materials (e.g. README, series bible, etc.)
-3. **typo**: correctionA commit of this type shows a correction to any work (whether for publication or not.)
-3. **clean**: a commit of this type is used when making formatting, organization or other fixes that are otherwise immaterial.
+
+1. **clean**: Shows formatting, organization or other fixes that are otherwise immaterial.
+2. **docs**: Shows progress in supporting materials (e.g. README, series bible, etc.)
+3. **feat**: Shows improvement in toolchain
+4. **typo**: Shows a correction to any work (whether for publication or not.)
+6. **wip**: Shows forward progress in a for-publication work
+
 
 * https://github.com/toolmantim/release-drafter#readme
 * https://github.com/settings/installations/1239713

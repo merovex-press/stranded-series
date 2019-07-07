@@ -1,13 +1,20 @@
 #!/usr/bin/env ruby
 
 require 'yaml'
+# require "awesome_print"
+#
+# def dump(s)
+#   ap s;
+#   exit;
+# end
 
-def buildList(tag, template, list, order, content,section="")
-  # section = ""
-  list.sort_by { |k| k[order] }.each do |i|
-    section << template % i
+def buildList( content, key, val )
+  section = val[:header] || ""
+  order   = val[:sortby] || :name
+  val[:list].sort_by { |k| k[order] }.each do |i|
+    section << val[:template] % i
   end
-  return substitute(tag,content,section)
+  return substitute("#{key}-section", content, section)
 end
 def substitute(tag,content,string)
   s = "<!-- %s --><!-- auto-populated -->\n%s<!-- \/%s -->" % [tag, string, tag]
@@ -23,18 +30,52 @@ end
 content = File.open('README.md','r').read()
 
 # ============================================
-## Templates
-character_template =<<HERE;
+## Building Section lists
+sections = {
+  "location" => {
+    :list     => [],
+    :sortby   => :name,
+    :template => "* **[%{name}](%{filename}).** %{summary}\n",
+    :header   => ""
+  },
+  "major-character" => {
+    :list     => [],
+    :sortby   => :name,
+    :template => "### %{name} (%{role})\n\n%{summary}\n\nMore on [%{name}](%{filename})\n\n",
+    :header   => ""
+  },
+  "season" => {
+    :list     => [],
+    :sortby   => :name,
+    :template => "| **[%{order}](%{filename})** | %{summary} |\n",
+    :header   => ""
+  },
+  "trope" => {
+    :list     => [],
+    :sortby   => :name,
+    :template => "* **[%{name}](%{filename}).** %{summary}\n",
+    :header   => ""
+  },
+}
 
-### %{name} (%{role})
+Dir.glob("./series-bible/**/*.md").each { |file|
+  begin
+    y = YAML.load_file(file)
+    next if sections[y['type']].nil?
+    sections[y['type']][:list] << {
+      :name     => y['name'],
+      :role     => y['role'],
+      :order    => y['order'],
+      :summary  => y['summary'],
+      :filename => file,
+    } if y.is_a? Hash
+  rescue
+  end
+}
 
-%{summary}
-
-Read more about [%{name}](%{filename})
-
-HERE
-
-toc_template = "%s* [%s](#%s)\n"
+sections.each do |key, val|
+  content = buildList(content, key, val)
+end
 
 # ============================================
 ## Perform series of static string substitutions.
@@ -48,106 +89,6 @@ actions = {
 end
 
 # ============================================
-## Characters
-characters = []
-Dir.glob("./series-bible/**/*.md").each { |file|
-  begin
-    y = YAML.load_file(file)
-    next unless y['type'] == 'major-character'
-    characters << {
-      :name => y['name'],
-      :role => y['role'],
-      :order => y['order'],
-      :summary => y['summary'],
-      :filename => file,
-    } if y.is_a? Hash
-  rescue
-  end
-}
-
-# ============================================
-## Seasons
-seasons = []
-Dir.glob("./series-bible/**/*.md").each { |file|
-  begin
-    y = YAML.load_file(file)
-    next unless y['type'] == 'season'
-    seasons << {
-      :name => y['name'],
-      :role => y['role'],
-      :order => y['order'],
-      :summary => y['summary'],
-      :filename => file,
-    } if y.is_a? Hash
-  rescue
-  end
-}
-# ============================================
-## Locations
-locations = []
-Dir.glob("./series-bible/**/*.md").each { |file|
-  begin
-    y = YAML.load_file(file)
-    next unless y['type'] == 'location'
-    locations << {
-      :name => y['name'],
-      :role => y['role'],
-      :order => y['order'],
-      :summary => y['summary'],
-      :filename => file,
-    } if y.is_a? Hash
-  rescue
-  end
-}
-
-# ============================================
-## Troopes
-tropes = []
-Dir.glob("./series-bible/**/*.md").each { |file|
-  begin
-    y = YAML.load_file(file)
-    next unless y['type'] == 'trope'
-    tropes << {
-      :name => y['name'],
-      :role => y['role'],
-      :order => y['order'],
-      :summary => y['summary'],
-      :filename => file,
-    } if y.is_a? Hash
-  rescue
-  end
-}
-
-content = buildList(
-  "character-section",
-  character_template,
-  characters,
-  :order,
-  content
-)
-content = buildList(
-  "location-section",
-  "* **[%{name}](%{filename}).** %{summary}\n",
-  locations,
-  :name,
-  content
-)
-content = buildList(
-  "trope-section",
-  "* **[%{name}](%{filename}).** %{summary}\n",
-  tropes,
-  :name,
-  content
-)
-content = buildList(
-  "season-section",
-  "| **[%{order}](%{filename})** | %{summary} |\n",
-  seasons,
-  :order,
-  content,
-  "| # | Synopsis |\n| :-: | - |\n"
-)
-
 # Building Table of Contents
 toc = ""
 content.scan(/^##\s?(.*)\n/iu).flatten.each do |header|
@@ -155,7 +96,7 @@ content.scan(/^##\s?(.*)\n/iu).flatten.each do |header|
   indent = ""
   header.gsub!(/#\s?+/) { indent += "  "; "" }
   anchor = header.downcase.gsub(/\W+/,'-').chomp('-')
-  toc << toc_template % [indent,header,anchor]
+  toc << "%s* [%s](#%s)\n" % [indent,header,anchor]
 end
 content = substitute("toc",content,toc)
 
