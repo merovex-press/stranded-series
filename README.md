@@ -90,6 +90,7 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 ## Tropes
 
 <!-- trope-section --><!-- auto-populated -->
+* **[Being Good Sucks](./series-bible/AA-Appendix/Tropes/Being-Good-Sucks.md).** Doing right is hard and no fun.
 * **[Crapsack World](./series-bible/AA-Appendix/Tropes/Crapsack-World.md).** Life here SUCKS.
 * **[Giving Radio to the Romans](./series-bible/AA-Appendix/Tropes/Giving-Radio-to-the-Romans.md).** Going back in time and giving modern technology to ancient people.
 * **[Hobbes Was Right](./series-bible/AA-Appendix/Tropes/Hobbes-Was-Right.md).** Humans Are Bastards, and only tyranny can make them anything else.
