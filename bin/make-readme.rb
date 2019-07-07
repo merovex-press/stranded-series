@@ -42,7 +42,7 @@ sections = {
     :list     => [],
     :sortby   => :order,
     :template => "| **[%{order}](%{filename})** | %{summary} |\n",
-    :header   => "| # | Synopsis |\n| :-: | |\n"
+    :header   => "| # | Synopsis |\n| :-: | - |\n"
   },
   "trope" => {
     :list     => [],
