@@ -1,12 +1,6 @@
 #!/usr/bin/env ruby
 
 require 'yaml'
-# require "awesome_print"
-#
-# def dump(s)
-#   ap s;
-#   exit;
-# end
 
 def buildList( content, key, val )
   section = val[:header] || ""
@@ -46,9 +40,9 @@ sections = {
   },
   "season" => {
     :list     => [],
-    :sortby   => :name,
+    :sortby   => :order,
     :template => "| **[%{order}](%{filename})** | %{summary} |\n",
-    :header   => ""
+    :header   => "| # | Synopsis |\n| :-: | |\n"
   },
   "trope" => {
     :list     => [],
