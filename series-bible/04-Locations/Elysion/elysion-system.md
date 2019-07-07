@@ -1,6 +1,7 @@
 ---
 name: Elysion System
 summary: Elysion is a binary system (G2V, KV5). Third planet around Elysion Junior is Elysion, the focal planet for the system.
+type: location
 ---
 
 ## Elysion System

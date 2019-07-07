@@ -50,9 +50,10 @@ end
 # ============================================
 ## Characters
 characters = []
-Dir.glob("./series-bible/03-Characters/*.md").each { |file|
+Dir.glob("./series-bible/**/*.md").each { |file|
   begin
     y = YAML.load_file(file)
+    next unless y['type'] == 'major-character'
     characters << {
       :name => y['name'],
       :role => y['role'],
@@ -67,9 +68,10 @@ Dir.glob("./series-bible/03-Characters/*.md").each { |file|
 # ============================================
 ## Seasons
 seasons = []
-Dir.glob("./series-bible/05-Treatments/**/*.md").each { |file|
+Dir.glob("./series-bible/**/*.md").each { |file|
   begin
     y = YAML.load_file(file)
+    next unless y['type'] == 'season'
     seasons << {
       :name => y['name'],
       :role => y['role'],
@@ -83,10 +85,29 @@ Dir.glob("./series-bible/05-Treatments/**/*.md").each { |file|
 # ============================================
 ## Locations
 locations = []
-Dir.glob("./series-bible/04-Locations/**/*.md").each { |file|
+Dir.glob("./series-bible/**/*.md").each { |file|
   begin
     y = YAML.load_file(file)
+    next unless y['type'] == 'location'
     locations << {
+      :name => y['name'],
+      :role => y['role'],
+      :order => y['order'],
+      :summary => y['summary'],
+      :filename => file,
+    } if y.is_a? Hash
+  rescue
+  end
+}
+
+# ============================================
+## Troopes
+tropes = []
+Dir.glob("./series-bible/**/*.md").each { |file|
+  begin
+    y = YAML.load_file(file)
+    next unless y['type'] == 'trope'
+    tropes << {
       :name => y['name'],
       :role => y['role'],
       :order => y['order'],
@@ -108,6 +129,13 @@ content = buildList(
   "location-section",
   "* **[%{name}](%{filename}).** %{summary}\n",
   locations,
+  :name,
+  content
+)
+content = buildList(
+  "trope-section",
+  "* **[%{name}](%{filename}).** %{summary}\n",
+  tropes,
   :name,
   content
 )

@@ -1,6 +1,7 @@
 ---
 name: New Briton Orbital
 summary: New Briton Orbital is the Toltec orbital over Elysion that allows the British to observe the planet below
+type: location
 ---
 
 ## New Briton Orbital

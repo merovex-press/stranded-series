@@ -16,6 +16,7 @@
 * [Key Locations](#key-locations)
 * [Series Outline](#series-outline)
 * [Seasons](#seasons)
+* [Tropes](#tropes)
 * [Glossary](#glossary)
 * [Contributing](#contributing)
 * [Commit Style](#commit-style)
@@ -87,6 +88,15 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 | **[1](./series-bible/05-Treatments/01-Season-One/00-Summary.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
 | **[2](./series-bible/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
 <!-- /season-section -->
+
+## Tropes
+
+<!-- trope-section --><!-- auto-populated -->
+* **[Crapsack World](./series-bible/AA-Appendix/Tropes/Crapsack-World.md).** Life here SUCKS.
+* **[Giving Radio to the Romans](./series-bible/AA-Appendix/Tropes/Giving-Radio-to-the-Romans.md).** Going back in time and giving modern technology to ancient people.
+* **[Hobbes Was Right](./series-bible/AA-Appendix/Tropes/Hobbes-Was-Right.md).** Humans Are Bastards, and only tyranny can make them anything else.
+* **[Knight in Sour Armor](./series-bible/AA-Appendix/Tropes/Knight-in-Sour-Armor.md).** The Hero knows their job isn't easy, but they keep trying anyway, despite how cruel the world can be.
+<!-- /trope-section -->
 
 ## Glossary
 
