@@ -4,3 +4,4 @@
 *.gls
 docs/text/images
 build/
+.token
