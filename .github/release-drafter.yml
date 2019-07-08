@@ -18,7 +18,9 @@ categories:
       - 'chore'
       - 'feat'
       - 'clean'
-
+exclude-labels:
+  - 'skip-changelog'
+  - 'skip'
 change-template: '- $TITLE @$AUTHOR (#$NUMBER)'
 template: |
   ## Changes
