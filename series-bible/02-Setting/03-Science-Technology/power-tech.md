@@ -24,6 +24,8 @@ Engine development was slower as it derived from patent research. Dates below in
 * Neutrino Power Cell (NPC)
 * Stone (st.)
 
+TODO: Fix this chart.
+
 | Name         | Size | Units |Volume| Weight|  Watts |  H Power |
 | :----------: | ---: | ----: | ---: | ----: | -----: | -------: |
 | Neutrino PC  |   1  |     1 |   2" |  0.5# |    25W |          |
@@ -36,6 +38,8 @@ Engine development was slower as it derived from patent research. Dates below in
 |    14t. CPC  |  40  |   64K | 7.5' |   14t |  1.6MW |  2145 HP |
 |    60t. CPC  |  64  |  262K |  12' |   60t |  6.6MW |  8850 HP |
 |   225t. CPC  | 104  |  1.1M |  20' |  225t |   28MW | 37500 HP |
+|   225t. CPC  | 168  |  1.1M |  20' |  225t |   28MW | 37500 HP |
+
 
 The Domestic CPC is the standard accessory of modern English domesticity (1914) at 3.1 kilowatts.
 
@@ -45,6 +49,9 @@ The Domestic CPC is the standard accessory of modern English domesticity (1914) 
 * HMS Dreadnought 23,000 shp ( 17,000 kW) - three  60t CPCs
 * Iowa class     242,000 shp (158,000 kW) - seven 225t CPCs
 * Titanic 46,000 horsepower - five 60t CPCs
+* US A1B (Ford carrier) - 700MW
+
+Use https://en.wikipedia.org/wiki/List_of_United_States_Naval_reactors US reactor designations
 -->
 
 [Historic HMS Dreadnought used 17MW propulsion](https://en.wikipedia.org/wiki/HMS_Dreadnought_(1906)). The HMS Dreadnought was launched with three 60-ton CPCs. The Titanic used five 60-ton CPCs.
