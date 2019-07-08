@@ -18,22 +18,39 @@ Engine development was slower as it derived from patent research. Dates below in
 
 #### Chandler Neutrino Power Cube
 
-**Johnathan Link Chandler** was the first to reverse engineer the Toltec Neutrino Engine, creating the Chandler Neutrino Power Cell, and Power Cubes. The NVPC (Neutrino-voltaic Power Cube) is a 2.25" cube. Chandler encased them in a thin layer of white porcelain with four brass electrodes flush with the body. This allows the cubes to be tethered to create the larger power cubes.
+**Johnathan Link Chandler** was the first to reverse engineer the Toltec Neutrino Engine (called Annichites by the Toltec), creating the Chandler Neutrino Power Cell, and Power Cubes. The NVPC (Neutrino-voltaic Power Cube) is a 2.25" cube. Chandler encased them in a thin layer of white porcelain with four brass electrodes flush with the body. This allows the cubes to be tethered to create the larger power cubes.
 
-| Name | Use | Size | # | Volume | Weight | Power |
-| ---- | --- | ---- |--- | ---- | ---- | ---- |
-| Neutrino Power Cell | Car | 1x1x1 | 1 | 2 1/4" | 9oz each | 122 Watt |
-| Domestic Chandler Power Cube | House | 2x2x2  | 8 | 5"  | 4#-8oz  | 976Watt  |
-| 1-Stone Chandler Power Cube | Ship | 3x3x3 | 27 | 6 3/4" | 15# 3oz | 3.3KW |
-| 5-Stone Chandler Power Cube | Factories | 5x5x5 | 125 | 11-1/4" | 70# | 15.2KW |
-| 20-Stone Chandler Power Cube | Battleship | 8x8x8 | 512 | 18"x18"x18" | 288# | 39KW |
-| 160-Stone Chandler Power Cube | Orbital | 16x16x16 | 4096 | 1 yard cubed | 2304# or 1t. | 500KW |
+* Chandler Power Cube (CPC)
+* Neutrino Power Cell (NPC)
+* Stone (st.)
 
-The Domestic CPC is the standard accessory of modern English domesticity (1914).
+| Name         | Size | Units |Volume| Weight|  Watts |  H Power |
+| :----------: | ---: | ----: | ---: | ----: | -----: | -------: |
+| Neutrino PC  |   1  |     1 |   2" |  0.5# |    25W |          |
+|    8-by CPC  |   2  |     8 |   5" |    4# |   200W |          |
+|   1-st. CPC  |   3  |    27 |   7" |   14# |   675W |          |
+| Domestic CPC |   5  |   125 |  12" |   70# |  3.1kW |     4 HP |
+|  20-st. CPC  |   8  |   512 |  18" |  280# | 12.8kW |    17 HP |
+| 160-st. CPC  |  16  |  4096 |   3' |    1t |  102kW |   136 HP |
+|     3t. CPC  |  24  | 13.8K |   5' |    3t |  345kW |   462 HP |
+|    14t. CPC  |  40  |   64K | 7.5' |   14t |  1.6MW |  2145 HP |
+|    60t. CPC  |  64  |  262K |  12' |   60t |  6.6MW |  8850 HP |
+|   225t. CPC  | 104  |  1.1M |  20' |  225t |   28MW | 37500 HP |
 
-The 1-Stone power cube was enough to power late 19C destroyers. The HMS Dreadnought was launched with a 20-Stone cube. The Titanic would have likewise used the 20S Cube.
+The Domestic CPC is the standard accessory of modern English domesticity (1914) at 3.1 kilowatts.
 
-When humanity found the Toltec orbitals, they saw just how closely Chandler's design worked, with 160-Stone cubes. The Toltec called them Annichites.
+<!--
+1 HP = 750 Watts
+
+* HMS Dreadnought 23,000 shp ( 17,000 kW) - three  60t CPCs
+* Iowa class     242,000 shp (158,000 kW) - seven 225t CPCs
+* Titanic 46,000 horsepower - five 60t CPCs
+-->
+
+[Historic HMS Dreadnought used 17MW propulsion](https://en.wikipedia.org/wiki/HMS_Dreadnought_(1906)). The HMS Dreadnought was launched with three 60-ton CPCs. The Titanic used five 60-ton CPCs.
+
+When humanity found the Toltec orbitals, they saw just how closely Chandler's design worked, with a single 225-ton CPC.
+
 
 #### Neutrino Energy
 
