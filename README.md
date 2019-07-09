@@ -14,7 +14,7 @@
   * [Albert Strand (hero)](#albert-strand-hero)
   * [Clarance Dankworth (ally)](#clarance-dankworth-ally)
 * [Key Locations](#key-locations)
-* [Series Outline](#series-outline)
+* [Plot / Series Outline](#plot-series-outline)
 * [Seasons](#seasons)
 * [Tropes](#tropes)
 * [Glossary](#glossary)
@@ -29,9 +29,10 @@ _We often thank the gifts instead of the giver. Thank you for more breath to pra
 
 <!-- setting-overview --><!-- auto-populated -->
 
-The story occurs after 160 years of [technologic acceleration](https://tvtropes.org/pmwiki/pmwiki.php/Main/GivingRadioToTheRomans) after the English discovered [ancient alien technology](https://tvtropes.org/pmwiki/pmwiki.php/Main/AncientAstronauts) in British America. Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
+**Stranded** occurs after 160 years of [technologic acceleration][VcUi1erb] after the English discovered [ancient technology][vLFiDV9E] in British America. The British believe the technology to come from ancient aliens they named the "Toltec" after the native mounds where the technology was discovered; there are no aliens in the series.
+Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
 
-Toltec writings led to British "discovery" of the [Slipstream](./series-bible/08-Science-Cosmology/slipstream.md), providing faster-than-light travel. Traveling the slipsteam reveals "[Elysion](./series-bible/04-Locations/Elysion/00-elysion.md)," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.
+"Toltec" writings led to British "discovery" of the [Slipstream][ltDHHbfX], providing faster-than-light travel. Traveling the Slipsteam reveals "[Elysion][UPkFi3ZN]," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.
 
 Elysion inhabitants are humans genetically identical to Earth. Albert encounters the Hela, a dark-skinned, Indo-European-appearing ethnicity speaking what Albert determines is an older Germanic (Icelandic) language. The Hela, technologically in the Renaissance, are in the early stages of a civil war, with a rival branch of the ruling family seeking to gain power.
 <!-- /setting-overview -->
@@ -65,15 +66,23 @@ More on [Clarance Dankworth](./series-bible/03-Characters/clarance-dankworth.md)
 ## Key Locations
 
 <!-- location-section --><!-- auto-populated -->
+* **[Crown Victoria Orbital](./series-bible/04-Locations/Earth/crown-victoria-orbital.md).** Crown Victoria Orbital is the Toltec orbital over Earth.
 * **[Elysion System](./series-bible/04-Locations/Elysion/elysion-system.md).** Elysion is a binary system (G2V, KV5). Third planet around Elysion Junior is Elysion, the focal planet for the system.
 * **[New Briton Orbital](./series-bible/04-Locations/Elysion/new-briton-orbital.md).** New Briton Orbital is the Toltec orbital over Elysion that allows the British to observe the planet below
 <!-- /location-section -->
 
 <!-- series-outline --><!-- auto-populated -->
 
-## Series Outline
+## Plot / Series Outline
 
+<!-- Looking at PoI's formatting https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series) -->
 a 1-2 page that gives an overview of the characters, major series arcs.
+
+1. Paragraph introduces the main character and the central series plot.
+2. Paragraph explains the major characters & relationships to main character and one-another.
+3. Paragraph summarizes major series sub-plots, one sentence per subplot. Highlight on the first major subplot to address.
+4. Paragraph of season two summary in four sentences: the core season conflict, new characters/conflicts. Service the subplots.
+5. Ditto each new season. Close each subplot introduced in the sub-plot paragraph. Introduce a new one as necessary.
 <!-- /series-outline -->
 
 ## Seasons
