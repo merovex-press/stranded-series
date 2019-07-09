@@ -3,6 +3,7 @@ name: Pilot
 summary: one-paragraph summary of pilot
 released-on: date of release
 order: 1.01
+theme: episode-theme
 type: book-treatment
 ---
 
