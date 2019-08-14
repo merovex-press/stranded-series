@@ -10,7 +10,6 @@ The **Strand Series** seeks ....
 
 1. **who.** Describe the persona of the customer.
 
-
 ## Value Proposition
 
 **Website.** The _Personal Masters of Theology_ website gives **Laura** a ready list of books that she can read to deepen her understanding of Christianity. **Charlie** benefits by having his book mentioned and reviewed on the website.
