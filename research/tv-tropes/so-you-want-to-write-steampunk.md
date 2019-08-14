@@ -4,7 +4,7 @@ What ho! You are no doubt here, good reader, because you have an interest in ste
 
 *[In which](https://tvtropes.org/pmwiki/pmwiki.php/Main/InWhichATropeIsDescribed) potential authors of the persuasion investing interest and enthusiasm in both the genre of [Steampunk](https://tvtropes.org/pmwiki/pmwiki.php/Main/Steampunk) as a whole and the exact details of the construction of stories within said genre are advised as to the most appropriate and engaging manners in which they may go about creating works which thrill and excite the reader. Said potential authors are advised to familiarise themselves with [general storytelling advice applicable to all genres](https://tvtropes.org/pmwiki/pmwiki.php/SoYouWantTo/WriteAStory) before investing time and energy here.*
 
-# **Necessary Tropes**
+## Necessary Tropes
 
 "Steampunk", of course, suggests steam-driven technology, so you will need to include this in your story. In a broader sense, steampunk also usually refers to a general attitude and aesthetic around that of the nineteenth century, incorporating the styles and fashions, attitudes and politics. This means, of course, that your story will either be set at some point within the [Industrial Revolution](https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/IndustrialRevolution) or the nineteenth century, an [Alternate History](https://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateHistory) which spun off from this point or another world which is based on these stylings.
 
@@ -12,7 +12,7 @@ Steampunk is a genre that relies very heavily on the fantastic; it's usually [Sp
 
 Steampunk derives from the earlier [Cyber Punk](https://tvtropes.org/pmwiki/pmwiki.php/Main/CyberPunk), with which it usually shares a few similiarites; such as slightly cynical outsider protagonists embroiling in adventures with technology, except in steampunk it's the steam engine and in cyberpunk it's the virtual world and the microchip. Since it draws from a body of work which was in many ways quite optimistic and fanciful, it can tend to be [Lighter and Softer](https://tvtropes.org/pmwiki/pmwiki.php/Main/LighterAndSofter) than many cyberpunk works (although this of course depends on the writer and the story being told).
 
-# **Choices, Choices**
+## Choices, Choices
 
 As noted above, consider the setting your story carefully; a story set [within the nineteenth century](https://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateHistory) will need historical research in order to make sure that it is convincing and accurate. A story set in an world with simple [Victorian flavor](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThemeParkVersion) or the use of a original world would not need such historical investigation (or any for that matter), but it still will need great heaps of information for World Building, from macro to micro. Steampunk is in many ways all about details and consistency.
 
@@ -20,7 +20,7 @@ Although Steampunk is usually considered primarily about machines, one of the th
 
 For those wanting to go further than merely [gluing some gears on](https://www.youtube.com/watch?v=TFCuE5rHbPA), achieving authenticity with Steampunk, is also an excellent excuse for giving yourself a classical education in general terms. The Victorians took both intellectualism and overall refinement, far more seriously than the average Millenial. Work on improving your [vocabulary and grammar](https://tvtropes.org/pmwiki/pmwiki.php/Main/SesquipedalianLoquaciousness). Some appreciation of Monet and other contemporary art from the period, as well as classical music will also help.
 
-# **Pitfalls**
+## Pitfalls
 
 Steampunk tends to run on [Rule of Cool](https://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfCool); in actuality, a lot of steampunk technologies (particularly those which attempt to replicate modern technologies such as the computer) would have been massive, consumed unsustainable amounts of fuel and would probably have ultimately been unworkable (there's a reason in real life the human race switched from steam to oil and gas). This, of course, does not mean that your story cannot work — it does, however, mean that you need to make sure you get the reader's [Willing Suspension of Disbelief](https://tvtropes.org/pmwiki/pmwiki.php/Main/WillingSuspensionOfDisbelief) on side. In general, as it's such a fantastic genre, the audience will accept quite a lot — but this does not mean they will accept absolutely *anything*.
 
@@ -30,7 +30,7 @@ At the flip side of the coin, an alternative history would not remain set in sto
 
 Also, Steampunk has become the 'vogue' thing of late, which means that there's a lot of it about, which means that it's possibly a bit over-used and over-done as a genre or an aesthetic. Try and find something new and different to say about it.
 
-# **Potential Subversions**
+## Potential Subversions
 
 Perhaps the great steampunk technology doesn't end up changing the world and merely becomes a lost, undiscovered curiosity? Perhaps the consumption of wood and coal at such an accelerated rate hastens environmental catastrophe as people attempt to fix the planet with the very same steampunk that destroyed it? What if the Victorian England isn't the [Politically Correct](https://tvtropes.org/pmwiki/pmwiki.php/Main/PoliticallyCorrectHistory) [Theme Park Version](https://tvtropes.org/pmwiki/pmwiki.php/Main/ThemeParkVersion), and instead the one where the fantastic Steampunk factories [are just as hazardous to the workers as other factories of the real Industrial Revolution](https://tvtropes.org/pmwiki/pmwiki.php/Main/NoOSHACompliance), London is a [Jack the Ripper](https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/JackTheRipper)-Era [Wretched Hive](https://tvtropes.org/pmwiki/pmwiki.php/Main/WretchedHive), and the [British](https://tvtropes.org/pmwiki/pmwiki.php/Main/EvilBrit) [Monarchy](https://tvtropes.org/pmwiki/pmwiki.php/Main/AristocratsAreEvil) blatantly [uses its Steampunk technology to rule the world with an iron fist?](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheEmpire) What other kinds of Punk might you bring in — Leonardo Da Vinci's Clockpunk machines having permeated everyday life, or Cattle Punk, Bamboo Punk?
 
@@ -38,11 +38,11 @@ Perhaps the great steampunk technology doesn't end up changing the world and mer
 
 Read GD Falksen's [The World is Not Enough](http://www.tor.com/blogs/2009/10/the-world-is-not-enough-but-it-is-such-a-perfect-place-to-start), and think about how steampunk technology might play out across the world.
 
-## **Suggested Themes and Aesops**
+### Suggested Themes and Aesops
 
 The conflict between [Romanticism Versus Enlightenment](https://tvtropes.org/pmwiki/pmwiki.php/Main/RomanticismVersusEnlightenment) is popular; this whole debate started to really take off around the Industrial Revolution, when a lot of the steampunk aesthetic was beginning to be developed in the first place. Steampunk enables this debate to be continued: will the wonders of technology free us or enslave us? Can science *really* explain all of the strangeness and chaos of the human mind, let alone the world entire?
 
-## **Potential Motifs**
+### Potential Motifs
 
 Wood and brass furnishings, curlicues and flowers as decoration on machines — why? Only to be pretty. This is, literally, worlds away from Apple computers' aesthetic of white, slick, minimalist surfaces. In a widening world full of wonder, frills and adornment are welcome. They reflect the particular spirit of the time.
 
@@ -50,15 +50,15 @@ This will also not just be visually busy technology, but *loud* — these are bu
 
 Heroes of a Steampunk story might be a well-to-do, well-educated, respectable white man, in a top hat and tailcoat — but even the Victorians were just as likely to turn that archetype on its head, as Dr. Jekyll and Dr. Frankenstein can attest. When re-exploring a lost era, why not look to the fringes of society — unconventional women trying to hew their own path in life, racial minorities, come to London from the outskirts of Empire and facing prejudice as they win their fortunes; and you can't go wrong with a Dickensian [Heartwarming Orphan](https://tvtropes.org/pmwiki/pmwiki.php/Main/HeartwarmingOrphan) with a promising destiny. [Charles Dickens](https://tvtropes.org/pmwiki/pmwiki.php/Creator/CharlesDickens) immortalized a dirty, overcrowded London — and such a city will produce all kinds of heroes.
 
-## **Suggested Plots**
+### Suggested Plots
 
 Jules Verne-style scientific romance adventures are quite popular. Considering that most of these were set before the great influx of scientific advances that were heralded in by the twentieth and twenty-first centuries, you might want to consider how you're going to incorporate this; will your Victorian-style space explorers have to face the problems of weightlessness, the vacuum of space and the great problems in launching a spacecraft out of Earth's gravity? Or, will you adopt the spirit of the Victorian scientific romances and imagine a fantastic universe where these are not considerations?
 
 Consider also how a reliance on steam technology rather than oil or gas would affect politics on a local, national and international scale. Are anti-technology Luddites still a problem? Does steam technology have a better or worse impact on the environment? Consider regions such as the Middle East — because of the West's dependence on its oil supplies, it's a region of great global influence and, correspondingly, great global conflict and strife. Steam power, however, works just fine with any combustible fuel, and Europe and America have so much coal that Middle East oil can be dispensed with (apart from small amounts for lubrication). Where are the *new* political hotspots in your steampunk world?
 
-# **Departments**
+## Departments
 
-## **Set Designer** / **Location Scout**
+### Set Designer** / **Location Scout
 
 The nineteenth century or not long after, and worlds which are heavily influenced by same. In [Alternate History](https://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateHistory), a popular setting is somewhere in Europe. Often London — London was to the nineteenth century world what cities like New York are to the modern world, and was pretty much considered the centre of the world — it was the capital of the most industrially and economically prolific empire on the planet, was one of the (if not *the*) most populous cities on Earth, and was heavily chronicled by writers and journalists of the day (not least [Charles Dickens](https://tvtropes.org/pmwiki/pmwiki.php/Creator/CharlesDickens)).
 
@@ -66,11 +66,11 @@ The landscape of the poorer parts of the Western world has also been dealt with 
 
 You could avoid London altogether; it's really overused as a steampunk setting. Try the old US of A: you can mix pure steampunk Back East and [Cattle Punk](https://tvtropes.org/pmwiki/pmwiki.php/Main/CattlePunk) Out West. Consider [Imperial Germany](https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/ImperialGermany) with its rapidly growing industries and proud military tradition. Or, if you want to focus on the gritty aspects of your meat-grinding factories, or the clash between unrealistically high tech and an ignorant, semi-feudal society, try Imperial Russia and the beginning of the struggle of its workers and peasants for the Revolution. [Red October](https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/RedOctober) itself, or your equivalent thereof, is a pretty good chance to mix and match themes of steampunk and [post-apocalypse](https://tvtropes.org/pmwiki/pmwiki.php/Main/AfterTheEnd).
 
-## **Props Department**
+### Props Department
 
 Here's where you can let yourself go wild! Lots of steam-powered stuff. Bronze-colored gears on everything, even if they serve no evident purpose — in addition to floral motifs, curlicues, and fancy-schmancy calligraphy. Stylish canes, hats, gloves, and, the crowning touch of any steampunk ensemble, *goggles.* Computers and cars are popular, but you may consider other everyday technologies and how they can be run on steam (or other nineteenth century equivalents). Zeppelins are popular, as are flying ships.
 
-# **Costume Designer**
+## Costume Designer
 
 Fashions are usually inspired by nineteenth century fashions. For the gentlemen, this means top hats, frock coats, tailcoats, waistcoats, cravats, fob watches, etc. Ladies fashions were a lot more restrictive — long dresses, corsets, stockings, etc — but a popular way of playing with this is, much as women's fashion gradually started incorporating clothing that was previously considered 'male-only' (trousers, shirts, etc), to do something similar with nineteenth century clothing — women wearing cravats and tailcoats, etc. If you're focusing on a military, the uniforms of World War I are also a good starting point (especially since you often see a cross between Napoleonic and World War II-styles).
 
@@ -78,19 +78,19 @@ On the other hand, women wearing top hats, Stetsons or bowler hats, maybe togeth
 
 Also dirt. [A lot of it](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheDungAges). Similarity of clothing and appearance of the Steam Age people to modernity makes us think of them as the [old uncles and grandparents - only a bit wacky](https://tvtropes.org/pmwiki/pmwiki.php/Main/CoolOldGuy). The Steam Age was *dirty*. Coal burning is smoky as Hell. Northern European climate is foggy, damp and muddy. [Colonial climate](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheSavageSouth) is horribly hot for people who did not have air conditioning and [who insisted to wear thick wool clothes](https://tvtropes.org/pmwiki/pmwiki.php/Main/WhatAnIdiot) in the tropics. Formal clothing was expensive, hard to replace for people who were rather poor, but who needed to have [an appropriate appearance](https://tvtropes.org/pmwiki/pmwiki.php/Main/ValuesDissonance) and hard to wash by hand, so they were worn until they were torn away for good. Bathing was difficult and expensive in cities, nearly impossible in the wilderness. The weary, sweaty and dusty appearance [of the cowboy and man of the West](https://tvtropes.org/pmwiki/pmwiki.php/Main/CattlePunk) was the norm rather than exception. [James Clavell](https://tvtropes.org/pmwiki/pmwiki.php/Literature/AsianSaga), as a modern man, did not have the squeamishness of a 19th century author and [touched with great detail](https://tvtropes.org/pmwiki/pmwiki.php/Main/Squick) the dirt of everyday life in the 1840s and 1860s.
 
-## **Casting Director**
+### Casting Director
 
-## **Stunt Department**
+### Stunt Department
 
 Mighty battles between steam-powered behemoths, sir or madam! What else would you expect?
 
 Oh, perhaps a battle won't go as planned, and the hero and dastardly villain will have to fight one another — on the bridge of a zeppelin, as it plummets from the sky! Who's to say a poisoned saber, cleverly concealed in a rosewood cane, won't be as handy in a pinch as a mighty Mecha piloted from within?
 
-# **Extra Credit**
+## Extra Credit
 
 A good discussion of what sort of themes and motifs can be found in steampunk is here. *[What Is Steampunk?](http://unitedfederationofcharles.blogspot.com/2013/07/what-is-steampunk_24.html)* by [The United Federation of Charles](https://tvtropes.org/pmwiki/pmwiki.php/Blog/TheUnitedFederationOfCharles).
 
-## **The Greats**
+### The Greats
 
 Although they were obviously written well before steampunk came along, it's usually a good idea to check out the great works of nineteenth and early twentieth century science fiction (or 'scientific romance') — [Jules Verne](https://tvtropes.org/pmwiki/pmwiki.php/Creator/JulesVerne), [H. G. Wells](https://tvtropes.org/pmwiki/pmwiki.php/Creator/HGWells), [Mary Shelley](https://tvtropes.org/pmwiki/pmwiki.php/Literature/Frankenstein) etc. — to get a sense for the overall aesthetic we're shooting for.
 
@@ -108,7 +108,7 @@ On the video game side of things, one can't go wrong with *[Arcanum](https://tvt
 
 *Thief* and *Dishonored* in particular are rather different takes on the whole esthetic altogether, all the more that they also cross over into the [New Weird](https://tvtropes.org/pmwiki/pmwiki.php/Main/NewWeird) genre/style. The *Thief* series is set in a world reminescent of the late-medieval or early modern era, filled with lots of mysterious folk magic, where the industrial revolution also arrived early thanks to church influence. Despite how incongruous these setting elements might sound at first hearing, the developers actually took [great care](https://tvtropes.org/pmwiki/pmwiki.php/Main/ShownTheirWork) to integrate the alternate technological developments into the fantasy setting's society in a convincing way. Even one that is [deliberately timeless](https://tvtropes.org/pmwiki/pmwiki.php/Main/AmbiguousTimePeriod) (medieval-level technologies seamlessly coexisting with archaic takes on 18th and 19th century tech). Many rivalries and power plays between various technological and cultural factions, such as the Hammerites, Pagans, Mechanists, Keepers, city authorities, etc., occur in the setting. The series is also explicitly [Fantastic Noir](https://tvtropes.org/pmwiki/pmwiki.php/Main/FantasticNoir), with the protagonist a snarky, but humane master thief, who has the mannerisms of a classic [Film Noir](https://tvtropes.org/pmwiki/pmwiki.php/Main/FilmNoir) antihero. *Dishonored* chooses a similar approach to that of *Thief*, but goes about it in its own way: The society might look quasi-Victorian at first glance, but culturally and religiously, they're an [odd blend](https://onelastsketch.wordpress.com/2017/10/21/interregnum-aesthetics/) of 17th century Cromwell-esque puritanism and a form of *atheism*, they also have some Georgian era features in fashion and esthetics, and the main power source of the industrial advances is neither coal or (crude) oil, but *whale oil* - it's used to power everything from lamps (the original use) to firearms (instead of gunpowder) and even vehicles. ([Not as daft](https://en.wikipedia.org/wiki/Whale_oil) as it might sound.) In the first game, the protagonist's tale of clearing his name and enacting vengeance also has a vibe reminescent of *[The Count of Monte Cristo](https://tvtropes.org/pmwiki/pmwiki.php/Literature/TheCountOfMonteCristo)*.
 
-## **The Epic Fails**
+### The Epic Fails
 
 While *[The League of Extraordinary Gentlemen](https://tvtropes.org/pmwiki/pmwiki.php/Film/TheLeagueOfExtraordinaryGentlemen)* movie mostly suffers from comparison, the film shows many of the common pitfalls which might turn off fans. The treatment of RL locations, mixing up dates regarding when Historical Domain characters were supposed to have lived, and places it swerved from the fiction it emanated hurt the narrative overall.
 
