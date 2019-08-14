@@ -2,7 +2,9 @@
 
 <!-- concept-overview --><!-- auto-populated -->
 
-**Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
+**Stranded** is an alt-history alt-history Science-Fiction novella series comprising two periods:
+* British-American adventurer discovers and fosters the alien tech in Regency British-America.
+* British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
 <!-- /concept-overview -->
 
 ## Contents
