@@ -2,9 +2,7 @@
 
 <!-- concept-overview --><!-- auto-populated -->
 
-**Stranded** is an alt-history alt-history Science-Fiction novella series comprising two periods:
-* British-American adventurer discovers and fosters the alien tech in Regency British-America.
-* British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
+**Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
 <!-- /concept-overview -->
 
 ## Contents
@@ -43,7 +41,12 @@ Elysion inhabitants are humans genetically identical to Earth. Albert encounters
 
 <!-- format-overview --><!-- auto-populated -->
 
-**Stranded** is a series of novellas, with eight novellas to a season. The intent is for a reader to complete a novella in roughly two hours of reading, or under four hours listening via Audible. This size was chosen to favor flying.
+**Stranded** is a series of novellas, broken down into seasons. Each season comprises 12 novellas as "chapters." This follows the [UK drama](https://tvtropes.org/pmwiki/pmwiki.php/Main/BritishBrevity) or [Anime](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwelveEpisodeAnime) series season length. (See [research/season-episode.md])
+
+A reader should complete a novella in roughly two hours of reading, or under four hours listening via Audible. This size was chosen to favor air travel (TODO: audience psychographics). Each season will be self-contained, though with storylines that may delay resolution until a subsequent series. A season climax will close out the season, but leave the reader wanting the next one.
+
+This is an alt-history Science Fiction series. Need to explain the genre (horror, comedy, etc.) Loop in the major tropes.
+
 <!-- /format-overview -->
 
 ## Characters
