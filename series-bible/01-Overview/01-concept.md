@@ -4,7 +4,13 @@
 **Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
 <!-- /concept-overview -->
 
-Concept overview should be like: Person of Interest is an American science fiction crime drama television series.
+Hauge:
+
+>Any workable story concept can be expressed in a similar single sentence: It is a story about a [Hero] who wants [outer desire].
+
+
+Concept overview should be like:
+>Person of Interest is an American science fiction crime drama television series.
 John Reese, a former CIA agent who is presumed dead.
 He is approached by a mysterious billionaire named Harold Finch who is trying to prevent violent crimes before they happen by using an advanced surveillance system dubbed "The Machine" that provides the SSN of a POI (person of interest) who will be involved in an imminent lethal crime as either a perpetrator or a victim. (The episode driver)
 Their unique brand of vigilante justice attracts the attention of two NYPD officers, Joss Carter and Lionel Fusco, whom Reese uses to his advantage as he investigates the POI.

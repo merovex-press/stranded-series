@@ -61,3 +61,12 @@ What I am writing is not related to [Gaslamp Fantasy](https://tvtropes.org/pmwik
   - Consider using Asimov's thiotimoline. "Theotimoline"
 * [Like Reality Unless Noted](https://tvtropes.org/pmwiki/pmwiki.php/Main/LikeRealityUnlessNoted) The fictional world is exactly like the real world except where noted otherwise.
   - Hardly used in fiction because it sets tough rules for authors. Particles that adhere to Minovsky Physics have to have very rigid and well-defined properties.
+
+### Writer's Digest
+> While no specific elements of steampunk are absolutely essential, there is a generally understood group of features, at least some of which should be included for a work to be recognized as steampunk:
+> * A story set within a world using a real or imagined version of the technology of the 19th century
+> * Technology and devices driven by steam power or counterweighted clockwork
+> * Victorian-era class and economic structures
+> * Implicit or explicit social critique
+> * An adventure-oriented plotline
+> * An emphasis on the empowerment of individuals in the face of industrial standardization and the advance of modern bureaucratic government
