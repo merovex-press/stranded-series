@@ -35,13 +35,19 @@ Access to advanced technology early set the British on a path to global dominanc
 "Toltec" writings led to British "discovery" of the [Slipstream][ltDHHbfX], providing faster-than-light travel. Traveling the Slipsteam reveals "[Elysion][UPkFi3ZN]," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.
 
 Elysion inhabitants are humans genetically identical to Earth. Albert encounters the Hela, a dark-skinned, Indo-European-appearing ethnicity speaking what Albert determines is an older Germanic (Icelandic) language. The Hela, technologically in the Renaissance, are in the early stages of a civil war, with a rival branch of the ruling family seeking to gain power.
+
+<!-- Reference URLs -->
+[VcUi1erb]: https://github.com/Merovex/stranded-series/blob/master/series-bible/AA-Appendix/Tropes/GivingRadioToTheRomans.md
+[vLFiDV9E]: https://github.com/Merovex/stranded-series/blob/master/series-bible/AA-Appendix/Tropes/Advanced-Ancient-Humans.md
+[ltDHHbfX]: https://github.com/Merovex/stranded-series/blob/master/series-bible/08-Science-Cosmology/slipstream.md
+[UPkFi3ZN]: https://github.com/Merovex/stranded-series/blob/master/series-bible/04-Locations/Elysion/00-elysion.md
 <!-- /setting-overview -->
 
 ## Format
 
 <!-- format-overview --><!-- auto-populated -->
 
-**Stranded** is a series of novellas, broken down into seasons. Each season comprises 12 novellas as "chapters." This follows the [UK drama](https://tvtropes.org/pmwiki/pmwiki.php/Main/BritishBrevity) or [Anime](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwelveEpisodeAnime) series season length. (See [research/season-episode.md])
+**Stranded** is a series of novellas, broken down into seasons. Each season comprises 12 novellas as "chapters." This follows the [UK drama](https://tvtropes.org/pmwiki/pmwiki.php/Main/BritishBrevity) or [Anime](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwelveEpisodeAnime) series season length. (See [research](research/season-episode.md))
 
 A reader should complete a novella in roughly two hours of reading, or under four hours listening via Audible. This size was chosen to favor air travel (TODO: audience psychographics). Each season will be self-contained, though with storylines that may delay resolution until a subsequent series. A season climax will close out the season, but leave the reader wanting the next one.
 

@@ -9,11 +9,10 @@ Access to advanced technology early set the British on a path to global dominanc
 "Toltec" writings led to British "discovery" of the [Slipstream][ltDHHbfX], providing faster-than-light travel. Traveling the Slipsteam reveals "[Elysion][UPkFi3ZN]," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.
 
 Elysion inhabitants are humans genetically identical to Earth. Albert encounters the Hela, a dark-skinned, Indo-European-appearing ethnicity speaking what Albert determines is an older Germanic (Icelandic) language. The Hela, technologically in the Renaissance, are in the early stages of a civil war, with a rival branch of the ruling family seeking to gain power.
-<!-- /setting-overview -->
-
 
 <!-- Reference URLs -->
 [VcUi1erb]: https://github.com/Merovex/stranded-series/blob/master/series-bible/AA-Appendix/Tropes/GivingRadioToTheRomans.md
 [vLFiDV9E]: https://github.com/Merovex/stranded-series/blob/master/series-bible/AA-Appendix/Tropes/Advanced-Ancient-Humans.md
 [ltDHHbfX]: https://github.com/Merovex/stranded-series/blob/master/series-bible/08-Science-Cosmology/slipstream.md
 [UPkFi3ZN]: https://github.com/Merovex/stranded-series/blob/master/series-bible/04-Locations/Elysion/00-elysion.md
+<!-- /setting-overview -->
