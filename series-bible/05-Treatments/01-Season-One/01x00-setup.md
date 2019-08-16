@@ -1,3 +1,12 @@
+---
+name: Pilot
+summary: one-paragraph summary of pilot
+released-on: date of release
+order: 1.01
+theme: episode-theme
+type: book-treatment
+---
+
 ### 01x00 - Pilot
 
 Normally, a Pilot is 2x as long as the main. So, 180 minutes...36-40kwords.

@@ -1,6 +1,7 @@
 ---
-season: 1
-synopsis: The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers.
+order: 1
+summary: The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers.
+type: season
 ---
 ## Season One
 

@@ -2,64 +2,99 @@
 
 require 'yaml'
 
-actions = {
-  "series-outline" => "series-bible/01-Overview/10-series-outline.md",
-  "setting-overview" => "series-bible/02-Setting/00-Overview.md",
-  "format-overview" => "series-bible/01-Overview/01-concept.md",
-  "concept-overview" => "series-bible/01-Overview/01-concept.md",
-}
-
-content = File.open('README.md','r').read()
-
+def buildList( content, key, val )
+  section = val[:header] || ""
+  order   = val[:sortby] || :name
+  val[:list].sort_by { |k| k[order] }.each do |i|
+    section << val[:template] % i
+  end
+  return substitute("#{key}-section", content, section)
+end
 def substitute(tag,content,string)
-  return content.gsub(/<!-- #{tag} -->(.*)<!-- \/#{tag} -->/im, string)
+  s = "<!-- %s --><!-- auto-populated -->\n%s<!-- \/%s -->" % [tag, string, tag]
+  return content.gsub(/<!-- #{tag} -->(.*)<!-- \/#{tag} -->/im, s)
 end
 def replace(file_path, tag, content)
   string = File.open(file_path,'r').read()
 
-  string = string.scan(/(<!-- #{tag} -->.*<!-- \/#{tag} -->)/imu).flatten.join("\n")
+  string = string.scan(/<!-- #{tag} -->(.*)<!-- \/#{tag} -->/imu).flatten.join("\n")
   return substitute(tag,content,string)
 end
-actions.each do |key, value|
+
+content = File.open('README.md','r').read()
+
+# ============================================
+## Building Section lists
+sections = {
+  "location" => {
+    :list     => [],
+    :sortby   => :name,
+    :template => "* **[%{name}](%{filename}).** %{summary}\n",
+    :header   => ""
+  },
+  "major-character" => {
+    :list     => [],
+    :sortby   => :name,
+    :template => "### %{name} (%{role})\n\n%{summary}\n\nMore on [%{name}](%{filename})\n\n",
+    :header   => ""
+  },
+  "season" => {
+    :list     => [],
+    :sortby   => :order,
+    :template => "| **[%{order}](%{filename})** | %{summary} |\n",
+    :header   => "| # | Synopsis |\n| :-: | - |\n"
+  },
+  "trope" => {
+    :list     => [],
+    :sortby   => :name,
+    :template => "* **[%{name}](%{filename}).** %{summary}\n",
+    :header   => ""
+  },
+}
+
+Dir.glob("./series-bible/**/*.md").each { |file|
+  begin
+    y = YAML.load_file(file)
+    next if sections[y['type']].nil?
+    sections[y['type']][:list] << {
+      :name     => y['name'],
+      :role     => y['role'],
+      :order    => y['order'],
+      :summary  => y['summary'],
+      :filename => file,
+    } if y.is_a? Hash
+  rescue
+  end
+}
+
+sections.each do |key, val|
+  content = buildList(content, key, val)
+end
+
+# ============================================
+## Perform series of static string substitutions.
+actions = {
+  "series-outline"   => "series-bible/01-Overview/10-series-outline.md",
+  "setting-overview" => "series-bible/02-Setting/00-Overview.md",
+  "format-overview"  => "series-bible/01-Overview/01-concept.md",
+  "concept-overview" => "series-bible/01-Overview/01-concept.md",
+}.each do |key, value|
   content = replace(value, key, content)
 end
 
-## Characters
-characters = []
-Dir.glob("./series-bible/03-Characters/*.md").each { |file|
-  begin
-    y = YAML.load_file(file)
-    characters << y if y.is_a? Hash
-  rescue
-  end
-}
-
-character_section = "<!-- character-section -->\n"
-characters.sort_by { |k| k["order"] }.each do |c|
-  character_section << "### #{c['name']} (#{c['role']})\n\n#{c['summary']}\n\n"
+# ============================================
+# Building Table of Contents
+toc = ""
+content.scan(/^##\s?(.*)\n/iu).flatten.each do |header|
+  next if header == 'Contents'
+  indent = ""
+  header.gsub!(/#\s?+/) { indent += "  "; "" }
+  anchor = header.downcase.gsub(/\W+/,'-').chomp('-')
+  toc << "%s* [%s](#%s)\n" % [indent,header,anchor]
 end
-character_section << "<!-- /character-section -->"
-content = substitute("character-section",content,character_section)
+content = substitute("toc",content,toc)
 
-## Seasons
-seasons = []
-Dir.glob("./series-bible/05-Treatments/**/*.md").each { |file|
-  begin
-    y = YAML.load_file(file)
-    y['filename'] = file
-    seasons << y if y.is_a? Hash
-  rescue
-  end
-}
-# puts seasons.inspect
-season_section = "<!-- season-section -->\n| # | Synopsis |\n| :-: | - |\n"
-seasons.sort_by { |k| k["season"] }.each do |c|
-  season_section << "| **[#{c['season']}](#{c['filename']})** | #{c['synopsis']} |\n"
-end
-season_section << "<!-- /season-section -->"
+target = 'README.md'
+# target = 'README-temp.md'
 
-
-content = substitute("season-section",content,season_section)
-# puts content
-
-File.open('README.md','w').write(content)
+File.open(target,'w').write(content)
