@@ -89,7 +89,7 @@ What can the company not do so it can focus on its Key Activities?
   - [ ] Artist - Book cover art (TODO: #23, Recruit cover artist)
 * Outreach
   - [ ] Facebook (TODO: #24, fix FB presence)
-  - [ ] Google Ads (TODO: #27, Research Google Ads)
+  - [ ] Google Ads (TODO: (#27), Research Google Ads)
   - [ ] Amazon Ads (TODO: #26, Research Amazon Ads)
   - [ ] Mailchimp
 
