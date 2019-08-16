@@ -4,7 +4,7 @@ The **Strand Series** seeks ....
 
 [Business Model Canvas guide](https://www.alexandercowan.com/business-model-canvas-templates/)
 
-## Audience
+## Audience / Customer Segments
 
 - [ ] TODO: #31 - Psychographics
 <!-- Customer Segments: Who are the customers? What do they think? See? Feel? Do? -->
@@ -13,11 +13,15 @@ The **Strand Series** seeks ....
 
 ## Value Proposition
 
-- [ ] TODO: #32 - develop Value Prop
+- [ ] TODO: #32 - develop Value Prop focused on audience persona.
 
 **Website.** What value does Audience get out of the website?
 
 **Books.** What value does Audience get out of the books?
+
+## Approach / Business Model
+
+- [ ] TODO: #33, Create LLC for company
 
 ## Channels
 
@@ -68,7 +72,7 @@ What unique strategic assets must the business have to compete?
   - [x] Dausha.net (deprecate)
 * Website (TODO: #28, Cleanup legacy websites)
   - [x] BenWilsonWrites.com - Hugo site
-  - [ ] Redirect Merovex.com to BenWilsonWrites.com, or set up as pubisher site.
+  - [ ] Redirect Merovex.com to BenWilsonWrites.com, or set up as publisher site.
   - [ ] Redirect Dausha.net to BenWilsonWrites.com
 * Email
   - [x] ben@merovex.com
@@ -84,14 +88,14 @@ What can the company not do so it can focus on its Key Activities?
   - [x] Google Domain
   - [x] Google Cloud (website)
 * Book Production
-  - [ ] Voiceover talent - Create Audible / Revenue Sharing (TODO: #25, Recruite VO talent)
+  - [ ] Voiceover talent - Create Audible / Revenue Sharing (TODO: #25, Recruit VO talent)
   - [ ] Editor - Revise book (TODO: #9, Recruit editors)
   - [ ] Artist - Book cover art (TODO: #23, Recruit cover artist)
 * Outreach
   - [ ] Facebook (TODO: #24, fix FB presence)
-  - [ ] Google Ads (TODO: (#27), Research Google Ads)
+  - [ ] Google Ads (TODO: #27, Research Google Ads)
   - [ ] Amazon Ads (TODO: #26, Research Amazon Ads)
-  - [ ] Mailchimp
+  - [ ] Mailchimp (TODO: #32, Revise Mailchimp setup)
 
 ## Cost Structure
 
@@ -104,7 +108,9 @@ What are the business’ major cost drivers? How are they linked to revenue?
   * Github
   * Editor - price-per-page
   * Artist - Price for cover
-* Outreach
-  * Facebook
+  * VO Talent - Revenue sharing
+* Outreach & Marketing
+  * Facebook ads
+  * Amazon ads
   * Google ads
   * Mailchimp
