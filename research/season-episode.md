@@ -1,5 +1,7 @@
 # Writing Seasons
 
+**Summary.** Expect a maximum of 3 seasons with 12-episodes per season to be peak value. At ~30Kwords per novella
+
 ## Season Length
 
 * [TV Trope: 12-Episode Anime](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwelveEpisodeAnime) 12-14 episode seasons, typically 13 long with 12 shown during the season and the last as a bonus (a.k.a. OAV).
