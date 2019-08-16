@@ -9,6 +9,9 @@ categories:
     labels:
       - 'wip'
       - 'docs'
+      - 'doc'
+      - 'research'
+      - 'learn'
   - title: 'Bug Fixes'
     labels:
       - 'fix'
@@ -17,6 +20,7 @@ categories:
     labels:
       - 'chore'
       - 'feat'
+      - 'feature'
       - 'clean'
 exclude-labels:
   - 'skip-changelog'
