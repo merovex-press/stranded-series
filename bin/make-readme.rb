@@ -35,7 +35,7 @@ sections = {
   "major-character" => {
     :list     => [],
     :sortby   => :name,
-    :template => "### %{name} (%{role})\n\n%{summary}\n\nMore on [%{name}](%{filename})\n\n",
+    :template => "* **[%{name}](%{filename})** (%{season})\n%{summary}\n",
     :header   => ""
   },
   "season" => {
@@ -43,7 +43,7 @@ sections = {
     :sortby   => :order,
     :template => "| **[%{order}](%{filename})** | %{summary} |\n",
     :header   => "| # | Synopsis |\n| :-: | - |\n"
-  },
+  }, 
   "trope" => {
     :list     => [],
     :sortby   => :name,
@@ -60,6 +60,7 @@ Dir.glob("./series-bible/**/*.md").each { |file|
       :name     => y['name'],
       :role     => y['role'],
       :order    => y['order'],
+      :season    => y['season'],
       :summary  => y['summary'],
       :filename => file,
     } if y.is_a? Hash

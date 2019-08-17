@@ -1,5 +1,12 @@
 # Strand Series
 
+<!--
+Exemplars:
+* https://en.wikipedia.org/wiki/Discworld
+*  https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)
+
+ -->
+
 <!-- concept-overview --><!-- auto-populated -->
 
 **Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
@@ -11,11 +18,9 @@
 * [Setting](#setting)
 * [Format](#format)
 * [Characters](#characters)
-  * [Albert Strand (hero)](#albert-strand-hero)
-  * [Clarance Dankworth (ally)](#clarance-dankworth-ally)
 * [Key Locations](#key-locations)
 * [Plot / Series Outline](#plot-series-outline)
-* [Seasons](#seasons)
+* [Seasons / Storylines](#seasons-storylines)
 * [Tropes](#tropes)
 * [Glossary](#glossary)
 * [Contributing](#contributing)
@@ -25,11 +30,11 @@
 
 _We often thank the gifts instead of the giver. Thank you for more breath to praise you with._
 
-## Setting
+## Setting Overview
 
 <!-- setting-overview --><!-- auto-populated -->
 
-**Stranded** occurs after 160 years of [technologic acceleration][VcUi1erb] after the English discovered [ancient technology][vLFiDV9E] in British America. The British believe the technology to come from ancient aliens they named the "Toltec" after the native mounds where the technology was discovered; there are no aliens in the series.
+**Stranded** occurs after 160 years of [technologic acceleration][VcUi1erb] after the English discovered [ancient technology][vLFiDV9E] in British America. The British believed the technology came from ancient aliens they named the "Toltec" after the native mounds where the technology was discovered; there are no aliens in the series.
 Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
 
 "Toltec" writings led to British "discovery" of the [Slipstream][ltDHHbfX], providing faster-than-light travel. Traveling the Slipsteam reveals "[Elysion][UPkFi3ZN]," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.
@@ -45,6 +50,7 @@ Elysion inhabitants are humans genetically identical to Earth. Albert encounters
 
 ## Format
 
+<!-- Like Wikipedia: Discworld Composition -->
 <!-- format-overview --><!-- auto-populated -->
 
 **Stranded** is a series of novellas, broken down into seasons. Each season comprises 12 novellas as "chapters." This follows the [UK drama](https://tvtropes.org/pmwiki/pmwiki.php/Main/BritishBrevity) or [Anime](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwelveEpisodeAnime) series season length. (See [research](research/season-episode.md))
@@ -60,18 +66,10 @@ This is an alt-history Science Fiction series. Need to explain the genre (horror
 These are the major characters in the series and their roles.
 
 <!-- major-character-section --><!-- auto-populated -->
-### Albert Strand (hero)
-
+* **[Albert Strand](./series-bible/03-Characters/albert-strand.md)** (seasons 3–5; guest season 1; recurring season 2)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-More on [Albert Strand](./series-bible/03-Characters/albert-strand.md)
-
-### Clarance Dankworth (ally)
-
+* **[Clarance Dankworth](./series-bible/03-Characters/clarance-dankworth.md)** ()
 Clarance is "Blaster" to Albert's "Master," and the reason why they had to flee New Briton Orbital. He is a _Blood Knight_, lives for fighting and battle, and has a knack for being proficient in any weapon. During the first season, he is such a loyal companion of Albert's that the natives haul him away to kill him...Rasputin style. He manages to survive, later coming back with a rebel army of sorts as an effort to save Albert. Fiercely loyal to Albert.
-
-More on [Clarance Dankworth](./series-bible/03-Characters/clarance-dankworth.md)
-
 <!-- /major-character-section -->
 
 ## Key Locations
@@ -96,7 +94,7 @@ a 1-2 page that gives an overview of the characters, major series arcs.
 5. Ditto each new season. Close each subplot introduced in the sub-plot paragraph. Introduce a new one as necessary.
 <!-- /series-outline -->
 
-## Seasons
+## Seasons / Storylines
 
 _a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline._
 
