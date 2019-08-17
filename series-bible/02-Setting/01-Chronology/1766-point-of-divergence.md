@@ -6,7 +6,9 @@ The relationship strain between England and its 13 American continental colonies
 
 Four pieces of legislation resulted from these negotiations:
 
-* **Rights of Englishmen Act of 1769** extended to _continental colonial_ Englishmen (not to Caribbean Colonials).
+* **Rights of Englishmen Act of 1769** or **Rights of Englishmen in America Act of 1769** extended to _continental colonial_ Englishmen (not to Caribbean Colonials)
 * **Reform in America Act of 1771** transforms the continental colonies to six provinces: Canada, New England, Pennsylvania, Virginia, Carolina, Georgia. In exchange, each province given limited representation in British Parliament.
 * **Rights of Religious Liberty Act of 1772** permits provinces to manage their own religious affairs. In exchange, the American provinces cooperated with levying taxes that paid down British debt.
 * **Discovery of Toltec Technology - 30 November 1782.** Ephraim George Biggs, a surveyor, discovered what became known as the Toltec Mound.
+
+**TODO: [#35](https://github.com/Merovex/stranded-series/issues/35) Account for Indian relations to start of series**

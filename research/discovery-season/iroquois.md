@@ -1,5 +1,7 @@
 # Iroquois
 
+See [Notion](https://www.notion.so/merovex/Iroquois-Wikipedia-d3637b49a075451aa48e61eb511d1b82)
+
 This article is about the Native American peoples. For other uses, see [Iroquois (disambiguation)](https://en.wikipedia.org/wiki/Iroquois_(disambiguation)).
 
 The **Iroquois** ([/ˈɪrəkwɔɪ/](https://en.wikipedia.org/wiki/Help:IPA/English) or [/ˈɪrəkwɑː/](https://en.wikipedia.org/wiki/Help:IPA/English)) or **Haudenosaunee** ([/ˈhoʊdənoʊˈʃoʊni/](https://en.wikipedia.org/wiki/Help:IPA/English);[[1]](https://en.wikipedia.org/wiki/Iroquois) "People of the Longhouse") are a historically powerful northeast [Native American](https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States) [confederacy](https://en.wikipedia.org/wiki/Federalism) in North America. They were known during the colonial years to the [French](https://en.wikipedia.org/wiki/French_people) as the **Iroquois League**, and later as the **Iroquois Confederacy**, and to the [English](https://en.wikipedia.org/wiki/English_people) as the **Five Nations**, comprising the [Mohawk](https://en.wikipedia.org/wiki/Mohawk_people), [Onondaga](https://en.wikipedia.org/wiki/Onondaga_people), [Oneida](https://en.wikipedia.org/wiki/Oneida_people), [Cayuga](https://en.wikipedia.org/wiki/Cayuga_people), and [Seneca](https://en.wikipedia.org/wiki/Seneca_people). After 1722, they accepted the [Tuscarora people](https://en.wikipedia.org/wiki/Tuscarora_people) from the Southeast into their confederacy, as they were also Iroquoian-speaking, and became known as the **Six Nations**.
