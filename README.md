@@ -9,13 +9,15 @@ Exemplars:
 
 <!-- concept-overview --><!-- auto-populated -->
 
-**Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
+**Stranded** is a steampunk novella series by Ben Wilson. Eighteenth-Century British-Americans discovered advanced technology in the Ohio Territory at the end of the Seven Year's War.
+
+The saga launches with a web series exploring the struggle between the English, Rebels and Iroquois over who would control the newly-discovered ancient technology.
 <!-- /concept-overview -->
 
 ## Contents
 
 <!-- toc --><!-- auto-populated -->
-* [Setting](#setting)
+* [Setting Overview](#setting-overview)
 * [Format](#format)
 * [Characters](#characters)
 * [Key Locations](#key-locations)
@@ -34,7 +36,7 @@ _We often thank the gifts instead of the giver. Thank you for more breath to pra
 
 <!-- setting-overview --><!-- auto-populated -->
 
-**Stranded** occurs after 160 years of [technologic acceleration][VcUi1erb] after the English discovered [ancient technology][vLFiDV9E] in British America. The British believed the technology came from ancient aliens they named the "Toltec" after the native mounds where the technology was discovered; there are no aliens in the series.
+**Stranded** occurs after 160 years of [technologic acceleration][VcUi1erb] after the English discovered [ancient technology][vLFiDV9E] in British America. The British believe the technology to come from ancient aliens they named the "Toltec" after the native mounds where the technology was discovered; there are no aliens in the series.
 Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
 
 "Toltec" writings led to British "discovery" of the [Slipstream][ltDHHbfX], providing faster-than-light travel. Traveling the Slipsteam reveals "[Elysion][UPkFi3ZN]," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.
@@ -55,7 +57,7 @@ Elysion inhabitants are humans genetically identical to Earth. Albert encounters
 
 **Stranded** is a series of novellas, broken down into seasons. Each season comprises 12 novellas as "chapters." This follows the [UK drama](https://tvtropes.org/pmwiki/pmwiki.php/Main/BritishBrevity) or [Anime](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwelveEpisodeAnime) series season length. (See [research](research/season-episode.md))
 
-A reader should complete a novella in roughly two hours of reading, or under four hours listening via Audible. This size was chosen to favor air travel (TODO: audience psychographics). Each season will be self-contained, though with storylines that may delay resolution until a subsequent series. A season climax will close out the season, but leave the reader wanting the next one.
+A reader should complete a novella in roughly two hours of reading, or under four hours listening via Audible. This size was chosen to favor air travel (TODO: [#31](https://github.com/Merovex/stranded-series/issues/31), audience psychographics). Each season will be self-contained, though with storylines that may delay resolution until a subsequent series. A season climax will close out the season, but leave the reader wanting the next one.
 
 This is an alt-history Science Fiction series. Need to explain the genre (horror, comedy, etc.) Loop in the major tropes.
 
@@ -101,7 +103,7 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 <!-- season-section --><!-- auto-populated -->
 | # | Synopsis |
 | :-: | - |
-| **[1](./series-bible/05-Treatments/01-Season-One/00-Summary.md)** | The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers. |
+| **[1](./series-bible/05-Treatments/01-Season-One/00-Summary.md)** | A band of radicals seek to separate from England. But, advanced tech is discovered in the Ohio, leading to a three-way struggle for who would control it. |
 | **[2](./series-bible/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
 <!-- /season-section -->
 

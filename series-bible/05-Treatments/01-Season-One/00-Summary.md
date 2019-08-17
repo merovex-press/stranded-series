@@ -1,80 +1,13 @@
 ---
 order: 1
-summary: The first season ends with Albert escaping from in a para-motor, flying over the mountains and landing somewhere he thinks is safe, only to be picked up by soldiers.
+summary: A band of radicals seek to separate from England. But, advanced tech is discovered in the Ohio, leading to a three-way struggle for who would control it.
 type: season
 ---
-## Season One
+## Season One - Discovery
 
-Follows the [seven stages of grief](https://www.betterhelp.com/advice/grief/understanding-the-stages-of-grief/)
+1. **Discovery.** DUDE is a rebel on the run from HIM a UK bounty-hunter. He had been caught, and managed to escape hanging to be chased into the Ohio. He is then chased by the Iroquois, when he falls into a Toltec mound. The Iroquois don't follow out of fear of the holy site? He discovers the tech, and decides this is a way to get rid of the English. He gets back to civilization and contacts his rebel friends, but is betrayed when that friend turned out to be an English spy. He is returned to be executed by firing squad, but not before sharing the location with a fellow rebel (overheard).
+   - Rebel faction
+   - Iroquois faction
+   - English faction
 
-* **0x01 - Pilot: Crash / Shock**
-Backstory sentence.
-Catalyst sentence.
-Big Event sentence.
-Midpoint sentence.
-Crisis sentence.
-Showdown sentence.
-Realization sentence.
-
-* **1x01 - Denial**
-Backstory sentence.
-Catalyst sentence.
-Big Event sentence.
-Midpoint sentence.
-Crisis sentence.
-Showdown sentence.
-Realization sentence.
-
-* **1x02 - Anger**
-Backstory sentence.
-Catalyst sentence.
-Big Event sentence.
-Midpoint sentence.
-Crisis sentence.
-Showdown sentence.
-Realization sentence.
-
-* **1x03 - Bargaining**
-Backstory sentence.
-Catalyst sentence.
-Big Event sentence.
-Midpoint sentence.
-Crisis sentence.
-Showdown sentence.
-Realization sentence.
-
-* **1x04 - Depression**
-Backstory sentence.
-Catalyst sentence.
-Big Event sentence.
-Midpoint sentence.
-Crisis sentence.
-Showdown sentence.
-Realization sentence.
-
-* **1x05 - Testing**
-Backstory sentence.
-Catalyst sentence.
-Big Event sentence.
-Midpoint sentence.
-Crisis sentence.
-Showdown sentence.
-Realization sentence.
-
-* **1x06 - Acceptance**
-Backstory sentence.
-Catalyst sentence.
-Big Event sentence.
-Midpoint sentence.
-Crisis sentence.
-Showdown sentence.
-Realization sentence.
-
-<!-- ** ## Template - 1x01 - title**
-Backstory sentence.
-Catalyst sentence.
-Big Event sentence.
-Midpoint sentence.
-Crisis sentence.
-Showdown sentence.
-Realization sentence. -->
+12 **Title**
