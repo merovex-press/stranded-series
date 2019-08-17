@@ -12,3 +12,5 @@ Four pieces of legislation resulted from these negotiations:
 * **Discovery of Toltec Technology - 30 November 1782.** Ephraim George Biggs, a surveyor, discovered what became known as the Toltec Mound.
 
 **TODO: [#35](https://github.com/Merovex/stranded-series/issues/35) Account for Indian relations to start of series**
+
+* Calloway, Colin. _[The Scratch of a Pen: 1763 and the Transformation of North America](https://amzn.to/2Zaw0Uw)_. 2006.

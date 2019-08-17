@@ -26,6 +26,7 @@ The saga launches with a web series exploring the struggle between the English, 
 * [Tropes](#tropes)
 * [Glossary](#glossary)
 * [Contributing](#contributing)
+* [References](#references)
 * [Commit Style](#commit-style)
 * [License](#license)
 <!-- /toc -->
@@ -132,6 +133,14 @@ First of all, thank you for thinking of contributing. Writing is a largely solo 
 
 Before creating an issue, please [check this list](https://github.com/Merovex/stranded-series/issues) as you might find out that you don't need to create one. When you are creating a report, please include as many details as possible.
 
+
+## References
+<!-- references --><!-- auto-populated -->
+* Calloway, Colin. _[The Scratch of a Pen: 1763 and the Transformation of North America](https://amzn.to/2Zaw0Uw)_. 2006.
+* Hinderaker, Eric. _[At the Edge of Empire: The Backcountry in British North America](https://amzn.to/31KpIN8)_. 1999.
+* Hinderaker, Eric. _[Elusive Empires: Constructing Colonialism in the Ohio Valley, 1673-1800](https://amzn.to/2KGiuUR)_. 2003.
+<!-- /references -->
+
 ## Commit Style
 
 In order to try to put some structure to my commits, I add the following "types" to commit messages using the format `<type>(<scope>): <subject>`.
@@ -142,7 +151,6 @@ In order to try to put some structure to my commits, I add the following "types"
 3. **feat**: Shows improvement in toolchain
 4. **typo**: Shows a correction to any work (whether for publication or not.)
 6. **wip**: Shows forward progress in a for-publication work
-
 
 * https://github.com/toolmantim/release-drafter#readme
 * https://github.com/settings/installations/1239713
