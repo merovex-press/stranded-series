@@ -20,6 +20,16 @@ def replace(file_path, tag, content)
   string = string.scan(/<!-- #{tag} -->(.*)<!-- \/#{tag} -->/imu).flatten.join("\n")
   return substitute(tag,content,string)
 end
+def getReferences(dir)
+  # /\*.*?_\[.*?\)_.*?$/
+  # * Hinderaker, Eric. _[Elusive Empires: Constructing Colonialism in the Ohio Valley, 1673-1800](https://amzn.to/2KGiuUR)_. 2003.
+  references = []
+  Dir["#{dir}/**/*.md"].each do |f|
+    # puts f
+    references += File.open(f).read().scan(/(\*.*?_\[.*?\)_.*?\n)/)
+  end
+  references
+end
 
 content = File.open('README.md','r').read()
 
@@ -43,7 +53,7 @@ sections = {
     :sortby   => :order,
     :template => "| **[%{order}](%{filename})** | %{summary} |\n",
     :header   => "| # | Synopsis |\n| :-: | - |\n"
-  }, 
+  },
   "trope" => {
     :list     => [],
     :sortby   => :name,
@@ -94,6 +104,12 @@ content.scan(/^##\s?(.*)\n/iu).flatten.each do |header|
   toc << "%s* [%s](#%s)\n" % [indent,header,anchor]
 end
 content = substitute("toc",content,toc)
+
+# ============================================
+# Building Table of References
+
+references = getReferences("research") + getReferences("series-bible")
+content = substitute("references",content,references.uniq.sort.join(""))
 
 target = 'README.md'
 # target = 'README-temp.md'
