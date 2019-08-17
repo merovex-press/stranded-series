@@ -6,14 +6,14 @@ The **Strand Series** seeks ....
 
 ## Audience / Customer Segments
 
-- [ ] TODO: #31 - Psychographics
+- [ ] TODO: [#31](https://github.com/Merovex/stranded-series/issues/31) - Psychographics
 <!-- Customer Segments: Who are the customers? What do they think? See? Feel? Do? -->
 
 1. **who.** Describe the persona of the customer.
 
 ## Value Proposition
 
-- [ ] TODO: #32 - develop Value Prop focused on audience persona.
+- [ ] TODO: [#32](https://github.com/Merovex/stranded-series/issues/32) - develop Value Prop focused on audience persona.
 
 **Website.** What value does Audience get out of the website?
 
@@ -21,7 +21,7 @@ The **Strand Series** seeks ....
 
 ## Approach / Business Model
 
-- [ ] TODO: #33, Create LLC for company
+- [ ] TODO: [#33](https://github.com/Merovex/stranded-series/issues/33), Create LLC for company
 
 ## Channels
 
@@ -40,7 +40,7 @@ Customer Relationships: How do you interact with the customer through their ‘j
 
 * Newsletter
 * Facebook
-* [ ] Forum - Reddit? (TODO: #30, Create sub-reddit?)
+* [ ] Forum - Reddit? (TODO: [#30](https://github.com/Merovex/stranded-series/issues/30), Create sub-reddit?)
 
 ## Revenue Streams
 
@@ -48,7 +48,7 @@ Revenue Streams: How does the business earn revenue from the value propositions?
 
 * Book Sales
 * Audible Sales
-* [ ] Patreon donations (TODO: #29, Patreon set-up)
+* [ ] Patreon donations (TODO: [#29](https://github.com/Merovex/stranded-series/issues/29), Patreon set-up)
 
 ## Key Activities
 
@@ -70,7 +70,7 @@ What unique strategic assets must the business have to compete?
   - [x] BenWilsonWrites.com
   - [x] Merovex.com
   - [x] Dausha.net (deprecate)
-* Website (TODO: #28, Cleanup legacy websites)
+* Website (TODO: [#28](https://github.com/Merovex/stranded-series/issues/28), Cleanup legacy websites)
   - [x] BenWilsonWrites.com - Hugo site
   - [ ] Redirect Merovex.com to BenWilsonWrites.com, or set up as publisher site.
   - [ ] Redirect Dausha.net to BenWilsonWrites.com
@@ -78,7 +78,7 @@ What unique strategic assets must the business have to compete?
   - [x] ben@merovex.com
   - [ ] Redirect ben@benwilsonwrites.com to ben@merovex.com
 * Books
-* [ ] Facebook Page (TODO: #24, fix FB presence)
+* [ ] Facebook Page (TODO: [#24](https://github.com/Merovex/stranded-series/issues/24), fix FB presence)
 
 ## Key Partnerships
 
@@ -88,14 +88,14 @@ What can the company not do so it can focus on its Key Activities?
   - [x] Google Domain
   - [x] Google Cloud (website)
 * Book Production
-  - [ ] Voiceover talent - Create Audible / Revenue Sharing (TODO: #25, Recruit VO talent)
-  - [ ] Editor - Revise book (TODO: #9, Recruit editors)
-  - [ ] Artist - Book cover art (TODO: #23, Recruit cover artist)
+  - [ ] Voiceover talent - Create Audible / Revenue Sharing (TODO: [#25](https://github.com/Merovex/stranded-series/issues/25), Recruit VO talent)
+  - [ ] Editor - Revise book (TODO: [#9](https://github.com/Merovex/stranded-series/issues/9), Recruit editors)
+  - [ ] Artist - Book cover art (TODO: [#23](https://github.com/Merovex/stranded-series/issues/23), Recruit cover artist)
 * Outreach
-  - [ ] Facebook (TODO: #24, fix FB presence)
-  - [ ] Google Ads (TODO: #27, Research Google Ads)
-  - [ ] Amazon Ads (TODO: #26, Research Amazon Ads)
-  - [ ] Mailchimp (TODO: #32, Revise Mailchimp setup)
+  - [ ] Facebook (TODO: [#24](https://github.com/Merovex/stranded-series/issues/24), fix FB presence)
+  - [ ] Google Ads (TODO: [#27](https://github.com/Merovex/stranded-series/issues/27), Research Google Ads)
+  - [ ] Amazon Ads (TODO: [#26](https://github.com/Merovex/stranded-series/issues/26), Research Amazon Ads)
+  - [ ] Mailchimp (TODO: [#32](https://github.com/Merovex/stranded-series/issues/32), Revise Mailchimp setup)
 
 ## Cost Structure
 
