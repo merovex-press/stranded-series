@@ -8,6 +8,7 @@ trimsize: Textbook
 crop: true
 toc: true
 links-as-notes: false
+top-level-division: part
 # lccn:  # http://www.loc.gov/publish/pcn/
 
 isbn: # Paperback

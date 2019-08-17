@@ -25,8 +25,8 @@ The saga launches with a web series exploring the struggle between the English, 
 * [Seasons / Storylines](#seasons-storylines)
 * [Tropes](#tropes)
 * [Glossary](#glossary)
-* [Contributing](#contributing)
 * [References](#references)
+* [Contributing](#contributing)
 * [Commit Style](#commit-style)
 * [License](#license)
 <!-- /toc -->
@@ -127,19 +127,21 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 
 [a listing of world-unique terms](./series-bible/GG-Glossary/glossary.md)
 
-## Contributing
-
-First of all, thank you for thinking of contributing. Writing is a largely solo effort, so direct contribution is unlikely with the exception of beta readers and editors. If you find a mistake somewhere, the reader community and I would love it if you would create an issue. I will review and address all legitimate issues posted.
-
-Before creating an issue, please [check this list](https://github.com/Merovex/stranded-series/issues) as you might find out that you don't need to create one. When you are creating a report, please include as many details as possible.
-
-
 ## References
 <!-- references --><!-- auto-populated -->
 * Calloway, Colin. _[The Scratch of a Pen: 1763 and the Transformation of North America](https://amzn.to/2Zaw0Uw)_. 2006.
 * Hinderaker, Eric. _[At the Edge of Empire: The Backcountry in British North America](https://amzn.to/31KpIN8)_. 1999.
 * Hinderaker, Eric. _[Elusive Empires: Constructing Colonialism in the Ohio Valley, 1673-1800](https://amzn.to/2KGiuUR)_. 2003.
+* Wikipedia. _[American Revolution](https://en.wikipedia.org/wiki/American_Revolution)_. Ref 2019
+* Wikipedia. _[Parliament](https://en.wikipedia.org/wiki/Parliament_of_Great_Britain)_ -->
+* Wikipedia. _[Sons of Liberty](https://en.wikipedia.org/wiki/Sons_of_Liberty)_. Ref 2019
 <!-- /references -->
+
+## Contributing
+
+First of all, thank you for thinking of contributing. Writing is a largely solo effort, so direct contribution is unlikely with the exception of beta readers and editors. If you find a mistake somewhere, the reader community and I would love it if you would create an issue. I will review and address all legitimate issues posted.
+
+Before creating an issue, please [check this list](https://github.com/Merovex/stranded-series/issues) as you might find out that you don't need to create one. When you are creating a report, please include as many details as possible.
 
 ## Commit Style
 
