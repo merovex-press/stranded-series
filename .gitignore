@@ -5,3 +5,4 @@
 docs/text/images
 build/
 .token
+tex2pdf.*
