@@ -10,8 +10,6 @@ URL: https://tvtropes.org/pmwiki/pmwiki.php/Main/FiveManBand
 
 Pictured: Everybody in the band.
 
-![Pictured: Everybody in the band.][EFkJWNpM]
-
 The Five-Man Band is a group of characters whose members fall into archetypes which all complement one another. They are a very specific team with skills that contribute to the group in a way oddly analogous to the members of a rock band. It can sometimes literally be a musical group, but much more often is not.
 
 The group traditionally includes:
@@ -31,7 +29,6 @@ These are examples of teams that fit **all five** of the character tropes. Remem
 As a rule of thumb, if your band example has to justify more than two types, or a single trope with more than two sentences of qualifiers, you're trying to fool yourself. If it isn't a Five-Man Band, it isn't a Five-Man Band.
 
 <!-- Reference URLs -->
-[EFkJWNpM]: 5_man_band_2-6d59140e-f430-431b-8fdb-28fcc2ba7d36.jpg
 [msRYnP7v]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheLeader
 [xEGOLr2Z]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheHero
 [bB6fIcqX]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TheLancer

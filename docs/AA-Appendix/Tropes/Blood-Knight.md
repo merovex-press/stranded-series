@@ -10,8 +10,6 @@ URL: https://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight
 
 "...HAVE AT THEE!"
 
-![][Wl2wSkfC]
-
 Fighting is everything to the Blood Knight. He *lives* for it. It's not so much about winning or losing, morality, the motives of his allies, or even [the glory][8YZ36INZ], that drives this guy so much as it is the opportunity for a good fight.
 
 A Blood Knight can be of any morality whatsoever, although [Anti Heroes][u0ObArmO] and [Anti Villains][T1JTqSvg] tend to be most common.
@@ -77,7 +75,6 @@ Oh, just in case it wasn't clear, the character doesn't have to be a literal kni
 
 <!-- Reference URLs -->
 [91oZ2Wt2]: https://tvtropes.org/pmwiki/pmwiki.php/Main/BloodKnight
-[Wl2wSkfC]: Hercstacked_8029-cc8d1f69-7596-4115-bb17-12fc601d40fa.jpg
 [8YZ36INZ]: https://tvtropes.org/pmwiki/pmwiki.php/Main/GlorySeeker
 [u0ObArmO]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AntiHero
 [T1JTqSvg]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AntiVillain
