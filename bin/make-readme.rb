@@ -62,7 +62,7 @@ sections = {
   },
 }
 
-Dir.glob("./series-bible/**/*.md").each { |file|
+Dir.glob("./docs/**/*.md").each { |file|
   begin
     y = YAML.load_file(file)
     next if sections[y['type']].nil?
@@ -85,10 +85,10 @@ end
 # ============================================
 ## Perform series of static string substitutions.
 actions = {
-  "series-outline"   => "series-bible/01-Overview/10-series-outline.md",
-  "setting-overview" => "series-bible/02-Setting/00-Overview.md",
-  "format-overview"  => "series-bible/01-Overview/01-concept.md",
-  "concept-overview" => "series-bible/01-Overview/01-concept.md",
+  "series-outline"   => "docs/01-Overview/10-series-outline.md",
+  "setting-overview" => "docs/02-Setting/00-Overview.md",
+  "format-overview"  => "docs/01-Overview/01-concept.md",
+  "concept-overview" => "docs/01-Overview/01-concept.md",
 }.each do |key, value|
   content = replace(value, key, content)
 end
@@ -108,7 +108,7 @@ content = substitute("toc",content,toc)
 # ============================================
 # Building Table of References
 
-references = getReferences("research") + getReferences("series-bible")
+references = getReferences("research") + getReferences("docs")
 content = substitute("references",content,references.uniq.sort.join(""))
 
 target = 'README.md'
