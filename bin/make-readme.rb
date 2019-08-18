@@ -20,6 +20,16 @@ def replace(file_path, tag, content)
   string = string.scan(/<!-- #{tag} -->(.*)<!-- \/#{tag} -->/imu).flatten.join("\n")
   return substitute(tag,content,string)
 end
+def getReferences(dir)
+  # /\*.*?_\[.*?\)_.*?$/
+  # * Hinderaker, Eric. _[Elusive Empires: Constructing Colonialism in the Ohio Valley, 1673-1800](https://amzn.to/2KGiuUR)_. 2003.
+  references = []
+  Dir["#{dir}/**/*.md"].each do |f|
+    # puts f
+    references += File.open(f).read().scan(/(\*.*?_\[.*?\)_.*?\n)/)
+  end
+  references
+end
 
 content = File.open('README.md','r').read()
 
@@ -35,7 +45,7 @@ sections = {
   "major-character" => {
     :list     => [],
     :sortby   => :name,
-    :template => "### %{name} (%{role})\n\n%{summary}\n\nMore on [%{name}](%{filename})\n\n",
+    :template => "* **[%{name}](%{filename})** (%{season})\n%{summary}\n",
     :header   => ""
   },
   "season" => {
@@ -52,7 +62,7 @@ sections = {
   },
 }
 
-Dir.glob("./series-bible/**/*.md").each { |file|
+Dir.glob("./docs/**/*.md").each { |file|
   begin
     y = YAML.load_file(file)
     next if sections[y['type']].nil?
@@ -60,6 +70,7 @@ Dir.glob("./series-bible/**/*.md").each { |file|
       :name     => y['name'],
       :role     => y['role'],
       :order    => y['order'],
+      :season    => y['season'],
       :summary  => y['summary'],
       :filename => file,
     } if y.is_a? Hash
@@ -74,10 +85,10 @@ end
 # ============================================
 ## Perform series of static string substitutions.
 actions = {
-  "series-outline"   => "series-bible/01-Overview/10-series-outline.md",
-  "setting-overview" => "series-bible/02-Setting/00-Overview.md",
-  "format-overview"  => "series-bible/01-Overview/01-concept.md",
-  "concept-overview" => "series-bible/01-Overview/01-concept.md",
+  "series-outline"   => "docs/01-Overview/10-series-outline.md",
+  "setting-overview" => "docs/02-Setting/00-Overview.md",
+  "format-overview"  => "docs/01-Overview/01-concept.md",
+  "concept-overview" => "docs/01-Overview/01-concept.md",
 }.each do |key, value|
   content = replace(value, key, content)
 end
@@ -93,6 +104,12 @@ content.scan(/^##\s?(.*)\n/iu).flatten.each do |header|
   toc << "%s* [%s](#%s)\n" % [indent,header,anchor]
 end
 content = substitute("toc",content,toc)
+
+# ============================================
+# Building Table of References
+
+references = getReferences("research") + getReferences("docs")
+content = substitute("references",content,references.uniq.sort.join(""))
 
 target = 'README.md'
 # target = 'README-temp.md'

@@ -1,13 +1,16 @@
 # Overview
 
 <!-- concept-overview -->
-**Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home.
+**Stranded** is a steampunk novella series by Ben Wilson. Eighteenth-Century British-Americans discovered advanced technology in the Ohio Territory at the end of the Seven Year's War.
+
+The saga launches with a web series exploring the struggle between the English, Rebels and Iroquois over who would control the newly-discovered ancient technology.
 <!-- /concept-overview -->
+
+<!-- **Stranded** is an early 20th Century, alt-history Science-Fiction novella series. British-American scientist Albert Strand flees the orbital to the planet below, he must adapt to the alien society and find his way back home. -->
 
 Hauge:
 
 >Any workable story concept can be expressed in a similar single sentence: It is a story about a [Hero] who wants [outer desire].
-
 
 Concept overview should be like:
 >Person of Interest is an American science fiction crime drama television series.
@@ -30,6 +33,8 @@ During the course of the series, 103 episodes of Person of Interest aired over f
 
 ## Audience
 
+TODO: [#31](https://github.com/Merovex/stranded-series/issues/31)
+
 _Who is the target audience? a narrative description of your target audience. This would be the anonymous "someone" you write to in your novels._
 
 * **Show Cross.**
@@ -42,7 +47,7 @@ _Who is the target audience? a narrative description of your target audience. Th
 <!-- format-overview -->
 **Stranded** is a series of novellas, broken down into seasons. Each season comprises 12 novellas as "chapters." This follows the [UK drama](https://tvtropes.org/pmwiki/pmwiki.php/Main/BritishBrevity) or [Anime](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwelveEpisodeAnime) series season length. (See [research](research/season-episode.md))
 
-A reader should complete a novella in roughly two hours of reading, or under four hours listening via Audible. This size was chosen to favor air travel (TODO: audience psychographics). Each season will be self-contained, though with storylines that may delay resolution until a subsequent series. A season climax will close out the season, but leave the reader wanting the next one.
+A reader should complete a novella in roughly two hours of reading, or under four hours listening via Audible. This size was chosen to favor air travel (TODO: [#31](https://github.com/Merovex/stranded-series/issues/31), audience psychographics). Each season will be self-contained, though with storylines that may delay resolution until a subsequent series. A season climax will close out the season, but leave the reader wanting the next one.
 
 This is an alt-history Science Fiction series. Need to explain the genre (horror, comedy, etc.) Loop in the major tropes.
 
