@@ -109,7 +109,10 @@ content = substitute("toc",content,toc)
 # Building Table of References
 
 references = getReferences("research") + getReferences("docs")
-content = substitute("references",content,references.uniq.sort.join(""))
+content = substitute(
+  "references",
+  content,
+  references.uniq.sort.join("").gsub("-->",'').strip)
 
 target = 'README.md'
 # target = 'README-temp.md'

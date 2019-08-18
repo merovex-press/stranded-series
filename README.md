@@ -132,11 +132,11 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 * Calloway, Colin. _[The Scratch of a Pen: 1763 and the Transformation of North America](https://amzn.to/2Zaw0Uw)_. 2006.
 * Hinderaker, Eric. _[At the Edge of Empire: The Backcountry in British North America](https://amzn.to/31KpIN8)_. 1999.
 * Hinderaker, Eric. _[Elusive Empires: Constructing Colonialism in the Ohio Valley, 1673-1800](https://amzn.to/2KGiuUR)_. 2003.
-* Wikipedia. _[American Revolution](https://en.wikipedia.org/wiki/American_Revolution)_. Ref 2019
+* Wikipedia. _[American Revolution](https://en.wikipedia.org/wiki/American_Revolution)_. Ref 2019 
 * Wikipedia. _[Bloody Code](https://en.wikipedia.org/wiki/Bloody_Code)_. Ref 2019.
 * Wikipedia. _[Parliament](https://en.wikipedia.org/wiki/Parliament_of_Great_Britain)_. Ref 2019.
 * Wikipedia. _[Sons of Liberty](https://en.wikipedia.org/wiki/Sons_of_Liberty)_. Ref 2019
-<!-- /references -->
+* Wikipedia. _[Wilberforce](https://en.wikipedia.org/wiki/William_Wilberforce)_. Ref 2019.<!-- /references -->
 
 ## Contributing
 
