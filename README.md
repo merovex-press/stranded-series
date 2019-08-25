@@ -22,6 +22,7 @@ The saga launches with a web series exploring the struggle between the English, 
 <!-- toc --><!-- auto-populated -->
 * [Setting Overview](#setting-overview)
 * [Format](#format)
+* [Audience](#audience)
 * [Characters](#characters)
 * [Key Locations](#key-locations)
 * [Plot / Series Outline](#plot-series-outline)
@@ -30,13 +31,13 @@ The saga launches with a web series exploring the struggle between the English, 
 * [Glossary](#glossary)
 * [References](#references)
 * [Contributing](#contributing)
-* [Commit Style](#commit-style)
+* [Maintenance](#maintenance)
 * [License](#license)
 <!-- /toc -->
 
 _We often thank the gifts instead of the giver. Thank you for more breath to praise you with._
 
-## Setting Overview
+## Overview
 
 <!-- setting-overview --><!-- auto-populated -->
 
@@ -66,6 +67,14 @@ A reader should complete a novella in roughly two hours of reading, or under fou
 This is an alt-history Science Fiction series. Need to explain the genre (horror, comedy, etc.) Loop in the major tropes.
 
 <!-- /format-overview -->
+
+## Audience
+
+In AUDIENCE you should clearly define your target audience; not just by age or gender but also by demographic, interests, habits, other media they consume, other activities they engage, what professions they occupy, what beliefs or values they may hold. Audiences are not so simplistic as to be defined simply by how old they are and what sex they are…!
+
+Also take into consideration the audiences of other shows and aim your project to appeal to the same audience as a similar series, or one in the same style or genre.
+
+If possible specify the network, broadcaster or channels most appropriate.
 
 ## Characters
 
