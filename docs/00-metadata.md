@@ -5,7 +5,7 @@ subtitle: "The world building guild for the Stranded Series"
 # Copyright Information
 rights: Copyright © 2019 Ben Wilson
 trimsize: Textbook
-crop: true
+# crop: true
 toc: true
 links-as-notes: false
 top-level-division: part

@@ -7,6 +7,9 @@ Exemplars:
 
  -->
 
+[![Automated Changelog by gren](https://img.shields.io/badge/%F0%9F%A4%96-changelog-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
+[![Automated Release Notes by Release Drafter](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github.com/apps/release-drafter)
+
 <!-- concept-overview --><!-- auto-populated -->
 
 **Stranded** is a steampunk novella series by Ben Wilson. Eighteenth-Century British-Americans discovered advanced technology in the Ohio Territory at the end of the Seven Year's War.
@@ -37,10 +40,10 @@ _We often thank the gifts instead of the giver. Thank you for more breath to pra
 
 <!-- setting-overview --><!-- auto-populated -->
 
-**Stranded** occurs after 160 years of [technologic acceleration][VcUi1erb] after the English discovered [ancient technology][vLFiDV9E] in British America. The British believe the technology to come from ancient aliens they named the "Toltec" after the native mounds where the technology was discovered; there are no aliens in the series.
+**Stranded** is an alternate history setting diverging in the 18th Century after [technologic acceleration][VcUi1erb] in British North America. The British believe the technology to come from ancient aliens they named the "Toltec" after the native mounds where the technology was discovered; there are no aliens in the series.
 Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
 
-"Toltec" writings led to British "discovery" of the [Slipstream][ltDHHbfX], providing faster-than-light travel. Traveling the Slipsteam reveals "[Elysion][UPkFi3ZN]," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.
+In the 18th Century, Toltec discoveries led to advanced weapons (automatic rifles). In the 19th Century, Toltec Neutrinovoltaic technology accelerated the industrial era. By the early 20th Century, Brits were in space and leveraging Toltec technology for [Slipstream][ltDHHbfX] (faster-than-light) travel. Traveling the Slipsteam reveals "[Elysion][UPkFi3ZN]," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.
 
 Elysion inhabitants are humans genetically identical to Earth. Albert encounters the Hela, a dark-skinned, Indo-European-appearing ethnicity speaking what Albert determines is an older Germanic (Icelandic) language. The Hela, technologically in the Renaissance, are in the early stages of a civil war, with a rival branch of the ruling family seeking to gain power.
 
@@ -136,7 +139,7 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 * Wikipedia. _[Bloody Code](https://en.wikipedia.org/wiki/Bloody_Code)_. Ref 2019.
 * Wikipedia. _[Parliament](https://en.wikipedia.org/wiki/Parliament_of_Great_Britain)_. Ref 2019.
 * Wikipedia. _[Sons of Liberty](https://en.wikipedia.org/wiki/Sons_of_Liberty)_. Ref 2019
-<!-- /references -->
+* Wikipedia. _[Wilberforce](https://en.wikipedia.org/wiki/William_Wilberforce)_. Ref 2019.<!-- /references -->
 
 ## Contributing
 
@@ -144,22 +147,35 @@ First of all, thank you for thinking of contributing. Writing is a largely solo 
 
 Before creating an issue, please [check this list](https://github.com/Merovex/stranded-series/issues) as you might find out that you don't need to create one. When you are creating a report, please include as many details as possible.
 
-## Commit Style
+## Maintenance
 
+**Commit Style.**
 In order to try to put some structure to my commits, I add the following "types" to commit messages using the format `<type>(<scope>): <subject>`.
 
 
-1. **clean**: Shows formatting, organization or other fixes that are otherwise immaterial.
-2. **docs**: Shows progress in supporting materials (e.g. README, series bible, etc.)
-3. **feat**: Shows improvement in toolchain
+1. **docs**: Shows progress in supporting materials (e.g. README, series bible, etc.)
+5. **learn**: Capturing research work
+1. **tidy**: Shows formatting, organization or other fixes that are otherwise immaterial.
+3. **tool**: Shows improvement in toolchain
 4. **typo**: Shows a correction to any work (whether for publication or not.)
 6. **wip**: Shows forward progress in a for-publication work
 
 * https://github.com/toolmantim/release-drafter#readme
 * https://github.com/settings/installations/1239713
 
+**Release.**
+This repo manages Github Releases with [Release Drafter](https://github.com/apps/release-drafter). It automatically creates a `Draft` release and updates that draft with *Pull Requests*. There are pull-request-specific labels in the repo to help categorize the release notes. See [.github/release-drafter.yml](./.github/release-drafter.yml) for those labels.
+
+**Changelog.**
+This repos makes the Changelog using Using [Github Release Notes](https://github.com/github-tools/github-release-notes). Changelog format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+* `gren changelog --override`
+* Note: Do not use `gren release` as it will argue with Release Drafter.
+* Note: I got overkill in August 2019 with v0.4.0 using `gren` to create the release (it ignored the draft release) off of commits.
+
+
 ## License
 
-Copyright 2018 - Benjamin C. Wilson - All Rights Reserved
+Copyright 2018 - Benjamin C. Wilson - All Rights Reserved (Likely lapse in 2122).
 
 Goal: Inspire the next generation of Christians to engage in secular literature for God's glory.
