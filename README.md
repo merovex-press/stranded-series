@@ -7,6 +7,8 @@ Exemplars:
 
  -->
 
+[![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
+
 <!-- concept-overview --><!-- auto-populated -->
 
 **Stranded** is a steampunk novella series by Ben Wilson. Eighteenth-Century British-Americans discovered advanced technology in the Ohio Territory at the end of the Seven Year's War.
@@ -36,7 +38,6 @@ _We often thank the gifts instead of the giver. Thank you for more breath to pra
 ## Setting Overview
 
 <!-- setting-overview --><!-- auto-populated -->
-
 
 **Stranded** is an alternate history setting diverging in the 18th Century after [technologic acceleration][VcUi1erb] in British North America. The British believe the technology to come from ancient aliens they named the "Toltec" after the native mounds where the technology was discovered; there are no aliens in the series.
 Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
@@ -133,7 +134,7 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 * Calloway, Colin. _[The Scratch of a Pen: 1763 and the Transformation of North America](https://amzn.to/2Zaw0Uw)_. 2006.
 * Hinderaker, Eric. _[At the Edge of Empire: The Backcountry in British North America](https://amzn.to/31KpIN8)_. 1999.
 * Hinderaker, Eric. _[Elusive Empires: Constructing Colonialism in the Ohio Valley, 1673-1800](https://amzn.to/2KGiuUR)_. 2003.
-* Wikipedia. _[American Revolution](https://en.wikipedia.org/wiki/American_Revolution)_. Ref 2019 
+* Wikipedia. _[American Revolution](https://en.wikipedia.org/wiki/American_Revolution)_. Ref 2019
 * Wikipedia. _[Bloody Code](https://en.wikipedia.org/wiki/Bloody_Code)_. Ref 2019.
 * Wikipedia. _[Parliament](https://en.wikipedia.org/wiki/Parliament_of_Great_Britain)_. Ref 2019.
 * Wikipedia. _[Sons of Liberty](https://en.wikipedia.org/wiki/Sons_of_Liberty)_. Ref 2019
@@ -145,7 +146,9 @@ First of all, thank you for thinking of contributing. Writing is a largely solo 
 
 Before creating an issue, please [check this list](https://github.com/Merovex/stranded-series/issues) as you might find out that you don't need to create one. When you are creating a report, please include as many details as possible.
 
-## Commit Style
+## Maintenance
+
+### Commit Style
 
 In order to try to put some structure to my commits, I add the following "types" to commit messages using the format `<type>(<scope>): <subject>`.
 
@@ -158,6 +161,17 @@ In order to try to put some structure to my commits, I add the following "types"
 
 * https://github.com/toolmantim/release-drafter#readme
 * https://github.com/settings/installations/1239713
+
+### Release & Changelog
+
+Changelog format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
+
+Releases are ??? https://github.com/github-tools/github-release-notes
+
+Uses GREN ([Github Release Notes](https://github.com/github-tools/github-release-notes))
+* `gren release -P -d` Create a release in draft as a pre-release
+* `gren changelog --override`
 
 ## License
 

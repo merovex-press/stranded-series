@@ -1,7 +1,7 @@
 # Changelog
 
 ## v0.5.0 (31/12/1969)
-## Changes
+### Changes
 
 - Backcountry research & Organization @Merovex (#37)
 
@@ -63,7 +63,7 @@
 ---
 
 ## v0.3.0 (07/07/2019)
-## Changes
+### Changes
 
 - Syncing Develop with Master @Merovex (#16)
 - chore: testing release drafts. @Merovex (#15)

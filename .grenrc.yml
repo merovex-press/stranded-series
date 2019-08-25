@@ -1,5 +1,5 @@
 ---
-  dataSource: "commits"
+  dataSource: "releases"
   prefix: "v"
   includeMessages: "commits"
   ignoreCommitsWith:
@@ -12,6 +12,20 @@
         "invalid",
         "help wanted"
     ]
+  template:
+    commit: "({ message, url, author, name }) => `- [${message}](${url}) - ${author
+      ? `@${author}` : name}`"
+    issue: "- {{labels}} {{name}} [{{text}}]({{url}})"
+    label: "[**{{label}}**]"
+    noLabel: closed
+    group: |2
+
+      #### {{heading}}
+    changelogTitle: "# Changelog\n\n"
+    release: |-
+      ## {{release}} ({{date}})
+      {{body}}
+    "releaseSeparator": "\n---\n\n"
   groupBy:
     'Releases':
       - 'release'
