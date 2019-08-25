@@ -7,7 +7,8 @@ Exemplars:
 
  -->
 
-[![Automated Release Notes by gren](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
+[![Automated Changelog by gren](https://img.shields.io/badge/%F0%9F%A4%96-changelog-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
+[![Automated Release Notes by Release Drafter](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github.com/apps/release-drafter)
 
 <!-- concept-overview --><!-- auto-populated -->
 
@@ -148,33 +149,33 @@ Before creating an issue, please [check this list](https://github.com/Merovex/st
 
 ## Maintenance
 
-### Commit Style
-
+**Commit Style.**
 In order to try to put some structure to my commits, I add the following "types" to commit messages using the format `<type>(<scope>): <subject>`.
 
 
-1. **clean**: Shows formatting, organization or other fixes that are otherwise immaterial.
-2. **docs**: Shows progress in supporting materials (e.g. README, series bible, etc.)
-3. **feat**: Shows improvement in toolchain
+1. **docs**: Shows progress in supporting materials (e.g. README, series bible, etc.)
+5. **learn**: Capturing research work
+1. **tidy**: Shows formatting, organization or other fixes that are otherwise immaterial.
+3. **tool**: Shows improvement in toolchain
 4. **typo**: Shows a correction to any work (whether for publication or not.)
 6. **wip**: Shows forward progress in a for-publication work
 
 * https://github.com/toolmantim/release-drafter#readme
 * https://github.com/settings/installations/1239713
 
-### Release & Changelog
+**Release.**
+This repo manages Github Releases with [Release Drafter](https://github.com/apps/release-drafter). It automatically creates a `Draft` release and updates that draft with *Pull Requests*. There are pull-request-specific labels in the repo to help categorize the release notes. See [.github/release-drafter.yml](./.github/release-drafter.yml) for those labels.
 
-Changelog format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
+**Changelog.**
+This repos makes the Changelog using Using [Github Release Notes](https://github.com/github-tools/github-release-notes). Changelog format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
-
-Releases are ??? https://github.com/github-tools/github-release-notes
-
-Uses GREN ([Github Release Notes](https://github.com/github-tools/github-release-notes))
-* `gren release -P -d` Create a release in draft as a pre-release
 * `gren changelog --override`
+* Note: Do not use `gren release` as it will argue with Release Drafter.
+* Note: I got overkill in August 2019 with v0.4.0 using `gren` to create the release (it ignored the draft release) off of commits.
+
 
 ## License
 
-Copyright 2018 - Benjamin C. Wilson - All Rights Reserved
+Copyright 2018 - Benjamin C. Wilson - All Rights Reserved (Likely lapse in 2122).
 
 Goal: Inspire the next generation of Christians to engage in secular literature for God's glory.
