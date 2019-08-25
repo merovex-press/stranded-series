@@ -1,8 +1,32 @@
 ---
   dataSource: "commits"
-  prefix: "y"
+  prefix: "v"
   includeMessages: "commits"
-  ignoreCommitsWith: 
+  ignoreCommitsWith:
     - "skip"
     - "skip-changelog"
   changelogFilename: "CHANGELOG.md"
+  "ignoreIssuesWith": [
+        "duplicate",
+        "wontfix",
+        "invalid",
+        "help wanted"
+    ]
+  groupBy:
+    'Releases':
+      - 'release'
+      - 'publish'
+    'Work in Progress':
+      - 'wip'
+      - 'docs'
+      - 'doc'
+      - 'research'
+      - 'learn'
+    'Bug Fixes':
+      - 'fix'
+      - 'typo'
+    'Maintenance':
+      - 'chore'
+      - 'feat'
+      - 'feature'
+      - 'clean'
