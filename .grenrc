@@ -1,0 +1,8 @@
+{
+    "dataSource": "commits",
+    "prefix": "y",
+    "includeMessages": "all",
+    "ignoreCommitsWith": ["skip"],
+    "ignoreTagsWith": ["skip"],
+    "changelogFilename": "CHANGELOG.md"
+}
