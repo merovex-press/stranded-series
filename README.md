@@ -1,12 +1,5 @@
 # Strand Series
 
-<!--
-Exemplars:
-* https://en.wikipedia.org/wiki/Discworld
-*  https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series)
-
- -->
-
 [![Automated Changelog by gren](https://img.shields.io/badge/%F0%9F%A4%96-changelog-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
 [![Automated Release Notes by Release Drafter](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github.com/apps/release-drafter)
 
@@ -14,22 +7,24 @@ Exemplars:
 
 **Stranded** is a steampunk novella series by Ben Wilson. Eighteenth-Century British-Americans discovered advanced technology in the Ohio Territory at the end of the Seven Year's War.
 
-The saga launches with a web series exploring the struggle between the English, Rebels and Iroquois over who would control the newly-discovered ancient technology.
+The saga launches with season one: a web series exploring the struggle between the English, Rebels and Iroquois over who would control the newly-discovered ancient technology.
 <!-- /concept-overview -->
 
 ## Contents
 
 <!-- toc --><!-- auto-populated -->
-* [Setting Overview](#setting-overview)
-* [Format](#format)
-* [Audience](#audience)
-* [Characters](#characters)
+* [Overview](#overview)
+  * [Concept Overview](#concept-overview)
+  * [Format](#format)
+  * [Audience](#audience)
+* [Series Plot / Outline](#series-plot-outline)
+* [Key Characters](#key-characters)
 * [Key Locations](#key-locations)
-* [Plot / Series Outline](#plot-series-outline)
-* [Seasons / Storylines](#seasons-storylines)
-* [Tropes](#tropes)
-* [Glossary](#glossary)
+* [Season Synopses](#season-synopses)
 * [References](#references)
+  * [Tropes](#tropes)
+  * [Glossary](#glossary)
+  * [Abridged Bibliography](#abridged-bibliography)
 * [Contributing](#contributing)
 * [Maintenance](#maintenance)
 * [License](#license)
@@ -39,7 +34,10 @@ _We often thank the gifts instead of the giver. Thank you for more breath to pra
 
 ## Overview
 
+### Concept
+
 <!-- setting-overview --><!-- auto-populated -->
+
 
 **Stranded** is an alternate history setting diverging in the 18th Century after [technologic acceleration][VcUi1erb] in British North America. The British believe the technology to come from ancient aliens they named the "Toltec" after the native mounds where the technology was discovered; there are no aliens in the series.
 Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
@@ -55,7 +53,7 @@ Elysion inhabitants are humans genetically identical to Earth. Albert encounters
 [UPkFi3ZN]: https://github.com/Merovex/stranded-series/blob/master/series-bible/04-Locations/Elysion/00-elysion.md
 <!-- /setting-overview -->
 
-## Format
+### Format
 
 <!-- Like Wikipedia: Discworld Composition -->
 <!-- format-overview --><!-- auto-populated -->
@@ -68,15 +66,40 @@ This is an alt-history Science Fiction series. Need to explain the genre (horror
 
 <!-- /format-overview -->
 
-## Audience
+### Audience
+
+<!-- audience --><!-- auto-populated -->
 
 In AUDIENCE you should clearly define your target audience; not just by age or gender but also by demographic, interests, habits, other media they consume, other activities they engage, what professions they occupy, what beliefs or values they may hold. Audiences are not so simplistic as to be defined simply by how old they are and what sex they are…!
 
 Also take into consideration the audiences of other shows and aim your project to appeal to the same audience as a similar series, or one in the same style or genre.
 
 If possible specify the network, broadcaster or channels most appropriate.
+<!-- /audience -->
 
-## Characters
+<!-- series-outline --><!-- auto-populated -->
+
+## Series Plot / Outline
+
+_**a one-page (4-5 paragraph) summary of the world, major characters and central tension.**_
+
+<!-- Write an overview of the series idea, describing the world or setting it takes place in, the unique conflicts faced, and the dynamics between main characters that fuel the story. This is a great sales tool because you're going to highlight the most interesting facets and themes of the series. You should be able to do this in three paragraphs, but a few pages is ok so long as the writing is "tight" and reads efficiently, moving the story beat by beat. -->
+
+In the 18th century, humanity discovered advanced alien technology in the Toltec Indian mounds. Over the next 150 years, society embraces the technology and develops interstellar travel via the slipstream, all while retaining paranoid nationalism. When they encounter other human settlements on alien worlds, they chose to study them out of concern that "alien" use of slipstream technology puts them at risk.
+
+Albert Strand is a descendent of the original discoverer of the Indian mounds and lives under that shadow. Putting career before family, he lobbied hard to be assigned to the Orbital.
+
+<!-- Looking at PoI's formatting https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series) -->
+a 1-2 page that gives an overview of the characters, major series arcs.
+
+1. Paragraph introduces the main character and the central series plot.
+2. Paragraph explains the major characters & relationships to main character and one-another.
+3. Paragraph summarizes major series sub-plots, one sentence per subplot. Highlight on the first major subplot to address.
+4. Paragraph of season two summary in four sentences: the core season conflict, new characters/conflicts. Service the subplots.
+5. Ditto each new season. Close each subplot introduced in the sub-plot paragraph. Introduce a new one as necessary.
+<!-- /series-outline -->
+
+## Key Characters
 
 These are the major characters in the series and their roles.
 
@@ -89,27 +112,19 @@ Clarance is "Blaster" to Albert's "Master," and the reason why they had to flee 
 
 ## Key Locations
 
+KEY LOCATIONS lays out the central narrative spaces in the series, the recurring locations that are important to the characters and the world and the dominant locations where the story will play out.
+
+In a good series these Locations will not be arbitrary - they will be specifically chosen for their natural dramatic pressures, their stylistic or aesthetic significance to the narratives, or their metaphoric relationship to characters, contexts and themes.
+
+This section should list the locations and provide a 1-2 paragraph description of each.
+
 <!-- location-section --><!-- auto-populated -->
 * **[Crown Victoria Orbital](./docs/04-Locations/Earth/crown-victoria-orbital.md).** Crown Victoria Orbital is the Toltec orbital over Earth.
 * **[Elysion System](./docs/04-Locations/Elysion/elysion-system.md).** Elysion is a binary system (G2V, KV5). Third planet around Elysion Junior is Elysion, the focal planet for the system.
 * **[New Briton Orbital](./docs/04-Locations/Elysion/new-briton-orbital.md).** New Briton Orbital is the Toltec orbital over Elysion that allows the British to observe the planet below
 <!-- /location-section -->
 
-<!-- series-outline --><!-- auto-populated -->
-
-## Plot / Series Outline
-
-<!-- Looking at PoI's formatting https://en.wikipedia.org/wiki/Person_of_Interest_(TV_series) -->
-a 1-2 page that gives an overview of the characters, major series arcs.
-
-1. Paragraph introduces the main character and the central series plot.
-2. Paragraph explains the major characters & relationships to main character and one-another.
-3. Paragraph summarizes major series sub-plots, one sentence per subplot. Highlight on the first major subplot to address.
-4. Paragraph of season two summary in four sentences: the core season conflict, new characters/conflicts. Service the subplots.
-5. Ditto each new season. Close each subplot introduced in the sub-plot paragraph. Introduce a new one as necessary.
-<!-- /series-outline -->
-
-## Seasons / Storylines
+## Season Synopses
 
 _a listing of the individual episode Story Treatments that focuses on the story arcs & how a given story feeds into the series outline._
 
@@ -120,7 +135,11 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 | **[2](./docs/05-Treatments/02-Season-Two/00-Summary.md)** | The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile... |
 <!-- /season-section -->
 
-## Tropes
+## References
+
+### Tropes
+
+These tropes were found on TV Tropes and provide a reference to how the series hits key notes in the genre.
 
 <!-- trope-section --><!-- auto-populated -->
 * **[Absent Aliens](./docs/AA-Appendix/Tropes/Absent-Aliens.md).** Humans are the only intelligent life in the universe.
@@ -135,11 +154,11 @@ _a listing of the individual episode Story Treatments that focuses on the story 
 * **[One Big Lie (Mohs Scale)](./docs/AA-Appendix/Tropes/Mohs-Scale-of-Science-Fiction-Hardness.md).** The level of realism and unrealism in a Science Fiction story.
 <!-- /trope-section -->
 
-## Glossary
+### Glossary
 
 [a listing of world-unique terms](./series-bible/GG-Glossary/glossary.md)
 
-## References
+### Abridged Bibliography
 <!-- references --><!-- auto-populated -->
 * Calloway, Colin. _[The Scratch of a Pen: 1763 and the Transformation of North America](https://amzn.to/2Zaw0Uw)_. 2006.
 * Hinderaker, Eric. _[At the Edge of Empire: The Backcountry in British North America](https://amzn.to/31KpIN8)_. 1999.
@@ -161,7 +180,6 @@ Before creating an issue, please [check this list](https://github.com/Merovex/st
 **Commit Style.**
 In order to try to put some structure to my commits, I add the following "types" to commit messages using the format `<type>(<scope>): <subject>`.
 
-
 1. **docs**: Shows progress in supporting materials (e.g. README, series bible, etc.)
 5. **learn**: Capturing research work
 1. **tidy**: Shows formatting, organization or other fixes that are otherwise immaterial.
@@ -182,6 +200,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 * Note: Do not use `gren release` as it will argue with Release Drafter.
 * Note: I got overkill in August 2019 with v0.4.0 using `gren` to create the release (it ignored the draft release) off of commits.
 
+**Readme Automation.** Some content in this README is pulled from the series documentation. The `make-readme.rb` custom script in `./bin` builds the readme.
 
 ## License
 
