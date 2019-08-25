@@ -1,0 +1,8 @@
+---
+  dataSource: "commits"
+  prefix: "y"
+  includeMessages: "commits"
+  ignoreCommitsWith: 
+    - "skip"
+    - "skip-changelog"
+  changelogFilename: "CHANGELOG.md"
