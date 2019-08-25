@@ -1,9 +1,10 @@
 # Changelog
 
 ## v0.5.0 (31/12/1969)
-### Changes
+### Development
 
-- Backcountry research & Organization @Merovex (#37)
+- Backcountry research & organization @Merovex (#37)
+- Developing 18th Century timeline @Merovex (#39)
 
 ---
 
