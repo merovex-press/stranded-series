@@ -6,7 +6,6 @@
 A reader should complete a novella in roughly two hours of reading, or under four hours listening via Audible. This size was chosen to favor air travel (TODO: [#31](https://github.com/Merovex/stranded-series/issues/31), audience psychographics). Each season will be self-contained, though with storylines that may delay resolution until a subsequent series. A season climax will close out the season, but leave the reader wanting the next one.
 
 This is an alt-history Science Fiction series. Need to explain the genre (horror, comedy, etc.) Loop in the major tropes.
-
 <!-- /format-overview -->
 
 Each season comprises eight novella episodes (26,500±2,500 words or 80±8 pages). Therefore, each season is 212,000 words (191 to 233 @ ± 10%), or about three 70,000 novels. Each novella comprises 8 three-scene segments or 24 scenes (~1100 words per scene).

@@ -2,7 +2,10 @@
 
 <!-- ## Theme, Style & Tone -->
 
+<!-- In contemporary literary studies, a theme is a central topic a text treats. Themes can be divided into two categories: a work's thematic concept is what readers "think the work is about" and its thematic statement being "what the work says about the subject". Themes are often distinguished from premises. -->
+
 * **Theme.** Stranded asks whether one can glorify God while focusing on self-aggrandizement.
+
 ### Themes
 
 THEMES are Unifying Subjects
