@@ -9,10 +9,10 @@ jobs:
     steps:
       - name: Get repo
         uses: actions/checkout@v1
-      - name: Setup Docker
+      - name: Build the Book...
         uses: docker://merovex/pandoc-book:latest
-      - name: Build the Book
-        run: pandoc-book.rb
+        run: /usr/local/bin/pandoc-book.rb
+
 
 #     runs-on: ubuntu-latest
 #     steps:
