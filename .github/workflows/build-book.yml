@@ -19,7 +19,6 @@ jobs:
       #     path: build
       - name: Dump it
         run: echo "$GITHUB_REF"
-        shell: /bin/bash -e {0}
       - name: Get the version
         id: version
         run: echo ::set-output name=VERSION::$(echo ${GITHUB_REF:10})
