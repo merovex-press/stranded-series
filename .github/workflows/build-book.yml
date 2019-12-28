@@ -1,6 +1,6 @@
 name: Book Builder
 
-on: [push]
+on: [release]
 
 jobs:
   build:
