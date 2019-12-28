@@ -6,7 +6,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Build Book.
+          name: Build Book..
           command: |
             pandoc-book.rb
             mkdir -p /tmp/builds
