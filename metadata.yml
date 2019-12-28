@@ -29,4 +29,8 @@ trimsize: Novella
 toc: false
 toc-depth: 2
 chapter-color: Maroon
+
+seriffont: "Source Serif Pro"
+sansfont: "Source Sans Pro"
+monofont: "Source Code Pro"
 ---

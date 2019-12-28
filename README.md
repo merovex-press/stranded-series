@@ -204,6 +204,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## License
 
-Copyright 2018 - Benjamin C. Wilson - All Rights Reserved (Likely lapse in 2122).
+Copyright 2018-19 - Benjamin C. Wilson - All Rights Reserved (Likely lapse in 2122).
 
 Goal: Inspire the next generation of Christians to engage in secular literature for God's glory.
