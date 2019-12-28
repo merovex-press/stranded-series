@@ -19,7 +19,7 @@ jobs:
       #     path: build
       - name: Get the version
         id: version
-        run: echo ::set-output name=VERSION::$(echo $GITHUB_REF | cut -d / -f 3)
+        run: echo ::set-output name=VERSION::$(echo GITHUB_REF#refs/heads/)
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1.0.0
