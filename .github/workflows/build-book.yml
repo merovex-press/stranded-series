@@ -10,15 +10,17 @@ jobs:
         uses: actions/checkout@v1
       - name: Run Pandoc Book (Docker)
         uses: docker://merovex/pandoc-book:latest
-      - name: Compress the books
-        run: zip books build
-      - uses: actions/upload-artifact@v1
-        with:
-          name: "books"
-          path: build
-      - name: Upload Release Asset
-        uses: JasonEtco/upload-to-release@master
-        with:
-          args: books.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Compress the books
+      #   run: zip books build
+      # - uses: actions/upload-artifact@v1
+      #   with:
+      #     name: "books"
+      #     path: build
+      # - name: Upload Release Asset
+      #   uses: JasonEtco/upload-to-release@master
+      #   with:
+      #     args: books.zip
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
