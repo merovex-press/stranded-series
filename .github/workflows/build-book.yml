@@ -19,15 +19,15 @@ jobs:
       #     path: build
       - name: Get tag name
         uses: olegtarasov/get-tag@v1
-        id: version
+        id: getTag
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ steps.version.outputs.tag }}
-          release_name: Release ${{ steps.version.outputs.tag }}
+          tag_name: v${{ steps.getTag.outputs.tag }}
+          release_name: Release ${{ steps.getTag.outputs.tag }}
           draft: true
           prerelease: true
       # - name: Upload Release Asset
