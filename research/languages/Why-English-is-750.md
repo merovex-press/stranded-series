@@ -165,7 +165,7 @@ But though enshrined as the founding treasure of the national literary canon, it
 
 ### Ye Olde Englisch paradigm
 
-![Comparative timelines of the history of English](./english-timeline-screenshot.jpg)
+[Comparative timelines of the history of English](./english-timeline-screenshot.jpg)
 
 Comparative timelines of the history of English
 
