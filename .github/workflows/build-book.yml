@@ -1,15 +1,18 @@
-name: CI
+name: Book Builder
 
 on: [push]
 
 jobs:
   build:
+    name: Ebook
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: docker://merovex/pandoc-book:latest
-      - name: Build the Book
-      - run: pandoc-book.rb
+      - name: Get repo
+        uses: actions/checkout@v1
+      - name: Setup Docker
+        uses: docker://merovex/pandoc-book:latest
+      # - name: Build the Book
+      # - run: pandoc-book.rb
 
 #     runs-on: ubuntu-latest
 #     steps:
