@@ -11,26 +11,15 @@ jobs:
         uses: actions/checkout@v1
       - name: Run Pandoc Book (Docker)
         uses: docker://merovex/pandoc-book:latest
-      - name: Zip it.
+      - name: Compress the books
         run: zip books build
       - uses: actions/upload-artifact@v1
         with:
           name: "books"
           path: build
       - name: Upload Release Asset
-        id: upload-release-asset
         uses: JasonEtco/upload-to-release@master
-      - name: Push images
-        id: version
-        run: |
-          echo  VERSION=$(echo "${{ github.ref }}" | sed -e 's,.*/\(.*\),\1,')
-      - name: Get the version
-        id: get_version
-        run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\//}
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1.0.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           args: books.zip application/zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
