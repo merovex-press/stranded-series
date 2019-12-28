@@ -11,6 +11,7 @@ jobs:
         uses: actions/checkout@v1
       - name: Run Pandoc Book (Docker)
         uses: docker://merovex/pandoc-book:latest
+      - name: Zip it.
         run: zip my-books
       - uses: actions/upload-artifact@v1
         with:
