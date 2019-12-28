@@ -20,7 +20,7 @@ jobs:
       - name: Push image
         id: version
         run: |
-          echo VERSION=$(echo "${{ github.ref }}" | sed -e 's,.*/\(.*\),\1,')
+          echo  VERSION=$(echo "${{ github.ref }}" | sed -e 's,.*/\(.*\),\1,')
       - name: Get the version
         id: get_version
         run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\//}
