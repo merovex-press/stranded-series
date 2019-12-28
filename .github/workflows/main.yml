@@ -9,12 +9,8 @@ jobs:
     steps:
       - uses: actions/checkout@v1
       - name: Build the Book
-      - run: |
-          cd docs
-          make book
-          mkdir -p /tmp/builds
-          cp -r build/* /tmp/builds
-          
+      - run: pandoc-book.rb
+
 #     runs-on: ubuntu-latest
 #     steps:
 #     - uses: actions/checkout@v1
@@ -28,6 +24,6 @@ jobs:
 #       uses: actions/upload-artifact@v1.0.0
 #       with:
 #         # Artifact name
-#         name: 
+#         name:
 #         # Directory containing files to upload
-#         path: 
+#         path:
