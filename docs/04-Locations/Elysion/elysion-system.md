@@ -18,7 +18,6 @@ Elysol is a binary system comprising Elysol Senior (G2V, primary) and Elysol Jun
 | Diameter    | 0.011<sub>AU</sub>    | 0.008<sub>AU</sub><br>(17x <sub>Jupiter</sub>) |
 | HR          | .0--1.44<sub>AU</sub> |  0.67--0.97<sub>AU</sub> |
 
-<!-- [Elysion System with Habitability Zones](/images/elysion-system.png) -->
 
 <!-- 0.00046732617 -->
 
@@ -34,8 +33,6 @@ Elysol is a binary system comprising Elysol Senior (G2V, primary) and Elysol Jun
 | 17.57 AU | 0.5179 | 8.4<sub>AU</sub> | 27.0<sub>AU</sub> | -->
 
 Note: Habitability calculation provided from [Tobias Mueller's calculator](http://astro.twam.info/hz/) based on data frim [Müller & Haghighipour (2014)](http://dx.doi.org/10.1088/0004-637X/782/1/26)
-
-<!-- [Elysion System with Habitability Zones /images/from-elysion.jpg) -->
 
 | # | Name | Distance | Type |
 | --- | --- | --- | --- |

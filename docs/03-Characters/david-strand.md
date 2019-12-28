@@ -9,7 +9,7 @@ summary: David Strand was a Son of Liberty, frustrated by the settled peace betw
 ---
 ## David Strand
 
-![David Strand](docs/images/343px-David_Harbour_by_Gage_Skidmore.jpg)
+[David Strand](docs/images/343px-David_Harbour_by_Gage_Skidmore.jpg)
 
 Born 1757.
 

@@ -3,7 +3,7 @@
 Created: Jul 07, 2019 4:41 PM
 URL: https://en.wikipedia.org/wiki/Toltec_Mounds_Archeological_State_Park
 
-![500px-Toltec_Mounds_Archeological_Site_Overview_HRoe_2013.jpg](500px-Toltec_Mounds_Archeological_Site_Overview_HRoe_2013-4173d9e7-f343-4c78-9acb-9a8e9727aced.jpg)
+[500px-Toltec_Mounds_Archeological_Site_Overview_HRoe_2013.jpg](500px-Toltec_Mounds_Archeological_Site_Overview_HRoe_2013-4173d9e7-f343-4c78-9acb-9a8e9727aced.jpg)
 
 **Toltec Mounds Archeological State Park** ([3 LN 42](https://en.wikipedia.org/wiki/Smithsonian_trinomial)), also known as **Knapp Mounds**, **Toltec Mounds Site** or **Toltec Mounds**, is an archaeological site from the [Late Woodland period](https://en.wikipedia.org/wiki/Woodland_period) in [Arkansas](https://en.wikipedia.org/wiki/Arkansas) that protects an 18-mound complex with the tallest surviving [prehistoric mounds](https://en.wikipedia.org/wiki/Mound) in [Arkansas](https://en.wikipedia.org/wiki/Arkansas). The site is on the banks of Mound Lake, an [oxbow lake](https://en.wikipedia.org/wiki/Oxbow_lake) of the [Arkansas River](https://en.wikipedia.org/wiki/Arkansas_River). It was occupied by its original inhabitants from 600 to 1050 CE.[[3]](https://en.wikipedia.org/wiki/Toltec_Mounds_Archeological_State_Park) The site is designated as a [National Historic Landmark](https://en.wikipedia.org/wiki/National_Historic_Landmark).
 
