@@ -8,8 +8,7 @@ jobs:
       - run:
           name: Build Book.
           command: |
-            cd docs
-            make book
+            pandoc-book.rb
             mkdir -p /tmp/builds
             cp -r build/* /tmp/builds
 

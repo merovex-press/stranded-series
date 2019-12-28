@@ -3,6 +3,6 @@
 *.glg
 *.gls
 docs/text/images
-build/
+xbuild/
 .token
 tex2pdf.*

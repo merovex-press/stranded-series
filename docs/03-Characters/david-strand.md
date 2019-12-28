@@ -9,7 +9,7 @@ summary: David Strand was a Son of Liberty, frustrated by the settled peace betw
 ---
 ## David Strand
 
-![David Strand](https://en.wikipedia.org/wiki/David_Harbour#/media/File:David_Harbour_by_Gage_Skidmore_2.jpg)
+![David Strand](docs/images/343px-David_Harbour_by_Gage_Skidmore.jpg)
 
 Born 1757.
 
@@ -27,7 +27,7 @@ Fearful of being caught after being confronted by Montresor, David drifted close
 
 David got into trouble in a local village, and fled into the wilderness...closely pursued by villagers. He climbed up a steep hill, only to slip and fall through a small opening into a space beyond. This is the Toltec discovery. His tinkering and blacksmithing skills led him to figure out how to operate the alien rifle, which is similar to an Enfield. He grabs a tablet, rifle and cube, and slips out of the temple. He tries to get past the villagers, but they detect him and the pursuit resumes...until he uses the rifle to kill 2 of the 7. The fast firing scares the other five (3 of whom are wounded). He finds his way back to Meadville.
 
-David hopes the discovery will make it easier for America to separate from England. Henry disagrees with David both in the ability and in the politics, but he doesn't tell David of the political disagreement. Henry works to make the murder go away, while trying to find from David where the Mound was. 
+David hopes the discovery will make it easier for America to separate from England. Henry disagrees with David both in the ability and in the politics, but he doesn't tell David of the political disagreement. Henry works to make the murder go away, while trying to find from David where the Mound was.
 
 ## Henry Strand
 
