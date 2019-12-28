@@ -15,8 +15,8 @@ jobs:
         run: echo "::set-output name=file::$(ls build/*.*)"
       - uses: actions/upload-artifact@v1
         with:
-          name: "artifact"
-          path: ${{ steps.getfilename.outputs.file }}
+          name: "books"
+          path: build
 
 #     runs-on: ubuntu-latest
 #     steps:
