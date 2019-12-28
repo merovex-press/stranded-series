@@ -7,7 +7,7 @@ jobs:
     name: Build the Book
     runs-on: ubuntu-latest
     steps:
-      - name: Get repo
+      - name: Checkout
         uses: actions/checkout@v1
       - name: Run Pandoc Book (Docker)
         uses: docker://merovex/pandoc-book:latest
