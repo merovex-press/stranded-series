@@ -86,9 +86,10 @@ end
 ## Perform series of static string substitutions.
 actions = {
   "series-outline"   => "docs/01-Overview/10-series-outline.md",
-  "setting-overview" => "docs/02-Setting/00-Overview.md",
-  "format-overview"  => "docs/01-Overview/01-concept.md",
+  "setting-overview" => "docs/02-Setting/00-overview.md",
+  "format-overview"  => "docs/01-Overview/02-format.md",
   "concept-overview" => "docs/01-Overview/01-concept.md",
+  "audience"         => "docs/01-Overview/03-audience.md",
 }.each do |key, value|
   content = replace(value, key, content)
 end
