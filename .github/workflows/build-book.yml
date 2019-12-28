@@ -20,10 +20,7 @@ jobs:
       - name: Push image
         id: version
         run: |
-          VERSION=$(echo "${{ github.ref }}" | sed -e 's,.*/\(.*\),\1,')
-          # Strip "v" prefix from tag name
-          [[ "${{ github.ref }}" == "refs/tags/"* ]] && VERSION=$(echo $VERSION | sed -e 's/^v//')
-          echo $VERSION
+          echo VERSION=$(echo "${{ github.ref }}" | sed -e 's,.*/\(.*\),\1,')
       - name: Get the version
         id: get_version
         run: echo ::set-output name=VERSION::${GITHUB_REF/refs\/tags\//}
