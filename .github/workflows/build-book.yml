@@ -1,12 +1,13 @@
 name: CI
 
-on: [pusher]
+on: [push]
 
 jobs:
   build:
-    runs-on: merovex/pandoc-book:latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
+      - uses: docker://merovex/pandoc-book:latest
       - name: Build the Book
       - run: pandoc-book.rb
 
