@@ -17,7 +17,7 @@ jobs:
       #   with:
       #     name: "books"
       #     path: build
-      - name: Push images
+      - name: Push simages
         id: version
         run: |
           echo  VERSION=$(echo "${{ github.ref }}" | sed -e 's,.*/\(.*\),\1,')
