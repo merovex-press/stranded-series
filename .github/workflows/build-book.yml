@@ -17,9 +17,12 @@ jobs:
       #   with:
       #     name: "books"
       #     path: build
+      - name: Dump it
+        echo "$GITHUB_REF"
+        shell: /bin/bash -e {0}
       - name: Get the version
         id: version
-        run: echo ::set-output name=VERSION::$(echo GITHUB_REF#refs/heads/)
+        run: echo ::set-output name=VERSION::$(echo ${GITHUB_REF:10})
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1.0.0
