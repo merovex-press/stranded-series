@@ -11,11 +11,11 @@ jobs:
         uses: actions/checkout@v1
       - name: Run Pandoc Book (Docker)
         uses: docker://merovex/pandoc-book:latest
-      - name: Move to Release
-        uses: actions/upload-artifact@v1
+      - id: getfilename
+        run: echo "::set-output name=file::$(ls build/*.*)"
+      - uses: actions/upload-artifact@v1
         with:
-          name: artifact
-          path: /tmp/builds
+          path: ${{ steps.getfilename.outputs.file }}
 
 #     runs-on: ubuntu-latest
 #     steps:
