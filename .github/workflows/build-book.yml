@@ -12,7 +12,7 @@ jobs:
       - name: Run Pandoc Book (Docker)
         uses: docker://merovex/pandoc-book:latest
       - name: Zip it.
-        run: zip my-books builds/*
+        run: zip my-books build
       - uses: actions/upload-artifact@v1
         with:
           name: "books"
