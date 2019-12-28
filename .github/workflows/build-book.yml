@@ -17,10 +17,7 @@ jobs:
       #   with:
       #     name: "books"
       #     path: build
-      - name: Get the version
-        id: get_version
-        run: echo ::set-output name=VERSION::$(echo `git describe --abbrev=0 --tags`)
-      - name: Get Version
+      - name: Get tag name
         uses: olegtarasov/get-tag@v1
         id: version
       - name: Create Release
@@ -29,8 +26,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ steps.get_version.outputs.VERSION }}
-          release_name: Release ${{ steps.get_version.outputs.VERSION }}
+          tag_name: ${{ steps.version.outputs.tag }}
+          release_name: Release ${{ steps.version.outputs.tag }}
           draft: true
           prerelease: true
       # - name: Upload Release Asset
