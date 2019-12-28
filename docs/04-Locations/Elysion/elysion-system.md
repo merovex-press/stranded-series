@@ -35,7 +35,7 @@ Elysol is a binary system comprising Elysol Senior (G2V, primary) and Elysol Jun
 
 Note: Habitability calculation provided from [Tobias Mueller's calculator](http://astro.twam.info/hz/) based on data frim [Müller & Haghighipour (2014)](http://dx.doi.org/10.1088/0004-637X/782/1/26)
 
-<!-- [Elysion System with Habitability Zones](/images/from-elysion.jpg) -->
+<!-- [Elysion System with Habitability Zones /images/from-elysion.jpg) -->
 
 | # | Name | Distance | Type |
 | --- | --- | --- | --- |
