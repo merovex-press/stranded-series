@@ -19,7 +19,7 @@ jobs:
       #     path: build
       - name: Get the version
         id: get_version
-        run: echo ::set-output name=VERSION::$(echo git describe --abbrev=0 --tags)
+        run: echo ::set-output name=VERSION::$(git describe --abbrev=0 --tags)
       - name: Get Version
         uses: olegtarasov/get-tag@v1
         id: version
