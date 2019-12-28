@@ -17,17 +17,16 @@ jobs:
       #   with:
       #     name: "books"
       #     path: build
-      - name: Get the version
-        id: get_version
-        run: echo ::set-output name=VERSION::$(echo $GITHUB_REF | cut -d / -f 3)
+      - uses: olegtarasov/get-tag@v1
+        id: tagName
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{GITHUB_REF##*/}}
-          release_name: Release ${{GITHUB_REF##*/}}
+          tag_name: ${{ steps.tagName.outputs.tag }}
+          release_name: Release ${{ steps.tagName.outputs.tag }}
           draft: true
           prerelease: true
       # - name: Upload Release Asset
