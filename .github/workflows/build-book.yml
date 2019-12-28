@@ -18,7 +18,7 @@ jobs:
       #     name: "books"
       #     path: build
       - name: Dump it
-        echo "$GITHUB_REF"
+        run: echo "$GITHUB_REF"
         shell: /bin/bash -e {0}
       - name: Get the version
         id: version
