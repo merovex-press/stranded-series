@@ -14,7 +14,6 @@ jobs:
       - name: Move to Release
         uses: actions/upload-artifact@v1
         with:
-          name: *
           path: /tmp/builds
 
 #     runs-on: ubuntu-latest
