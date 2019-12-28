@@ -10,8 +10,8 @@ jobs:
       - name: Get repo
         uses: actions/checkout@v1
       - name: Run Pandoc Book (Docker)
-        uses: docker://merovex/pandoc-book:latest |
-          zip my-books
+        uses: docker://merovex/pandoc-book:latest
+        run: zip my-books
       - uses: actions/upload-artifact@v1
         with:
           name: "books"
