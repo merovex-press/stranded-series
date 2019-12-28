@@ -4,8 +4,7 @@ on: [push]
 
 jobs:
   build:
-    docker:
-      - image: merovex/pandoc-book:latest
+    runs-on: merovex/pandoc-book:latest
     steps:
       - uses: actions/checkout@v1
       - name: Build the Book
