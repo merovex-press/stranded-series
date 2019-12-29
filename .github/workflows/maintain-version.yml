@@ -1,8 +1,7 @@
-name: Maintain Version (Push)
-
 on:
   schedule:
-  - cron: '*/2 * * * *'
+  - cron: '* * * * *'
+name: Maintain Version (Cron)
 jobs:
   build:
     runs-on: ubuntu-latest
