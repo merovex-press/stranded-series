@@ -12,12 +12,6 @@ jobs:
             mkdir -p /tmp/builds
             cp -r build/* /tmp/builds
       - run:
-          name: Create / Maintain Git Tag (vYY.MM)
-          command: |
-            VERSION=v$(date '+%y.%m')
-            git tag ${VERSION}
-            git push origin ${VERSION}
-      - run:
           name: Deploy to Github
           command: |
             VERSION=v$(date '+%y.%m')
