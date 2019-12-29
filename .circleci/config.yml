@@ -6,7 +6,7 @@ jobs:
     steps:
       - checkout
       - run:
-          name: Build Book..
+          name: Compile Book
           command: |
             pandoc-book.rb ${CIRCLE_PROJECT_REPONAME}
             mkdir -p /tmp/builds
