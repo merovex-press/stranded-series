@@ -1,6 +1,6 @@
-name: Compile books
+name: Release books
 
-on: [release]
+on: [srelease]
 
 jobs:
   build:

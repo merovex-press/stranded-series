@@ -14,7 +14,7 @@ Word for God "Subirano" Sortzailea (Basque)
 * Hawaz
 * Hutti
 * Kalama
-* Safaŝ
+* Safash
 * Karaŝat
 * Thakhadh
-* Zaguŝ
+* Zagush
