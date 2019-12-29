@@ -1,3 +1,10 @@
+# Name: Compile Book
+#
+# Description: This Circle CI action automates compiling the various works-in-progress
+# managed in this repository. It uses a custom-built Docker container to checkout the
+# repository, compile, and push the resulting artifacts to the current month's Release
+# on Github.
+# =================================================
 version: 2.1
 jobs:
   build:
