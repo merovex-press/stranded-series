@@ -8,7 +8,7 @@ jobs:
       - run:
           name: Build Book..
           command: |
-            pandoc-book.rb
+            pandoc-book.rb ${CIRCLE_PROJECT_REPONAME}
             mkdir -p /tmp/builds
             cp -r build/* /tmp/builds
 
