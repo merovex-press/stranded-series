@@ -1,6 +1,13 @@
+# Name: Maintain Version (Tagging)
+#
+# Description: This Github Action runs monthly to ensure there is a git tag associated
+# with the version methodology (vYY.MM) where YY is the last two digits of the year
+# and MM is the two-digit month.
+# =================================================
 on:
   schedule:
-  - cron: '* * * * *'
+    # - cron: '0 0 1 * *' # Every Month
+    - cron: '0 0 * * *' # Every day
 name: Maintain Version (Cron)
 jobs:
   build:
