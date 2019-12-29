@@ -8,10 +8,16 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v1
+      - name: Get Version
+        id: get_version
+        run: echo ::set-output name=VERSION::v$(date '+%y.%m')
       - name: Set Version Tag
-        run: |
-          VERSION=v$(date '+%y.%m')
-          git tag ${VERSION}
-          git push origin ${VERSION}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: git tag ${{steps.get_version.outputs.upload_url}}
+      - name: Push Version
+        run: git push origin ${{steps.get_version.outputs.upload_url}}
+      # - name: Set Version Tag
+      #   run:
+      #     git tag ${VERSION}
+      #     git push origin ${VERSION}
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
