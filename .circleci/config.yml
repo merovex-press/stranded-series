@@ -1,4 +1,4 @@
-version: 2
+version: 2.1
 jobs:
   build:
     docker:
@@ -11,10 +11,15 @@ jobs:
             pandoc-book.rb ${CIRCLE_PROJECT_REPONAME}
             mkdir -p /tmp/builds
             cp -r build/* /tmp/builds
-
+      - run:
+          name: Create / Maintain Git Tag (vYY.MM)
+          command: |
+            VERSION=v$(date '+%y.%m')
+            git tag ${VERSION}
+            git push origin ${VERSION}
       - run:
           name: Deploy to Github
           command: |
-            VERSION=$(git describe --abbrev=0 --tags)
+            VERSION=v$(date '+%y.%m')
             echo ${VERSION}
             ghr -t ${GITHUB_TOKEN} -u ${CIRCLE_PROJECT_USERNAME} -r ${CIRCLE_PROJECT_REPONAME} -c ${CIRCLE_SHA1} -delete ${VERSION} /tmp/builds/
