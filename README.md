@@ -2,6 +2,8 @@
 
 [![Automated Changelog by gren](https://img.shields.io/badge/%F0%9F%A4%96-changelog-00B2EE.svg)](https://github-tools.github.io/github-release-notes/)
 [![Automated Release Notes by Release Drafter](https://img.shields.io/badge/%F0%9F%A4%96-release%20notes-00B2EE.svg)](https://github.com/apps/release-drafter)
+[![CircleCI](https://circleci.com/gh/Merovex/stranded-series.svg?style=svg)](https://circleci.com/gh/Merovex/stranded-series)
+[![CircleCI](https://circleci.com/gh/Merovex/stranded-series.svg?style=shield)](https://circleci.com/gh/Merovex/stranded-series)
 
 <!-- concept-overview --><!-- auto-populated -->
 
@@ -177,6 +179,8 @@ Before creating an issue, please [check this list](https://github.com/Merovex/st
 
 ## Maintenance
 
+This series uses the software industry [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery) practice to automate rote book production activities. We automate by using [Circle CI](https://circleci.com/) and [Github Actions](https://github.com/features/actions). The specific actions are found in either the `.github` or `.circleci` directories in this repository. These automations use Docker
+
 **Commit Style.**
 In order to try to put some structure to my commits, I add the following "types" to commit messages using the format `<type>(<scope>): <subject>`.
 
@@ -202,12 +206,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 **Readme Automation.** Some content in this README is pulled from the series documentation. The `make-readme.rb` custom script in `./bin` builds the readme.
 
-## Continuous Integration
-
-https://circleci.com/gh/Merovex/stranded-series
-
 ## License
 
-Copyright 2018-19 - Benjamin C. Wilson - All Rights Reserved (Likely lapse in 2122).
+Copyright 2018-20 - Benjamin C. Wilson - All Rights Reserved (Likely lapse in 2122).
 
 Goal: Inspire the next generation of Christians to engage in secular literature for God's glory.
