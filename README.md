@@ -202,6 +202,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 **Readme Automation.** Some content in this README is pulled from the series documentation. The `make-readme.rb` custom script in `./bin` builds the readme.
 
+## Continuous Integration
+
+https://circleci.com/gh/Merovex/stranded-series
+
 ## License
 
 Copyright 2018-19 - Benjamin C. Wilson - All Rights Reserved (Likely lapse in 2122).
