@@ -13,3 +13,5 @@ jobs:
           VERSION=v$(date '+%y.%m')
           git tag ${VERSION}
           git push origin ${VERSION}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
