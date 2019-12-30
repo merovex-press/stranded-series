@@ -1,8 +1,8 @@
-# Name: Maintain Version (Tagging)
+# Name: Compile Readme
 #
-# Description: This Github Action runs monthly to ensure there is a git tag associated
-# with the version methodology (vYY.MM) where YY is the last two digits of the year
-# and MM is the two-digit month.
+# Description: This Github Action runs on each push to dynamically build
+# the repository's README based on the template and other Markdown files
+# In the repository.
 # =================================================
 on: [push]
 name: Compile Readme
