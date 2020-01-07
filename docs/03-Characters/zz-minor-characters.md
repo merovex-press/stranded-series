@@ -10,3 +10,6 @@ The following characters are involved in the ... storyline:
 * Phyllis Douglas
 * Elizabeth Rodgers
 * Bill Blackburn
+
+
+List of character names from the directors of Combat! (https://en.wikipedia.org/wiki/Combat!)
