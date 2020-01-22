@@ -1,9 +1,9 @@
 ---
-name: Absent Aliens
+name: Low Culture, High Tech
 summary: Not so when you have Low Culture High Tech; this is a faction, culture, or race that uses technology far in advance of their scientific and cultural knowledge, often for warfare.
 type: trope
 Created: Jan 18, 2020 3:22 PM
-URL: https://tvtropes.org/pmwiki/pmwiki.php/Main/AdvancedAncientAcropolis
+URL: https://tvtropes.org/pmwiki/pmwiki.php/Main/LowCultureHighTech
 ---
 
 ### Low Culture, High Tech
