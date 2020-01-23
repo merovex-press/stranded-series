@@ -4,7 +4,7 @@
 
 <!-- In contemporary literary studies, a theme is a central topic a text treats. Themes can be divided into two categories: a work's thematic concept is what readers "think the work is about" and its thematic statement being "what the work says about the subject". Themes are often distinguished from premises. -->
 
-* **Theme.** Stranded asks whether one can glorify God while focusing on self-aggrandizement.
+<!-- * **Theme.** Stranded asks whether one can glorify God while focusing on self-aggrandizement.
 
 ### Themes
 
@@ -16,7 +16,11 @@ Themes shouldn’t present arguments or perspectives but rather be the macro-lev
 
 Love, Justice, Revenge, Redemption, Betrayal, Hope, Progress, Power, Corruption… Big dynamic emotive words make great themes for unifying a series.
 
-### Concepts
+[TV Trope Central Theme](https://tvtropes.org/pmwiki/pmwiki.php/Main/CentralTheme) has a good primer.
+
+* A good place to start thinking about the theme of the work is the conflict it depicts; what is the overall conflict of the story, where does it originate, and what questions or thinking points does this conflict prompt? -->
+
+<!-- ### Concepts
 
 CONCEPTS represent the "what if" questions of your series. Strong concepts are often the result of bringing together things that otherwise don’t belong, or scenarios that are extraordinary in some way as to prompt questions on the mind of an audience.
 
@@ -29,4 +33,4 @@ Concept overview should be like:
 >Reese and Finch are later aided by Samantha "Root" Groves, a highly intelligent computer hacker and contract killer whom the Machine later identifies as its "analog interface", and Sameen Shaw, a former ISA assassin who unknowingly dealt with the "relevant" numbers found by the Machine.
 >During the course of the series, 103 episodes of Person of Interest aired over five seasons.
 
-**Logline.** Wrongfully accused of murder, anthropologist Albert Strand flees the orbital to the alien world below. Albert must adapt to the alien society and its intrigues, and decides to use his superior understanding of technology to his advantage.
+**Logline.** Wrongfully accused of murder, anthropologist Albert Strand flees the orbital to the alien world below. Albert must adapt to the alien society and its intrigues, and decides to use his superior understanding of technology to his advantage. -->
