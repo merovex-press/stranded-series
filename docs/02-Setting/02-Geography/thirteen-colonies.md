@@ -2,6 +2,8 @@
 
 Prior to about 1760, north of Spanish Florida, the Appalachian Divide represented the boundary between British and French colonial possessions in North America. After the French & Indian War, England sought to clarify the boundaries. Under the _British North America Act of 1771_, the Original Thirteen colonies were re-organized into six provinces. Each of the sections below discusses each province in a bit more detail.
 
+When debating whether to let the colonies have representation, many rightly feared that Americans would eventually outnumber the home country. The solution hit upon manipulated the colonial borders in an effort to create division within each colony. This is the similar solution employed IRL.
+
 #### Canada
 
 Canada encompasses all land North of the St. Lawrence, which includes the Hudson Bay area and Quebec (both separated by the Laurentian Divide). Also added is Prince Edward Island. Areas South of the St. Lawrence were ceded to New England. The Quebecois were disenfranchised by the _Rights of Englishmen Act of 1769_ for nearly two generations.

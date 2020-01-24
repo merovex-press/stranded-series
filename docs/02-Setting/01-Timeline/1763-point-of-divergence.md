@@ -12,11 +12,11 @@ These negotiations led to legislation that addressed British North America griev
 
 The Rights of Englishmen Act of 1769 extended all customary rights & privileges to native-English speaking white settlers in British North America. This created some frustration with Caribbean Colonials. Many Caribbean colonists remedied this by establishing residence in Charles Town, Carolina.
 
-This disenfranchised French-Canadian residents. Many raised their children speaking English to extend these rights to them.
+This disenfranchised French-Canadian residents as their native language was French. Many raised their children speaking English to extend these rights to them.
 
 #### British North America Act of 1771
 
-British North America sought representation in Parliament. The government agreed, providing the colonies restructured. This act transformed the continental colonies to six self-regulated provinces: Canada, New England, Pennsylvania (includes IRL New York), Virginia, Carolina, & Georgia. This act further gave those provincial governments representation in the Parliament of the United Kingdom. Ohio province is added in 1803, encompassing IRL Northwest Territory United States.
+British North America sought representation in Parliament. The government agreed, providing the colonies restructured. This act transformed the continental colonies to six self-regulated provinces: Canada, New England (some called Camelot), Pennsylvania (includes IRL New York), Virginia, Carolina, & Georgia. This act further gave those provincial governments representation in the Parliament of the United Kingdom. Ohio province is added in 1803, encompassing IRL Northwest Territory United States.
 
 #### Rights of Religious Liberty Act of 1772
 
