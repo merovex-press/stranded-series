@@ -1,14 +1,15 @@
 # Overview
 
 ## Concept & Theme
+
 <!-- concept-overview -->
 **Strand** is  a [low fantasy], [Type-X] [alternative-history] series written by Ben Wilson.
 
 In the 18th Century, British-Americans uncover an [ancient acropolis] that introduces ([advanced, ancient human]) [lost technology] in the Ohio Territory at the end of the Seven Years' War. This leads to [America remaining in the UK] despite continued struggle by the Sons of Liberty. Britain becomes a [low culture, high tech] society. We have a faction (SOL) who want to divide, and a faction (Tory) who want to unite; both want to control the alien tech, but ultimately come together to keep it from the French & Indians.
 
-Throuthout the 19th Century, a secret British society researches the [Phlebotinum], Neutrinovoltaic power leading to increasing degrees of separation between Britain and the rest of the world, creating a [decade dissonance]. A technological espionage struggle ensues among the great powers.
+Throughout the 19th Century, a secret British society reverse-engineers the [Neutrinovoltaic power][phlebotinum]. This increases degrees of separation between Britain and the rest of the world, creating a [decade dissonance]. A technological espionage struggle ensues among the great powers. The Napoleonic & Crimean wars occur per OTL, but with different outcomes. British North America starts its Western expansion, leading to the Mexican war, which becomes British.
 
-By the 20th Century, technological equilibrium is established with Britain replicating its IRL trade dominance benefiting Europe. The UK re-invents slipstream travel, with Albert Strand ultimately stranded on Elysion and trying to get home.
+By the 20th Century, technological equilibrium is established with Britain replicating its IRL trade dominance benefiting Europe. The UK re-invents slipstream travel, with Albert Strand ultimately stranded on Elysion and trying to get home. Belize becomes the launch region for space travel.
 
 In Strand Series, we explore the perennial struggle of a society when its technological capabilities out-strips its morality. Most Americans do not understand the technology they use. Nor are they interested in its long-term implications. We also explore the tension between centralism/de-centralism, individualism, etc. As religion was a significant part of society, Christianity will be explored in a manner non-threatening to the reader.
 
@@ -19,7 +20,7 @@ We also explain how American remaining a part of Great Britain would not have hi
 [ancient acropolis]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AdvancedAncientAcropolis
 [lost technology]: https://tvtropes.org/pmwiki/pmwiki.php/Main/LostTechnology
 [low culture, high tech]: https://tvtropes.org/pmwiki/pmwiki.php/Main/LowCultureHighTech
-[Phlebotinum]: https://tvtropes.org/pmwiki/pmwiki.php/Main/Phlebotinum
+[phlebotinum]: https://tvtropes.org/pmwiki/pmwiki.php/Main/Phlebotinum
 [decade dissonance]: https://tvtropes.org/pmwiki/pmwiki.php/Main/DecadeDissonance
 [low fantasy]: https://tvtropes.org/pmwiki/pmwiki.php/Main/LowFantasy
 [Type X]: https://tvtropes.org/pmwiki/pmwiki.php/Main/SlidingScaleOfAlternateHistoryPlausibility
