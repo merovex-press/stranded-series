@@ -1,4 +1,4 @@
-### Sons of Liberty
+#### Sons of Liberty
 
 IRL, The Sons of Liberty was a secret organization that was created in the Thirteen American Colonies to advance the rights of the European colonists and to fight taxation by the British government. It played a major role in most colonies in battling the Stamp Act in 1765.
 
