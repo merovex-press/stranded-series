@@ -1,8 +1,8 @@
-## American Parliament
+### American Parliament
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### Research
+#### Research
 
 [reddit](https://www.reddit.com/r/worldbuilding/comments/etdg7n/the_us_with_a_parliamentary_system_and_what_it/)
 
