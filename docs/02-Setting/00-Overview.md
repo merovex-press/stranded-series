@@ -17,3 +17,7 @@ Elysion inhabitants are humans genetically identical to Earth. Albert encounters
 [ltDHHbfX]: https://github.com/Merovex/stranded-series/blob/master/series-bible/08-Science-Cosmology/slipstream.md
 [UPkFi3ZN]: https://github.com/Merovex/stranded-series/blob/master/series-bible/04-Locations/Elysion/00-elysion.md
 <!-- /setting-overview -->
+
+**Organization.** This section is organized by major topic.
+The changes in timeline is key to the series, so it stands alone as a separate section.
+Each season has its own mix of organizations and locations, so those portions are grouped by season.

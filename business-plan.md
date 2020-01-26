@@ -1,27 +1,30 @@
 # Strand Series Business Plan
 
-The **Strand Series** seeks ....
+<!-- buisness-plan -->
+The **Strand Series** provides bite-sized, high-volume, through-provoking entertainment to its target audience by releasing serial novellas as books & audiobooks.
+Our audience are people who find themselves on the road for longer than a typical commute and want to pass the time.
+We attract & engage with our audience through ads, blogging (written, video, audio), limited social media and newsletter.
+We distribute through Amazon with a pricing structure that optimizes royalties without irritating our audience.
 
-[Business Model Canvas guide](https://www.alexandercowan.com/business-model-canvas-templates/)
+<!-- /buisness-plan -->
+
+<!-- [Business Model Canvas guide](https://www.alexandercowan.com/business-model-canvas-templates/) -->
 
 ## Audience / Customer Segments
 
-- [ ] TODO: [#31](https://github.com/Merovex/stranded-series/issues/31) - Psychographics
-<!-- Customer Segments: Who are the customers? What do they think? See? Feel? Do? -->
-
-1. **who.** Describe the persona of the customer.
+1. **White-collar travelers.** Some Strand readers commute, so they want to have short bursts of entertainment that fits in the time spent waiting in the airport or in the air.
+2. **Super-Commuters.** Some Strand readers spend 2 hours a day on commuting. Like white-collar travelers, they are looking for entertainment that fits their travel time.
+2. **Blue-collar truckers.** Some Strand readers are on the road for work. These are truckers who are looking for something to keep them from getting bored for longer periods.
 
 ## Value Proposition
 
-- [ ] TODO: [#32](https://github.com/Merovex/stranded-series/issues/32) - develop Value Prop focused on audience persona.
-
-**Website.** What value does Audience get out of the website?
-
-**Books.** What value does Audience get out of the books?
+Strand provides a fiction novella series to satisfy our customer segments' desire for entertainment, while being uplifting. Each novella should be short enough to fit in the time a reader / listener is either at the airport, in the air, or in the car. Novellas tie into seasons, which are long enough to fill a long-hauler's driving week.
 
 ## Approach / Business Model
 
-- [ ] TODO: [#33](https://github.com/Merovex/stranded-series/issues/33), Create LLC for company
+Our Author business model is solo-developed high-volume fiction. We seek to put out a new 10-book season every two years to start. In a perfect world, a new season would launch every year.
+
+- [ ] TODO: [#33](https://github.com/Merovex/stranded-series/issues/33), Create LLC for Merovex
 
 ## Channels
 
@@ -46,9 +49,12 @@ Customer Relationships: How do you interact with the customer through their ‘j
 
 Revenue Streams: How does the business earn revenue from the value propositions?
 
-* Book Sales
-* Audible Sales
-* [ ] Patreon donations (TODO: [#29](https://github.com/Merovex/stranded-series/issues/29), Patreon set-up)
+- **eBook.** At $2.99, a season costs the reader $29.99 and makes the author $20.93 (70%).
+- **Printed.** A printed season should also cost $30 as it comprises the equivalent of 3 novels ($29.88)
+- **Audiobook.** Sell [Audible](https://www.acx.com/help/what-s-the-deal/200497690) at the season, making $3 per sale, $6 if I record it myself.
+
+[^reading]: https://www.irisreading.com/what-is-the-average-reading-speed/
+[^listening]: https://findawayvoices.com/pricing/
 
 ## Key Activities
 
@@ -56,11 +62,11 @@ What uniquely strategic things does the business do to deliver its proposition?
 
 * Write three seasons
   - Season One: Discovery
-  - Season Two: Strand
-  - Season Three: ...
-* Blook Season 1, Episode 1
-  - Write 24 1200-word segments to introduce the series via novella (28.8kword).
-* Video blog topics?
+  - Season Two: ...
+  - Season Three: Strand
+* Publish book electronically & paper
+* Produce Audiobook
+* Blog topics via Vlog or podcast, with transcript on website.
 
 ## Key Resources
 
@@ -70,14 +76,14 @@ What unique strategic assets must the business have to compete?
   - [x] BenWilsonWrites.com
   - [x] Merovex.com
   - [x] Dausha.net (deprecate)
-* Website (TODO: [#28](https://github.com/Merovex/stranded-series/issues/28), Cleanup legacy websites)
-  - [x] BenWilsonWrites.com - Hugo site
-  - [ ] Redirect Merovex.com to BenWilsonWrites.com, or set up as publisher site.
-  - [ ] Redirect Dausha.net to BenWilsonWrites.com
+* Website - jekyll, hosted on Github Pages
 * Email
   - [x] ben@merovex.com
   - [ ] Redirect ben@benwilsonwrites.com to ben@merovex.com
-* Books
+* Intellectual Property
+  - Novellas
+  - Vlog videos
+  - Podcast
 * [ ] Facebook Page (TODO: [#24](https://github.com/Merovex/stranded-series/issues/24), fix FB presence)
 
 ## Key Partnerships
@@ -88,7 +94,7 @@ What can the company not do so it can focus on its Key Activities?
   - [x] Google Domain
   - [x] Google Cloud (website)
 * Book Production
-  - [ ] Voiceover talent - Create Audible / Revenue Sharing (TODO: [#25](https://github.com/Merovex/stranded-series/issues/25), Recruit VO talent)
+  - [ ] Voiceover talent - Create Audiobook / Revenue Sharing (TODO: [#25](https://github.com/Merovex/stranded-series/issues/25), Recruit VO talent)
   - [ ] Editor - Revise book (TODO: [#9](https://github.com/Merovex/stranded-series/issues/9), Recruit editors)
   - [ ] Artist - Book cover art (TODO: [#23](https://github.com/Merovex/stranded-series/issues/23), Recruit cover artist)
 * Outreach
@@ -103,11 +109,11 @@ What are the business’ major cost drivers? How are they linked to revenue?
 
 * Website
   - Domain Name - $12/yr
-  - Web hosting - $0.12/yr (Google Cloud is $0.01/mo)
+  - Web hosting - $0.00 - GH Pages (free hosting)
 * Book Production
-  * Github
+  * Github - $7.00/mo ($84/yr)
   * Editor - price-per-page
-  * Artist - Price for cover
+  * Artist - price-per-cover
   * VO Talent - Revenue sharing
 * Outreach & Marketing
   * Facebook ads

@@ -1,4 +1,4 @@
-### Parliament of British North America
+#### Parliament of British North America
 
 The British America Act of 1771 restructured British America (the continent) into six provinces: Canada, New England, Pennsylvania (includes IRL New York), Virginia, Carolina, and Georgia. This led to six Provincial Assemblies.
 
