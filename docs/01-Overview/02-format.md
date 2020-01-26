@@ -32,6 +32,9 @@
   - A novella should complete in about 3 1/2 hours, which should be long enough to support one-leg if a flight.
   - A season should complete in about 33 hours, which should be enough to entertain a trucker for a week.
 
+  [^reading]: https://www.irisreading.com/what-is-the-average-reading-speed/
+  [^listening]: https://findawayvoices.com/pricing/
+
 ### Season Pattern
 
 The following is the season pattern, as well as the per-episode structure.
