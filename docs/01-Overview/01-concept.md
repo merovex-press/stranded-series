@@ -5,7 +5,7 @@
 <!-- concept-overview -->
 **Strand** is  a [low fantasy], [Type-X] [alternative-history] series written by Ben Wilson.
 
-In the 18th Century, British-Americans uncover an [ancient acropolis] that introduces ([advanced, ancient human]) [lost technology] in the Ohio Territory at the end of the Seven Years' War. This leads to [America remaining in the UK] despite continued struggle by the Sons of Liberty. Britain becomes a [low culture, high tech] society. We have a faction (SOL) who want to divide, and a faction (Tory) who want to unite; both want to control the alien tech, but ultimately come together to keep it from the French & Indians.
+In the 18th Century, British-Americans uncover an [ancient acropolis] that introduces ([advanced, ancient human]) [lost technology] in the Ohio Territory at the end of the Seven Years' War. This leads to [America remaining in the UK] despite continued struggle by the Sons of Liberty. Britain becomes a [low culture, high tech] society. We have a faction (SOL) who want to divide, and a faction (Tory) who want to unite; both want to control the strange tech, but ultimately come together to keep it from the French & Indians.
 
 Throughout the 19th Century, a secret British society reverse-engineers the [Neutrinovoltaic power][phlebotinum]. This increases degrees of separation between Britain and the rest of the world, creating a [decade dissonance]. A technological espionage struggle ensues among the great powers. The Napoleonic & Crimean wars occur per OTL, but with different outcomes. British North America starts its Western expansion, leading to the Mexican war, which becomes British.
 
@@ -16,7 +16,7 @@ In Strand Series, we explore the perennial struggle of a society when its techno
 We also explain how American remaining a part of Great Britain would not have hindered our global dominance. But, what about the Bill of Rights & Constitution?
 
 <!-- Ten Tropes: -->
-[advanced, ancient humans]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AdvancedAncientHumans
+[advanced, ancient human]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AdvancedAncientHumans
 [alternative-history]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateHistory
 [ancient acropolis]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AdvancedAncientAcropolis
 [lost technology]: https://tvtropes.org/pmwiki/pmwiki.php/Main/LostTechnology
