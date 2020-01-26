@@ -15,6 +15,7 @@ In Strand Series, we explore the perennial struggle of a society when its techno
 
 We also explain how American remaining a part of Great Britain would not have hindered our global dominance. But, what about the Bill of Rights & Constitution?
 
+<!-- Ten Tropes: -->
 [advanced, ancient humans]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AdvancedAncientHumans
 [alternative-history]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AlternateHistory
 [ancient acropolis]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AdvancedAncientAcropolis

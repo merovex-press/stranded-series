@@ -26,20 +26,11 @@
   - Thus, each storyline comprises eight segments, which while integrated are otherwise standalone.
 * Reading Length
   - Reading pace: Average adult reading time is 220 wpm.[^reading]
-  - Therefore, each novella should take about 2.5 hours to read ± 10%
+  - Therefore, each novella should take about 2 1/2 hours to read ± 10%
 * Listening Length
   - Listening pace: Audible standard voice pace is 150 wpm.[^listening]
   - A novella should complete in about 3 1/2 hours, which should be long enough to support one-leg if a flight.
   - A season should complete in about 33 hours, which should be enough to entertain a trucker for a week.
-
-### Sales
-
-- **eBook.** At $2.99, a season costs the reader $29.99 and makes the author $20.93.
-- **Printed.** A printed season should also cost $30 as it comprises the equivalent of 3 novels ($29.88)
-- **Audiobook.** Sell [Audible](https://www.acx.com/help/what-s-the-deal/200497690) at the season, making $3 per sale, $6 if I record it myself.
-
-[^reading]: https://www.irisreading.com/what-is-the-average-reading-speed/
-[^listening]: https://findawayvoices.com/pricing/
 
 ### Season Pattern
 

@@ -2,6 +2,11 @@
 
 The Seven Year's War occurs as the fourth intercolonial war between England and France (1756-63). The war progressed as depicted in history. The relationship strain between England and its 13 American continental colonies (The Thirteen or British American) built up with increased taxation. After the Stamp Act was passed and repealed (1765-66), **calmer heads prevail. The [Declaratory Act of 1766](https://en.wikipedia.org/wiki/Declaratory_Act) never occurs and we diverge from our timeline.**[^irlpod]
 
+Research:
+* [ ] 1768 https://www.britannica.com/event/Treaties-of-Fort-Stanwix
+* [ ] https://en.wikipedia.org/wiki/Fort_Stanwix
+* [ ]
+
 [^irlpod]: IRL: The period from 1763-83 is pivotal in world history. By 1765, however, the die was cast for the conflict between Britain and the United States. We can attribute this to a greater sense of governmental autonomy built up within the American Colonies during the French & Indian War and the post-war insistence by Parliament to impose its legislative will. Therefore, remedying this rift is the pivotal point in _Stranded_.
 
 In 1766, Parliament invited a delegation from each of The Thirteen to work out differences that included Benjamin Franklin. This extended negotiation (1766-69) blunted Radical demands for independence. However, a splinter from the Sons of Liberty continued the (now unpopular) fight for American Independence. This splinter movement is a key area of conflict in Discovery Season.
