@@ -2,6 +2,8 @@
 
 > IRL: At the end of the Seven Years' War, England's strategy in the Treaty of Paris (1763) sought to deter France from start a fifth war. France, however, sought to use the treaty to give them time to rebuild and rearm. French diplomats believed that without France to keep the Americans in check, the colonists might attempt to revolt. The American Revolution was that much-desired revolt.[^paris-treaty-1763]
 
+* * *
+
 [^paris-treaty-1763]: Wikipedia. _Treaty of Paris (1763)_.  https://en.wikipedia.org/wiki/Treaty_of_Paris_(1763)
 
 The negotiations between British North America and England and discovery of Toltec Technology blunted the American desire to revolt.
