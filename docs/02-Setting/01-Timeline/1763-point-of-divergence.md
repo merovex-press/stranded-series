@@ -4,10 +4,12 @@
 > The period from 1763-83 is pivotal in world history.
 > By 1765, the die was cast for the conflict between Britain and the United States. We can attribute this to a greater sense of governmental autonomy built up within the American Colonies during the French & Indian War and the post-war insistence by Parliament to impose its legislative will.
 > Debate on the Line of Demarcation ended in favor of the line in Fall 1763 when Parliament heard about Pontiac's War.
-> The 1765 Stamp Act incensed the colonists, who were futher outraged by The Declaratory Act of 1766.
+> The 1765 Stamp Act incensed the colonists, who were further outraged by The Declaratory Act of 1766.
 > Therefore, remedying this rift is key point of divergence in _Strand_.
 
-The Seven Year's War occurs as the fourth intercolonial war between England and France (1756-63). The war progressed as depicted in history. The relationship strain between England and its 13 American continental colonies (The Thirteen or British American) built up with increased taxation. After the Stamp Act was passed and repealed (1765-66), calmer heads prevail. The [Declaratory Act of 1766](https://en.wikipedia.org/wiki/Declaratory_Act) never occurs and we diverge from our timeline.
+* * *
+
+The Seven Year's War occurs as the fourth intercolonial war between England and France (1756-63). The war progressed as depicted in history. The relationship strain between England and its 13 American continental colonies (The Thirteen or British America) built up with increased taxation. After the Stamp Act was passed and repealed (1765-66), calmer heads prevail. The [Declaratory Act of 1766](https://en.wikipedia.org/wiki/Declaratory_Act) never occurs and we diverge from our timeline.
 
 In 1766, Parliament invited a delegation from each of The Thirteen to work out differences that included Benjamin Franklin, John Adams and Thomas Jefferson. This extended negotiation (1766-69) blunted Radical demands for independence. However, a splinter from the Sons of Liberty continued the (now unpopular) fight for American Independence. This splinter movement is a key area of conflict in Discovery Season.
 
@@ -17,7 +19,6 @@ Research:
 
 * [ ] 1768 https://www.britannica.com/event/Treaties-of-Fort-Stanwix
 * [ ] https://en.wikipedia.org/wiki/Fort_Stanwix
-* [ ]
 
 #### Rights of Englishmen Act of 1769
 
@@ -36,6 +37,8 @@ British North America sought religious liberty. Parliament sought its debts to b
 #### War Debt Equity Act of 1772
 
 In the _quid pro quo_ for the Rights of Religious Liberty Act, British North America provinces agreed to take on half of the Government's debt incurred by the end of the French & Indian War. Whether this meant war debt or total debt was a matter of disagreement that was settled during the Napoleonic Era. The Seven Years' War nearly doubled Great Britain's national debt, so the question of whether British North America provinces accepted a quarter or half of the debt was no small issue. Buried in this act was the liquidation of various debts by prominent members of British North America society. This pushed the Sons of Liberty into the fringe by bribing the elite.
+
+* * *
 
 <!--
 * Calloway, Colin. _[The Scratch of a Pen: 1763 and the Transformation of North America](https://amzn.to/2Zaw0Uw)_. 2006.
