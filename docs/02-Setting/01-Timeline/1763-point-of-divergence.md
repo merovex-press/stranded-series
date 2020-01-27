@@ -30,6 +30,11 @@ This disenfranchised French-Canadian residents as their native language was Fren
 
 British North America sought representation in Parliament. The government agreed, providing the colonies restructured. This act transformed the continental colonies to six self-regulated provinces: Canada, New England (some called Camelot), Pennsylvania (includes IRL New York), Virginia (includes Maryland & Delaware), Carolina, & Georgia. This act further gave those provincial governments representation in the Parliament of the United Kingdom. Ohio province is added in 1803, encompassing IRL Northwest Territory United States. Parliament calculated this reorganization of the colonies into provinces would create internal tension that would allow England to retain control.
 
+* https://en.wikipedia.org/wiki/Albany_Congress
+* https://en.wikipedia.org/wiki/Stamp_Act_Congress
+* https://en.wikipedia.org/wiki/Sugar_Act
+* https://en.wikipedia.org/wiki/Currency_Act
+
 #### Rights of Religious Liberty Act of 1772
 
 British North America sought religious liberty. Parliament sought its debts to be paid and taxation for its recurring budget. Some of this budget paid Anglican ministerial salaries. This act permitted provinces to manage their own religious affairs. This effectively abolishes the Anglican church in British North America except for Virginia and Carolina. The lack of Anglican minsters removes British North America's obligation to pay that portion of the budget. British North America provinces are allowed to establish their own state religions, with Virginia and Carolina remaining Anglican, New England going Puritan and Pennsylvania being officially agnostic. Canada was not allowed to have Catholics in government, but was otherwise Catholic territory.
