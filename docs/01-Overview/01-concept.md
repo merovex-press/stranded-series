@@ -24,7 +24,7 @@ We also explain how American remaining a part of Great Britain would not have hi
 [phlebotinum]: https://tvtropes.org/pmwiki/pmwiki.php/Main/Phlebotinum
 [decade dissonance]: https://tvtropes.org/pmwiki/pmwiki.php/Main/DecadeDissonance
 [low fantasy]: https://tvtropes.org/pmwiki/pmwiki.php/Main/LowFantasy
-[Type X]: https://tvtropes.org/pmwiki/pmwiki.php/Main/SlidingScaleOfAlternateHistoryPlausibility
+[Type-X]: https://tvtropes.org/pmwiki/pmwiki.php/Main/SlidingScaleOfAlternateHistoryPlausibility
 [America remaining in the UK]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AmericaIsStillAColony
 <!-- /concept-overview -->
 

@@ -4,7 +4,7 @@
 
 <!-- setting-overview -->
 
-**Stranded** is an alternate history (low-fantasy) series diverging in the 18th Century after [technologic acceleration][VcUi1erb] in British North America. The British believe the technology to come from ancient aliens they named the "Toltec" after the native mounds where the technology was discovered; there are no aliens in the series.
+**Stranded** is an alternate history (low-fantasy) series diverging in the 18th Century when British North America undergoes [technologic acceleration][VcUi1erb] caused by discovered lost technology. The British believe the technology to come from ancient aliens they named the "Toltec" after the native mounds where the technology was discovered; there are no aliens in the series.
 Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
 
 In the 18th Century, Toltec discoveries led to advanced weapons (automatic rifles). In the 19th Century, Toltec Neutrinovoltaic technology accelerated the industrial era. By the early 20th Century, Brits were in space and leveraging Toltec technology for [Slipstream][ltDHHbfX] (faster-than-light) travel. Traveling the Slipsteam reveals "[Elysion][UPkFi3ZN]," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.

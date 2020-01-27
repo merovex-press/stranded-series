@@ -19,7 +19,7 @@
 * Season
   - Each season comprises 10 novella-length episodes with a target episode length is 30,000±2,500 words, which is 90±7 pages.
   - Each season is 300,000±25,000 words, or about three 100,000 word novels; trilogy length.
-  - Box sets comprises five books where each book is two episodes.
+  - Box sets comprise five books where each book is two episodes.
 * Episode
   - Each novella episode comprises 8 three-scene segments; 24 sections  (~1250 words per section).
   - Each scene services a different storyline, with three storylines per episode.
