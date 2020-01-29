@@ -6,4 +6,10 @@ Following the 1763 Treaty of Paris, Charlotina was established as a Crown colony
 
 Charlotina included the region lying west of the Maumee and Wabash rivers; north of the Ohio River; east of the upper Mississippi River; and south of the Great Lakes. These boundaries would include portions of modern-day Minnesota, Ohio, Indiana, and the entirety of Michigan, Illinois, and Wisconsin. Charlotina will later include the modern-day cities of Chicago, Milwaukee, Toledo, Detroit, Fort Wayne, and parts of Minneapolis and St. Paul.
 
+The Charlotina-Pennsylvania border starts from the Easternmost end of Lake Erie, heading down a True South line until that line intersects the Allegheny River (near IRL intersection of I-86 and Rt-280/Quaker Run Road). It then follows the Allegheny River to Pittsburgh.
+
+The Charlotina-Mississippi border starts at the intersection of the Allegheny and Monongahela Rivers at Pittsburgh and continues along the Ohio where Charlotina is on the northern bank and Mississippi is on the southern bank.
+
+The Charlotina-Canadian border follows the middle point of the Great Lakes...
+
 ![British colonies showing Charlotina 1763-76](./images/british_colonies_1763-76.png)
