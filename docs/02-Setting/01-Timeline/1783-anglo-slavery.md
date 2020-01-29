@@ -1,5 +1,8 @@
 ### 1783-1848: Eradication of African Slavery
 
+> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+> Discuss actual trends in African Slavery in Britain in this era.
+
 Without the American Revolution, the anti-slavery movement in England starts earlier. Over this 50-year period (1772-1848), slavery was eliminated throughout the British Empire.
 
 * 1772 - Somerset's Case holds there is no basis for slavery in English law, and held that laws supporting slavery were against Natural Law. This extends to BNA.

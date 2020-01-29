@@ -25,13 +25,15 @@ Research:
 
 #### Rights of Englishmen Act of 1769
 
-The Rights of Englishmen Act of 1769 extended all customary rights & privileges to native-English speaking white settlers in British North America. This created some frustration with Caribbean Colonials. Many Caribbean colonists remedied this by establishing residence in Charles Town, Carolina.
+The Rights of Englishmen Act of 1769 extended all customary rights & privileges to native-English speaking white settlers in British North America. This created some frustration with Caribbean Colonials. Many Caribbean colonists remedied this by establishing residence in Charles Town, Carolina. However, this addressed the IRL complaints of colonialists that they were not treated to the rights they would have enjoyed had they remained home.
 
 This disenfranchised French-Canadian residents as their native language was French. Many raised their children speaking English to extend these rights to them.
 
 #### British North America Act of 1771
 
 British North America sought representation in Parliament. The government agreed, providing the colonies restructured. This act transformed the continental colonies to six self-regulated provinces: Canada, New England (some called Camelot), Pennsylvania (includes IRL New York), Virginia (includes Maryland & Delaware), Carolina, & Georgia. This act further gave those provincial governments representation in the Parliament of the United Kingdom. Ohio province is added in 1803, encompassing IRL Northwest Territory United States. Parliament calculated this reorganization of the colonies into provinces would create internal tension that would allow England to retain control.
+
+This created frustration among the joined colonies (NY, Maryland, Delaware, Rhode Island & Providence Plantations, Connecticut, New Hampshire), especially RI&PP as they sought to be more tolerant religiously than Massachusetts. This is an example of Parliament's intentional friction within the provinces.
 
 * https://en.wikipedia.org/wiki/Albany_Congress
 * https://en.wikipedia.org/wiki/Stamp_Act_Congress
@@ -41,7 +43,11 @@ British North America sought representation in Parliament. The government agreed
 
 #### Rights of Religious Liberty Act of 1772
 
-British North America sought religious liberty. Parliament sought its debts to be paid and taxation for its recurring budget. Some of this budget paid Anglican ministerial salaries. This act permitted provinces to manage their own religious affairs. This effectively abolishes the Anglican church in British North America except for Virginia and Carolina. The lack of Anglican minsters removes British North America's obligation to pay that portion of the budget. British North America provinces are allowed to establish their own state religions, with Virginia and Carolina remaining Anglican, New England going Puritan and Pennsylvania being officially agnostic. Canada was not allowed to have Catholics in government, but was otherwise Catholic territory.
+British North America sought religious liberty. Parliament sought its debts to be paid and taxation for its recurring budget. Some of this budget paid Anglican ministerial salaries. This act permitted provinces to manage their own religious affairs. This effectively abolishes the Anglican church in British North America except for Virginia and Carolina. Thus liberty was a province matter, instead of individual. The lack of Anglican minsters removes British North America's obligation to pay that portion of the budget. British North America provinces are allowed to establish their own state religions.
+Virginia and Carolina remained Anglican.
+Canada was not allowed to have Catholics in government, but was otherwise Catholic territory.
+New England became officially Congregationalist (Puritan). Though the power of puritanism lapsed a generation before, there is still enough friction between the denominations.
+Pennsylvania extended its religious tolerance through New York, making it a bastion for downtrodden faiths.
 
 #### War Debt Equity Act of 1772
 

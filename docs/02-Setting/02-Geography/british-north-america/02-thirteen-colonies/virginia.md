@@ -1,0 +1,3 @@
+#### Virginia
+
+The colonies of Delaware, Maryland and Virginia were consolidated into the Province of Virginia, creating religious friction between Anglicans and Catholics. The boundary with Pennsylvania was finalized by the Mason Dixon survey; consistent with the Original Timeline. The boundary with Carolina was likewise finalized along the 36°30' parallel; consistent with the Original Timeline. The Western border with Mississippi and Charlotina by the Atlantic & Mississippi Watersheds described by the Appalachian Divide. Virginia encompasses all parts of West Virginia and Virginia that flow into the Atlantic. Mississippi and Charlotina encompass those parts of West Virginia and Virginia that flow into the Mississippi.
