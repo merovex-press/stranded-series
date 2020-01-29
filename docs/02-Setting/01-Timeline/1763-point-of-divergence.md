@@ -9,6 +9,9 @@
 
 * * *
 
+* [Benjamin Franklin Explains the Stamp Act Protests to Parliament](https://amzn.to/2t9haUE)
+* https://en.wikipedia.org/wiki/Benjamin_Franklin#Political_work_in_London
+
 The Seven Year's War occurs as the fourth intercolonial war between England and France (1756-63). The war progressed as depicted in history. The relationship strain between England and its 13 American continental colonies (The Thirteen or British America) built up with increased taxation. After the Stamp Act was passed and repealed (1765-66), calmer heads prevail. The [Declaratory Act of 1766](https://en.wikipedia.org/wiki/Declaratory_Act) never occurs and we diverge from our timeline.
 
 In 1766, Parliament invited a delegation from each of The Thirteen to work out differences that included Benjamin Franklin, John Adams and Thomas Jefferson. This extended negotiation (1766-69) blunted Radical demands for independence. However, a splinter from the Sons of Liberty continued the (now unpopular) fight for American Independence. This splinter movement is a key area of conflict in Discovery Season.
@@ -34,6 +37,7 @@ British North America sought representation in Parliament. The government agreed
 * https://en.wikipedia.org/wiki/Stamp_Act_Congress
 * https://en.wikipedia.org/wiki/Sugar_Act
 * https://en.wikipedia.org/wiki/Currency_Act
+* Whaples, Robert (March 1995). "Where Is There Consensus Among American Economic Historians? The Results of a Survey on Forty Propositions". The Journal of Economic History. 55 (1): 139–154. doi:10.1017/S0022050700040602. JSTOR 2123771.
 
 #### Rights of Religious Liberty Act of 1772
 
