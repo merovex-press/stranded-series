@@ -12,4 +12,4 @@ The Charlotina-Mississippi border starts at the intersection of the Allegheny an
 
 The Charlotina-Canadian border follows the middle point of the Great Lakes...
 
-![British colonies showing Charlotina 1763-76](./images/british_colonies_1763-76.png)
+[British colonies showing Charlotina 1763-76./images/british_colonies_1763-76.png)
