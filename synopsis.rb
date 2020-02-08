@@ -13,7 +13,7 @@ Dir["books/**"].each do |book|
     next if not section['rights'].nil?
 
     synopsis << <<-EOS
-### #{section["title"]}: #{section["location"]} - #{section["time"].capitalize}
+#### #{section["title"]}: #{section["location"]} - #{section["time"].capitalize}
 
 #{section["synopsis"]}
 EOS
