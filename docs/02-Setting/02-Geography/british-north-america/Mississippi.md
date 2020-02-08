@@ -15,7 +15,7 @@ The Mississippi-Pennsylvania border follows the Monongahela River from Pittsburg
 The Mississippi-Virginia border follows the Mason-Dixon line East from where the Mississippi-Pennsylvania line intersect it until it intersects the Northern Branch Potomac River, north of Cumberland, VA. From there it follows the IRL boundary between Maryland and Virginia until reaches the Potomac head waters at 39°14′15″N 79°29′8″W.
 
 * http://www.virginiaplaces.org/watersheds/divides.html
-* ![Virginia Divide](http://www.virginiaplaces.org/watersheds/graphics/route58watersheds.png)
+* Virginia Divide](http://www.virginiaplaces.org/watersheds/graphics/route58watersheds.png)
 
 The Mississippi-Carolina border...
 

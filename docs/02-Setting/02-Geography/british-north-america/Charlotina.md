@@ -11,5 +11,3 @@ The Charlotina-Pennsylvania border starts from the Easternmost end of Lake Erie,
 The Charlotina-Mississippi border starts at the intersection of the Allegheny and Monongahela Rivers at Pittsburgh and continues along the Ohio where Charlotina is on the northern bank and Mississippi is on the southern bank.
 
 The Charlotina-Canadian border follows the middle point of the Great Lakes...
-
-[British colonies showing Charlotina 1763-76./images/british_colonies_1763-76.png)
