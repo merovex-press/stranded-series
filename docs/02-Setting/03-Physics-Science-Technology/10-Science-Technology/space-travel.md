@@ -4,6 +4,24 @@ This section discusses the application of slower-than-light (STL) space travel. 
 
 ##### Edison Drives
 
+<!-- * S-250 Series Epstein Drive: A UN drive used on Leonidas-class battleships. This drive is older and less efficient than most current drive models.
+* S-400 Series Epstein Drive: A UN drive used on Truman-class dreadnoughts.
+* Bush shipyards Black Ops supercooled Epstein drive - CODENAME Silversmith: A drive built on Luna and secretly used on the Amun-Ra-class stealth frigates owned by Protogen.
+* RT-10 'Kaminari' Epstein Drive: MCR drive used on Donnager-class battleships.
+* RTF-B Series Epstein Drive: MCR drive used on Scirocco-class Assault cruisers.
+* RT6-B Epstein Drive: MCR drive used on Morrigan-class Patrol destroyers.
+* G-4000 Series Epstein Drive: A very large drive used on the Nauvoo/Behemoth. -->
+
+###### Performance
+
+* Thrust: 1,000,000 N
+* Specific Impulse (isp): 1,100,000 seconds
+* Exhaust Velocity (ve): 11,000,000 m/second (~3.7% of light speed)
+* Mass Flow Rate (ṁ ): 0.09 kg/second
+* Thrust Power: 5.5 Terawatt
+* Engine's Thrust to Weight Ratio: ~140
+* Propellant mass fraction (yacht's mass fueled / mass empty): ~4
+
 ##### Spacecraft
 
 <!-- Do not break the reaction-based system to keep him on the planet. -->
