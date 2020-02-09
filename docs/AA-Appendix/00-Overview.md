@@ -1,3 +1,5 @@
 <!-- # Miscellaneous -->
-$\backmatter$
-# Appendix
+
+\appendix
+
+# Appendix {.unnumbered}
