@@ -1,0 +1,14 @@
+## Characters
+
+| Name | Summary |
+| -- | -- |
+| **[Albert&nbsp;Strand, protagonist](#)** | is the descendent of one of the Slipstream discoverers. His drive to honor the family legacy leads him to turn his back on his new family and spend two years on a research orbital. As his tour wraps up, his orbital is attacked by anarchists, forcing him to abandon ship. The ship inexplicably navigates straight to the surface below. He crashes. He awakes hostage on an alien world. He uses his knowledge of advanced technology to survive. He tries desperately to develop the means to return home while trying to maneuver in the real war on the alien planet. But, he must keep the alien humans from mastering the technology and awaking the real threat to his homeworld.|
+| **[Adomas&nbsp;Galliulin - Alien ruler - Country, Antagonist](#)** | wants to dominate his wee continent. He paints himself as the victim and tries to seduce Albert (whom he calls "Herbert", which is a play on words) to support him with newfangled weapons. He wants a doomsday weapon. He is "Country."|
+| **[Tongo&nbsp;Rad - Alien scientist - Duty](#)** | works for AR. He's assigned to help with the doomsday weapon and steal ideas from Albert. His fanatical dedication to AR is slowly eroded by his interaction with Albert. He decides (or pretends to) help Albert get home. He is "Duty."|
+| **[Irina&nbsp;Galliulin - Alien princess - Honor](#)** | is AR's daughter. She falls in love with Albert and wants him to fall in love with her. She is "Honor."|
+| **[Dr.&nbsp;Strand - Albert's Father - Country](#)** | wants to keep his domination of industry. When his son is reported missing, he is split between serving his company and saving his son who is probably dead. "I have another."|
+| **[Michael&nbsp;Richards - Albert's "best" Friend - Duty](#)** | was with him when they were attacked, and helped Albert escape. We learn early on this was a ruse to get rid of Albert so that his friend could go after the widow...|
+| **[Charles&nbsp;Napier - Albert's true best Friend - Duty](#)** | with him before being sent home. He is the action between the Father & Wife...while the Father comes to want his son home, he can't do the work.|
+| **[Mabel&nbsp;Downey - Albert's wife & Family  - Honor](#)** | she is heartbroken when he left, and mourns when she finds him reported missing. She is suspicious of the friend, especially after he clearly makes advances to him. She is the steel that pushes Father to do something, and develops to be a force to be reckoned with.|
+| **[Clarance Dankworth](#)** | Hot-headed Ulster orphan who managed to get into a public school with Albert and became "Blaster" to Albert's "Master." He replaces Charles as the unofficial Strand guardian. He is stranded along with Albert. |
+| **[Slora Hanlon](#)**   | Thrown into prison the episode after Albert and after Mabel prays for Albert. He's the mentor. |
