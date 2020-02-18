@@ -29,7 +29,7 @@ David got into trouble in a local village, and fled into the wilderness...closel
 
 David hopes the discovery will make it easier for America to separate from England. Henry disagrees with David both in the ability and in the politics, but he doesn't tell David of the political disagreement. Henry works to make the murder go away, while trying to find from David where the Mound was.
 
-## Henry Strand
+### Henry Strand
 
 Henry Strand (1760-1844) is the brother of David Strand. He attended Yale College after his brother then read law at Litchfield Law School. He moved to Meadville, Crawford County, PA where he set up a law practice. He invested in iron furnaces there and started a local paper. When his brother arrived a few years later, he set him up as foreman for the furnances, unaware of the Bigelow murder. When Hale & Montresor arrive, he grows suspicious, but he helps his brother escape. He then undermines the investigation leaving Hale & Montresor frustrated and deciding to go home.
 
