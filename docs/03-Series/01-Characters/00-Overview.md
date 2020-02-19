@@ -1,4 +1,4 @@
-## Characters
+## Major Characters
 
 | Name | Summary |
 | -- | -- |

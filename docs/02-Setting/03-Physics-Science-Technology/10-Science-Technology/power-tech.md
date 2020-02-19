@@ -24,6 +24,8 @@ Engine development was slower as it derived from patent research. Dates below in
 * Neutrino Power Cell (NPC)
 * Stone (st.)
 
+Table: Neutrino Power Cube Configurations
+
 |     Name      |   Watts |   HP  | Size| Units | Side|  Weight |
 |       :-:     |    -:   |    -: |  -: |   -:  |  -: |    -:   |
 |  Neutrino CPC |      25 |       |   1 |     1 |  3" |    0.5# |

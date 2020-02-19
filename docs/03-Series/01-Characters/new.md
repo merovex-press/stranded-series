@@ -82,11 +82,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Details
 
---------------------  ------------------------------------------------------
-
-
-
-Table: Character Details
 
 Table: Character Details
 
@@ -118,24 +113,3 @@ Table: Character Details
      **Philosophy.**  none
 
 --------------------  ------------------------------------------------------
-
-<!-- ##### Physical
-*  **Age.** ...
-*  **Description.** ...
-*  **Style.** ...
-
-##### Emotional / Family Life
-
-*  **Personality.** ...
-*  **Humor.** ...
-*  **Faith.** ...
-*  **Politics.** ...
-*  **Upbringing.** ...
-*  **Social Mask.** Difference between how one intentionally presents oneself and how others see them
-
-##### Intellectual / Work Life
-
-*  **Education.** ...
-*  **Work History.** ...
-*  **Interests.** ...
-*  **Philosophy.** ... -->

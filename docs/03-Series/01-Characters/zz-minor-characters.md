@@ -1,8 +1,8 @@
-## Minor Characters
+### Minor Characters
 
 A bulleted list of bit-part characters with a sentence of who they are.
 
-### Affiliation
+#### Affiliation
 
 The following characters are involved in the ... storyline:
 

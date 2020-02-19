@@ -4,7 +4,7 @@ summary: Elysion is a binary system (G2V, KV5). Third planet around Elysion Juni
 type: location
 ---
 
-## Elysion System
+### Elysion System
 
 Elysol is a binary system comprising Elysol Senior (G2V, primary) and Elysol Junior (KV5, companion). They orbit one another with a periodicity of roughly 79 solar years, where Senior's circular diameter to viewers on Elysion from 1' to 3' wide in the sky. Junior appears 5% closer than the Sun from the Earth.
 
@@ -54,7 +54,7 @@ Note: Habitability calculation provided from [Tobias Mueller's calculator](http:
 | 4 | X | 1.4<sub>AU</sub>  |   |   |
 | 5 | x | 2.6<sub>AU</sub>  |   |   |
 
-### Elysion
+#### Elysion
 
 Earth first became aware of Elysion via Toltec documentation. Three years before Season One, the Brits made their first successful jump through the Slipstream to Elysol and then to the Elysion Orbital.
 
