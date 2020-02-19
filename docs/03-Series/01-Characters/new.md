@@ -1,3 +1,13 @@
+---
+name: <Token Character>
+role: hero
+order: 1
+type: major-character
+season: seasons 3–5; guest season 1; recurring season 2
+actor: James Carpinello
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+
 ### Character Name - Role
 
 <!-- The sections (Summary, Backstory, Details) derive from Randy Ingermanson’s Snowflake advice.
@@ -6,54 +16,42 @@
 
 > Tagline. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-#### Metadata
-
-<!-- Snowflake 3 - Character Summary. A one-page strategic summary of the character in the series, including a one-paragraph description of the story from their POV.
- -->
-* **Identity**: ...
-* **Convictions**: ...
-  * ...
-  * ...
-
-**Secret Desire / Want.**
-: This is a product of the DMS and character's Greatest Dream
-**Noble Quest / Goal.**
-: SMART goal
-
-**Lie / Internal conflict.**
-:  Something he thinks is true because of his dark moment, but just is not true (counters series theme)
-
-**Worst Fear / External Conflict.**
-: Something he thinks will happen again that creates the same pain as his dark moment
-
-**Wound.**
-: Emotional repercussions from his dark moment that he will protect himself against
-**Flaw.**
-: The bad behavior expressing the Greatest Fear & Wound
-
-**Epiphany**
-  : What
-
-
-<!-- ##### Driving the Internal Plot
-
-  1.  **The Lie Believed.** ...
-  2.  **Surprise 1 - Lie Proved.** ...
-  3.  **Reaction 1 - Quest Committed.** ...
-  4.  **The Truth Voiced.** ...
-  5.  **Surprise 2 - Lie Doubted.** ...
-  6.  **Surprise 3 - Lie Confronted.** ...
-  7.  **Epiphany - Truth Embraced.** ... -->
-
-##### Summary
-
 <!-- One-paragraph summary of the series from the character’s point-of-view. Setup, 8-segments, conclusion. -->
+
+**Summary.**
+: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 #### Backstory
 
 <!-- Snowflake 5 - Character Backstory.
-
 Take a few hours per character to explore their backstory and how it propels them forward. -->
+
+**Identity.**
+: Adjective + Noun character uses to self-identify at _status quo_.
+
+**Worst Fear / External Conflict.**
+: Something he thinks will happen again that creates the same pain as his dark moment
+
+**Lie / Internal conflict.**
+:  Something he thinks is true because of his dark moment, but just is not true (counters series theme)
+
+**Wound.**
+: Emotional repercussions from his dark moment that he will protect himself against
+
+**Flaw.**
+: The bad behavior expressing the Greatest Fear & Wound
+
+**Secret Desire / Want.**
+: This is a product of the DMS and character's Greatest Dream
+
+**Noble Quest / Goal.**
+: SMART goal
+
+**Competing Value.**
+: Alternative expression of Want that protects the Wound or Flaw rather than transforming it.
+
+**Epiphany.**
+: What he learns during the series
 
 ##### Dark Moment Story.
 
@@ -62,10 +60,14 @@ Take a few hours per character to explore their backstory and how it propels the
 
 Think _Butcher of Anderson Station_. Rough out a story about the character's past that gives them a flawed view of reality.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
 ##### Happiest Moment Story.
 
 <!-- What was the character’s happiest moment? This is the inverse of the Dark Moment Story. Just like the DMS. Also like the DMS, the character will feed this back to the reader in dialog. Have your character write this in the first person. What of this moment can we bring back to the character at the Denouement
- -->
+-->
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 *  Greatest Dream.
 
 #### Details
