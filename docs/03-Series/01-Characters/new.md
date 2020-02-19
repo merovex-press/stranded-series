@@ -82,11 +82,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Details
 
-| Attribute | Summary |
-| -: | - |
-| **Age.** | ... |
-| **Description.** | ... |
-| **Style.** | ... |
+------------  ------------------------------------------------------
+Attribute  Summary
+------------  ------------------------------------------------------
+**Age.**  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+**Description.**  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+**Style.**  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+------------  ------------------------------------------------------
+
+Table: Sample summary of
+
+
 | **Personality.** | ... |
 | **Humor.** | ... |
 | **Faith.** | ... |
