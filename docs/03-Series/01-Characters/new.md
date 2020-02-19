@@ -88,32 +88,35 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Table: Character Details
 
+Table: Character Details
+
 --------------------  ------------------------------------------------------
-**Age.**              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            **Age.**  Young
 
-**Description.**      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    **Description.**  short
 
-**Style.**            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Style.**  Fabulous
 
-**Personality.**      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    **Personality.**  Rude
 
-**Humor.**            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Humor.**  None
 
-**Faith.**            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Faith.**  Non
 
-**Politics.**         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+       **Politics.**  Patriot
 
-**Upbringing.**       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+     **Upbringing.**  Orphan
 
-**Social Mask.**      Difference between how one intentionally presents oneself and how others see them
+    **Social Mask.**  Difference between how one intentionally presents oneself and how others see them
 
-**Education.**        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      **Education.**  smart
 
-**Work History.**     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+   **Work History.**  unemployed
 
-**Interests.**        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      **Interests.**  unintended
 
-**Philosophy.**       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+     **Philosophy.**  none
+
 --------------------  ------------------------------------------------------
 
 <!-- ##### Physical
