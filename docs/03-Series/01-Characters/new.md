@@ -82,45 +82,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Details
 
-
-**Age.**
-: <detail>
-
-**Description.**
-: <detail>
-
-**Style.**
-: <detail>
-
-**Personality.**
-: <detail>
-
-**Humor.**
-: <detail>
-
-**Faith.**
-: <detail>
-
-**Politics.**
-: <detail>
-
-**Upbringing.**
-: <detail>
-
-**Social&nbsp;Mask.**
-: Difference between how one intentionally presents oneself and how others see them
-
-**Education.**
-: <detail>
-
-**Work History.**
-: <detail>
-
-**Interests.**
-: <detail>
-
-**Philosophy.**
-: <detail>
+| Attribute | Summary |
+| -: | - |
+| **Age.** | ... |
+| **Description.** | ... |
+| **Style.** | ... |
+| **Personality.** | ... |
+| **Humor.** | ... |
+| **Faith.** | ... |
+| **Politics.** | ... |
+| **Upbringing.** | ... |
+| **Social&nbsp;Mask.**  | Difference between how one intentionally presents oneself and how others see them |
+| **Education.** | ... |
+| **Work History.** | ... |
+| **Interests.** | ... |
+| **Philosophy.** | ... |
 
 <!-- ##### Physical
 *  **Age.** ...
