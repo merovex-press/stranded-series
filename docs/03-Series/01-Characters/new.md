@@ -82,28 +82,47 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Details
 
-##### Physical
 
-+--------------:+:--------------+
-| **Age.** | 30 years old |
-+-----------|-----------+
+**Age.**
+: <detail>
 
-| **Description.** | ... |
-| **Style.** | ... |
-| **Personality.** | ... |
-| **Humor.** | ... |
-| **Faith.** | ... |
-| **Politics.** | ... |
-| **Upbringing.** | ... |
-| **Social Mask.**  | Difference between how one intentionally presents oneself and how others see them |
-| **Education.** | ... |
-| **Work History.** | ... |
-| **Interests.** | ... |
-| **Philosophy.** | ... |
+**Description.**
+: <detail>
 
-Table: Sampel table
+**Style.**
+: <detail>
 
-##### Physical
+**Personality.**
+: <detail>
+
+**Humor.**
+: <detail>
+
+**Faith.**
+: <detail>
+
+**Politics.**
+: <detail>
+
+**Upbringing.**
+: <detail>
+
+**Social&nbsp;Mask.**
+: Difference between how one intentionally presents oneself and how others see them
+
+**Education.**
+: <detail>
+
+**Work History.**
+: <detail>
+
+**Interests.**
+: <detail>
+
+**Philosophy.**
+: <detail>
+
+<!-- ##### Physical
 *  **Age.** ...
 *  **Description.** ...
 *  **Style.** ...
@@ -122,4 +141,4 @@ Table: Sampel table
 *  **Education.** ...
 *  **Work History.** ...
 *  **Interests.** ...
-*  **Philosophy.** ...
+*  **Philosophy.** ... -->
