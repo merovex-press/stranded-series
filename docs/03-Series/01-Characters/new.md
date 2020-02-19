@@ -15,15 +15,24 @@
   * ...
   * ...
 
-**Secret Desire / Want**
+**Secret Desire / Want.**
 : This is a product of the DMS and character's Greatest Dream
+**Noble Quest / Goal.**
+: SMART goal
 
-* **Noble Quest / Goal**: SMART goal
-*  **Lie / Internal conflict.** Something he thinks is true because of his dark moment, but just is not true (counters series theme)
-* **Epiphany**: ...
-*  **Worst Fear.** Something he thinks will happen again that creates the same pain as his dark moment
-*  **Wound.** Emotional repercussions from his dark moment that he will protect himself against
-*  **Flaw.** The bad behavior fueled by the Wound
+**Lie / Internal conflict.**
+:  Something he thinks is true because of his dark moment, but just is not true (counters series theme)
+
+**Worst Fear / External Conflict.**
+: Something he thinks will happen again that creates the same pain as his dark moment
+
+**Wound.**
+: Emotional repercussions from his dark moment that he will protect himself against
+**Flaw.**
+: The bad behavior expressing the Greatest Fear & Wound
+
+**Epiphany**
+  : What
 
 
 <!-- ##### Driving the Internal Plot
