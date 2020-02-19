@@ -82,17 +82,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 #### Details
 
-------------  ------------------------------------------------------
-Attribute  Summary
-------------  ------------------------------------------------------
+--------------------  ------------------------------------------------------
 **Age.**  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 **Description.**  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 **Style.**  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-------------  ------------------------------------------------------
+--------------------  ------------------------------------------------------
 
-Table: Sample summary of
+Table: Character Details
 
 
 | **Personality.** | ... |
@@ -100,7 +98,7 @@ Table: Sample summary of
 | **Faith.** | ... |
 | **Politics.** | ... |
 | **Upbringing.** | ... |
-| **Social&nbsp;Mask.**  | Difference between how one intentionally presents oneself and how others see them |
+| **Social Mask.**  | Difference between how one intentionally presents oneself and how others see them |
 | **Education.** | ... |
 | **Work History.** | ... |
 | **Interests.** | ... |
