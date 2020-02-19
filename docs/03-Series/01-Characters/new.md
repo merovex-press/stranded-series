@@ -1,12 +1,26 @@
 ---
-name: <Token Character>
+name: <New Character>
 role: hero
 order: 1
 type: major-character
 season: seasons 3–5; guest season 1; recurring season 2
-actor: James Carpinello
+actor: <who would you want to portray him?>
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ---
+<!--
+
+Snowflake 3 - Character Summary. Take an hour and write a one-page summary sheet that tells
+* one-sentence summary of character's storyline
+* Secret Desire / Want / Motivation
+* Nobel Quest / Goal (SMART)
+* Epiphany, how the character changes
+* one-paragraph summary of character's storyline
+
+Snowflake 5 - Character Backstory. Take a few hours per character to explore their backstory and how it propels them forward.
+
+Snowflake 7 - Character Details. Take several hours per character and drill deep into them by creating a character bible for each one. This is where you will save all the details about your characters.
+
+-->
 
 ### Character Name - Role
 
@@ -23,9 +37,6 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
 
 #### Backstory
 
-<!-- Snowflake 5 - Character Backstory.
-Take a few hours per character to explore their backstory and how it propels them forward. -->
-
 **Identity.**
 : Adjective + Noun character uses to self-identify at _status quo_.
 
@@ -41,7 +52,7 @@ Take a few hours per character to explore their backstory and how it propels the
 **Flaw.**
 : The bad behavior expressing the Greatest Fear & Wound
 
-**Secret Desire / Want.**
+**Secret Desire / Greatest Dream / Want.**
 : This is a product of the DMS and character's Greatest Dream
 
 **Noble Quest / Goal.**
@@ -56,9 +67,9 @@ Take a few hours per character to explore their backstory and how it propels the
 ##### Dark Moment Story.
 
 <!-- This is a short story about a specific, reader-relevant event that happened that the character remembers and can tell in detail. It is not a traumatic event, but something that happened soon after that drove it home. It leads to understanding what he needs to heal his Flaw and obtain his Greatest Dream. If the author cannot feel for the character, then there’s a problem.
--->
 
 Think _Butcher of Anderson Station_. Rough out a story about the character's past that gives them a flawed view of reality.
+-->
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -68,13 +79,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 -->
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-*  Greatest Dream.
 
 #### Details
 
-<!-- Snowflake 7 - Character Details.
+##### Physical
 
-Take several hours per character and drill deep into them by creating a character bible for each one. This is where you will save all the details about your characters. -->
++--------------:+:--------------+
+| **Age.** | 30 years old |
++-----------|-----------+
+
+| **Description.** | ... |
+| **Style.** | ... |
+| **Personality.** | ... |
+| **Humor.** | ... |
+| **Faith.** | ... |
+| **Politics.** | ... |
+| **Upbringing.** | ... |
+| **Social Mask.**  | Difference between how one intentionally presents oneself and how others see them |
+| **Education.** | ... |
+| **Work History.** | ... |
+| **Interests.** | ... |
+| **Philosophy.** | ... |
+
+Table: Sampel table
 
 ##### Physical
 *  **Age.** ...
@@ -88,7 +115,6 @@ Take several hours per character and drill deep into them by creating a characte
 *  **Faith.** ...
 *  **Politics.** ...
 *  **Upbringing.** ...
-*  **Hope.** ...
 *  **Social Mask.** Difference between how one intentionally presents oneself and how others see them
 
 ##### Intellectual / Work Life

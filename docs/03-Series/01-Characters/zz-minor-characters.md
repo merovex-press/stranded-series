@@ -11,5 +11,4 @@ The following characters are involved in the ... storyline:
 * Elizabeth Rodgers
 * Bill Blackburn
 
-
 List of character names from the directors of Combat! (https://en.wikipedia.org/wiki/Combat!)
