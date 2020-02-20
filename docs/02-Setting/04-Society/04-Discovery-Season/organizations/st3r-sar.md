@@ -20,21 +20,24 @@
 Table: RSTTR / SAR Timeline
 
 ----------  ------------------------------------------------------------
-  17xx      Ephraim George Biggs discovered Toltec temple
-  1784      KG3[^KG3] chartered the Royal Society for Toltec Technology Research (RSTTR).
+  1767      Ephraim George Biggs discovered Toltec temple
+  1770      KG3[^KG3] chartered the Royal Society for Toltec Technology Research (RSTTR).
   1814      Cracking the Forefathers computer---a patent library with centuries
             of precursor technology (V French War)
   1807      Computer re-energized using what were later identified as solar panels
-  1812      Language reverse engineered, technology deemed "Forefathers" instead of "Toltec"
-            though some posit that the Toltecs are descended from Forefathers.
+  1812      Language reverse engineered, technology deemed "Forefathers"
+            instead of "Toltec" though some posit that the Toltecs
+            are descended from Forefathers.
   1814      RSTTR realizes computer stores alien patents
   1825      Yale establishes the "Society for Advanced Research" (SAR)
   1826-40   RSTTR moved from Philadelphia, New Haven, Connecticut (Yale)
   1840      SAR returned to Salomon’s House, Philadelphia
 ----------  ------------------------------------------------------------
 
-<!-- 30 November 1982
-9 April 1784 -->
+<!-- 30 November 1782
+9 April 1784
+5 March 1770 - Boston Massacre
+-->
 
 <!-- under the Arkansan Toltec Mounds. Within the mounds is a trove of technology and modern-era weaponry, including an advanced, operating computer storing alien technology. The computer and all technology was transported to Philadelphia, which is the center of American social & political life. -->
 

@@ -1,4 +1,4 @@
-### 1766-1840 The Indian Problem.
+### 1766-1840: The Indian Problem
 
 At the end of the French & Indian War, there were estimated to be as many Indians as white settlers in North America (~4.5 million).[^pop]
 
