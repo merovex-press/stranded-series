@@ -2,7 +2,25 @@
 
 Engine development was slower as it derived from patent research. Dates below indicate when they were commercially available.
 
-* 1820 - Electricity using hydropower. Biomass generators commercially available by 1839
+Table: Timeline of Power Technology Development
+
+-------- --------------------------------------------------
+  1820   Electricity using hydropower. Biomass generators commercially available by 1839
+  1826   Oil discovered, knock 20 years off of evolution of oil
+  1828   Diesel engine (called the biomass engine)
+  1836   **JL Chandler reverse engineered neutrino power, receiving a patent on the Chandler Power Cubes. (15 June)**
+  1836   Gasoline engine limited use to highly urban environments due to poor infrastructure and lack of access to gas.
+  1839   Diesel locomotive Slow and mechanically inefficient
+  1842   **First Neutrinovoltaic powered (NVP) locomotive using the MicroChandler Power Cube.**
+  1845   Gasoline automobile limited utility in favor of biomass trucks.
+  1845   **Chandler died (29 December), Chandler's patent on the CPCs lapses in 1846.**
+  1859   First Neutrinovoltaic powered (NVP) automobile by Tucker. [See real timeline](https://en.wikipedia.org/wiki/History_of_the_electric_vehicle#Electric_model_cars)**
+  1861   Latimer Clark and Sir Charles Bright coined the name "volt" for the unit of resistance. **This countered the growing interest in naming it the "Chand" or "Chandle" as part of the resistance to Toltec influences. The term was in widespread use by 1869.**
+  1869   **NVP "Victoria" Taxies introduced by Walter C. Bersey** (10y early, see Images)
+  1888   **NVP oceangoing ships**  (Replacing oil-burning naval ships)
+-------- --------------------------------------------------
+
+<!-- * 1820 - Electricity using hydropower. Biomass generators commercially available by 1839
 * 1826 - Oil discovered, knock 20 years off of evolution of oil
 * 1828 - Diesel engine (called the biomass engine)
 * **1836 - JL Chandler reverse engineered neutrino power, receiving a patent on the Chandler Power Cubes. (15 June)**
@@ -14,7 +32,7 @@ Engine development was slower as it derived from patent research. Dates below in
 * **1859 - First Neutrinovoltaic powered (NVP) automobile by Tucker. [See real timeline](https://en.wikipedia.org/wiki/History_of_the_electric_vehicle#Electric_model_cars)**
 * 1861 - Latimer Clark and Sir Charles Bright coined the name "volt" for the unit of resistance. **This countered the growing interest in naming it the "Chand" or "Chandle" as part of the resistance to Toltec influences. The term was in widespread use by 1869.**
 * **1869 - NVP "Victoria" Taxies introduced by Walter C. Bersey** (10y early, see Images)
-* **1888 - NVP oceangoing ships**  (Oil-burning naval ships)
+* **1888 - NVP oceangoing ships**  (Oil-burning naval ships) -->
 
 ##### Chandler Neutrino Power Cube
 

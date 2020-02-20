@@ -31,10 +31,10 @@ Table: Overall Habitat Dimensions
 
 | Measure | Ratio | Metric | Imperial
 | --- | --- | --- | --- |
-|Radius:| 9 | 90.61m | 297.277 or 99yds |
-|Width: | 4 | 40.27m | 132' 0-1/8" or 44yds |
-|Height:| 1 | 10.06m | 33' 0-1/32" or 11yds |
-|Area:  | x | 7.44 hectares | 800,559 sqft or 18.37 acres  |
+| Radius:| 9 | 90.61m | 297.277 or 99yds |
+| Width: | 4 | 40.27m | 132' 0-1/8" or 44yds |
+| Height:| 1 | 10.06m | 33' 0-1/32" or 11yds |
+| Area:  | x | 7.44 hectares | 800,559 sqft or 18.37 acres  |
 
 This provides a three-story/level space.
 * Gravity on the first level is 1.02G
