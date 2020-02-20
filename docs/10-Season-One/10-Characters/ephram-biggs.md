@@ -1,28 +1,17 @@
 ---
-name: Bubba
+name: Ephram Biggs
 role: hero
 order: 1
 type: major-character
 season: seasons 3–5; guest season 1; recurring season 2
-actor: <who would you want to portray him?>
-summary:
+actor: James Carpinello
+summary: Ephram Biggs discovers the Toltec Mound, triggering the
 ---
 
-<!-- Snowflake 3 - Character Summary. Take an hour and write a one-page summary sheet that tells
-* one-sentence summary of character's storyline
-* Secret Desire / Want / Motivation
-* Nobel Quest / Goal (SMART)
-* Epiphany, how the character changes
-* one-paragraph summary of character's storyline
-
-Snowflake 5 - Character Backstory. Take a few hours per character to explore their tragedy and how it propels them forward.
-
-Snowflake 7 - Character Details. Take several hours per character to flesh out the details. -->
-
-### Bubba
+### Ephram Biggs
 
 **Overview.**
-Bubba is a (DESCRIPTIVE PHRASE).
+Ephram is a (DESCRIPTIVE PHRASE).
 For him, life is a (WORLDVIEW).
 Others say he is best known for (ACCOMPLISHMENT).
 When people first meet him, they notice his (PHYSICAL TRAITS AND PERSONALITY), then they notice that (TRAITS THAT ADD OR CONTRADICTs DOMINANT TRAITS).
@@ -40,6 +29,8 @@ One-paragraph expansion in ~8 sentences.
 <!-- Surprise 3 - Lie Confronted -->
 <!-- Epiphany - Truth Embraced -->
 
+He is spared the noose by a contraption under his arms (butterfly knot), allowing him to escape.
+
 **Physical.**
 <!-- Defining Characteristic -->
 <!-- Eyes -->
@@ -49,7 +40,7 @@ One-paragraph expansion in ~8 sentences.
 <!-- Age -->
 
 **Emotional.**
-Bubba would say he is a <adjective> <noun><!-- Identity -->
+Ephram would say he is a <adjective> <noun><!-- Identity -->
 <!-- Fear / External Conflict / what believes will reoccur -->
 <!-- Lie / Internal conflict / believes true due to backstory -->
 <!-- Wound / Emotional repercussions-->
@@ -72,4 +63,4 @@ Bubba would say he is a <adjective> <noun><!-- Identity -->
 
 **Tragedy.**
 <!-- Rough out the Dark Moment Story, a short-story like _Butcher of Anderson Station_. -->
-One-paragraph summary of Bubba's personal tragedy that fuels his Fear, Lie, Wound, Flaw and Desire.
+One-paragraph summary of Ephram's personal tragedy that fuels his Fear, Lie, Wound, Flaw and Desire.
