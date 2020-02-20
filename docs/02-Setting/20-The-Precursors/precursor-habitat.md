@@ -14,8 +14,6 @@ Gravity is created by the Habitat's spin (π rpm). The Medial deck has an effect
 
 [^spin-calc]: SpinCalc. https://www.artificial-gravity.com/sw/SpinCalc/). Accessed February 20, 2020.
 
-##### Artificial Gravity
-
 Table: Habitat Artificial Gravity
 
 | # | Metric | Imperial |

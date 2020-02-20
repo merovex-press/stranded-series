@@ -3,8 +3,8 @@ name: Elysion System
 summary: Elysion is a binary system (G2V, KV5). Third planet around Elysion Junior is Elysion, the focal planet for the system.
 type: location
 ---
-
-### Elysion System
+\newpage{}
+## Elysion System
 
 Elysol is a binary system comprising Elysol Senior (G2V, primary) and Elysol Junior (KV5, companion). They orbit one another with a periodicity of roughly 79 solar years, where Senior's circular diameter to viewers on Elysion from 1' to 3' wide in the sky. Junior appears 5% closer than the Sun from the Earth.
 

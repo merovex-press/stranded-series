@@ -6,6 +6,7 @@ Weapons development in the 19th Century accelerated based on access to working T
 
 Several weapons were found in the Toltec Indian Mound Temple. Anglo-American first reverse-engineered the actual weapon as the first generation. A second iteration led to improvements.
 
+
 * 1803 - Pennsylvania Toltec Arms, Ltd. (PTA Ltd.) chartered by Jacob Dickert and Martin Meylin Jr. to reverse-engineer & produce Toltec weapons, moved by royal request to Harper's Ferry.
 * 1807 first successful reverse-engineered prototype built
 * 1814 - PTA Ltd. completed 4,000 rifles Harper's Ferry Model 1803, also known as the Toltec Battle Rifle Model '03 (HFM-03, TBRM-03 or BRM-03) essentially the StG-44. This is a straight reverse-engineer

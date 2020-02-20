@@ -1,4 +1,4 @@
-### Toltec Society
+### Precursor Society
 
 The British named the alien society "Toltec" after the name given the mounds themselves.
 
