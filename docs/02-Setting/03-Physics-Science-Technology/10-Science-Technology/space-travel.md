@@ -12,15 +12,25 @@ This section discusses the application of slower-than-light (STL) space travel. 
 * RT6-B Epstein Drive: MCR drive used on Morrigan-class Patrol destroyers.
 * G-4000 Series Epstein Drive: A very large drive used on the Nauvoo/Behemoth. -->
 
-###### Performance
+Table: Edison Drive Performance
 
-* Thrust: 1,000,000 N
-* Specific Impulse (isp): 1,100,000 seconds
-* Exhaust Velocity (ve): 11,000,000 m/second (~3.7% of light speed)
-* Mass Flow Rate (ṁ ): 0.09 kg/second
-* Thrust Power: 5.5 Terawatt
-* Engine's Thrust to Weight Ratio: ~140
-* Propellant mass fraction (yacht's mass fueled / mass empty): ~4
+-------------------------------  --------------------------
+Thrust                                          1,000,000 N
+Specific Impulse (isp)                    1,100,000 seconds
+Exhaust Velocity (ve)                11,000,000 m/second (~3.7% of light speed)
+Mass Flow Rate (ṁ )                          0.09 kg/second
+Thrust Power                                   5.5 Terawatt
+Engine's Thrust to Weight Ratio                        ~140
+Propellant mass fraction                                 ~4
+-------------------------------  --------------------------
+
+Thrust: 1,000,000 N
+Specific Impulse (isp): 1,100,000 seconds
+Exhaust Velocity (ve): 11,000,000 m/second (~3.7% of light speed)
+Mass Flow Rate (ṁ ): 0.09 kg/second
+Thrust Power: 5.5 Terawatt
+Engine's Thrust to Weight Ratio: ~140
+Propellant mass fraction (yacht's mass fueled / mass empty): ~4
 
 ##### Spacecraft
 

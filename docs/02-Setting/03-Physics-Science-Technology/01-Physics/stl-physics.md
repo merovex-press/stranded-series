@@ -17,6 +17,7 @@ The table below describes the travel time between Earth and the target, as provi
 [^sol-distance]: The Planets. _Distances Between Planets_ https://theplanets.org/distances-between-planets/. Accessed Feb 9, 2020
 [^stl-calc]: Nathan Geffen. _Space travel calculator_. https://spacetravel.simhub.online/. Accessed Feb 9, 2020.
 
+Table: Solar System Travel Times with Constant Acceleration
 
 | V   | G | 1AU | Knot | Moon | Mars | Uranus | Oort |
 | -    | --: | --:    |    --: |    --:         |    --: |   --: |   --: |
