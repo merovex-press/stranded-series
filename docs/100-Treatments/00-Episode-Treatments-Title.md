@@ -1,5 +1,5 @@
 <!-- # Episode Breakdown -->
-## Episode Treatments
+# Episode Treatments
 
 The **Episode Treatments** provide a focused summary of the major plot arcs for each episode showing both the storyline within each episode and how each episode contributes to any over-arching storylines across the series.
 

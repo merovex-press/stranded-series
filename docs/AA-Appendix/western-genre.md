@@ -1,6 +1,6 @@
 
 
-## Western Genre
+### Western Genre
 
 Author and screenwriter Frank Gruber described seven plots for Westerns:[12][13]
 
