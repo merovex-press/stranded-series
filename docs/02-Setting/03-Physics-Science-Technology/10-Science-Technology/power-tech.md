@@ -2,6 +2,8 @@
 
 Engine development was slower as it derived from patent research. Dates below indicate when they were commercially available.
 
+\newpage
+
 Table: Timeline of Power Technology Development
 
 -------- ------------------------------------------------------
@@ -36,6 +38,7 @@ Table: Timeline of Power Technology Development
          The term was in widespread use by 1869.**
 
   1869   **NVP "Victoria" Taxies introduced by Walter C. Bersey** (10y early, see Images)
+
   1888   **NVP oceangoing ships**  (Replacing oil-burning naval ships)
 -------- --------------------------------------------------
 
