@@ -18,6 +18,7 @@
 * 1840 - SAR returned to Salomon’s House, Philadelphia -->
 
 Table: RSTTR / SAR Timeline
+
 ----------  ------------------------------------------------------------
   17xx      Ephraim George Biggs discovered Toltec temple
   1784      KG3[^KG3] chartered the Royal Society for Toltec Technology Research (RSTTR).
