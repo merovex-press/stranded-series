@@ -8,25 +8,60 @@
 
 #### Timeline
 
-* 1782 November 30 - American surveyor Ephraim George Biggs discovered Toltec temple under the Arkansan Toltec Mounds. Within the mounds is a trove of technology and modern-era weaponry, including an advanced, operating computer storing alien technology. The computer and all technology was transported to Philadelphia, which is the center of American social & political life.
+<!-- * 1782 November 30 - American surveyor Ephraim George Biggs discovered Toltec temple under the Arkansan Toltec Mounds. Within the mounds is a trove of technology and modern-era weaponry, including an advanced, operating computer storing alien technology. The computer and all technology was transported to Philadelphia, which is the center of American social & political life.
 * 1784 April 9 - The Society for Toltec Technology Trove Research (ST3R) was chartered by King George III to decipher the technology. The Fifth French War increased the zeal of the research, with the major breakthrough occurring in 1814 discovering that the computer was a patent library exposing centuries of advanced technology.
 * 1807 - Computer re-energized using what were later identified as solar panels
 * 1812 - Language reverse engineered, technology deemed "Alien" instead of "Toltec," though some posit that the Toltecs are descended from Aliens.
 * 1814 - ST3R realizes computer stores alien patents
 * 1825 - Yale establishes the "Society for Alien Research" (SAR)
 * 1826-40 - ST3R moved from Philadelphia, New Haven, Connecticut (Yale)
-* 1840 - SAR returned to Salomon’s House, Philadelphia
+* 1840 - SAR returned to Salomon’s House, Philadelphia -->
 
-#### Directors
+Table: RSTTR / SAR Timeline
+----------  ------------------------------------------------------------
+  17xx      Ephraim George Biggs discovered Toltec temple
+  1784      KG3[^KG3] chartered the Royal Society for Toltec Technology Research (RSTTR).
+  1814      Cracking the Forefathers computer---a patent library with centuries
+            of precursor technology (V French War)
+  1807      Computer re-energized using what were later identified as solar panels
+  1812      Language reverse engineered, technology deemed "Forefathers" instead of "Toltec"
+            though some posit that the Toltecs are descended from Forefathers.
+  1814      RSTTR realizes computer stores alien patents
+  1825      Yale establishes the "Society for Advanced Research" (SAR)
+  1826-40   RSTTR moved from Philadelphia, New Haven, Connecticut (Yale)
+  1840      SAR returned to Salomon’s House, Philadelphia
+----------  ------------------------------------------------------------
 
-* Robert Scot (1783 until his death in 1823)
+<!-- 30 November 1982
+9 April 1784 -->
+
+<!-- under the Arkansan Toltec Mounds. Within the mounds is a trove of technology and modern-era weaponry, including an advanced, operating computer storing alien technology. The computer and all technology was transported to Philadelphia, which is the center of American social & political life. -->
+
+[^KG3]: King George III.
+
+<!-- #### Directors -->
+
+Table: RSTTR / SAR Directors
+
+------------------  ----------  ----------------------------------
+Robert Scot         1783--1823  Death
+William Kneass      1824--1840  Death,  Moves ST3R to Yale as SAR
+Christian Gobrecht  1840--1844  Death
+James B. Longacre   1844--1869  Death
+William Barber      1869--1879  Death
+Charles E. Barber   1879--1917  Death
+George T. Morgan    1917--1925  Death
+John R. Sinnock     1925--1947  Death
+------------------  ----------  ----------------------------------
+
+<!-- * Robert Scot (1783 until his death in 1823)
 * William Kneass (1824 until his death in 1840), Moves ST3R to Yale as SAR.
 * Christian Gobrecht (1840 until his death in 1844)
 * James B. Longacre (1844 until his death in 1869)
 * William Barber (1869 until his death in 1879)
 * Charles E. Barber (1879 until his death in 1917)
 * George T. Morgan (1917 until his death in 1925)
-* John R. Sinnock (1925 until his death in 1947)
+* John R. Sinnock (1925 until his death in 1947) -->
 <!-- * Gilroy Roberts (1948 to 1964)
 * Frank Gasparro (1965 to 1981) -->
 

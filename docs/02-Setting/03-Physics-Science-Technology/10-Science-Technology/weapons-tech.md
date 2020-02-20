@@ -1,3 +1,5 @@
+\newpage{}
+
 ### Weapons Development
 
 Weapons development in the 19th Century accelerated based on access to working Toltec weapons. Toltecs continued to use slug-throwing weapons, so this accelerates the introduction of semi- and full-automatic weaponry. Based on the Neutrino discoveries, scientists speculate the Toltec withheld their more advanced weaponry from Earth.
@@ -14,8 +16,8 @@ Table: Accelerated Personal Weapons Development
             & produce Toltec weapons, moved by royal request to Harper's Ferry.
   1807      First successful reverse-engineered prototype built
   1814      PTA Ltd. completed 4,000 rifles Harper's Ferry Model 1803,
-            also known as the Toltec Battle Rifle Model '03 (HFM-03, TBRM-03 or BRM-03)
-            essentially the StG-44. This is a straight reverse-engineer
+            a.k.a. Toltec Battle Rifle Model '03 (HFM-03, TBRM-03 or BRM-03)
+            Essentially the StG-44. This is a straight reverse-engineer.
   1815      Battle of Waterloo turned by use of the BRM-03
   1815      PTA Ltd. charter revoked. Crown forms "Harpers Ferry Arsenal"
             with the same leadership
@@ -43,11 +45,11 @@ Table: Accelerated Artillery Development
   1813      Reverse engineer of Toltec field gun complete. Never entered mass production.
   1818      the Harper's Arsenal Ordinance (HAO) 5-inch howitzer fielded.
             Deemed to bulky to deploy in service
-  1829      the HAO Improved (HAOi) 4.5-inch[^HAOi] accepted by British military
+  1829      HAO Improved (HAOi) 4.5-inch[^HAOi] accepted by British military
   1830      HAOi 4.5-inch placed in service.
 ----------  ------------------------------------------------------------
 
-[^HAOi]: https://en.wikipedia.org/wiki/QF_4.5-inch_howitzer
+[^HAOi]: Wikipedia. QF 4.5-inch howitzer. https://en.wikipedia.org/wiki/QF_4.5-inch_howitzer. Accessed February 20, 2020.
 
 <!-- * 1813 - Reverse engineer of Toltec field gun complete. Never entered mass production.
 * 1818 - the Harper's Arsenal Ordinance (HAO) 5-inch howitzer fielded. Deemed to bulky to deploy in service
