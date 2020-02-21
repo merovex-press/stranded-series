@@ -12,26 +12,26 @@ Elysol is a binary system comprising Elysol Senior (G2V, primary) and Elysol Jun
 
 Table: Elysion Binary Star Details
 
-------------------------------------------------------------
-                  Senior                  Junior
-------------  ------------------------  --------------------
-Type              G2V                   K1V
+--------------------------------------------------------------
+                       Senior        Junior
+-------------------  ------------  ----------------------------
+Type                   G2V           K1V
 
-Temperature       5790K                 5260K
+Temperature            5790K         5260K
 
-Luminosity        1.5L<sub>sun</sub>    0.5L<sub>sun</sub>
+Luminosity (solar)     1.5L          0.5L
 
-Mass              1.1M<sub>sun</sub>    0.9M<sub>sun</sub>
+Mass (solar)           1.1M          0.9M
 
-Diameter          0.011<sub>AU</sub>    0.008<sub>AU</sub>
-                                        (17x <sub>Jupiter</sub>)
+Diameter (AU)          0.011         0.008
+                                     (17x <sub>Jovian</sub>)
 
-HR[^tobias-calculator]              .0--1.44<sub>AU</sub>   0.67--0.97<sub>AU</sub>
-------------------------------------------------------------
+HR (AU)[^hz]           0.0--1.44     0.67--0.97
+--------------------------------------------------------------
 
 <!-- 0.00046732617 -->
 
-[^tobias-calculator]: Habitability calculation provided from Tobias Mueller's calculator. Tobias Mueller. _Habitable Zones in Multiple Star Systems_. http://astro.twam.info/hz/. Accessed February 21, 2020. See also Tobias Mueller. _Calculating the Habitable Zones of Multiple Star Systems with a New Interactive Web Site_. https://iopscience.iop.org/article/10.1088/0004-637X/782/1/26/pdf. 2014. Accessed February 21, 2020.
+[^hz]: Habitability calculation provided from Tobias Mueller's calculator. Tobias Mueller. _Habitable Zones in Multiple Star Systems_. http://astro.twam.info/hz/. Accessed February 21, 2020. See also Tobias Mueller. _Calculating the Habitable Zones of Multiple Star Systems with a New Interactive Web Site_. https://iopscience.iop.org/article/10.1088/0004-637X/782/1/26/pdf. 2014. Accessed February 21, 2020.
 
 Table: Elysion Senior Orbits
 
