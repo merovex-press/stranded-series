@@ -19,7 +19,7 @@
 * Season
   - Each season comprises 10 novella-length episodes with a target episode length is 30,000±2,500 words, which is 90±7 pages.
   - Each season is 300,000±25,000 words, or about three 100,000 word novels; trilogy length.
-  - Box sets comprises five books where each book is two episodes.
+  - Box sets comprise five books where each book is two episodes.
 * Episode
   - Each novella episode comprises 8 three-scene segments; 24 sections  (~1250 words per section).
   - Each scene services a different storyline, with three storylines per episode.
@@ -31,6 +31,9 @@
   - Listening pace: Audible standard voice pace is 150 wpm.[^listening]
   - A novella should complete in about 3 1/2 hours, which should be long enough to support one-leg if a flight.
   - A season should complete in about 33 hours, which should be enough to entertain a trucker for a week.
+
+  [^reading]: https://www.irisreading.com/what-is-the-average-reading-speed/
+  [^listening]: https://findawayvoices.com/pricing/
 
 ### Season Pattern
 

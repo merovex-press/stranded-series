@@ -19,6 +19,8 @@ In order to try to put some structure to my commits, I add the following "types"
 **Release.**
 This repo manages Github Releases with [Release Drafter](https://github.com/apps/release-drafter). It automatically creates a `Draft` release and updates that draft with *Pull Requests*. There are pull-request-specific labels in the repo to help categorize the release notes. See [.github/release-drafter.yml](./.github/release-drafter.yml) for those labels.
 
+`git rebase origin/master`
+
 **Changelog.**
 This repos makes the Changelog using Using [Github Release Notes](https://github.com/github-tools/github-release-notes). Changelog format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).

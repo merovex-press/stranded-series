@@ -6,7 +6,7 @@ Created: Jan 18, 2020 3:22 PM
 URL: https://tvtropes.org/pmwiki/pmwiki.php/Main/SchizoTech
 ---
 
-## SchizoTech
+### SchizoTech
 
 The setting and timeline may seem at first to be [The Middle Ages](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheMiddleAges), [The Colonial Period](https://tvtropes.org/pmwiki/pmwiki.php/UsefulNotes/TheThirteenAmericanColonies), or some [Fantasy Counterpart Culture](https://tvtropes.org/pmwiki/pmwiki.php/Main/FantasyCounterpartCulture) thereof, but when you look closer, you find polyester, robots, or other high-tech toys in between the horse-drawn wagons and wattle-and-daub buildings. There's generally no rhyme or reason for *which* technologies are anachronistically present besides the [Rule of Cool](https://tvtropes.org/pmwiki/pmwiki.php/Main/RuleOfCool). Sometimes these may be leftovers from a [lost technological civilization](https://tvtropes.org/pmwiki/pmwiki.php/Main/LostTechnology), or perhaps it could be that science developed along a different path than ours, allowing for more advanced technology in one field, while stagnating in others, but most of the time there is no explanation whatsoever for the bizarre mix of medieval and futuristic.
 

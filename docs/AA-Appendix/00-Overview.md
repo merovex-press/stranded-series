@@ -1,2 +1,5 @@
 <!-- # Miscellaneous -->
-# Appendix
+
+\appendix
+
+# Appendix {.unnumbered}

@@ -19,7 +19,7 @@ The people who built the mounds at the Toltec site had a culture distinct from o
 
 ### Toltec Site[[edit](https://en.wikipedia.org/w/index.php?title=Toltec_Mounds_Archeological_State_Park&action=edit&section=3)]
 
-![](250px-Chromesun_toltec_mounds_photo01-cf49d7ef-dc98-4eb0-af6a-704ca6ad9f8f.jpg)
+(250px-Chromesun_toltec_mounds_photo01-cf49d7ef-dc98-4eb0-af6a-704ca6ad9f8f.jpg)
 
 Two mounds at the site
 

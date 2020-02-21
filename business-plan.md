@@ -8,42 +8,52 @@ We distribute through Amazon with a pricing structure that optimizes royalties w
 
 <!-- /buisness-plan -->
 
+- [ ] [#33], Create LLC for Merovex
+
 <!-- [Business Model Canvas guide](https://www.alexandercowan.com/business-model-canvas-templates/) -->
 
 ## Audience / Customer Segments
+
+Who are the customers? What do they think? See? Feel? Do?
+
+Strand readers come from a wide background. They like history, are skeptical, but accept diverse values and opinions while retaining their own. They like to wonder what would happen if a few things in the past turned out differently.
 
 1. **White-collar travelers.** Some Strand readers commute, so they want to have short bursts of entertainment that fits in the time spent waiting in the airport or in the air.
 2. **Super-Commuters.** Some Strand readers spend 2 hours a day on commuting. Like white-collar travelers, they are looking for entertainment that fits their travel time.
 2. **Blue-collar truckers.** Some Strand readers are on the road for work. These are truckers who are looking for something to keep them from getting bored for longer periods.
 
-## Value Proposition
+## Value Proposition / Business Model
 
-Strand provides a fiction novella series to satisfy our customer segments' desire for entertainment, while being uplifting. Each novella should be short enough to fit in the time a reader / listener is either at the airport, in the air, or in the car. Novellas tie into seasons, which are long enough to fill a long-hauler's driving week.
+What’s compelling about the proposition? Why do customers buy, use?
 
-## Approach / Business Model
+Strand provides uplifting serial fiction novellas to satisfy our customer segments' desire for entertainment. Each novella should be short enough to fit in the time a reader / listener is either at the airport, in the air, or in the car. Novellas seasons are long enough to fill a long-hauler's driving week. Being short, we are not competing heavily for their time with other entertainment options. We fill the gap.
 
-Our Author business model is solo-developed high-volume fiction. We seek to put out a new 10-book season every two years to start. In a perfect world, a new season would launch every year.
+Our Author business model is "solo-developed high-volume fiction." We seek to put out a new 10-book season every two years to start, launching a new book very 2 months. In a perfect world (full-time writing), a new season would launch every year with books released monthly. In both cases, there is time for two months off.
 
-- [ ] TODO: [#33](https://github.com/Merovex/stranded-series/issues/33), Create LLC for Merovex
+We are not distracting ourselves with other value propositions, such as speaking, consulting, or other business options like helping other writers.
 
 ## Channels
 
 Channels: How are these propositions promoted, sold and delivered? Why? Is it working? How do you get visibility.
 
-* **Facebook.** Advertising author / Blook via Facebook
-* **Google Ads.** Advertising author / Blook via Google ads.
-* **Amazon Ads.** Advertising books via Amazon ads.
-* **Merovex Website Landing.** Landing Page
-* **Merovex Newsletter/Email.**
-* **Amazon (Site/Kindle/Audible).**
+* [ ] **Facebook.** Advertising author / Book via Facebook
+* [ ] **Google Ads.** Advertising author / Book via Google ads.
+* [ ] **Amazon Ads.** Advertising books via Amazon ads.
+* [ ] **Merovex Website Landing.** Landing Page
+* [ ] **Merovex Newsletter/Email.** Product announcement
+* [ ] **YouTube**
+* [ ] **Amazon (Site/Kindle/Audible).**
 
 ## Audience Relationships
 
-Customer Relationships: How do you interact with the customer through their ‘journey’?
+Customer Relationships: How do you interact with the customer through their journey?
 
-* Newsletter
-* Facebook
-* [ ] Forum - Reddit? (TODO: [#30](https://github.com/Merovex/stranded-series/issues/30), Create sub-reddit?)
+Merovex focuses on maintaining its audience primarily through the Newsletter as this is the only forum where the author has direct access to the list. We leverage Facebook, Reddit and YouTube to connect with the audience member, hoping they will register their email for the newsletter.
+
+* [ ] Newsletter  ([#32], Revise Mailchimp setup)
+* [ ] Facebook Page ([#24], fix FB presence)
+* [ ] Forum - Reddit? ([#30], Create sub-reddit?)
+* [ ] YouTube
 
 ## Revenue Streams
 
@@ -53,55 +63,76 @@ Revenue Streams: How does the business earn revenue from the value propositions?
 - **Printed.** A printed season should also cost $30 as it comprises the equivalent of 3 novels ($29.88)
 - **Audiobook.** Sell [Audible](https://www.acx.com/help/what-s-the-deal/200497690) at the season, making $3 per sale, $6 if I record it myself.
 
-[^reading]: https://www.irisreading.com/what-is-the-average-reading-speed/
-[^listening]: https://findawayvoices.com/pricing/
+Strand does not engage in subscription content services. I do not want to monetize the direct relationship between author and audience so that I can focus on them as people and not dollar signs.
 
 ## Key Activities
 
 What uniquely strategic things does the business do to deliver its proposition?
 
-* Write three seasons
-  - Season One: Discovery
-  - Season Two: ...
-  - Season Three: Strand
-* Publish book electronically & paper
-* Produce Audiobook
-* Blog topics via Vlog or podcast, with transcript on website.
+* Publication
+  * Write Novellas
+  * Publish book electronically & paper
+  * Produce Audiobook
+* Marketing & Outreach
+  * Blog topics via Vlog or podcast, with transcript on website.
+  * Newsletter
+  * Twitch
 
 ## Key Resources
 
 What unique strategic assets must the business have to compete?
 
-* Domain Name
-  - [x] BenWilsonWrites.com
-  - [x] Merovex.com
-  - [x] Dausha.net (deprecate)
-* Website - jekyll, hosted on Github Pages
-* Email
-  - [x] ben@merovex.com
-  - [ ] Redirect ben@benwilsonwrites.com to ben@merovex.com
 * Intellectual Property
   - Novellas
-  - Vlog videos
-  - Podcast
-* [ ] Facebook Page (TODO: [#24](https://github.com/Merovex/stranded-series/issues/24), fix FB presence)
+  - [ ] Vlog videos ([#81], Setup YouTube)
+  - [ ] Podcast ([#82], Setup Podcast)
+* Virtual Assets
+  - Domain Name
+    - BenWilsonWrites.com
+    - Merovex.com
+    - Dausha.net (deprecate)
+  - Website - jekyll, hosted on Github Pages
+  - [ ] YouTube Channel
+  - [ ] Podcast Channel - Wait on this one
+  - Email
+    - ben@merovex.com
+    - [ ] Redirect ben@benwilsonwrites.com to ben@merovex.com
+  - [ ] Facebook Page ([#24], fix FB presence)
+  - Github repository, hosting website, intellectual property.
 
 ## Key Partnerships
 
 What can the company not do so it can focus on its Key Activities?
 
-* Website (Hosting)
-  - [x] Google Domain
-  - [x] Google Cloud (website)
-* Book Production
-  - [ ] Voiceover talent - Create Audiobook / Revenue Sharing (TODO: [#25](https://github.com/Merovex/stranded-series/issues/25), Recruit VO talent)
-  - [ ] Editor - Revise book (TODO: [#9](https://github.com/Merovex/stranded-series/issues/9), Recruit editors)
-  - [ ] Artist - Book cover art (TODO: [#23](https://github.com/Merovex/stranded-series/issues/23), Recruit cover artist)
-* Outreach
-  - [ ] Facebook (TODO: [#24](https://github.com/Merovex/stranded-series/issues/24), fix FB presence)
-  - [ ] Google Ads (TODO: [#27](https://github.com/Merovex/stranded-series/issues/27), Research Google Ads)
-  - [ ] Amazon Ads (TODO: [#26](https://github.com/Merovex/stranded-series/issues/26), Research Amazon Ads)
-  - [ ] Mailchimp (TODO: [#32](https://github.com/Merovex/stranded-series/issues/32), Revise Mailchimp setup)
+* Value Production
+  - [ ] Voiceover talent - Create Audiobook / Revenue Sharing ([#25], Recruit VO talent)
+  - [ ] Editor - Revise book ([#9], Recruit editors)
+  - [ ] Artist - Book cover art ([#23], Recruit cover artist)
+<!-- * Channels & Audience Relationships
+  * Website (Hosting)
+    - Google Domain
+    - Github (website)
+  * Podcast
+    - [] TODO: Develop Podcast Plan
+  * Vlog Production
+    - [ ] YouTube ([#81], Setup YouTube)
+  * Online Presence
+    - [ ] Facebook ([#24], fix FB presence)
+    - [ ] Google Ads ([#27], Research Google Ads)
+    - [ ] Amazon Ads ([#26], Research Amazon Ads)
+    - [ ] Mailchimp ([#32], Revise Mailchimp setup) -->
+
+[#23]: https://github.com/Merovex/stranded-series/issues/23
+[#24]: https://github.com/Merovex/stranded-series/issues/24
+[#25]: https://github.com/Merovex/stranded-series/issues/25
+[#26]: https://github.com/Merovex/stranded-series/issues/26
+[#27]: https://github.com/Merovex/stranded-series/issues/27
+[#30]: https://github.com/Merovex/stranded-series/issues/30
+[#32]: https://github.com/Merovex/stranded-series/issues/32
+[#33]: https://github.com/Merovex/stranded-series/issues/33
+[#9]: https://github.com/Merovex/stranded-series/issues/9
+[#81]: https://github.com/Merovex/stranded-series/issues/81
+[#82]: https://github.com/Merovex/stranded-series/issues/82
 
 ## Cost Structure
 
