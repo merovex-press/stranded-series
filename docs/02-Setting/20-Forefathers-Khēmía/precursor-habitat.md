@@ -32,15 +32,13 @@ Table: Overall Habitat Dimensions
 | Height:| 1 | 10.06m | 33' 0-1/32" or 11yds |
 | Area:  | x | 7.44 hectares | 800,559 sqft or 18.37 acres  |
 
-This provides a three-story/level space.
-* Gravity on the first level is 1.02G
-* Gravity on the second level is 1.0G
-* Gravity on the third level is 0.91G
 
 Table: Habitat Deck Dimensions
 
-| Deck          | Radius (Metric) | Beam |
-| --- |  --- |--- |
-| Ground (Outer) | 93.9m |
-| Medial         | 90.6m // 297' 3-1/4" // 99yds |
-| Top (Inner)    |
+------------------------------------------
+  Deck           Radius   Beam   Gravity
+--------------- -------- ------- ---------
+Ground (Outer)    293.9m  ???.?m     1.02G
+Medial            290.6m  ???.?m     1.00G
+Top (Inner)       ???.?m  ???.?m     0.91G
+------------------------------------------
