@@ -31,7 +31,7 @@ HR (AU)[^hz]           0.0--1.44     0.67--0.97
 
 <!-- 0.00046732617 -->
 
-[^hz]: Habitability calculation provided from Tobias Mueller's calculator. Tobias Mueller. _Habitable Zones in Multiple Star Systems_. http://astro.twam.info/hz/. Accessed February 21, 2020. See also Tobias Mueller. _Calculating the Habitable Zones of Multiple Star Systems with a New Interactive Web Site_. https://iopscience.iop.org/article/10.1088/0004-637X/782/1/26/pdf. 2014. Accessed February 21, 2020.
+[^hz]: Tobias Müller. _Habitable Zones in Multiple Star Systems_. http://astro.twam.info/hz/. Accessed February 21, 2020. Tobias W.A. Müller, Nader Haghighipour. _Calculating the Habitable Zones of Multiple Star Systems with a New Interactive Web Site_. https://iopscience.iop.org/article/10.1088/0004-637X/782/1/26/pdf. 2014. Accessed February 21, 2020.
 
 Table: Elysion Senior Orbits
 
