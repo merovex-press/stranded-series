@@ -1,3 +1,5 @@
+\newpage{}
+
 #### Slipstream Travel
 
 This section discusses the application of faster-than-light (FTL) space travel.

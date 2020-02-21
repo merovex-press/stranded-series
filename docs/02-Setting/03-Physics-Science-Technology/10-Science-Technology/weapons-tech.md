@@ -35,6 +35,8 @@ Table: Accelerated Personal Weapons Development
 * 1819 - The Model 1819 (M1819, AK-47) "Hall Rifle" replaces the BRM-03
 * 1808-17 - Semi-automatic pistols reverse engineered and improved, essentially the boxy Glock is the improved result. -->
 
+\newpage{}
+
 #### Field Artillery
 
 The cannon was quickly replaced by what we would consider modern field artillery.
