@@ -40,7 +40,7 @@ He is spared the noose by a contraption under his arms (butterfly knot), allowin
 <!-- Age -->
 
 **Emotional.**
-Ephram would say he is a <adjective> <noun><!-- Identity -->
+Ephram would say he is a [adjective] [noun]<!-- Identity -->
 <!-- Fear / External Conflict / what believes will reoccur -->
 <!-- Lie / Internal conflict / believes true due to backstory -->
 <!-- Wound / Emotional repercussions-->
