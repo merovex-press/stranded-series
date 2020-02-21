@@ -16,24 +16,18 @@ Table: Elysion Binary Star Details
                   Senior                  Junior
 ------------  ------------------------  --------------------
 Type              G2V                   K1V
+
 Temperature       5790K                 5260K
+
 Luminosity        1.5L<sub>sun</sub>    0.5L<sub>sun</sub>
+
 Mass              1.1M<sub>sun</sub>    0.9M<sub>sun</sub>
+
 Diameter          0.011<sub>AU</sub>    0.008<sub>AU</sub>
                                         (17x <sub>Jupiter</sub>)
 
 HR              .0--1.44<sub>AU</sub>   0.67--0.97<sub>AU</sub>
 ------------------------------------------------------------
-
-<!-- | | Senior | Junior |
-|             ---         |                     ---                     | --- |
-| Type                |  G2V                                    | K1V  |
-| Temperature |  5790K                                | 5260K  |
-| Luminosity    |  1.5L<sub>sun</sub>    | 0.5L<sub>sun</sub>  |
-| Mass                |  1.1M<sub>sun</sub>   | 0.9M<sub>sun</sub>  |
-| Diameter        | 0.011<sub>AU</sub>     | 0.008<sub>AU</sub><br />(17x <sub>Jupiter</sub>) |
-| HR                    | .0--1.44<sub>AU</sub> |  0.67--0.97<sub>AU</sub> | -->
-
 
 <!-- 0.00046732617 -->
 

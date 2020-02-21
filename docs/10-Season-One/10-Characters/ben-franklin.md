@@ -29,6 +29,7 @@ When people first meet him, they notice his (PHYSICAL TRAITS AND PERSONALITY), t
 Because of (TRAGEDY), he needs to prove that (LIE).
 He fears that (FEAR) and will (FLAW / COMPETING) to prevent it.
 
+
 **Summary.**
 One-sentence summary of series from character's perspective.
 One-paragraph expansion in ~8 sentences.
