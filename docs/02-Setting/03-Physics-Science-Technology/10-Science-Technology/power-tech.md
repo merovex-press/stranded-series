@@ -2,8 +2,6 @@
 
 Engine development was slower as it derived from patent research. Dates below indicate when they were commercially available.
 
-\newpage
-
 Table: Timeline of Power Technology Development
 
 -------- ------------------------------------------------------
