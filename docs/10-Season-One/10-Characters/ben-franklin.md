@@ -49,7 +49,7 @@ One-paragraph expansion in ~8 sentences.
 <!-- Age -->
 
 **Emotional.**
-Ben Franklin would say he is a <adjective> <noun><!-- Identity -->
+Ben Franklin would say he is a [adjective] [noun]<!-- Identity -->
 <!-- Fear / External Conflict / what believes will reoccur -->
 <!-- Lie / Internal conflict / believes true due to backstory -->
 <!-- Wound / Emotional repercussions-->
