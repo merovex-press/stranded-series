@@ -28,10 +28,9 @@ Table: Accelerated Personal Weapons Development
 
 <!-- The Tommy Built T36: A Civilian HK G36 (Tom Bostic) -->
 
-\paragraph{Bigg's Rifle.} is an 8-round en-bloc top-fed .308 caliber rifle with an injection molded polycarbonate, glass-filled stock. It has a 40 centimeter (15.75") barrel. It is functionally similar to a cross between the en-bloc clip mechanism of the M1 Garand and the M1A SOCOM 16" form factor.
+**Bigg's Rifle** is an 8-round en-bloc top-fed .308 caliber rifle with an injection molded polycarbonate, glass-filled stock. It has a 45 centimeter (17.7") barrel. It is remarkably similar to the M1 Tanker variant.
 
 **Harper's Ferry Model 1803 (HFM '03 or Aught-3)** is a near-perfect replica of the Bigg's Rifle, but with a walnut stock.
-
 
 <!-- * 1803 - Pennsylvania Toltec Arms, Ltd. (PTA Ltd.) chartered by Jacob Dickert and Martin Meylin Jr. to reverse-engineer & produce Toltec weapons, moved by royal request to Harper's Ferry.
 * 1807 first successful reverse-engineered prototype built
