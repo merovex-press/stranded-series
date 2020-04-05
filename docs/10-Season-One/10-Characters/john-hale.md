@@ -1,28 +1,28 @@
 ---
-name: Ephram Biggs
+name: John Hale
 role: hero
 order: 1
 type: major-character
 season: seasons 3–5; guest season 1; recurring season 2
-actor: James Carpinello
-summary: Ephram Biggs discovers the Toltec Mound, triggering the
+actor: <who would you want to portray him?>
+summary: John Hale investigated the murder on behalf of the Crown, and grew suspicious of Strand. He and John Montresor went to Meadville to learn more.
 ---
 
-### Ephram Biggs
+<!-- Snowflake 3 - Character Summary. Take an hour and write a one-page summary sheet that tells
+* one-sentence summary of character's storyline
+* Secret Desire / Want / Motivation
+* Nobel Quest / Goal (SMART)
+* Epiphany, how the character changes
+* one-paragraph summary of character's storyline
 
-> the mark of the hero is that he represents the values of the community. He is representing the moral vision shared by most people and is someone we root for as a result.
->
-> 1. Moral
-> 2. Lovable
-> 3. Selfless
-> 4. Competent
-> 5. Brave
-> 6. Determination
-> 7. Relatable
-> 8.
+Snowflake 5 - Character Backstory. Take a few hours per character to explore their tragedy and how it propels them forward.
+
+Snowflake 7 - Character Details. Take several hours per character to flesh out the details. -->
+
+### John Hale
 
 **Overview.**
-_Ephram_ is a (DESCRIPTIVE PHRASE).
+John Hale is a (DESCRIPTIVE PHRASE).
 For him, life is a (WORLDVIEW).
 Others say he is best known for (ACCOMPLISHMENT).
 When people first meet him, they notice his (PHYSICAL TRAITS AND PERSONALITY), then they notice that (TRAITS THAT ADD OR CONTRADICTs DOMINANT TRAITS).
@@ -40,8 +40,6 @@ One-paragraph expansion in ~8 sentences.
 <!-- Surprise 3 - Lie Confronted -->
 <!-- Epiphany - Truth Embraced -->
 
-
-
 **Physical.**
 <!-- Defining Characteristic -->
 <!-- Eyes -->
@@ -50,8 +48,10 @@ One-paragraph expansion in ~8 sentences.
 <!-- Style -->
 <!-- Age -->
 
+John Hale had blue eyes, flaxen blond hair, darker eyebrows, and stood slightly taller than average height (of the time), with mental powers of a sedate mind and pious.
+
 **Emotional.**
-Ephram would say he is a [adjective] [noun]<!-- Identity -->
+John Hale would say he is a [adjective] [noun]<!-- Identity -->
 <!-- Fear / External Conflict / what believes will reoccur -->
 <!-- Lie / Internal conflict / believes true due to backstory -->
 <!-- Wound / Emotional repercussions-->
@@ -74,4 +74,4 @@ Ephram would say he is a [adjective] [noun]<!-- Identity -->
 
 **Tragedy.**
 <!-- Rough out the Dark Moment Story, a short-story like _Butcher of Anderson Station_. -->
-One-paragraph summary of Ephram's personal tragedy that fuels his Fear, Lie, Wound, Flaw and Desire.
+One-paragraph summary of John Hale's personal tragedy that fuels his Fear, Lie, Wound, Flaw and Desire.
