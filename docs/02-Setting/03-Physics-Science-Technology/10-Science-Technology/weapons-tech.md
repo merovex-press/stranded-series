@@ -4,6 +4,8 @@
 
 Weapons development in the 19th Century accelerated based on access to working Toltec weapons. Toltecs continued to use slug-throwing weapons, so this accelerates the introduction of semi- and full-automatic weaponry. Based on the Neutrino discoveries, scientists speculate the Toltec withheld their more advanced weaponry from Earth.
 
+<!-- Lean system font reset: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;  -->
+
 #### Personal Weapons
 
 Several weapons were found in the Toltec Indian Mound Temple. Anglo-American first reverse-engineered the actual weapon as the first generation. A second iteration led to improvements.

@@ -1,20 +1,19 @@
 ### 1763-1783: Point of Divergence
 
-> IRL:
-> The period from 1763-83 is pivotal in world history.
-> By 1765, the die was cast for the conflict between Britain and the United States. We can attribute this to a greater sense of governmental autonomy built up within the American Colonies during the French & Indian War and the post-war insistence by Parliament to impose its legislative will.
-> Debate on the Line of Demarcation ended in favor of the line in Fall 1763 when Parliament heard about Pontiac's War.
-> The 1765 Stamp Act incensed the colonists, who were further outraged by The Declaratory Act of 1766.
-> Therefore, remedying this rift is key point of divergence in _Strand_.
+From the Glorious Revolution of 1688 until the end of the Seven Year's War of 1763, a philosophical and political shift occurred both in America and Britain. Americans viewed Locke's Second Treatise of Government as a blueprint for social change. The British viewed it as wasted paper. Benign neglect from the 1720s to 1740s resulted in colonists assuming more control for their affairs. This neglect was shattered during the Seven Year's War, but Americans exploited the crisis with their more sophisticated understanding of politics and emerged from the War largely debt-free and ready to assert its independence. In England, Parliament weakened the Crown's control over politics and the prerogative system, nearly reducing the Crown to a figurehead. George III subverted that trend by taking control of Parliament in the years between his coronation in 1760 and the end of the War in 1763.
 
-* * *
+Saddled with war debt and the need to protect North America, George's Parliament enacted the Sugar Act, which reduced the tax on molasses. Americans rioted and decried this as an intrusion into its home rule. The period known as the American Troubles (1763-67) were pivotal in stabilizing British-American relations and establishing the modern British Commonwealth.
+During the Troubles, Crown and Parliament exploited American internecine jealousies and prejudices to prevent this strain from flaring into mutiny. George recognized the threat to stability and had Parliament invite American colonies to send delegates to negotiate an agreement similar to the earlier home rule "Albany Plan" pitched by Benjamin Franklin in 1755. The Stamp Act of 1765 & Declaratory Act of 1766 never occur. Timelines diverge.[^OTL-American-Troubles]
 
-* [Benjamin Franklin Explains the Stamp Act Protests to Parliament](https://amzn.to/2t9haUE)
-* https://en.wikipedia.org/wiki/Benjamin_Franklin#Political_work_in_London
+[^OTL-American-Troubles]: OTL: The watershed period from 1763-1767 divided America and Britain. The Proclamation in 1763, the Sugar Act in 1764, Stamp Act of 1765 and its repeal / Declaratory Act of 1766 and the Townshend Acts of 1767 progressively strained and broke relations. As cold hostilities turned to hot war, moderates sought to halt the separation until by the 1777 Battle of Saratoga it became clear no reunification was possible.
 
-The Seven Year's War occurs as the fourth intercolonial war between England and France (1756-63). The war progressed as depicted in history. The relationship strain between England and its 13 American continental colonies (The Thirteen or British America) built up with increased taxation. After the Stamp Act was passed and repealed (1765-66), calmer heads prevail. The [Declaratory Act of 1766](https://en.wikipedia.org/wiki/Declaratory_Act) never occurs and we diverge from our timeline.
+<!--
+* [Benjamin Franklin Explains the Stamp Act Protests to Parliament](https://amzn.to/2t9haUE) https://en.wikipedia.org/wiki/Benjamin_Franklin#Political_work_in_London
+* * * -->
 
-In 1766, Parliament invited a delegation from each of The Thirteen to work out differences that included Benjamin Franklin, John Adams and Thomas Jefferson. This extended negotiation (1766-69) blunted Radical demands for independence. However, a splinter from the Sons of Liberty continued the (now unpopular) fight for American Independence. This splinter movement is a key area of conflict in Discovery Season.
+Toltec weaponry thwarted Pontiac's Rebellion in Summer of 1763, which prevented the Declaratory Act from being enacted. Instead, King George sends a full regiment to ensure the Ohio is retained and negotiations for American home rule started.
+
+In 1765, Parliament invited a delegation from each of the mainland colonies to work out differences that included Benjamin Franklin, John Adams and Thomas Jefferson. This extended negotiation (1765-68) blunted Radical demands for independence. However, a splinter from the Sons of Liberty continued the (now unpopular) fight for American Independence. This splinter movement is a key area of conflict in Discovery Season.
 
 These negotiations led to legislation that addressed British North America grievances and allowed both sides of the Atlantic to move forward in a tense harmony.
 
@@ -31,7 +30,14 @@ This disenfranchised French-Canadian residents as their native language was Fren
 
 #### British North America Act of 1771
 
-British North America sought representation in Parliament. The government agreed, providing the colonies restructured. This act transformed the continental colonies to six self-regulated provinces: Canada, New England (some called Camelot), Pennsylvania (includes IRL New York), Virginia (includes Maryland & Delaware), Carolina, & Georgia. This act further gave those provincial governments representation in the Parliament of the United Kingdom. Ohio province is added in 1803, encompassing IRL Northwest Territory United States. Parliament calculated this reorganization of the colonies into provinces would create internal tension that would allow England to retain control.
+British North America sought representation in Parliament. The government agreed, providing the colonies restructured. This act transformed the continental colonies to six self-regulated provinces:
+Canada,
+New England (some called Camelot),
+Pennsylvania (includes IRL New York),
+Virginia (includes Maryland & Delaware),
+Carolina,
+& Georgia.
+This act further gave those provincial governments representation in the Parliament of the United Kingdom. Charlotina province is added in 1803, encompassing IRL Northwest Territory United States. Parliament calculated this reorganization of the colonies into provinces would create internal tension that would allow England to retain control.
 
 This created frustration among the joined colonies (NY, Maryland, Delaware, Rhode Island & Providence Plantations, Connecticut, New Hampshire), especially RI&PP as they sought to be more tolerant religiously than Massachusetts. This is an example of Parliament's intentional friction within the provinces.
 
