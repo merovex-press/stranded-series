@@ -1,7 +1,7 @@
 #### Neutrino Energy
 
 Neutrino energy is a theoretical way of converting the kinetic energy of cosmic into into direct current (DC) electricity.
-The energy is converted by layers a conductive film, silicone film and graphene film. The conductive film comprises silver, gold, copper, gallium or aluminum or one of their alloys, in particular of a silver or gold alloy or an aluminum-gallium alloy. Each film layer is very fine, measured in 100s of nanometers. See Neutrino Power Cube for the scientific application.
+The energy is converted by layers a conductive film, silicone film and graphene film. The conductive film comprises silver, gold, copper, gallium or aluminum or one of their alloys, in particular of a silver or gold alloy or an aluminum-gallium alloy. Each film layer is very fine, measured in 100s of nanometers. See Neutrino Power Cube[@sec:neutrino-power-cube] for the scientific application.
 
 IRL Research:
 
