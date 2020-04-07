@@ -9,6 +9,7 @@ biblio-title: Bibliography
 trimsize: Textbook
 
 # crop: true
+
 toc: true
 lot: true
 links-as-notes: false
