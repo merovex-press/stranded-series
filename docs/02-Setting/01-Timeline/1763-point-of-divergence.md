@@ -15,7 +15,7 @@ During the Troubles,[^2] Crown and Parliament exploited American internecine jea
 * [Benjamin Franklin Explains the Stamp Act Protests to Parliament](https://amzn.to/2t9haUE) https://en.wikipedia.org/wiki/Benjamin_Franklin#Political_work_in_London
 * * * -->
 
-Toltec weaponry thwarted Pontiac's Rebellion in Summer of 1763, which prevented the Declaratory Act from being enacted. Instead, King George sends a full regiment to ensure the Ohio is retained and negotiations for American home rule started.
+Toltec weaponry thwarted Pontiac's Rebellion in Summer of 1763, which prevented the Declaratory Act from being enacted. Instead, King George sends a full regiment to ensure the Ohio is retained and negotiations for American home rule started. REMOVE
 
 In 1765, Parliament invited a delegation from each of the mainland colonies to work out differences that included Benjamin Franklin, John Adams and Thomas Jefferson. This extended negotiation (1765-68) blunted Radical demands for independence. However, a splinter from the Sons of Liberty continued the (now unpopular) fight for American Independence. This splinter movement is a key area of conflict in Discovery Season.
 
