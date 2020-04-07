@@ -9,7 +9,7 @@ version: 2.1
 jobs:
   build:
     docker:
-      - image: merovex/pandoc-book:latest
+      - image: merovex/pandoc-book-compile:latest
     steps:
       - checkout
       - run:
