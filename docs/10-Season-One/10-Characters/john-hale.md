@@ -8,6 +8,7 @@ actor: <who would you want to portray him?>
 summary: John Hale investigated the murder on behalf of the Crown, and grew suspicious of Strand. He and John Montresor went to Meadville to learn more.
 ---
 
+
 <!-- Snowflake 3 - Character Summary. Take an hour and write a one-page summary sheet that tells
 * one-sentence summary of character's storyline
 * Secret Desire / Want / Motivation
