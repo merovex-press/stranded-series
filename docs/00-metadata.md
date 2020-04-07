@@ -4,7 +4,7 @@ subtitle: "The world building guide for the Stranded Series"
 
 # Copyright Information
 rights: Copyright © 2019 Ben Wilson
-biblatex: true
+
 biblio-title: Bibliography
 trimsize: Textbook
 
