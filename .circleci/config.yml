@@ -18,6 +18,7 @@ jobs:
             pandoc-book.rb ${CIRCLE_PROJECT_REPONAME}
             mkdir -p /tmp/builds
             cp -r build/* /tmp/builds
+            
       - run:
           name: Deploy to Github
           command: |
