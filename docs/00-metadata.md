@@ -7,6 +7,7 @@ rights: Copyright © 2019 Ben Wilson
 biblatex: true
 bibliography: ./docs/research.bib
 trimsize: Textbook
+
 # crop: true
 toc: true
 lot: true
