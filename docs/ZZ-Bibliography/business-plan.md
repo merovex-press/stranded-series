@@ -1,7 +1,7 @@
-# Strand Series Business Plan
+# Stranded Series Business Plan
 
 <!-- buisness-plan -->
-The **Strand Series** provides bite-sized, high-volume, through-provoking entertainment to its target audience by releasing serial novellas as books & audiobooks.
+The **Stranded Series** provides bite-sized, high-volume, through-provoking entertainment to its target audience by releasing serial novellas as books & audiobooks.
 Our audience are people who find themselves on the road for longer than a typical commute and want to pass the time.
 We attract & engage with our audience through ads, blogging (written, video, audio), limited social media and newsletter.
 We distribute through Amazon with a pricing structure that optimizes royalties without irritating our audience.
@@ -16,17 +16,41 @@ We distribute through Amazon with a pricing structure that optimizes royalties w
 
 Who are the customers? What do they think? See? Feel? Do?
 
-Strand readers come from a wide background. They like history, are skeptical, but accept diverse values and opinions while retaining their own. They like to wonder what would happen if a few things in the past turned out differently.
+Stranded readers come from a wide background. They like history, are skeptical, but accept diverse values and opinions while retaining their own. They like to wonder what would happen if a few things in the past turned out differently.
 
-1. **White-collar travelers.** Some Strand readers commute, so they want to have short bursts of entertainment that fits in the time spent waiting in the airport or in the air.
-2. **Super-Commuters.** Some Strand readers spend 2 hours a day on commuting. Like white-collar travelers, they are looking for entertainment that fits their travel time.
-2. **Blue-collar truckers.** Some Strand readers are on the road for work. These are truckers who are looking for something to keep them from getting bored for longer periods.
+1. **White-collar travelers.** Some Stranded readers commute, so they want to have short bursts of entertainment that fits in the time spent waiting in the airport or in the air.
+2. **Super-Commuters.** Some Stranded readers spend 2 hours a day on commuting. Like white-collar travelers, they are looking for entertainment that fits their travel time.
+2. **Blue-collar truckers.** Some Stranded readers are on the road for work. These are truckers who are looking for something to keep them from getting bored for longer periods.
+
+## Genres
+
+Stranded is an Alternate/Alternative History genre series. It includes elements of other genres to appeal to different audiences:
+* Political Thriller - set against the backdrop of a political power struggle. They usually involve various extra-legal plots, designed to give political power to someone, while his opponents try to stop him. [@PoliticalThriller2020]
+
+Table: Genre Research
+
+-----------------------------------------------------------------------------------------
+Genre Title           Sales to 1:10   ABSR 1:10  Amazon Category
+-------------------- --------------- ----------- ----------------------------------------
+Alternative History    220:40         405:4530   Science Fiction & Fantasy
+                                                 > Fantasy > Alternative History
+
+Alternate History      220:40         405:4530   Science Fiction & Fantasy
+Science Fiction                                  > Science Fiction > Alternate History
+
+Alternate History      130:30         390:4000   Books > Literature & Fiction >
+                                                 Genre Fiction > Historical Fiction >
+                                                 Alternate History
+
+-----------------------------------------------------------------------------------------
+
+
 
 ## Value Proposition / Business Model
 
 What’s compelling about the proposition? Why do customers buy, use?
 
-Strand provides uplifting serial fiction novellas to satisfy our customer segments' desire for entertainment. Each novella should be short enough to fit in the time a reader / listener is either at the airport, in the air, or in the car. Novellas seasons are long enough to fill a long-hauler's driving week. Being short, we are not competing heavily for their time with other entertainment options. We fill the gap.
+Stranded provides uplifting serial fiction novellas to satisfy our customer segments' desire for entertainment. Each novella should be short enough to fit in the time a reader / listener is either at the airport, in the air, or in the car. Novellas seasons are long enough to fill a long-hauler's driving week. Being short, we are not competing heavily for their time with other entertainment options. We fill the gap.
 
 Our Author business model is "solo-developed high-volume fiction." We seek to put out a new 10-book season every two years to start, launching a new book very 2 months. In a perfect world (full-time writing), a new season would launch every year with books released monthly. In both cases, there is time for two months off.
 
@@ -63,7 +87,7 @@ Revenue Streams: How does the business earn revenue from the value propositions?
 - **Printed.** A printed season should also cost $30 as it comprises the equivalent of 3 novels ($29.88)
 - **Audiobook.** Sell [Audible](https://www.acx.com/help/what-s-the-deal/200497690) at the season, making $3 per sale, $6 if I record it myself.
 
-Strand does not engage in subscription content services. I do not want to monetize the direct relationship between author and audience so that I can focus on them as people and not dollar signs.
+Stranded does not engage in subscription content services. I do not want to monetize the direct relationship between author and audience so that I can focus on them as people and not dollar signs.
 
 ## Key Activities
 
