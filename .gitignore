@@ -3,7 +3,7 @@
 *.glg
 *.gls
 docs/text/images
-xbuild/
+build/
 .token
 tex2pdf.*
 scratch-paper
