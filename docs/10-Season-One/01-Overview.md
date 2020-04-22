@@ -8,7 +8,6 @@ type: season
 
 **Summary.** During the height of tension between the British North America and England, advanced weaponry is found that thwarts Pontiac's Rebellion and leads to a crisis in England & France. T:: Through the season, we learn how to reverse-engineer the weaponry, leading to a significant power shift. E:: France connives to calve America from England, but D:: England & America work to establish home rule for America. C:: The pressure heats up and open revolt and warfare occur between England & France and America puts down a rebellion in its new homeland.
 
-
 <!--
 * **Combat** - The Sons of Liberty forms, hopes to gain access to the Mound and expel Royal forces, the struggle between them leads to [Fort Discovery](https://en.wikipedia.org/wiki/Fort_de_Chartres).
 * **Espionage / Technology** - BIGG's discovers the Mound and weapons, only to lose the secret. British forces use weapons from a Mound's cache during [Pontiac's War](https://en.wikipedia.org/wiki/Pontiac%27s_War) to defeat the Indians.
