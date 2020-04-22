@@ -32,15 +32,40 @@ Table: Overall Habitat Dimensions
 | Height:| 1 | 10.06m | 33' 0-1/32" or 11yds |
 | Area:  | x | 7.44 hectares | 800,559 sqft or 18.37 acres  |
 
-This provides a three-story/level space.
-* Gravity on the first level is 1.02G
-* Gravity on the second level is 1.0G
-* Gravity on the third level is 0.91G
 
 Table: Habitat Deck Dimensions
 
-| Deck          | Radius (Metric) | Beam |
-| --- |  --- |--- |
-| Ground (Outer) | 93.9m |
-| Medial         | 90.6m // 297' 3-1/4" // 99yds |
-| Top (Inner)    |
+------------------------------------------
+  Deck           Radius   Beam   Gravity
+--------------- -------- ------- ---------
+Ground (Outer)    293.9m  ???.?m     1.02G
+Medial            290.6m  ???.?m     1.00G
+Top (Inner)       ???.?m  ???.?m     0.91G
+------------------------------------------
+
+#### Artificial Gravity &  Comfort Criteria
+
+> This section written by Theodore W. Hall.[^theodore-hall] This information would normally be captured in my research. Lightly edited, his narration on the topic was hard to
+
+Artificial gravity is the inertial reaction to the centripetal acceleration that acts on a body in circular motion. Artificial-gravity environments are often characterized in terms of four parameters:
+
+- **Radius** from the center of rotation.
+- **Angular Velocity** or “spin rate.”
+- **Tangential Velocity** or “rim speed.”
+- **Centripetal Acceleration** or “gravity level.”
+
+[^theodore-hall]: Theodore Hall. _SpinCalc_.  https://www.artificial-gravity.com/sw/SpinCalc/#aboutAccessed February 21, 2020.
+
+In orbital habitat design decisions are between artificial gravity and microgravity. Earth gravity is not relevant. Half of all astronauts endure “space adaptation syndrome” that lasts from one to three days when they enter microgravity.[^connors-harrison][^merz] A similar period of adaptation to artificial gravity seems reasonable, considering the substantial health benefits that it offers versus prolonged weightlessness. It may not be necessary to provide immediate perfect “comfort” in artificial gravity, especially in small exploration-class vehicles with select crew. Deliberate architectural design for the unusual conditions of artificial gravity ought to aid adaptation and improve the habitability of the environment.[^hall]
+
+[^hall]: Hall, Theodore W. (2006). Artificial Gravity Visualization, Empathy, and Design (AIAA 2006-7321). 2nd International Space Architecture Symposium (SAS 2006), AIAA Space 2006 Conference & Exposition, San Jose, California, USA, 19-21 September 2006. American Institute of Aeronautics and Astronautics.
+
+[^connors-harrison]: Connors, Mary M.; Harrison, Albert A.; Akins, Faren R. Living Aloft: Human Requirements for Extended Spaceflight (NASA SP-483, p. 35-51). NASA Scientific and Technical Information Branch.
+
+[^merz]: Merz, Beverly (1986 October 17). _The Body Pays a Penalty for Defying the Law of Gravity_. In, Journal of the American Medical Association (vol. 256, no. 15, p. 2040-2041). American Medical Association.
+
+Comfort indicators are based on the following criteria:
+
+**Radius** Because centripetal acceleration – the nominal artificial gravity – is directly proportional to radius, inhabitants will experience a head-to-foot “gravity gradient”. To minimize the gradient, maximize the radius.
+
+**Angular Velocity** The cross-coupling of normal head rotations with the habitat rotation can lead to dizziness and motion sickness. To minimize this cross-coupling, minimize the habitat’s angular velocity.

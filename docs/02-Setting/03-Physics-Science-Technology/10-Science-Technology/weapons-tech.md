@@ -4,6 +4,8 @@
 
 Weapons development in the 19th Century accelerated based on access to working Toltec weapons. Toltecs continued to use slug-throwing weapons, so this accelerates the introduction of semi- and full-automatic weaponry. Based on the Neutrino discoveries, scientists speculate the Toltec withheld their more advanced weaponry from Earth.
 
+<!-- Lean system font reset: "Segoe UI", SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;  -->
+
 #### Personal Weapons
 
 Several weapons were found in the Toltec Indian Mound Temple. Anglo-American first reverse-engineered the actual weapon as the first generation. A second iteration led to improvements.
@@ -26,6 +28,11 @@ Table: Accelerated Personal Weapons Development
             essentially the boxy Glock is the improved result.
 ----------  ------------------------------------------------------------
 
+<!-- The Tommy Built T36: A Civilian HK G36 (Tom Bostic) -->
+
+**Bigg's Rifle** is an 8-round en-bloc top-fed .308 caliber rifle with an injection molded polycarbonate, glass-filled stock. It has a 45 centimeter (17.7") barrel. It is remarkably similar to the M1 Tanker variant.
+
+**Harper's Ferry Model 1803 (HFM '03 or Aught-3)** is a near-perfect replica of the Bigg's Rifle, but with a walnut stock.
 
 <!-- * 1803 - Pennsylvania Toltec Arms, Ltd. (PTA Ltd.) chartered by Jacob Dickert and Martin Meylin Jr. to reverse-engineer & produce Toltec weapons, moved by royal request to Harper's Ferry.
 * 1807 first successful reverse-engineered prototype built
@@ -34,6 +41,8 @@ Table: Accelerated Personal Weapons Development
 * 1815 - PTA Ltd. charter revoked. Crown forms "Harpers Ferry Arsenal" with the same leadership
 * 1819 - The Model 1819 (M1819, AK-47) "Hall Rifle" replaces the BRM-03
 * 1808-17 - Semi-automatic pistols reverse engineered and improved, essentially the boxy Glock is the improved result. -->
+
+\newpage{}
 
 #### Field Artillery
 

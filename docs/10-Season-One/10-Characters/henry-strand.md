@@ -1,5 +1,5 @@
 ---
-name: Ben Franklin
+name: Henry Strand
 role: hero
 order: 1
 type: major-character
@@ -7,6 +7,23 @@ season: seasons 3–5; guest season 1; recurring season 2
 actor: <who would you want to portray him?>
 summary:
 ---
+
+### Henry Strand
+
+**Overview.**
+Bubba is a (DESCRIPTIVE PHRASE).
+For him, life is a (WORLDVIEW).
+Others say he is best known for (ACCOMPLISHMENT).
+When people first meet him, they notice his (PHYSICAL TRAITS AND PERSONALITY), then they notice that (TRAITS THAT ADD OR CONTRADICTs DOMINANT TRAITS).
+Because of (TRAGEDY), he needs to prove that (LIE).
+He fears that (FEAR) and will (FLAW / COMPETING) to prevent it.
+
+Henry Strand (1760-1844) is the brother of David Strand. He attended Yale College after his brother then read law at Litchfield Law School. He moved to Meadville, Crawford County, PA where he set up a law practice. He invested in iron furnaces there and started a local paper. When his brother arrived a few years later, he set him up as foreman for the furnances, unaware of the Bigelow murder. When Hale & Montresor arrive, he grows suspicious, but he helps his brother escape. He then undermines the investigation leaving Hale & Montresor frustrated and deciding to go home.
+
+This is a test of transcription using max default. This is about Henry strand. Capitalize strand. this is a test of transcription using the built-in transcription and the microphone in the LG.
+ this is a test of transcription using the built-in transcription and the microphone in the LG.
+
+**James Maitland** Characer name (Stewart's middle name is Maitland)
 
 <!-- Snowflake 3 - Character Summary. Take an hour and write a one-page summary sheet that tells
 * one-sentence summary of character's storyline
@@ -18,17 +35,6 @@ summary:
 Snowflake 5 - Character Backstory. Take a few hours per character to explore their tragedy and how it propels them forward.
 
 Snowflake 7 - Character Details. Take several hours per character to flesh out the details. -->
-
-### Ben Franklin
-
-**Overview.**
-Ben Franklin is a (DESCRIPTIVE PHRASE).
-For him, life is a (WORLDVIEW).
-Others say he is best known for (ACCOMPLISHMENT).
-When people first meet him, they notice his (PHYSICAL TRAITS AND PERSONALITY), then they notice that (TRAITS THAT ADD OR CONTRADICTs DOMINANT TRAITS).
-Because of (TRAGEDY), he needs to prove that (LIE).
-He fears that (FEAR) and will (FLAW / COMPETING) to prevent it.
-
 
 **Summary.**
 One-sentence summary of series from character's perspective.
@@ -50,7 +56,7 @@ One-paragraph expansion in ~8 sentences.
 <!-- Age -->
 
 **Emotional.**
-Ben Franklin would say he is a [adjective] [noun]<!-- Identity -->
+Bubba would say he is a [adjective] [noun]<!-- Identity -->
 <!-- Fear / External Conflict / what believes will reoccur -->
 <!-- Lie / Internal conflict / believes true due to backstory -->
 <!-- Wound / Emotional repercussions-->
@@ -73,4 +79,4 @@ Ben Franklin would say he is a [adjective] [noun]<!-- Identity -->
 
 **Tragedy.**
 <!-- Rough out the Dark Moment Story, a short-story like _Butcher of Anderson Station_. -->
-One-paragraph summary of Ben Franklin's personal tragedy that fuels his Fear, Lie, Wound, Flaw and Desire.
+One-paragraph summary of Bubba's personal tragedy that fuels his Fear, Lie, Wound, Flaw and Desire.

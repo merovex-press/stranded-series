@@ -12,19 +12,26 @@ Elysol is a binary system comprising Elysol Senior (G2V, primary) and Elysol Jun
 
 Table: Elysion Binary Star Details
 
-| | Senior | Junior |
-|             ---         |                     ---                     | --- |
-| Type                |  G2V                                    | K1V  |
-| Temperature |  5790K                                | 5260K  |
-| Luminosity    |  1.5L<sub>sun</sub>    | 0.5L<sub>sun</sub>  |
-| Mass                |  1.1M<sub>sun</sub>   | 0.9M<sub>sun</sub>  |
-| Diameter        | 0.011<sub>AU</sub>     | 0.008<sub>AU</sub><br>(17x <sub>Jupiter</sub>) |
-| HR                    | .0--1.44<sub>AU</sub> |  0.67--0.97<sub>AU</sub> |
+--------------------------------------------------------------
+                       Senior        Junior
+-------------------  ------------  ----------------------------
+Type                   G2V           K1V
 
+Temperature            5790K         5260K
+
+Luminosity (solar)     1.5L          0.5L
+
+Mass (solar)           1.1M          0.9M
+
+Diameter (AU)          0.011         0.008
+                                     (17x <sub>Jovian</sub>)
+
+HR (AU)[^hz]           0.0--1.44     0.67--0.97
+--------------------------------------------------------------
 
 <!-- 0.00046732617 -->
 
-Note: Habitability calculation provided from [Tobias Mueller's calculator](http://astro.twam.info/hz/) based on data frim [Müller & Haghighipour (2014)](http://dx.doi.org/10.1088/0004-637X/782/1/26)
+[^hz]: Tobias Müller. _Habitable Zones in Multiple Star Systems_. http://astro.twam.info/hz/. Accessed February 21, 2020. Tobias W.A. Müller, Nader Haghighipour. _Calculating the Habitable Zones of Multiple Star Systems with a New Interactive Web Site_. https://iopscience.iop.org/article/10.1088/0004-637X/782/1/26/pdf. 2014. Accessed February 21, 2020.
 
 Table: Elysion Senior Orbits
 
