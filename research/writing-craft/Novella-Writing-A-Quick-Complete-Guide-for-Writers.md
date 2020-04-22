@@ -7,7 +7,7 @@ Ever since I published my first novella, my love of the form has only grown. I�
 
 ## A Suitably Brief History of the Novella
 
-Novellas (despite what their name might suggest) are nothing new. In fact, it might surprise you to find out that novellas predate novels by at least a century. The OED cites the first use of “novelle” in reference to the short tales that make up Boccaccio’s *Decameron*. While *The Decameron* isn’t a novella in the modern sense, it’s interesting to note that the practice of bringing together shorter pieces to form a larger, unified work is still common practice.
+Novellas (despite what their name might suggest) are nothing new. In fact, it might surprize you to find out that novellas predate novels by at least a century. The OED cites the first use of “novelle” in reference to the short tales that make up Boccaccio’s *Decameron*. While *The Decameron* isn’t a novella in the modern sense, it’s interesting to note that the practice of bringing together shorter pieces to form a larger, unified work is still common practice.
 
 Although novels have become something of a publishing standard – it seems everyone has one in them – novellas, which are easier to construct, more versatile, and suited to many different styles of storytelling, haven’t received as much recognition. Let’s change that!
 
@@ -31,9 +31,9 @@ Novellas are also a popular choice for genre fiction, and I imagine that if you�
 
 Estimates vary, of course, but a novella is usually anywhere between **10,000 to 50,000 words long**. However, novels for younger audiences often run shorter, so 50,000 words may be nearer to a full-length novel in certain markets.
 
-Some awards also have their own word count criteria for novellas, as well as an additional category between short stories and novellas termed, “novelettes”. For example, [The Hugo Awards](https://www.thehugoawards.org/) and [Nebula Awards](https://nebulas.sfwa.org/) categorise novellas as between 17,500 and 40,000 words, and novelettes as between 7,500 and 17,500 words.
+Some awards also have their own word count criteria for novellas, as well as an additional category between short stories and novellas termed, “novelettes”. For example, [The Hugo Awards](https://www.thehugoawards.org/) and [Nebula Awards](https://nebulas.sfwa.org/) categorize novellas as between 17,500 and 40,000 words, and novelettes as between 7,500 and 17,500 words.
 
-Novellas are sometimes compared to films, and I think the comparison is an apt one. If we assume that 15,000 words takes approximately an hour to read, then a 30,000-word novella can be read in about as much time as it takes to watch a film. Hence, a novella usually covers a similar number of scenes and events. A novel is too large a structure to visualise all at once, but films and novellas are more manageable. Ian McEwan makes the point that [this is also appealing to readers](https://www.telegraph.co.uk/culture/books/booknews/9608935/Ian-McEwan-claims-the-novella-is-better-than-the-novel.html).
+Novellas are sometimes compared to films, and I think the comparison is an apt one. If we assume that 15,000 words takes approximately an hour to read, then a 30,000-word novella can be read in about as much time as it takes to watch a film. Hence, a novella usually covers a similar number of scenes and events. A novel is too large a structure to visualize all at once, but films and novellas are more manageable. Ian McEwan makes the point that [this is also appealing to readers](https://www.telegraph.co.uk/culture/books/booknews/9608935/Ian-McEwan-claims-the-novella-is-better-than-the-novel.html).
 
 Despite their contracted size, novellas can tell the exact same story as a novel. Novels include a lot of extra detail that isn’t strictly necessary to the narrative, but that work to build a deeper relationship with the reader (by drawing them in, convincing them to invest more time, attention, interest, etc.). However, we can’t ignore the fact that the novella also needs to build this relationship, and it has a tougher job because it has less time and space within which to do so.
 
@@ -67,7 +67,7 @@ If you’re struggling with finishing your novel (and believe me, [I’ve been t
 Here’s how you can quickly determine if your novel will work as a novella…
 
 1. Make sure a novella is the right choice for you (see previous section).
-2. Go through your (unfinished) manuscript and summarise the scenes you’ve already written. You might want to use [this novel spreadsheet](https://www.eadeverell.com/the-one-page-novel-plot-formula/) to help you.
+2. Go through your (unfinished) manuscript and summarize the scenes you’ve already written. You might want to use [this novel spreadsheet](https://www.eadeverell.com/the-one-page-novel-plot-formula/) to help you.
 3. Use the *Scene Charger* worksheet in the One Page Novel Workbook (which you can download free in the [Coterie library](https://www.eadeverell.com/join)) to find the scenes that score highest. Pay particular attention to scenes that score (relatively) high on story development.
 4. Go through the scenes that fall below your pass score and make a list of all of the information that they present. The aim is to delete these scenes and integrate the information into your stronger scenes as you write.
 5. If this process hasn’t shortened your manuscript enough, then find any diversions, tangents or subplots that aren’t essential to story development, and repeat step 4.
@@ -105,7 +105,7 @@ Here is a brief overview of how you might use the One Page Novel plot formula to
 
 **7. POWER** The Power is the counterpart of the Quest. It acts in reverse and extracts the character from the world of adventure. This is where the character truly understands that they’ve had the power to change into their Resolution state all along. They make the change and fulfil their original or altered Quest goal.
 
-**4. BOLT** The Bolt is the “bolt from the blue” that derails the (already weak) Quest plan. This could, for example, be the point at which a shapeshifter’s betrayal is discovered, or when the allies realise that they’ve critically misjudged their opposition. It can also take the form of a diversion or delay that takes the character’s focus away from making progress on the Quest.
+**4. BOLT** The Bolt is the “bolt from the blue” that derails the (already weak) Quest plan. This could, for example, be the point at which a shapeshifter’s betrayal is discovered, or when the allies realize that they’ve critically misjudged their opposition. It can also take the form of a diversion or delay that takes the character’s focus away from making progress on the Quest.
 
 **6. DEFEAT** The Defeat is the moment when all hope is lost. The Quest plan that faltered in the Bolt has now completely fallen apart. The Defeat follows on from the Shift, and often involves an essential sacrifice that the character must make in order to attain their Resolution state.
 

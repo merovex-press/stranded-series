@@ -35,7 +35,7 @@ What I am writing is not related to [Gaslamp Fantasy](https://tvtropes.org/pmwik
 
 ### Technology
 
-* [TV Trope: Alternate Techline](https://www.notion.so/merovex/Alternate-Techline-TV-Tropes-ae7af13861774832abc9e8f0976d526b)
+* [TV Trope: Alternate Techline](https://www.notion.so/merovex/Alternate-Techline-TV-Tropes-ae7af13861774832abc9e8f0976d526b) That we have jumped the technology tree.
 * [TV Trope: Schizo Tech](https://www.notion.so/merovex/Schizo-Tech-TV-Tropes-3a7e59d59f9f4d55a956c8f150683756) Anachronism Stew done to invoke Rule of Cool.
   - This hits the nail on the head in terms of having wildly diverging tech due to ...
   - (Stranded is Schizo Tech.)
@@ -44,8 +44,7 @@ What I am writing is not related to [Gaslamp Fantasy](https://tvtropes.org/pmwik
 * [TV Tropes: Lost Technology](https://tvtropes.org/pmwiki/pmwiki.php/Main/LostTechnology)
 * [TV Tropes: Low Culture High Tech](https://tvtropes.org/pmwiki/pmwiki.php/Main/LowCultureHighTech) Society uses technology far in advance of their scientific and cultural knowledge
 * [TV Tropes: ET Gave us WiFi](https://tvtropes.org/pmwiki/pmwiki.php/Main/ETGaveUsWifi) Commonplace technology came from reverse-engineered alien tech.
-* [TV Tropes: Archaeological Arms Race](https://tvtropes.org/pmwiki/pmwiki.php/Main/ArchaeologicalArmsRace) An arms race involving the use of Lost Technology from past civilizations.
-  - Caused when other empires learn of how the tech was discovered.
+* [TV Tropes: Archaeological Arms Race](https://tvtropes.org/pmwiki/pmwiki.php/Main/ArchaeologicalArmsRace) An arms race involving the use of Lost Technology from past civilizations. **Caused when other empires learn of how the tech was discovered.**
 * [TV Tropes: Precursors](https://tvtropes.org/pmwiki/pmwiki.php/Main/Precursors) The mysterious culture that came before us, but
 * [TV Tropes: Advanced Ancient Humans](https://tvtropes.org/pmwiki/pmwiki.php/Main/AdvancedAncientHumans) Humans had an advanced technological society long before our current one.
 
@@ -64,6 +63,7 @@ What I am writing is not related to [Gaslamp Fantasy](https://tvtropes.org/pmwik
 
 ### Writer's Digest
 > While no specific elements of steampunk are absolutely essential, there is a generally understood group of features, at least some of which should be included for a work to be recognized as steampunk:
+>
 > * A story set within a world using a real or imagined version of the technology of the 19th century
 > * Technology and devices driven by steam power or counterweighted clockwork
 > * Victorian-era class and economic structures

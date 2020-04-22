@@ -1,4 +1,5 @@
-## Stranded Series Business Plan
+\newpage{}
+## Business Plan
 
 <!-- buisness-plan -->
 The **Stranded Series** provides bite-sized, high-volume, through-provoking entertainment to its target audience by releasing serial novellas as books & audiobooks.
@@ -14,7 +15,7 @@ We distribute through Amazon with a pricing structure that optimizes royalties w
 
 ### Audience / Customer Segments
 
-Who are the customers? What do they think? See? Feel? Do?
+<!-- Who are the customers? What do they think? See? Feel? Do? -->
 
 Stranded readers come from a wide background. They like history, are skeptical, but accept diverse values and opinions while retaining their own. They like to wonder what would happen if a few things in the past turned out differently.
 
@@ -24,8 +25,7 @@ Stranded readers come from a wide background. They like history, are skeptical, 
 
 ### Genres
 
-Stranded is an Alternate/Alternative History genre series. It includes elements of other genres to appeal to different audiences:
-* Political Thriller - set against the backdrop of a political power struggle. They usually involve various extra-legal plots, designed to give political power to someone, while his opponents try to stop him. Political corruption, terrorism, and warfare are common themes.  [@PoliticalThriller2020]
+Stranded is an Alternate/Alternative History genre series. The Genre Research table below shows there are three genre keyword paths that all point to the same best-seller list. Stranded is a political thriller (set against the backdrop of a political power struggle. They usually involve various extra-legal plots, designed to give political power to someone, while his opponents try to stop him. Political corruption, terrorism, and warfare are common themes).  [@PoliticalThriller2020]
 
 Table: Genre Research
 
@@ -33,13 +33,14 @@ Table: Genre Research
 Genre Title           Sales to 1:10   ABSR 1:10  Amazon Category
 -------------------- --------------- ----------- ----------------------------------------
 Alternative History    220:40         405:4530   Science Fiction & Fantasy
-                                                 > Fantasy > Alternative History
+                                                 > **Fantasy** > Alternative History
 
 Alternate History      220:40         405:4530   Science Fiction & Fantasy
-Science Fiction                                  > Science Fiction > Alternate History
+Science Fiction                                  > **Science Fiction**
+                                                 > Alternate History
 
 Alternate History      130:30         390:4000   Books > Literature & Fiction >
-                                                 Genre Fiction > Historical Fiction >
+                                                 Genre Fiction > **Historical Fiction** >
                                                  Alternate History
 
 -----------------------------------------------------------------------------------------
