@@ -6,7 +6,24 @@ type: season
 
 # Season One - Discovery / Pearl of Great Price
 
-**Summary.** During the height of tension between the British North America and England, advanced weaponry is found that thwarts Pontiac's Rebellion and leads to a crisis in England & France. T:: Through the season, we learn how to reverse-engineer the weaponry, leading to a significant power shift. E:: France connives to calve America from England, but D:: England & America work to establish home rule for America. C:: The pressure heats up and open revolt and warfare occur between England & France and America puts down a rebellion in its new homeland.
+**Summary.** During the height of tension between the British North America and England, advanced weaponry is found that thwarts Pontiac's Rebellion and leads to a crisis in England & France.
+T:: Through the season, we learn how to reverse-engineer the weaponry, leading to a significant power shift in Europe.
+E:: France connives to calve America from England, but
+D:: England & America work to establish home rule for America.
+C:: The pressure heats up and open revolt and warfare occur between England & France and America puts down a rebellion in its new homeland.
+```Need to account for the indians```
+
+* Jeffrey Boydell
+* Warren Sexey
+* Brock Walston
+* Barrett Waltham
+* Chester O'brein
+* David Rakestrow
+* Mortimer Reece
+* Dorian Mabbott
+* Solomon Sharpe
+* Adair Winsland
+* Rueben Courtney
 
 <!--
 * **Combat** - The Sons of Liberty forms, hopes to gain access to the Mound and expel Royal forces, the struggle between them leads to [Fort Discovery](https://en.wikipedia.org/wiki/Fort_de_Chartres).
@@ -23,7 +40,7 @@ type: season
 ## Synopsis
 
 **0101---Fort Discovery.** <!-- Episode 1 T:: During the height of tension between the British North American colonies and England, a son of Liberty discovers a trove of advanced technology. C:: Pontiac's Rebellion thwarted, D:: England terrified. E:: France sees an opportunity. -->
-Ephraim George BIGGS is a rebel on the run from HIM a UK bounty-hunter (HUNTER). He fled into the Ohio to escape hanging when he, now also pursued by the Iroquois, falls into a Toltec Mound and discovers advanced weaponry. He smuggles some weapons back and contacts rebels in Philadelphia only to be betrayed by a mole. He is bound for the noose when Pontiac's Rebellion induces him to surrender the mound's location. The militia lifts the siege of Fort Pitt using the advanced weapons; news of which hits the Courts of Europe by storm.
+Ephraim George BIGGS is a rebel Son of Liberty on the run from HIM a UK bounty-hunter MORTIMER REECE. Biggs fled into the Ohio to escape hanging when he, now also pursued by the IROQUOIS, falls into a TOLTEC Mound and discovers ADVANCED WEAPONRY. He smuggles some weapons back and contacts rebels in Philadelphia only to be betrayed by a mole SOLOMON SHARPE. He is bound for the noose when Pontiac's Rebellion [@PontiacWar2020] induces him to surrender the mound's location. The militia lifts the siege of Fort Pitt using the advanced weapons; news of which hits the Courts of Europe by storm.
 
 <!-- . He is then chased by the Iroquois, when he falls into a Toltec mound. The Iroquois don't follow out of fear of the holy site? He discovers the tech, and decides this is a way to get rid of the English. He gets back to civilization and contacts his rebel friends, but is betrayed when that friend turned out to be an English spy. He is returned to be executed by firing squad, but not before sharing the location with a fellow rebel (overheard). -->
 
