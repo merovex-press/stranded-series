@@ -52,24 +52,24 @@ The militia lifts the siege of Fort Pitt using the advanced weapons; news of whi
 
 ### Synopsis
 
-Prolog: The Iroquois under KARIWASE capture & kill a trapper asleep in his camp, announcing the global threat.
+**Prolog:** The Iroquois under KARIWASE capture & kill a trapper asleep in his camp, announcing the global threat.
 
-Ephraim George BIGGS is a rebel Son of Liberty on the run from HIM a UK bounty-hunter MORTIMER REECE. He shows up at his brother's house in the rain looking for refuge, but his brother (ever the lawyer) finds out why and sends him away (he repairs Jeff's son's toy, showing him as a tinkerer). He goes to another town and gets hired as a smith who comments on his breeding, hands, and disrespect for civil authority.
+**Act 1:** Ephraim George BIGGS is a rebel Son of Liberty on the run from HIM a UK bounty-hunter MORTIMER REECE. He shows up at his brother's house in the rain looking for refuge, but his brother (ever the lawyer) finds out why and sends him away (he repairs Jeff's son's toy, showing him as a tinkerer). He goes to another town and gets hired as a smith who comments on his breeding, hands, and disrespect for civil authority.
 Meanwhile, Reece shows up at Jeff's house on the trail, but Jeff avoids giving up his brother; but Reece learned that Ephraim was trained as a smith. He has his men comb the countryside looking for towns with new smiths.
 This leads to Reece finding Ephraim under an assumed name, when a fight breaks out and Ephraim flees into the wilderness. But, Reece pursues, with Ephraim's capture.
 The Iroquois under Kariwase pick up on the pursuit and hunt them, resulting in a firefight that lets Ephraim escape (shoeless).
 Ephraim flees wounded & pursued by the Iroquois, when he falls into the TEMPLE unconscious. Reece and team get split during the fog of war, with a third rejoining with Reece & beating a retreat to civilization.
 When Ephraim comes to, he is able to start a small fire for light, letting him find material to dress his wound. He explores the temple and discovers the rifle ala Conan the Barbarian. He experiments with it until he accidentally fires it. His continued exploration leads him to a larger space, an artificial light (the lightening bug), and a trove of weapons and ammunition.
 
-Excited by the prospects, Ephraim decides to take a few toys to Philadelphia to the Sons of Liberty. But, he first has to escape the Iroquois party. He finds a way out of the Temple, but the pursuit resumes when he gives away his position. He shoots the hunting party killing the five of them in rapid succession. Rather than run, he loots the bodies for shoes and uses their arrows to conceal the wounds. With a makeshift sled, he pulls out his samples and heads to Philadelphia.
+**Act 2:** Excited by the prospects, Ephraim decides to take a few toys to Philadelphia to the Sons of Liberty. But, he first has to escape the Iroquois party. He finds a way out of the Temple, but the pursuit resumes when he gives away his position. He shoots the hunting party killing the five of them in rapid succession. Rather than run, he loots the bodies for shoes and uses their arrows to conceal the wounds. With a makeshift sled, he pulls out his samples and heads to Philadelphia.
 
 Ephraim discovers weapons and experiments with a few, using one he is familiar with to fight off the indians and escape. Meanwhile, negotiations in England reveal the friction between the American desire for greater representation and English prejudice & contempt.
 
 He smuggles some weapons back and contacts rebels in Philadelphia only to be betrayed by a mole SOLOMON SHARPE.
 
-He is bound for the noose when Pontiac's Rebellion [@PontiacWar2020] induces him to surrender the mound's location.
+**Act 3:** He is bound for the noose when Pontiac's Rebellion [@PontiacWar2020] induces him to surrender the mound's location.
 
-The militia lifts the siege of Fort Pitt using the advanced weapons; news of which hits the Courts of Europe by storm.
+**Act 4:** The militia lifts the siege of Fort Pitt using the advanced weapons; news of which hits the Courts of Europe by storm.
 
 ### Old Synopsis
 
@@ -79,10 +79,7 @@ He smuggles some weapons back and contacts rebels in Philadelphia only to be bet
 He is bound for the noose when Pontiac's Rebellion induces him to surrender the mound's location.
 The militia lifts the siege of Fort Pitt using the advanced weapons; news of which hits the Courts of Europe by storm.
 
-
-
-. He is then chased by the Iroquois, when he falls into a Toltec mound. The Iroquois don't follow out of fear of the holy site? He discovers the tech, and decides this is a way to get rid of the English. He gets back to civilization and contacts his rebel friends, but is betrayed when that friend turned out to be an English spy. He is returned to be executed by firing squad, but not before sharing the location with a fellow rebel (overheard). -->
-
+He is then chased by the Iroquois, when he falls into a Toltec mound. The Iroquois don't follow out of fear of the holy site? He discovers the tech, and decides this is a way to get rid of the English. He gets back to civilization and contacts his rebel friends, but is betrayed when that friend turned out to be an English spy. He is returned to be executed by firing squad, but not before sharing the location with a fellow rebel (overheard). -->
 
 BIGGS is a rebel fleeing BOUNTYHUNTER by running into the Ohio. When he is wounded by INDIANS during Pontiac's War, he hides in the Toltec Mound.
 
