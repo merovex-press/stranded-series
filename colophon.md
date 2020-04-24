@@ -7,10 +7,10 @@ This series uses the software industry [Continuous Delivery](https://en.wikipedi
 In order to try to put some structure to my commits, I add the following "types" to commit messages using the format `<type>(<scope>): <subject>`.
 
 1. **docs**: Shows progress in supporting materials (e.g. README, series bible, etc.)
-5. **learn**: Capturing research work
-1. **tidy**: Shows formatting, organization or other fixes that are otherwise immaterial.
-3. **tool**: Shows improvement in toolchain
-4. **typo**: Shows a correction to any work (whether for publication or not.)
+2. **learn**: Capturing research work
+3. **tidy**: Shows formatting, organization or other fixes that are otherwise immaterial.
+4. **tool**: Shows improvement in toolchain
+5. **typo**: Shows a correction to any work (whether for publication or not.)
 6. **wip**: Shows forward progress in a for-publication work
 
 * https://github.com/toolmantim/release-drafter#readme
