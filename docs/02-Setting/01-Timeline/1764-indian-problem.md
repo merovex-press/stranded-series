@@ -4,7 +4,7 @@ At the end of the Seven Year's War, an estimated 4.5 million Indians lived in No
 
 The home rule negotiation led to establishing new colonies in Indian territory. Those colonies were expected to become provinces when full British sovereignty was exerted and Englishmen were comfortable "in their hearths and homes." Americans agreed to fund British Army operations to secure settlers in those areas and accelerate this effort. They also formed local militia that operated under Army authority. Mississippi colony welcomed a higher number of British military veterans, leading to a strong military tradition in that region.
 
-**This is too American. The British would have handled it like they did India.**
+**This is too American. The British would have handled it like they did India. See [@keay1995honourable]**
 
 This agreement did not sit well with the Indians, who continued to harass settlers. The 1768 Stanwix and Hard Labour treaties ceded control from some indians, but not all. War flared up in 1774 and continued through 1782.[^indian-war-1770s] The role of the French led to renewed hostilities between France and England before France was ready. This led to a hot war between the two sides from 1778 to 1783.
 

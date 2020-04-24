@@ -3,7 +3,7 @@
 ### Overview
 
 <!-- format-overview -->
-**Stranded** is a novella series broken down into seasons. Each season comprises 10 novellas as "chapters." This follows the [UK drama](https://tvtropes.org/pmwiki/pmwiki.php/Main/BritishBrevity) or [Anime](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwelveEpisodeAnime) series season length. (See [research](research/season-episode.md))
+**Stranded** is a novella series broken down into seasons. Each season comprises 8--10 novellas as "chapters." This follows the [UK drama](https://tvtropes.org/pmwiki/pmwiki.php/Main/BritishBrevity) or [Anime](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwelveEpisodeAnime) series season length. (See [research](research/season-episode.md))
 
 **Pattern.** Seasons follow three intertwined storylines: combat, espionage/technology and diplomacy.
 

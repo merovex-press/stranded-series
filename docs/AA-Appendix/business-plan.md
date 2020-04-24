@@ -1,4 +1,5 @@
-# Stranded Series Business Plan
+\newpage{}
+## Business Plan
 
 <!-- buisness-plan -->
 The **Stranded Series** provides bite-sized, high-volume, through-provoking entertainment to its target audience by releasing serial novellas as books & audiobooks.
@@ -12,9 +13,9 @@ We distribute through Amazon with a pricing structure that optimizes royalties w
 
 <!-- [Business Model Canvas guide](https://www.alexandercowan.com/business-model-canvas-templates/) -->
 
-## Audience / Customer Segments
+### Audience / Customer Segments
 
-Who are the customers? What do they think? See? Feel? Do?
+<!-- Who are the customers? What do they think? See? Feel? Do? -->
 
 Stranded readers come from a wide background. They like history, are skeptical, but accept diverse values and opinions while retaining their own. They like to wonder what would happen if a few things in the past turned out differently.
 
@@ -22,10 +23,9 @@ Stranded readers come from a wide background. They like history, are skeptical, 
 2. **Super-Commuters.** Some Stranded readers spend 2 hours a day on commuting. Like white-collar travelers, they are looking for entertainment that fits their travel time.
 2. **Blue-collar truckers.** Some Stranded readers are on the road for work. These are truckers who are looking for something to keep them from getting bored for longer periods.
 
-## Genres
+### Genres
 
-Stranded is an Alternate/Alternative History genre series. It includes elements of other genres to appeal to different audiences:
-* Political Thriller - set against the backdrop of a political power struggle. They usually involve various extra-legal plots, designed to give political power to someone, while his opponents try to stop him. [@PoliticalThriller2020]
+Stranded is an Alternate/Alternative History genre series. The Genre Research table below shows there are three genre keyword paths that all point to the same best-seller list. Stranded is a political thriller (set against the backdrop of a political power struggle. They usually involve various extra-legal plots, designed to give political power to someone, while his opponents try to stop him. Political corruption, terrorism, and warfare are common themes).  [@PoliticalThriller2020]
 
 Table: Genre Research
 
@@ -33,20 +33,21 @@ Table: Genre Research
 Genre Title           Sales to 1:10   ABSR 1:10  Amazon Category
 -------------------- --------------- ----------- ----------------------------------------
 Alternative History    220:40         405:4530   Science Fiction & Fantasy
-                                                 > Fantasy > Alternative History
+                                                 > **Fantasy** > Alternative History
 
 Alternate History      220:40         405:4530   Science Fiction & Fantasy
-Science Fiction                                  > Science Fiction > Alternate History
+Science Fiction                                  > **Science Fiction**
+                                                 > Alternate History
 
 Alternate History      130:30         390:4000   Books > Literature & Fiction >
-                                                 Genre Fiction > Historical Fiction >
+                                                 Genre Fiction > **Historical Fiction** >
                                                  Alternate History
 
 -----------------------------------------------------------------------------------------
 
 
 
-## Value Proposition / Business Model
+### Value Proposition / Business Model
 
 What’s compelling about the proposition? Why do customers buy, use?
 
@@ -56,7 +57,7 @@ Our Author business model is "solo-developed high-volume fiction." We seek to pu
 
 We are not distracting ourselves with other value propositions, such as speaking, consulting, or other business options like helping other writers.
 
-## Channels
+### Channels
 
 Channels: How are these propositions promoted, sold and delivered? Why? Is it working? How do you get visibility.
 
@@ -68,7 +69,7 @@ Channels: How are these propositions promoted, sold and delivered? Why? Is it wo
 * [ ] **YouTube**
 * [ ] **Amazon (Site/Kindle/Audible).**
 
-## Audience Relationships
+### Audience Relationships
 
 Customer Relationships: How do you interact with the customer through their journey?
 
@@ -79,7 +80,7 @@ Merovex focuses on maintaining its audience primarily through the Newsletter as 
 * [ ] Forum - Reddit? ([#30], Create sub-reddit?)
 * [ ] YouTube
 
-## Revenue Streams
+### Revenue Streams
 
 Revenue Streams: How does the business earn revenue from the value propositions?
 
@@ -89,7 +90,7 @@ Revenue Streams: How does the business earn revenue from the value propositions?
 
 Stranded does not engage in subscription content services. I do not want to monetize the direct relationship between author and audience so that I can focus on them as people and not dollar signs.
 
-## Key Activities
+### Key Activities
 
 What uniquely strategic things does the business do to deliver its proposition?
 
@@ -102,7 +103,7 @@ What uniquely strategic things does the business do to deliver its proposition?
   * Newsletter
   * Twitch
 
-## Key Resources
+### Key Resources
 
 What unique strategic assets must the business have to compete?
 
@@ -124,7 +125,7 @@ What unique strategic assets must the business have to compete?
   - [ ] Facebook Page ([#24], fix FB presence)
   - Github repository, hosting website, intellectual property.
 
-## Key Partnerships
+### Key Partnerships
 
 What can the company not do so it can focus on its Key Activities?
 
@@ -158,7 +159,7 @@ What can the company not do so it can focus on its Key Activities?
 [#81]: https://github.com/Merovex/stranded-series/issues/81
 [#82]: https://github.com/Merovex/stranded-series/issues/82
 
-## Cost Structure
+### Cost Structure
 
 What are the business’ major cost drivers? How are they linked to revenue?
 

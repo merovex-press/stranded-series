@@ -1,3 +1,9 @@
+---
+order: 2
+summary: The second season focuses on Albert trying to earn the trust of the rebels after supporting the monarch, but ultimately deciding to find a way to escape again. Meanwhile...
+type: season
+---
+
 # Season Two - Exploration
 
 **Summary.**
