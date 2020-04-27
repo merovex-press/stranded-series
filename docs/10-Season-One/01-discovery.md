@@ -17,7 +17,7 @@ Story: Ephraim killed a British officer and was found guilty, only to escape and
 
 **Jeffry Biggs** is Ephraim's Loyalist brother, who only wants to grow his legal business by moving to the edge of society. His goal is to be left alone and stay neutral, but is confronted with his brother's need for help. He realizes that he can be involved without taking sides, if only to save his brother.
 
-Story: Jeff is a small-town lawyer who prefers the outskirts of society. He argues with his brother, but when Mortimer seeks to find Ephraim he choses to remain mute. When Ephraim is captured, Jeffrey goes to defend him only to realize the sentence was already set (unfair!) and that all that remains is for Ephraim to be hanged. When Pontiac's seige of Ft. Pitt is known, he persuades Ephraim to surrender the weapons to the authorities on promise of clemency.
+Story: Jeff is a small-town lawyer who prefers the outskirts of society. He argues with his brother, but when Mortimer seeks to find Ephraim he choses to remain mute. When Ephraim is captured, Jeffry goes to defend him only to realize the sentence was already set (unfair!) and that all that remains is for Ephraim to be hanged. When Pontiac's seige of Ft. Pitt is known, he persuades Ephraim to surrender the weapons to the authorities on promise of clemency.
 
 **Mortimer Reece** is a bounty-hunter who only wants to serve his country. His goal is to capture Ephraim Biggs and bring him to justice for an alleged murder and treason. He is confronted with Biggs' discovery of advanced weapons and Pontiac's Rebellion, and realizes that these advanced weapons are a godsend for the British.
 
@@ -54,22 +54,32 @@ The militia lifts the siege of Fort Pitt using the advanced weapons; news of whi
 
 **Prolog:** The Iroquois under KARIWASE capture & kill a trapper asleep in his camp, announcing the global threat.
 
-**Act 1:** Ephraim George BIGGS is a rebel Son of Liberty on the run from HIM a UK bounty-hunter MORTIMER REECE. He shows up at his brother's house in the rain looking for refuge, but his brother (ever the lawyer) finds out why and sends him away (he repairs Jeff's son's toy, showing him as a tinkerer). He goes to another town and gets hired as a smith who comments on his breeding, hands, and disrespect for civil authority.
-Meanwhile, Reece shows up at Jeff's house on the trail, but Jeff avoids giving up his brother; but Reece learned that Ephraim was trained as a smith. He has his men comb the countryside looking for towns with new smiths.
-This leads to Reece finding Ephraim under an assumed name, when a fight breaks out and Ephraim flees into the wilderness. But, Reece pursues, with Ephraim's capture.
-The Iroquois under Kariwase pick up on the pursuit and hunt them, resulting in a firefight that lets Ephraim escape (shoeless).
-Ephraim flees wounded & pursued by the Iroquois, when he falls into the TEMPLE unconscious. Reece and team get split during the fog of war, with a third rejoining with Reece & beating a retreat to civilization.
-When Ephraim comes to, he is able to start a small fire for light, letting him find material to dress his wound. He explores the temple and discovers the rifle ala Conan the Barbarian. He experiments with it until he accidentally fires it. His continued exploration leads him to a larger space, an artificial light (the lightening bug), and a trove of weapons and ammunition.
 
-**Act 2:** Excited by the prospects, Ephraim decides to take a few toys to Philadelphia to the Sons of Liberty. But, he first has to escape the Iroquois party. He finds a way out of the Temple, but the pursuit resumes when he gives away his position. He shoots the hunting party killing the five of them in rapid succession. Rather than run, he loots the bodies for shoes and uses their arrows to conceal the wounds. With a makeshift sled, he pulls out his samples and heads to Philadelphia.
+**Act 1.** Ephraim George BIGGS is a rebel Son of Liberty on the run from HIM a UK bounty-hunter MORTIMER REECE. He shows up at his brother's house in the rain looking for refuge, but his brother (ever the lawyer) finds out why and sends him away (he repairs Jeffry's son's toy, showing him as a tinkerer). He goes to another town and gets hired as a smith who comments on his breeding, hands, and disrespect for civil authority.
 
-Ephraim discovers weapons and experiments with a few, using one he is familiar with to fight off the indians and escape. Meanwhile, negotiations in England reveal the friction between the American desire for greater representation and English prejudice & contempt.
+**Act 2.** Excited by the prospects, Ephraim decides to take a few toys to Philadelphia to the Sons of Liberty. But, he first has to escape the Iroquois party.
+He finds a way out of the Temple, but the pursuit resumes when he gives away his position. He shoots the hunting party killing the five of them in rapid succession. Rather than run, he loots the bodies for shoes and uses their arrows to conceal the wounds.
+With a makeshift sled, he pulls out his samples and heads to Philadelphia, but he stops by his place in Smithytown, which alerts Mortimer that he is not dead.
+Meanwhile, Kariwase discovers the slain warrior party and discovers the ruse, bewildered he tracks Mortimer's sled until he realizes it is leaving their territory.
+Mortimer, alerted to Ephraim's return confronts the Smithy, but is thwarted somehow, and has his men resume searching neighboring towns while he goes back to Jeffry.
+Ephraim arrives in Philadelphia and quietly makes himself known to the Sons. After a meal, he arranges a rural demonstration of the rifles, but SOLOMON SHARPE reports this to WARREN BOYDELL, who sends word to Mortimer.
+Meanwhile, Kariwase meets with Pontiac and receives instructions related to the brewing war.
+Mortimer meets with Jeffry and is flustered, accusing him of harboring a fugitive (and of being a coward by not challenging a duel), but when he gets back to his room in the Inn has word from Boydell of Ephraim's location. He hurries back to Philadelphia.
+In Philadelphia, Boydell traps Ephraim by having Sharpe entertain Ephraim over dinner.
+Meanwhile, Kariwase is involved in a battle fought before Ft. Pitt Siege.
 
-He smuggles some weapons back and contacts rebels in Philadelphia only to be betrayed by a mole SOLOMON SHARPE.
+**Act 3.**
+<!-- He is bound for the noose when Pontiac's Rebellion induces him to surrender the mound's location. -->
+In a cell (Research jails in Philadelphia circa 1770), Ephraim sends word to Jeffry asking for help.
+Mortimer arrives in Philadelphia and after meeting with Sharp wants to find out about the weapon. They secure the rifle and test it, with Mortimer having a thumb incident.
+Ephraim and Mortimer talk about the rifle, and Mortimer tries to get him drunk, only to learn that Ephraim has a high alcohol tolerance. They argue about British authority instead. "Your sentence will be carried out." "I've not been tried yet." "You were in absentia."
+Meanwhile, Kariwase involved in another attack somewhere, and we find that he is up-and-coming and very anti-European.
+Jeffry arrives in Philadelphia and tries to find a way to help his brother; finding out that Mortimer might let Ephraim free if the Temple's location was revealed. But, Ephraim refuses to help the British.
+Meanwhile, news of Pontiac's raids reach Philadelphia, alerting to the need to take action. LOCAL COMMANDER realizes there are insufficient troops to protect the interior, when Boydell mentions the weapons.
+This renews pressure to divulge the location, and when confronted about the facts (which he wants to doubt but for Jeffry's fear), Ephraim surrenders the Temple's location.
 
-**Act 3:** He is bound for the noose when Pontiac's Rebellion [@PontiacWar2020] induces him to surrender the mound's location.
+**Act 4.** The militia lifts the siege of Fort Pitt using the advanced weapons; news of which hits the Courts of Europe by storm.
 
-**Act 4:** The militia lifts the siege of Fort Pitt using the advanced weapons; news of which hits the Courts of Europe by storm.
 
 ### Old Synopsis
 
@@ -79,7 +89,9 @@ He smuggles some weapons back and contacts rebels in Philadelphia only to be bet
 He is bound for the noose when Pontiac's Rebellion induces him to surrender the mound's location.
 The militia lifts the siege of Fort Pitt using the advanced weapons; news of which hits the Courts of Europe by storm.
 
-He is then chased by the Iroquois, when he falls into a Toltec mound. The Iroquois don't follow out of fear of the holy site? He discovers the tech, and decides this is a way to get rid of the English. He gets back to civilization and contacts his rebel friends, but is betrayed when that friend turned out to be an English spy. He is returned to be executed by firing squad, but not before sharing the location with a fellow rebel (overheard). -->
+
+. He is then chased by the Iroquois, when he falls into a Toltec mound. The Iroquois don't follow out of fear of the holy site? He discovers the tech, and decides this is a way to get rid of the English. He gets back to civilization and contacts his rebel friends, but is betrayed when that friend turned out to be an English spy. He is returned to be executed by firing squad, but not before sharing the location with a fellow rebel (overheard). -->
+
 
 BIGGS is a rebel fleeing BOUNTYHUNTER by running into the Ohio. When he is wounded by INDIANS during Pontiac's War, he hides in the Toltec Mound.
 
