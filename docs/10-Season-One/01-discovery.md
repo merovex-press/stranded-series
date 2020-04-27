@@ -76,36 +76,15 @@ Ephraim and Mortimer talk about the rifle, and Mortimer tries to get him drunk, 
 Meanwhile, Kariwase involved in another attack somewhere, and we find that he is up-and-coming and very anti-European.
 Jeffry arrives in Philadelphia and tries to find a way to help his brother; finding out that Mortimer might let Ephraim free if the Temple's location was revealed. But, Ephraim refuses to help the British.
 Meanwhile, news of Pontiac's raids reach Philadelphia, alerting to the need to take action. LOCAL COMMANDER realizes there are insufficient troops to protect the interior, when Boydell mentions the weapons.
-This renews pressure to divulge the location, and when confronted about the facts (which he wants to doubt but for Jeffry's fear), Ephraim surrenders the Temple's location.
+This renews pressure to divulge the location, and when confronted about the facts (which he wants to doubt but for Jeffry's fear), Ephraim surrenders the weapon cache's location.
 
-**Act 4.** The militia lifts the siege of Fort Pitt using the advanced weapons; news of which hits the Courts of Europe by storm.
+**Act 4.** <!-- The militia lifts the siege of Fort Pitt using the advanced weapons; news of which hits the Courts of Europe by storm. -->
+Ephraim reacts to having given away the best thing for the Revolution when his brother cheers him up (story less). They start training on the weapons they have when they realize they do not have enough (4 rifles) or enough bullets (80). Mortimer heads to Pitt while Ephraim takes a small team to the Temple to get more, including the Strand brothers. He tries to take a route to obfuscate the temple's location. They get to the temple, no sign of trouble, get more weapons and bullets, and head to Pitt. Meanwhile, the Seige at Pitt intensifies. Mortimer and his men get into a fight with Kariwase, who is beaten back by the four rifles. Stunned & wounded, Kariwase heads to Pitt with Mortimer in pursuit. All arrive at Pitt and a fight ensues with two teams with rifles putting the indians into a cross-fire that kills most the indians. There is cleanup afterward and discussion about the rifles. Meanwhile, word gets to Boydell who sends a rifle, case of rounds and a lantern to London. Mortimer and Biggs talk, Biggs agreeing to disappear.
+Mortimer & Boydell talk about the need to take what they have and break the Iroquois' back, when Johnson arrives to suggest negotiation. "How can you beat back an entire nation with 16 rifles and a box of bullets?"
+Biggs arrives in Charleston, taking up work as a smith. He reviews a drawing what he remembered the rifle looking like.
+The Strand brothers retrace their steps to the Temple; grab a bunch of tech and head to Philadelphia.
+The technology reaches London, George "this changes everything."
 
+<!-- BOUNTYHUNTER trains 16 soldiers on rifles when they respond to an indian raid on nearby settlement. They recover the captives and kill the indians, learn of the planned [Ft Pitt attack](https://en.wikipedia.org/wiki/Siege_of_Fort_Pitt).
 
-### Old Synopsis
-
-Ephraim George BIGGS is a rebel Son of Liberty on the run from HIM a UK bounty-hunter MORTIMER REECE.
-Biggs fled into the Ohio to escape hanging when he, now also pursued by the IROQUOIS, falls into a TOLTEC Mound and discovers ADVANCED WEAPONRY.
-He smuggles some weapons back and contacts rebels in Philadelphia only to be betrayed by a mole SOLOMON SHARPE.
-He is bound for the noose when Pontiac's Rebellion induces him to surrender the mound's location.
-The militia lifts the siege of Fort Pitt using the advanced weapons; news of which hits the Courts of Europe by storm.
-
-
-. He is then chased by the Iroquois, when he falls into a Toltec mound. The Iroquois don't follow out of fear of the holy site? He discovers the tech, and decides this is a way to get rid of the English. He gets back to civilization and contacts his rebel friends, but is betrayed when that friend turned out to be an English spy. He is returned to be executed by firing squad, but not before sharing the location with a fellow rebel (overheard). -->
-
-
-BIGGS is a rebel fleeing BOUNTYHUNTER by running into the Ohio. When he is wounded by INDIANS during Pontiac's War, he hides in the Toltec Mound.
-
-He discovers weapons and experiments with a few, using one he is familiar with to fight off the indians and escape.
-Meanwhile, negotiations in England reveal the friction between the American desire for greater representation and English prejudice & contempt.
-
-Back in Charlotina, Biggs tries to evade the BOUNTYHUNTER, but is captured with his new weapon & other booty on a drag sled.
-
-Biggs is in jail while the BOUNTYHUNTER and local JUDGE discuss the weapons. Biggs' BROTHER the attorney shows up and tries to free Biggs.
-
-BOUNTYHUNTER retraces Bigg's path, and uses the rifle to single-handedly stop an indian ambush on him before he finds the mound.
-
-BOUNTYHUNTER back in town decides to kill Biggs as the only-other who knows where the Mound is, instead able to hasten Bigg's hanging by promising to bring judge in on it. Indian fights intensify.
-
-BOUNTYHUNTER trains 16 soldiers on rifles when they respond to an indian raid on nearby settlement. They recover the captives and kill the indians, learn of the planned [Ft Pitt attack](https://en.wikipedia.org/wiki/Siege_of_Fort_Pitt).
-
-BOUNTYHUNTER and platoon thwart the indian siege on Ft. Pitt [Bushy Run](https://web.archive.org/web/20051030214631/http://mohicanpress.com/bushy_run.html) [link](https://en.wikipedia.org/wiki/Battle_of_Bushy_Run) [link](https://en.wikipedia.org/wiki/Bushy_Run_Battlefield). The news of this travels to London where they debate the 1763 Declaration. News of the weapons prevents London from the Declaration.
+BOUNTYHUNTER and platoon thwart the indian siege on Ft. Pitt [Bushy Run](https://web.archive.org/web/20051030214631/http://mohicanpress.com/bushy_run.html) [link](https://en.wikipedia.org/wiki/Battle_of_Bushy_Run) [link](https://en.wikipedia.org/wiki/Bushy_Run_Battlefield). The news of this travels to London where they debate the 1763 Declaration. News of the weapons prevents London from the Declaration. -->
