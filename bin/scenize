@@ -1,0 +1,48 @@
+#!/Users/merovex/.rvm/rubies/ruby-2.4.1/bin/ruby
+
+require 'date'
+require 'awesome_print'
+
+template =<<EOS
+---
+created: %{created_at}
+title: %{title}
+time: <day, night, morning, afternoon, evening, later, moments later>
+timeline: <timeline-date>
+milieu-clue: <Summary of what the reader learns about the milieu.>
+location:
+synopsis: |
+   %{synopsis}
+---
+
+EOS
+
+source = ARGV.shift
+now = Date.today.strftime("%d %B %Y")
+dirname = File.basename(source).sub(".md","")
+dest_dir = Dir["./**/#{dirname}"].first
+dest_dir = "./series/books/#{dirname}" if dest_dir.nil?
+
+puts source, dest_dir
+
+scenes = File.open(source,'r').readlines.reject { |e| e.to_s.empty? or e.to_s == "\n" }
+
+i = 1
+# exit
+scenes.each do |scene|
+  next if scene.match(/\A##/)
+  title = scene.match(/(?<=\*\*)(.+?)(?=\*\*)/).to_s
+  title = 'untitled' if title == ""
+  fname = "#{dest_dir}/%03d-#{title.gsub("'",'').gsub(/\W+/,'-').downcase.chomp('-')}.md" % i
+  unless File.exist?(fname)
+    puts fname
+    contents = template % {
+      :title => title,
+      :synopsis => scene.gsub(/\A\s*\d+\.\s*/,''),
+      :created_at => now,
+    }
+    File.open(fname,'w').write(contents)
+  end
+  i += 1
+  # break if i > 10
+end
