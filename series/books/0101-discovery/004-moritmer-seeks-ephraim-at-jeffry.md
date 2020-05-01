@@ -10,3 +10,4 @@ synopsis: |
 
 ---
 
+**November 10, N.S. 1762**

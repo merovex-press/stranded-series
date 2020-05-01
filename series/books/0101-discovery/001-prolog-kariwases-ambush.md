@@ -10,7 +10,7 @@ synopsis: |
 
 ---
 
-**DATE, 1763.** Rays from the pre-dawn sun filtered through the upper branches. Kariwase scanned the perimeter of the clearing. He and his fellow Iroquois smelled the smoke a few miles downwind. Over the past hour, they quietly positioned themselves around the campsite. The white trappers chose a site flanked on three sides by hills and on a fourth by the river. Kariwase thanked the Great Spirit they chose poorly.
+**Sunday May 1, N.S. 1763.** Rays from the pre-dawn sun filtered through the upper branches. Kariwase scanned the perimeter of the clearing. He and his fellow Iroquois smelled the smoke a few miles downwind. Over the past hour, they quietly positioned themselves around the campsite. The white trappers chose a site flanked on three sides by hills and on a fourth by the river. Kariwase thanked the Great Spirit they chose poorly.
 
 Satisfied his warriors were in place, he stood. He walked down the incline and into the camp. The six trappers were asleep about their now extinguished camp fire. Their haul sat in a two piles: pelts in one, carcasses in another. Flies had already started the process of returning the beavers to nature. Kariwase took no notice of this, it was little different in their camps. Over the smell of rotting meat, he knew could smell the stench of the English.
 
