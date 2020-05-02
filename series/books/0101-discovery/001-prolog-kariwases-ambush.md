@@ -1,16 +1,17 @@
 ---
-created: 30 April 2020
-title: Prolog: Kariwase's Ambush
-time: Dawn
-timeline: <timeline-date>
-milieu-clue: <Summary of what the reader learns about the milieu.>
-location:
-synopsis: |
-   **Prolog: Kariwase's Ambush** KARIWASE and his band stalk up on trappers sleeping, and capture them. Bewildered, the lead trapper speaks in French, until Kariwase points out the English accent. Kariwase observes how the French & Indian war started, then does the same to the trapper to the excitement of his men.
+scene:
+  created: 30 April 2020
+  title: Prolog: Kariwase's Ambush
+  time: Dawn
+  timeline: <timeline-date>
+  milieu-clue: <Summary of what the reader learns about the milieu.>
+  location:
+  synopsis: |
+     **Prolog: Kariwase's Ambush** KARIWASE and his band stalk up on trappers sleeping, and capture them. Bewildered, the lead trapper speaks in French, until Kariwase points out the English accent. Kariwase observes how the French & Indian war started, then does the same to the trapper to the excitement of his men.
 
 ---
 
-# Prolog
+# Prologue
 
 **Sunday May 1, N.S. 1763.** Rays from the pre-dawn sun filtered through the upper branches. Kariwase scanned the perimeter of the clearing. He and his fellow Iroquois smelled the smoke a few miles downwind. Over the past hour, they quietly positioned themselves around the campsite. The white trappers chose a site flanked on three sides by hills and on a fourth by the river. Kariwase thanked the Great Spirit they chose poorly.
 
@@ -18,7 +19,7 @@ Satisfied his warriors were in place, he stood. He walked down the incline and i
 
 He kicked one in the head, hard enough to wake him. The stomach would have been softer, but not as rewarding. He held his war mace behind his arm, hiding it from the trappers.
 
-"Ow. Amos---", the trapper's voice trailed off when he looked at who kicked him. The trapper looked about, not seeing the other indians.
+"Ow! Amos---" The trapper's voice trailed off when he looked at who kicked him. The trapper looked about, not seeing the other indians.
 
 "What are you doing here?" Kariwase said.
 
@@ -65,3 +66,7 @@ The carnage over, he smiled. He remembered the story of how the last war started
 _They know the story. Good. Soon, we will start a new war that will drive the English out of our homeland._
 
 Kariwase and the indians looted the corpses for anything useful. He distributed the beaver pelts to those who participated in the ambush. The two who held back went empty handed. They would not hold back again.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.

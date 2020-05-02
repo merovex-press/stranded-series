@@ -1,6 +1,6 @@
 ---
-title: "Stranded: Discovery"
-subtitle: "Lorem Series Book 1"
+title: "Discovery"
+subtitle: "Stranded Series: Book 1"
 # ===============================================
 # Other titles by the author
 # other-titles:
@@ -14,7 +14,7 @@ rights: Copyright © 2020 Ben Wilson
 isbn: # Paperback
   - "9-78098-3952-107 paperback"
   - "9-78098-3952-107 ebook"
-
+crop: false
 identifier: # Ebook
   -scheme: ISBN-13
   -text:   isbn13:9-78098-3952-107
@@ -30,6 +30,13 @@ credits:
 country: Printed in the United States of America
 synopsis: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+monofont: "P22 Declaration Pro"
+sansfont: "Crimson Text"
+seriffont: "Libre Caslon Text"
+fancybreak:  \adforn{21}\quad\adforn{11}\quad\adforn{49}
+header-includes:
+  - \usepackage{xcolor}
+  - \titleformat{\chapter}[block]{\normalfont\sffamily\huge\bfseries\color{Maroon}}{}{0pt}{\Huge\ttfamily\textbf}
 ---
 
 <!-- Synopsis: Biggs the rebel discovers advanced weaponry that he wants to use against the British when he is confronted with Pontiac's War.
