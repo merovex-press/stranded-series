@@ -9,7 +9,7 @@ subtitle: "Lorem Series Book 1"
 
 # ===============================================
 # Copyright Information
-rights: Copyright © 2019 Ben Wilson
+rights: Copyright © 2020 Ben Wilson
 # lccn:  # http://www.loc.gov/publish/pcn/
 isbn: # Paperback
   - "9-78098-3952-107 paperback"
@@ -32,7 +32,7 @@ synopsis: |
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 ---
 
-Synopsis: Biggs the rebel discovers advanced weaponry that he wants to use against the British when he is confronted with Pontiac's War.
+<!-- Synopsis: Biggs the rebel discovers advanced weaponry that he wants to use against the British when he is confronted with Pontiac's War.
 
 Summary: Biggs is a former clergy who turned rabid anti-British patriot. He shows up at his brother's door while being pursued by Hunter, and flees when he finds his brother is Loyalist and turned him in, only to be chased by Indians and falls into a pit where he discovers advanced weaponry. He tries to smuggle the weapons back to his Sons of Liberty friends only to be exposed by a mole within the organization and sentenced to be hanged. Before the sentence could be carried out, Pontiac's War erupts and distracts the British, and Biggs decides to help the British against the Indians by giving up the weaponry which requires sneaking past the indians and then lifting the siege.
 
@@ -113,4 +113,4 @@ Summary: Biggs is a former clergy who turned rabid anti-British patriot. He show
 57. ...
 58. ...
 59. Biggs' mock hanging
-60. King George informed about Pontiac's defeat and shown a rifle and light.  "This changes everything"
+60. King George informed about Pontiac's defeat and shown a rifle and light.  "This changes everything" -->
