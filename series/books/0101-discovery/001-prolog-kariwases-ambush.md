@@ -7,13 +7,12 @@ scene:
   milieu-clue: <Summary of what the reader learns about the milieu.>
   location:
   synopsis: |
-     **Prolog: Kariwase's Ambush** KARIWASE and his band stalk up on trappers sleeping, and capture them. Bewildered, the lead trapper speaks in French, until Kariwase points out the English accent. Kariwase observes how the French & Indian war started, then does the same to the trapper to the excitement of his men.
-
+    **Prolog: Kariwase's Ambush** KARIWASE and his band stalk up on trappers sleeping, and capture them. Bewildered, the lead trapper speaks in French, until Kariwase points out the English accent. Kariwase observes how the French & Indian war started, then does the same to the trapper to the excitement of his men.
 ---
 
 # Prologue
 
-**Sunday May 1, N.S. 1763.** Rays from the pre-dawn sun filtered through the upper branches. Kariwase scanned the perimeter of the clearing. He and his fellow Iroquois smelled the smoke a few miles downwind. Over the past hour, they quietly positioned themselves around the campsite. The white trappers chose a site flanked on three sides by hills and on a fourth by the river. Kariwase thanked the Great Spirit they chose poorly.
+**Sunday May 1, N.S. 1763.** Rays from the pre-dawn sun filtered through the upper branches. Kariwase scanned the perimeter of the clearing. He and his fellow Shawnee smelled the smoke a few miles downwind. Over the past hour, they quietly positioned themselves around the campsite. The white trappers chose a site flanked on three sides by hills and on a fourth by the river. Kariwase thanked the Great Spirit they chose poorly.
 
 Satisfied his warriors were in place, he stood. He walked down the incline and into the camp. The six trappers were asleep about their now extinguished camp fire. Their haul sat in a two piles: pelts in one, carcasses in another. Flies had already started the process of returning the beavers to nature. Kariwase took no notice of this, it was little different in their camps. Over the smell of rotting meat, he knew could smell the stench of the English.
 
@@ -45,7 +44,7 @@ The other trapper kicked the legs of the man next to him. His stare at Kariwase 
 
 "We are not English," the first trapper said.
 
-"You certainly are not French, or Quebecois. Based on your accent, I would say Virginians." Using his left hand, Kariwase pointed toward a few of his indians on the opposing rise. The indians, in turn, raised and lowered their flintlocks. "We killed many Virginians."
+"You certainly are not French, or Quebecois. Based on your accent, I would say Virginians." Using his left hand, Kariwase pointed toward a few of his warriors on the opposing rise. The warriors, in turn, raised and lowered their flintlocks. "We killed many Virginians."
 
 The trapper switched to English. "Bloody fine. Then you will know you are on English, and therefore Virginian soil."
 
@@ -57,16 +56,12 @@ Without signaling his move, he swung the concealed war mace. He drove with his h
 
 The other awake trappers recoiled in shock.
 
-Other indians whooped and joined in the fray. They used the butts of their flintlocks to bash the skulls of the other trappers, not discriminating whether the trappers were awake, semi-awake or asleep.
+Other warriors whooped and joined in the fray. They used the butts of their flintlocks to bash the skulls of the other trappers, not discriminating whether the trappers were awake, semi-awake or asleep.
 
 Kariwase looked on approvingly. Two of the warriors had just come of age. He thought spilling English blood was a good initiation. Rather than motion them to stop, he let them expend their energy on the corpses. It was over in a few minutes.
 
-The carnage over, he smiled. He remembered the story of how the last war started. _Tanacharison washed his hands with a Frenchman's brains._ Kariwase dropped his mace and drew his tomahawk. He hacked the Englishman's skull open, and repeated the ritual. His fellow indians smiled approvingly.
+The carnage over, he smiled. He remembered the story of how the last war started. _Tanacharison washed his hands with a Frenchman's brains._ Kariwase dropped his mace and drew his tomahawk. He hacked the Englishman's skull open, and repeated the ritual. His fellow warriors smiled approvingly.
 
 _They know the story. Good. Soon, we will start a new war that will drive the English out of our homeland._
 
-Kariwase and the indians looted the corpses for anything useful. He distributed the beaver pelts to those who participated in the ambush. The two who held back went empty handed. They would not hold back again.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Kariwase and his band looted the corpses for anything useful. He distributed the beaver pelts to those who participated in the ambush. The two who held back went empty handed. They would not hold back again.

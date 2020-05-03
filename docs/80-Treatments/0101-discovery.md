@@ -2,13 +2,13 @@
 
 1. **Prolog: Kariwase's Ambush** KARIWASE and his band stalk up on trappers sleeping, and capture them. Bewildered, the lead trapper speaks in French, until Kariwase points out the English accent. Kariwase observes how the French & Indian war started, then does the same to the trapper to the excitement of his men.
 
-1. Act 1. - **Ephraim Seeks Refuge with Jeffry** EPHRAIM BIGGS is a Son of Liberty on the lamb. In the rain, he arrives at his brother's (JEFFRY BIGGS) home in TOWN. Once inside and warmed, he asks his brother to shelter him. In the conversation, they argue over why he was there, which leads into the Sons of Liberty and the real reason why Ephraim is on the run. He refuses his brother, and the next morning Ephraim leaves. Make sure to show the wife & kids; she's pregnant.
+1. Act 1. - **Ephraim Seeks Refuge with Jeffry** EPHRAIM BIGGS is a Son of Liberty on the lamb. In the rain, he arrives at his brother's (JEFFRY BIGGS) home in Shippensburg, PA. Once inside and warmed, he asks his brother to shelter him. In the conversation, they argue over why he was there, which leads into the Sons of Liberty and the real reason why Ephraim is on the run. He refuses his brother, and the next morning Ephraim leaves. Make sure to show the wife & kids; she's pregnant.
 
-1. **Ephraim finds refuge in Smithytown.** Ephraim arrives in a nearby town at wilderness' edge (Smithytown) and asks a local smith CHESTER O'BRIEN to take him on for support (using an assumed name). The smith is grudging, but lets him do so. Later, Ephraim fixes a horse's hoof, foregoing compensation (overseen by Chester approvingly) He later catches Ephraim sleeping in the shop and takes pity by giving him a blanket, etc. They talk politics and Ephraim finds Chester is pro-Liberty.
+1. **Ephraim finds refuge in Chambersburg.** Ephraim arrives in a Chambersburg at wilderness' edge and asks a local smith CHESTER O'BRIEN to take him on for support (using an assumed name). The smith is grudging, but lets him do so. Later, Ephraim fixes a horse's hoof, foregoing compensation (overseen by Chester approvingly) He later catches Ephraim sleeping in the shop and takes pity by giving him a blanket, etc. They talk politics and Ephraim finds Chester is pro-Liberty.
 
 1. **Moritmer seeks Ephraim at Jeffry.** MORTIMER REECE shows up at Jeffry's office a few weeks later, looking for Ephraim. In the ensuing conversation, Mortimer learns Ephraim is trained as a smith, not just a preacher. He doubts Jeffry's honesty, but will not confront him. Afterwards, he argues briefly with his 2nd man DORIAN MABBOTT about how to handle Jeffry; instead agreeing to focus on the goal of capturing Ephraim. They agree to send scouts to all the neighboring towns to find out whether a new smith has shown up. This yields fruit by finding JEFFRY BOYDELL, who Mortimer is persuaded is Ephraim.
 
-1. **Ephraim's Smithytown escape.** Ephraim is working in the back of the smithy, when Dorian & MOOK-1 shows up asking to talk with Jeffry. Ephraim is immediately suspicious, and climbs the ladder to the loft. When Dorian overhears him asking Chester where he lives, he grabs what few possessions he has and uses a rope to escape through the loft's door to the ground below, obfuscated from the road. He runs into MOOK-2 who is waiting for such a move, and the ensuing fight alerts MOOK-1 and Ephraim runs away. Dorian warns Chester that they will be back, and he, MOOK-1 and others pursue Ephraim.
+1. **Ephraim's Chambersburg escape.** Ephraim is working in the back of the smithy, when Dorian & MOOK-1 shows up asking to talk with Jeffry. Ephraim is immediately suspicious, and climbs the ladder to the loft. When Dorian overhears him asking Chester where he lives, he grabs what few possessions he has and uses a rope to escape through the loft's door to the ground below, obfuscated from the road. He runs into MOOK-2 who is waiting for such a move, and the ensuing fight alerts MOOK-1 and Ephraim runs away. Dorian warns Chester that they will be back, and he, MOOK-1 and others pursue Ephraim.
 
 1. **Ephraim captured by Dorian.** Ephraim steals a horse and gallops away, under pursuit. The race goes until night, with Ephraim fretful that he escaped. He headed into the wilderness. He lets the horse go, hoping it will distract Dorian's team. Hearing their hushed voices, he realizes the hunt is not over. Through the night, he continues to evade Dorian's men. Thinking he is safe, he falls asleep, only to awake with Dorian & his nine (9) men surrounding him.
 
@@ -28,7 +28,7 @@
 
 1. **Ephraim uses the rifles.** Ephraim uses the rifle and two clips of bullets to kill them. He loots the bodies, replacing the boots with shoes that fit him. He throws the boots away, hoping they are lost in the undergrowth. He picks up one of the clips, but cannot find the other. He uses the Indians' arrows to mask the wounds. He is more cautious moving forward, worried more Indians are out & about.
 
-1. **Dorian heads to Philadelphia.** Dorian emerges back to Smithytown and has MOOK-1 & MOOK-3 remain in case Ephraim survives; he is convinced he is dead but errs on the side of caution. He then starts the trip back to Philadelphia with MOOK-4. Mook-1 & -3 agree to alternate who sleeps in the loft and who sleeps in the widow's house.
+1. **Dorian heads to Philadelphia.** Dorian emerges back to Chambersburg and has MOOK-1 & MOOK-3 remain in case Ephraim survives; he is convinced he is dead but errs on the side of caution. He then starts the trip back to Philadelphia with MOOK-4. Mook-1 & -3 agree to alternate who sleeps in the loft and who sleeps in the widow's house.
 
 1. **Ephraim heads to Philadelphia.** Ephraim emerges a couple days later, tired. At dusk, he slips into the loft, where MOOK-3 is sleeping. Unaware, Ephraim starts grabbing all his possessions. Mook-3 awakes and calls out, scuffle & Ephraim uses MOOK-3's pistol but to knock MOOK-3 out. Ephraim finishes gathering his things, and he ladder's back down & out. He starts his trip to Philadelphia.
 
@@ -36,7 +36,7 @@
 
 1. **Kariwase inspects Ephraim's handiwork.** Meanwhile, Kariwase discovers the slain Indian party. He initially suspects another Indian party. Further inspection discovers the missing shoes; and closer body inspection reveals the exit wounds. Looking about, they find the odd boots & a spent clip. They see the sled heading to civilization, leading Kariwase to assume it is an Englishman hauling a wounded or dead to civilization. Based on the age (dead bodies), he opts not to pursue, needing to meet with Pontiac.
 
-1. **Moritmer confronts Chester.** Mortimer and Dorian return to Smithytown with redcoats. They confront Chester, who claims no knowledge of Ephraim's return. Unsatisfied, Chester is arrested. Mortimer orders Dorian & the MOOKs to search the neighboring towns again, the same approach as before. He takes Chester and heads to Jeffry's town with his redcoats.
+1. **Moritmer confronts Chester.** Mortimer and Dorian return to Chambersburg with redcoats. They confront Chester, who claims no knowledge of Ephraim's return. Unsatisfied, Chester is arrested. Mortimer orders Dorian & the MOOKs to search the neighboring towns again, the same approach as before. He takes Chester and heads to Jeffry's town with his redcoats.
 
 1. **Ephraim arrives in Philadelphia.** In Philadelphia, Ephraim hides all the rifles near a barn on the road, hoping it won't be found. He arrives at the ROSE & CROWN PUB and quietly informs the bartender that he seeks the Sons of Liberty. He gets a room and gets cleaned up. He takes some money and buys a new outfit. While he is at the tailor, his is approached with a courier who gives him an invitation to dinner.
 
@@ -44,7 +44,7 @@
 
 1. **Solomon reports to the spymaster.** Solomon heads to WARREN BOYDELL (check pseudonym), local customs official and spymaster. He tells him about the lantern, which Warren accuses him of being drunk. Solomon persuades him to go to Winsland's farm to see for himself. Boydell sends word to Mortimer that Ephraim was located in Philadelphia.
 
-1. **Kariwase to raid settlements.** Meanwhile, Kariwase meets with Pontiac in the morning. They discuss the impending attack on white settlements. Pontiac instructs Kariwase to expand his trapper raids to fringe farms & towns; Smithytown & Jeffrytown being one of them. Kariwase shows him the gunpowder-smelling clip, but Pontiac dismisses it.
+1. **Kariwase to raid settlements.** Meanwhile, Kariwase meets with Pontiac in the morning. They discuss the impending attack on white settlements. Pontiac instructs Kariwase to expand his trapper raids to fringe farms & towns; Chambersburg & Shippensburg being one of them. Kariwase shows him the gunpowder-smelling clip, but Pontiac dismisses it.
 
 1. **Dorian learns Ephraim's location.** Ephraim's Philadelphia sighting gets to Dorian, who routes the message to Mortimer with the message that he is heading to Philadelphia.
 
@@ -52,7 +52,7 @@
 
 1. **Demonstration at Winsland Farm.** Later that day, Ephraim, Solomon & Winsland are at Winsland's Farm. Ephraim demonstrates the rifle to the astonishment of the other two, Boydell witnesses from a vantage point, not wanting to give away Solomon's work. He has MOOK-5 follow Ephraim, but Ephraim left the rifle at Winsland's Farm and headed to Philadelphia.
 
-1. **Kariwase raids Smithytown.** Kariwase conducts a raid on Smithytown, killing the men and carrying away some women and children. The town is burned. Chester's son escapes and runs to Jeffrytown.
+1. **Kariwase raids Chambersburg.** Kariwase conducts a raid on Chambersburg, killing the men and carrying away some women and children. The town is burned. Chester's son escapes and runs to Shippensburg.
 
 1. **Ephraim's Philadelphia capture.** Boydell has Solomon entertain Ephraim over dinner a couple nights later. Dorian arrived earlier that day. At dinner, Dorian and redcoats burst in and capture both Ephraim. Dorian is unusually rough with Solomon to complete the ruse.
 
@@ -62,15 +62,15 @@
 
 1. **Ephraim thwarts Mortimer.** Ephraim and Mortimer talk about the rifle & light, with Mortimer wanting to know more. As the conversation isn't working, he has a meal in the jail with Ephraim trying to get him drunk (he is drinking tea...show the flasks being different out of Ephraim's eye line?). When Mortimer realizes Ephraim has a high alcohol tolerance, the conversation changes, but degenerates into an argument over liberty and authority. "Your sentence will be carried out." "I've not been tried yet." "You were in absentia."
 
-1. **Jeffry to Ephraim's rescue.** Jeffry packs his bag and leaves his wife & kids before heading to Philadelphia. Word of Smithytown being attacked has reached them, but he wavers over having them come with him. He reminds them of where to hide.
+1. **Jeffry to Ephraim's rescue.** Jeffry packs his bag and leaves his wife & kids before heading to Philadelphia. Word of Chambersburg being attacked has reached them, but he wavers over having them come with him. He reminds them of where to hide.
 
 1. **Jeffry negotiates a solution.** Jeffry arrives in Philadelphia, and meets with Ephraim. He then meets with Mortimer, where he learns about the rifle & lantern. He tries to use the exchange of information for clemency, and rails against the "in absentianess" of the charge. "Not befitting a proper Englishman." Mortimer says he will recommend a new trial if Ephraim comes clean.
 
-1. **Kariwase raids Jeffrytown.** Kariwase's men attack Jeffrytown, with the similar result. Jeffry's wife & kids escape, while most of the others board up in the church. Kariwise burns the church, with he and his men watching it until the fire collapses the bell tower & the bell crashes. Cue anti-Christian/white sentiment. His men are scouring the countryside for strays, killing any they find.
+1. **Kariwase raids Shippensburg.** Kariwase's men attack Shippensburg, with the similar result. Jeffry's wife & kids escape, while most of the others board up in the church. Kariwise burns the church, with he and his men watching it until the fire collapses the bell tower & the bell crashes. Cue anti-Christian/white sentiment. His men are scouring the countryside for strays, killing any they find.
 
 1. **Ephraim & Jeffry's Break.** Ephraim & Jeffry talk about the trial, etc. Ephraim confesses what Jeffry thought all along. This makes Jeffry despise him. "I don't care where you found them. We can figure out how they work and replace them. Sod on you." Jeffry leaves Ephraim.
 
-1. **Ephraim refuses despite raid.** Word of the raids hit Philadelphia, including Smithytown and Jeffrytown, while Mortimer tries to talk Jeffry into divulging where he found them. Hearing about Jeffrytown strikes fear into Jeffry. He is breaking down, while Mortimer starts talking about payback with the rifles. "Yes, God damn it."
+1. **Ephraim refuses despite raid.** Word of the raids hit Philadelphia, including Chambersburg and Shippensburg, while Mortimer tries to talk Jeffry into divulging where he found them. Hearing about Shippensburg strikes fear into Jeffry. He is breaking down, while Mortimer starts talking about payback with the rifles. "Yes, God damn it."
 
 1. **Ephraim relents.** Jeffry takes another go at Ephraim, who (not knowing about the raids) continues to stonewall. He's in the cell with Ephraim While Ephraim starts going on about rights and liberties, Jeffry freaks out and punches him. He blurts out about the Indian raids. Ephraim remains reluctant, because he does not want the English to get them. "Even if you lose your kith and kin? Any society that wishes that is not a society I could support." As Jeffry starts to leave, Ephraim relents on condition he can serve.
 
@@ -80,7 +80,7 @@
 
 1. **Divulging the Temple.** Over dinner with Mortimer, Dorsey & Jeffry, Ephraim says there are more, "scores, maybe even hundreds." As they talk location, fear strikes Mortimer & Dorsey as they realize this trove is in the Wilderness. "If the savages get these, we will be put out of the Americas." He doesn't want to surrender the location to the English, but realizing the need agrees to take a team to the site to secure more rifles.
 
-1. **Third raid realized.** The next day, Ephraim is given a team of 12, a mix of veterans and novices; including the STRAND BROTHERS (ANDREW & DANIEL). While Mortimer go with a proper Redcoat regiment, Ephraim & Dorsey start off for Smithytown. While en route, they happen upon a THIRDTOWN that had been devastated. Dorsey has to talk Ephraim out of going to Jeffrytown "They will be taken or dead. Steel yourself, man."
+1. **Third raid realized.** The next day, Ephraim is given a team of 12, a mix of veterans and novices; including the STRAND BROTHERS (ANDREW & DANIEL). While Mortimer go with a proper Redcoat regiment, Ephraim & Dorsey start off for Chambersburg. While en route, they happen upon a THIRDTOWN that had been devastated. Dorsey has to talk Ephraim out of going to Shippensburg "They will be taken or dead. Steel yourself, man."
 
 1. **Heading to the temple.** As they head out into the wilderness, Ephraim tries to obfuscate the route, but the first night of camping Daniel Strand (surveyor) tells his brother Andrew (Smith & Tinkerer) that he has been marking the route while masking it from Indians. They arrive at the ground entrance. Once inside, Ephraim uses the other light to lead them to the warehouse. Fewer than 100. They select & hastily clean the rifles, secure ammunition. One of the team discovers the boots and decides to wear them; leading to several others donning the finely-made boots.
 
@@ -90,7 +90,7 @@
 
 1. **Ephraim's Release.** Ephraim & Mortimer talk at the end, with Mortimer telling Ephraim he should disappear; and Ephraim agreeing.
 
-1. **Jeffry goes home.** Jeffry returns to Jeffrytown to find wife & kids, but a miscarriage (no birth of a nation).
+1. **Jeffry goes home.** Jeffry returns to Shippensburg to find wife & kids, but a miscarriage (no birth of a nation).
 
 1. **The Indian Question.** Mortimer & Boydell talk about the need to take what they have and break the Iroquois' back, when Johnson arrives to suggest negotiation. "How can you beat back an entire nation with 16 rifles and a box of bullets?"
 

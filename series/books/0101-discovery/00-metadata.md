@@ -36,7 +36,7 @@ seriffont: "Libre Caslon Text"
 fancybreak:  \adforn{21}\quad\adforn{11}\quad\adforn{49}
 header-includes:
   - \usepackage{xcolor}
-  - \titleformat{\chapter}[block]{\normalfont\sffamily\huge\bfseries\color{Maroon}}{}{0pt}{\Huge\ttfamily\textbf}
+  - \titleformat{\chapter}[block]{\normalfont\sffamily\huge\bfseries\color{Maroon}}{}{0pt}{\Huge\sffamily\textit}
 ---
 
 <!-- Synopsis: Biggs the rebel discovers advanced weaponry that he wants to use against the British when he is confronted with Pontiac's War.
