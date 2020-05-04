@@ -4,7 +4,7 @@ scene:
   title: Ephraim Seeks Refuge with Jeffry
   time: Night
   timeline: 14 September 1762
-  milieu-clue: <Summary of what the reader learns about the milieu.>
+  milieu-clue: Introduce brothers Ephraim & Jeffry Biggs
   location:
   synopsis: |
      Act 1. - **Ephraim Seeks Refuge with Jeffry** EPHRAIM BIGGS is a Son of Liberty on the lamb. In the rain, he arrives at his brother's (JEFFRY BIGGS) home in TOWN. Once inside and warmed, he asks his brother to shelter him. In the conversation, they argue over why he was there, which leads into the Sons of Liberty and the real reason why Ephraim is on the run. He refuses his brother, and the next morning Ephraim leaves. Make sure to show the wife & kids; she's pregnant.
@@ -22,7 +22,7 @@ He stood and shook himself off. He picked up his bag and continued down the lane
 Soaked to the bone, he stopped running down the lane. It was a cold, dark rain, but in a few minutes he would be warm and dry.
 
 <!-- https://en.wikipedia.org/wiki/Shippensburg,_Pennsylvania -->
-He walked up to the house that the Widow Piper's Tavern keeper said belonged to Jeffry Biggs. Light cracked through the shutters signalling they were still awake. He straightened his coat. With his fist, he pounded on the door. He waited a few moments, then repeated his pounding.
+He walked up to the house that the Widow Piper's Tavern keeper said belonged to Jeffry Biggs. Light cracked through the shutters signaling they were still awake. He straightened his coat. With his fist, he pounded on the door. He waited a few moments, then repeated his pounding.
 
 The door opened. Jeffry Biggs pointed a flintlock pistol at Ephraim. "Who is it?"
 
@@ -115,4 +115,6 @@ Ephraim feigned innocence. It was an old joke.
 
 Ephraim finished his rum. "I just need to get away from Philadelphia, that's all."
 
-Jeffry glared at him, just like their father used to. "I will let you stay a few more days. After that, you should continue down Waggon Road."
+Jeffry glared at him, just like their father used to. "I will let you stay a few days. After that, you should continue down Wagon Road."
+
+* * *
