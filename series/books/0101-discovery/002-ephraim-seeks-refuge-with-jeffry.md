@@ -13,7 +13,7 @@ scene:
 
 # Chapter 1
 
-**14 September, N.S. 1762.** It was a dark and stormy night. Ephraim Biggs stood under the building's eave as rivulets of rain poured over its edge. Between lightening flashes, he could see the lane ahead. Puddles of brown rain collected and formed a small stream. _Four more doors._
+**September, 14 N.S. 1762.** It was a dark and stormy night. Ephraim Biggs stood under the building's eave as rivulets of rain poured over its edge. Between lightening flashes, he could see the lane ahead. Puddles of brown rain collected and formed a small stream. _Four more doors._
 
 Ephraim hunched up and bolted down the lane. A nearby bolt of lightening flashed and thunder roared at the same time. The nearness scared him. He dove down, into a mud puddle. As suddenly as the lightening came, Ephraim felt foolish for jumping into the mud.
 

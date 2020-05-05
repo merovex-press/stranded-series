@@ -12,3 +12,19 @@ scene:
 ---
 
 **November 10, N.S. 1762**
+
+Introduce Mortimer & his men.
+
+Describe arrival in Shippensburg in good weather. Discuss the seasonal change.
+
+Mortimer locating Jeffy at Widow's Tavern.
+
+Interrogation about Ephraim, including the murder. Learn of their background as smiths.
+
+Jeffry eludes answer, interrupted by one of Jeffry's legal clients.
+
+Outside, Mortimer & Dorian argue about what to do with Jeffry. Agree to course of action to monitor Jeffry by them staying there and sending their men to scout neighboring towns.
+
+* * *
+
+Fast forward a couple weeks when they find new smith hand in Falling Springs. One not returned from the area near Burnt Cabin, PA.
