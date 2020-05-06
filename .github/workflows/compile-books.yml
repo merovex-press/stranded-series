@@ -13,5 +13,4 @@ jobs:
         uses: docker://merovex/pandoc-book:latest
         env:
           GITHUB_TOKENs: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_USERNAME: Merovex
           TEST_JUNK: This Junk
