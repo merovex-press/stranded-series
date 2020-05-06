@@ -14,4 +14,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: Merovex
-          TEST_JUNK: This
+          TEST_JUNK: This Junk
