@@ -13,4 +13,4 @@ jobs:
         uses: docker://merovex/pandoc-book-compile:latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TEST_JUNK: This Junk
+          TEST_JUNK: This 
