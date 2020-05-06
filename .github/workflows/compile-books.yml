@@ -34,8 +34,7 @@ jobs:
         uses: Roang-zero1/github-upload-release-artifacts-action@master
         with:
           args:
-          - build/
-          - builds/
+          - build/*
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # - name: Zip it.
