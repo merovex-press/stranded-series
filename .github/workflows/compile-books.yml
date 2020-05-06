@@ -1,10 +1,10 @@
 
-name: Book Builder
+name: Compile Books
 on: [push]
 
 jobs:
   build:
-    name: Build the Book
+    name: Build the Books
     runs-on: ubuntu-latest
     steps:
       - name: Get repo
@@ -13,4 +13,3 @@ jobs:
         uses: docker://merovex/pandoc-book-compile:latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TEST_JUNK: This 

@@ -1,0 +1,21 @@
+# Name: Compile Readme
+#
+# Description: This Github Action runs on each push to dynamically build
+# the repository's README based on the template and other Markdown files
+# In the repository.
+# =================================================
+on: [push]
+name: Compile Readme
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v1
+        with:
+          fetch-depth: 1
+      - name: Compile
+        uses: docker://merovex/pandoc-book-readme:latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO_NAME: Merovex/stranded-series
