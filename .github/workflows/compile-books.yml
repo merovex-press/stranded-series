@@ -10,7 +10,7 @@ jobs:
       - name: Get repo
         uses: actions/checkout@v1
       - name: Run Pandoc Book (Docker)
-        uses: docker://merovex/pandoc-book:latest
+        uses: docker://merovex/pandoc-book-compile:latest
         env:
           GITHUB_TOKENs: ${{ secrets.GITHUB_TOKEN }}
           TEST_JUNK: This Junk
