@@ -1,0 +1,49 @@
+# on:
+#   release:
+#     types: [created]
+# name: Handle Release
+# jobs:
+#   generate:
+#     name: Create release-artifacts
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout the repository
+#         uses: actions/checkout@master
+#       - name: Generate the artifacts
+#         uses: skx/github-action-build@master
+#       - name: Upload the artifacts
+#         uses: skx/github-action-publish-binaries@master
+#         env:
+#           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+#         with:
+#           args: 'example-*'
+name: Book Builder
+
+on: [push]
+
+jobs:
+  build:
+    name: Build the Book
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get repo
+        uses: actions/checkout@v1
+      - name: Run Pandoc Book (Docker)
+        uses: docker://merovex/pandoc-book:latest
+      # - name: Zip it.
+      #   run: zip my-books build
+      # - uses: actions/upload-artifact@v1
+      #   with:
+      #     name: "books"
+      #     path: build
+      # - name: Upload Release Asset
+      #   id: upload-release-asset
+      #   uses: JasonEtco/upload-to-release@master
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   with:
+      #     args: books.zip application/zip
+      - name: Upload the artifacts
+        uses: skx/github-action-publish-binaries@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
