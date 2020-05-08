@@ -39,18 +39,8 @@ jobs:
           release_name: Release ${{ github.ref }}
           draft: true
           prerelease: false
-      - name: Download Book Assets
-        uses: actions/download-artifact@v1
+      - name: Upload Artifacts to Release
+        uses: ncipollo/release-action@v1
         with:
-          name: stranded-series
-          path: ./
-      - name: Upload Release Asset
-        id: upload-release-asset
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: /home/runner/work/stranded-series/stranded-series/stranded-series.zip
-          asset_name: stranded-series.zip
-          asset_content_type: application/zip
+          artifacts: "build/*"
+          token: ${{ secrets.GITHUB_TOKEN }}
