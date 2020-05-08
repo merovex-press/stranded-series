@@ -27,7 +27,7 @@ jobs:
   job_2:
     name: Release Books
     needs: job_1
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Create Release
         id: create_release
@@ -42,7 +42,7 @@ jobs:
       - name: Download Book Assets
         uses: actions/download-artifact@v1
         with:
-          name: stranded-series.zip
+          name: stranded-series
           path: ./
       - name: Upload Release Asset
         id: upload-release-asset
