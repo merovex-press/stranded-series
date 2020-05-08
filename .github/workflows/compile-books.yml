@@ -1,6 +1,6 @@
 
 name: Compile Books
-on: [push]
+on: [pull_request]
 # on:
 #   pull_request:
 #     types:
@@ -32,7 +32,7 @@ jobs:
         with:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
-          draft: false
+          draft: true
           prerelease: false
       - name: Upload Release Asset
         id: upload-release-asset
@@ -43,4 +43,4 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./stranded-series.zip
           asset_name: stranded-series.zip
-          asset_content_type: application/zip
+          # asset_content_type: application/zip
