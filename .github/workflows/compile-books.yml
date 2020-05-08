@@ -10,48 +10,46 @@ on: [push]
 
 jobs:
   job_1:
-    build:
-      name: Build the Books
-      runs-on: ubuntu-latest
-      steps:
-        - name: Get repo
-          uses: actions/checkout@v1
-        - name: Run Pandoc Book (Docker)
-          uses: docker://merovex/book-compiler:latest
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        - name: Archive books
-          uses: actions/upload-artifact@v1
-          with:
-            name: stranded-series
-            path: build
+    name: Build the Books
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get repo
+        uses: actions/checkout@v1
+      - name: Run Pandoc Book (Docker)
+        uses: docker://merovex/book-compiler:latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Archive books
+        uses: actions/upload-artifact@v1
+        with:
+          name: stranded-series
+          path: build
   job_2:
-    build:
-      name: Release Books
-      needs: job_1
-      runs-on: windows-latest
-      steps:
-        - name: Create Release
-          id: create_release
-          uses: actions/create-release@v1
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          with:
-            tag_name: test-tag
-            release_name: Release ${{ github.ref }}
-            draft: true
-            prerelease: false
-        - name: Download Book Assets
-          uses: actions/download-artifact@v1
-          with:
-            name: stranded-series
-        - name: Upload Release Asset
-          id: upload-release-asset
-          uses: actions/upload-release-asset@v1
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          with:
-            upload_url: ${{ steps.create_release.outputs.upload_url }}
-            asset_path: ./stranded-series.zip
-            asset_name: stranded-series.zip
-            asset_content_type: application/zip
+    name: Release Books
+    needs: job_1
+    runs-on: windows-latest
+    steps:
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: test-tag
+          release_name: Release ${{ github.ref }}
+          draft: true
+          prerelease: false
+      - name: Download Book Assets
+        uses: actions/download-artifact@v1
+        with:
+          name: stranded-series
+      - name: Upload Release Asset
+        id: upload-release-asset
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: ./stranded-series.zip
+          asset_name: stranded-series.zip
+          asset_content_type: application/zip
