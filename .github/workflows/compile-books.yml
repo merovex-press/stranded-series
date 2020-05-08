@@ -6,13 +6,6 @@ on:
       - closed
     branches:
       - master
-# on: push
-#   branches:
-#     - master
-#   pull_request:
-#     branches:
-#       - master
-#       types: [closed]
 
 jobs:
   build:
