@@ -42,7 +42,7 @@ jobs:
       - name: Download Book Assets
         uses: actions/download-artifact@v1
         with:
-          name: stranded-series
+          name: stranded-series.zip
           path: ./
       - name: Upload Release Asset
         id: upload-release-asset
