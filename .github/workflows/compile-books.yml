@@ -43,4 +43,6 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           artifacts: "build/*"
+          tag: test-tag
+          draft: true
           token: ${{ secrets.GITHUB_TOKEN }}
