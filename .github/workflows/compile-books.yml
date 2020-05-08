@@ -1,11 +1,12 @@
 
 name: Compile Books
-on:
-  pull_request:
-    types:
-      - closed
-    branches:
-      - master
+on: [push]
+# on:
+#   pull_request:
+#     types:
+#       - closed
+#     branches:
+#       - master
 
 jobs:
   build:
@@ -15,6 +16,6 @@ jobs:
       - name: Get repo
         uses: actions/checkout@v1
       - name: Run Pandoc Book (Docker)
-        uses: docker://merovex/pandoc-book-compile:latest
+        uses: docker://merovex/book-compiler:latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
