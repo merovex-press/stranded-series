@@ -13,8 +13,7 @@
         "help wanted"
     ]
   template:
-    commit: "({ message, url, author, name }) => `- [${message}](${url}) - ${author
-      ? `@${author}` : name}`"
+    commit: "({ message, url, author, name }) => `- [${message}](${url}) - ${author ? `@${author}` : name}`"
     issue: "- {{labels}} {{name}} [{{text}}]({{url}})"
     label: "[**{{label}}**]"
     noLabel: closed
@@ -23,7 +22,7 @@
     changelogTitle: "# Changelog\n\n"
     release: |-
       ## {{release}} ({{date}})
-      
+
       {{body}}
     "releaseSeparator": "\n---\n\n"
   groupBy:
