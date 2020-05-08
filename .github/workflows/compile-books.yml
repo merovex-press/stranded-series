@@ -29,20 +29,20 @@ jobs:
     needs: job_1
     runs-on: ubuntu-latest
     steps:
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: test-tag
-          release_name: Release ${{ github.ref }}
-          draft: true
-          prerelease: false
+      # - name: Create Release
+      #   id: create_release
+      #   uses: actions/create-release@v1
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      #   with:
+      #     tag_name: test-tag
+      #     release_name: Release ${{ github.ref }}
+      #     draft: true
+      #     prerelease: false
       - name: Upload Artifacts to Release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "build/*"
+          artifacts: "*.pdf,*.docx,*.epub"
           tag: test-tag
           draft: true
           token: ${{ secrets.GITHUB_TOKEN }}
