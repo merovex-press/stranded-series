@@ -43,7 +43,7 @@ jobs:
         uses: actions/download-artifact@v1
         with:
           name: stranded-series
-          path: /home/runner/work/stranded-series/stranded-series/
+          path: ./
       - name: Upload Release Asset
         id: upload-release-asset
         uses: actions/upload-release-asset@v1
@@ -51,6 +51,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./stranded-series.zip
+          asset_path: /home/runner/work/stranded-series/stranded-series/
           asset_name: stranded-series.zip
           asset_content_type: application/zip
