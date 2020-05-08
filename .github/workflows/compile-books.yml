@@ -22,5 +22,5 @@ jobs:
       - name: Archive production artifacts
         uses: actions/upload-artifact@v1
         with:
-          name: build
+          name: ${{ GITHUB_REPOSITORY }}
           path: build
