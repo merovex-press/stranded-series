@@ -46,7 +46,7 @@ jobs:
       - name: Upload Artifacts to Release
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "*.pdf,*.docx,*.epub"
+          artifacts: "/home/runner/work/stranded-series/stranded-series/stranded-series/*"
           tag: test-tag
           draft: true
           token: ${{ secrets.GITHUB_TOKEN }}
