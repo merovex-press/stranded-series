@@ -6,7 +6,7 @@
   "editor.mouseWheelZoom": true,
   "editor.tabCompletion": "on",
   "editor.fontFamily": "'Fira Sans', Consolas, 'Courier New', monospace",
-  "editor.fontSize": 18,
+  "editor.fontSize": 16,
   "editor.fontWeight": "400",
   "editor.suggest.statusBar.visible": true,
   "files.autoSave": "afterDelay",
