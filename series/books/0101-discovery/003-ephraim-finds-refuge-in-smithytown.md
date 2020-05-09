@@ -38,13 +38,13 @@ Straight to the point. "I'm looking for a job. I've worked in a smithy before. Y
 
 The smith shook his head. "Maybe a few years ago. It's the damned war. Most the townsfolk have moved back to Philadelphia, or been killed."
 
-None of this surprised Ephraim. The war lasted nearly half his life. Bradford's _Pennsylvania Journal_ reported on the attrocities. It was a fact of life. "True. But, it's gotten quieter over the past couple of years. With the Navy beating the French and Spanish in the Indies, it will be over soon."
+None of this surprised Ephraim. The war lasted nearly half his life. Bradford's _Pennsylvania Journal_ reported on the atrocities. It was a fact of life. "True. But, it's gotten quieter over the past couple of years. With the Navy beating the French and Spanish in the Indies, it will be over soon."
 
-"Prophet, are ye? It may have quieted between the English and French, but not for us and the Indians." The smith forgot the bellows. "Just the other day, we hear word that Jim Walker just escaped the savages. He made the mistake of straying too far from Fort Loudon when the bastards shot his horse and mounted it saddle on him. Had he not the knife on him, he'd have been a gonner. Heard that, did ye?"
+"Prophet, are ye? It may have quieted between the English and French, but not for us and the Indians." The smith forgot the bellows. "Just the other day, we hear word that Jim Walker just escaped the savages. He made the mistake of straying too far from Fort Loudon when the bastards shot his horse and mounted it saddle on him. Had he not the knife on him, he'd have been a goner. Heard that, did ye?"
 
 Ephraim shook his head.
 
-"Aye. They got him back to the Indian settlement when he was left with two of them. He fetchs his knife when they were both asleep." The smith pantomimed cutting tied wrists. "Just like that, he's free. One of the bastards woke and they scuffled. He grabs the savage by the hair and plunged the knife into his throat." The smith enjoyed acting out the fight. "He said the other fellow woke when he heard his friend killed, but was so scared that he ran off. Mr. Walker only two weeks ago emerged from the wilderness back to Fort Loudon. So, I don't think the settlers will be back as soon as you think."
+"Aye. They got him back to the Indian settlement when he was left with two of them. He fetches his knife when they were both asleep." The smith pantomimed cutting tied wrists. "Just like that, he's free. One of the bastards woke and they scuffled. He grabs the savage by the hair and plunged the knife into his throat." The smith enjoyed acting out the fight. "He said the other fellow woke when he heard his friend killed, but was so scared that he ran off. Mr. Walker only two weeks ago emerged from the wilderness back to Fort Loudon. So, I don't think the settlers will be back as soon as you think."
 
 "Where's Fort Loudon?"
 
@@ -80,7 +80,7 @@ The smith considered Ephraim for a few moments. "Go on. Let me see your hands."
 
 Ephraim held his hands out.
 
-The smith grabbed the hand, and turned it palm up and back to palm down. "Not a dandy's hands. I'll give you that. Not quite rough, but not danty."
+The smith grabbed the hand, and turned it palm up and back to palm down. "Not a dandy's hands. I'll give you that. Not quite rough, but not dainty."
 
 "As I said, I 'prentised under my father. He wanted something better of me and my brother. Don't let my attire deceive you. I can do just about everything you need."
 
