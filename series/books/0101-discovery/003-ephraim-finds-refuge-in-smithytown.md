@@ -76,7 +76,7 @@ Ephraim looked down at his suit.
 
 "My father was a smith, I'll have you know. I 'prentised under him." He made a point of changing his accent a bit. He tried to sound rougher. "I can work the bellows. I can do most of the work you would expect if you had a 'prentise. You're doing work you oughtn't do if you're the master smith. I can't do much about the suit."
 
-The smith considered Ephraim for a few moments. "Go on. Let me see your hands."
+The smith considered Ephraim for a few moments. "Go on. Let me see your hands." 
 
 Ephraim held his hands out.
 
