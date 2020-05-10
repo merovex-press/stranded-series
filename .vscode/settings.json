@@ -19,9 +19,11 @@
   "cSpell.flagWords": [
     "bowb"
   ],
+  "editor.rulers": [80],
   "cSpell.maxDuplicateProblems": 10,
   "cSpell.maxNumberOfProblems": 1000,
   "cSpell.minWordLength": 3,
+  "cSpell.numSuggestions": 10,
   "css.lint.duplicateProperties": "error",
   "css.lint.float": "warning",
   "css.lint.hexColorLength": "warning",
@@ -35,5 +37,4 @@
   "markdownlint.run": "onSave",
   "merge-conflict.autoNavigateNextConflict.enabled": true,
   "scss.lint.boxModel": "warning",
-  "cSpell.numSuggestions": 10
 }
