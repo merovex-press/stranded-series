@@ -14,7 +14,7 @@
 
 **September, 14 1762.** _Ephraim Biggs_ is a Son of Liberty on the lamb. In the rain, he arrives at his brother's _Jeffry Biggs_ home in _Shippensburg, PA_. Once inside and warmed, he asks his brother to shelter him. In the conversation, they argue over why he was there, which leads into the Sons of Liberty and the real reason why Ephraim is on the run. He refuses his brother, and the next morning Ephraim leaves.
 
-- [ ]: Make sure to show the wife & kids; she's pregnant.
+- [x]: Make sure to show the wife & kids; she's pregnant.
 
 ##### Ephraim finds refuge - Chambersburg / O'Brien's Smithy - Noon
 
@@ -33,11 +33,15 @@
 
 ##### Ephraim "Boydell" at Smithy - Chambersburg / O'Brien's Smithy - Day
 
-**November 20, 1762** Ephraim fixes _MOOK-1_'s horse's hoof, foregoing compensation (overseen by Chester approvingly) He later catches Ephraim sleeping in the shop and takes pity by giving him a blanket, etc. They talk politics and Ephraim finds Chester is pro-Liberty.
+**November 20, 1762 (Saturday)** Ephraim fixes _MOOK-1_'s horse's hoof, foregoing compensation (overseen by Chester approvingly) He later catches Ephraim sleeping in the shop and takes pity by giving him a blanket, etc. They talk politics and Ephraim finds Chester is pro-Liberty.
+
+## Mook dies - Burnt Cabin / Sidneyville  - Day
+
+**November 25 1762. (Thursday)** , A Mook travels through Fannet Township to Burnt Cabins / Sidneyville. Gets sense of dread at abandoned township, but is killed by indians before he can depart.
 
 ##### Mortimer Detects Ephraim - Shippensburg / Widow's Tavern - Day
 
-**November 21, 1762** Mortimer discovers Ephraim is in Chambersburg using _Jeffry Boydell_. Mortimer sends Dorian in an effort to help Dorian's career.
+**November 27, 1762 (Saturday)** Mortimer discovers Ephraim is in Chambersburg using _Jeffry Boydell_. Mortimer sends Dorian in an effort to help Dorian's career.
 
 - [ ]: Learn Jeffry Biggs knows Edward Shippen IV
 - [ ]: Learn why Jeffry is in Shippensburg
@@ -46,7 +50,7 @@
 
 ##### Ephraim's Chambersburg escape - Chambersburg / O'brien's Smithy - Day
 
-**November 22 1762** Ephraim is working in the back of the smithy, when Dorian & Mook-1 shows up asking to talk with Jeffry. Ephraim is immediately suspicious, and climbs the ladder to the loft. When Dorian overhears him asking Chester where he lives, he grabs what few possessions he has and uses a rope to escape through the loft's door to the ground below, obfuscated from the road. He runs into MOOK-2 who is waiting for such a move, and the ensuing fight alerts _MOOK-1_ and Ephraim runs away. Dorian warns Chester that they will be back, and he, _MOOK-1_ and others pursue Ephraim. Ephraim steals a horse and gallops away, under pursuit. The race goes until night, with Ephraim fretful that he escaped. He headed into the wilderness. He lets the horse go, hoping it will distract Dorian's team. Hearing their hushed voices, he realizes the hunt is not over.
+**November 30 1762** Ephraim is working in the back of the smithy, when Dorian & Mook-1 shows up asking to talk with Jeffry. Ephraim is immediately suspicious, and climbs the ladder to the loft. When Dorian overhears him asking Chester where he lives, he grabs what few possessions he has and uses a rope to escape through the loft's door to the ground below, obfuscated from the road. He runs into MOOK-2 who is waiting for such a move, and the ensuing fight alerts _MOOK-1_ and Ephraim runs away. Dorian warns Chester that they will be back, and he, _MOOK-1_ and others pursue Ephraim. Ephraim steals a horse and gallops away, under pursuit. The race goes until night, with Ephraim fretful that he escaped. He headed into the wilderness. He lets the horse go, hoping it will distract Dorian's team. Hearing their hushed voices, he realizes the hunt is not over.
 
 ##### Ephraim captured by Dorian - Wilderness - Dawn
 

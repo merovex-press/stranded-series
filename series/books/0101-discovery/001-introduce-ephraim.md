@@ -37,7 +37,7 @@ Ephraim crossed the threshold. The house was warm. The faint wood smoke at the f
 
 "Barbara, would you mind warming up some soup?"
 
-Jeffry's wife Barbara set down her needlework. "Certainly. Good evening, Ephraim."
+Jeffry's wife Barbara set down her needlework. "Certainly. Good evening, Ephraim." As she stood, Ephraim noticed the slight bulge that would be a new niece or nephew. He was there when their first was stillborn. Peggy and Jeffry junior would be asleep upstairs.
 
 He started to shiver. "Evening." Without asking, he moved a nearby three-legged stool closer to the fire and sat.
 
@@ -113,7 +113,7 @@ Jeffry glared at him, just like their father used to. "I will let you stay a few
 <!-- Fort Morris: Built as a log stockade with four bastions enclosing officers quarters, three barracks, storehouses, a guard house and a well. -->
 
 <!-- https://en.wikipedia.org/wiki/Chambersburg,_Pennsylvania#European_settlement -->
-**September, 17 N.S. 1762.** A few days in Shippensburg was all Ephraim needed. On the first day, he toured the town. He was surprised to find the log stockade fort, Fort Morris. It was inactive, but represented English rule nonetheless. He learned it was built to protect this part of the Wagon road during the French & Indian War after Braddock was slain.
+**September, 17 N.S. 1762.** A few days in Shippensburg was all Ephraim needed. On the first day, he toured the town. He was surprised to find the log stockade fort, Fort Morris. It was inactive, but represented English rule nonetheless. He learned it was built to protect this part of the Wagon road during the French & Indian War after Braddock was slain. Given that many of the town's buildings, including Jeffry's house, were made of stone, it struck Ephraim oddly that the fort was wood.
 
 The Widow's Tavern was another inducement to move on. Its clientele included trappers, traders and redcoats. Lobster backs. He needed to get further away. At least until things quieted down. Falling Springs was appealing. It had a fort, privately owned, and few settlers. It was much smaller than it used to be, which meant it may soon resettle. Ephraim worried that hostilities had only recently paused near Falling Springs. It could resume. He thought Jeffry was mad to settle so close to the wilderness with Barbara and their children.
 
@@ -125,7 +125,7 @@ He passed a few travelers on the road. Most were travelers. All were armed. With
 
 Not long before noon, he arrived in Falling Springs. As he had heard, there were more buildings than needed for the inhabitants. A good place to start over.
 
-He made his way straight for the smith. It was near Conococheague Creek, not far from Chamber's fort. It was odd to him that the log fort in Shippensburg filled him with more dread than Chamber's stone fort.
+He made his way straight for the smith. He found it near Conococheague Creek, not far from Chamber's fort. It was odd to him that the log fort in Shippensburg filled him with more dread than Chamber's. Falling Springs oddly mirrored Shippensburg with its wooden houses and stone fort. It was as if Judge Shippen expected his settlement to withstand the test of time, and Chambers did not. Or, it could be because Shippen started earlier. Ephraim thought the war brought a lot into question.
 
 The smith pumped the bellows as Ephraim entered. The smith's back was to the entrance, and he focused intently on his work. Ephraim set his bag down and watched quietly for a few moments. He remembered working the bellows for his dad when he was a boy. A journey towards being a blacksmith diverted to divinity by fortune. The smith was perhaps a dozen years older than Ephraim, or a bit less than that.
 
@@ -169,23 +169,31 @@ The smith sighed. "When there's a town, yes. But that won't be for years."
 
 "My business."
 
-"But, you're a dandy. I mean, look at you."
+"You got a name?"
 
-Ephraim looked down at his suit.
+Ephraim hesitated. The last thing he wanted was his name to attract attention. "Jeffry."
+
+"Jeffry what?"
+
+"Boydell." It came out of his mouth before he could think. Now he had to commit to it. "Jeffry Boydell."
+
+"You're a dandy, Mister Boydell. I mean, look at you. Nobody dresses like that out here."
+
+Ephraim looked down at his suit. It fit Philadelphia fashion with its skin tight breeches buckled at the knee. He had loosened the fitted blue waistcoat during the walk from Shippensburg, but the neckerchief hid that. The gold embroidery and buttons did stand out. The Smith's breeches were similar, albeit black, with a looser fitting brown waistcoat. None of the ruffles, embroidery or non-functional buttons.
 
 "No way you're working in that. You've not worked a rough day in your life."
 
-"My father was a smith, I'll have you know. I 'prentised under him." He made a point of changing his accent a bit. He tried to sound rougher. "I can work the bellows. I can do most of the work you would expect if you had a 'prentise. You're doing work you oughtn't do if you're the master smith. I can't do much about the suit."
+"My father was a smith, I'll have you know." He made a point of changing his accent a bit. He tried to sound rougher. "I 'prentised under him. I can work the bellows. I can do most of the work you would expect if you had a 'prentise. You're doing work you oughtn't do if you're the master smith. I can't do much about the suit. But, you can't judge a book by its cover."
 
-The smith considered Ephraim for a few moments. "Go on. Let me see your hands."
+"Humph." The smith considered Ephraim for a few moments. "Go on. Let me see your hands."
 
 Ephraim held his hands out.
 
-The smith grabbed the hand, and turned it palm up and back to palm down. "Not a dandy's hands. I'll give you that. Not quite rough, but not dainty."
+The smith grabbed the hand, and turned it palm up and back to palm down. "Not a dandy's hands. I'll give you that. Not quite rough, but not dainty. They've seen some work."
 
 "As I said, I 'prentised under my father. He wanted something better of me and my brother. Don't let my attire deceive you. I can do just about everything you need."
 
-"Everything, eh? We'll see about that. It would do to have a lighter load. I'll try you on and see if this works out. But, if you've not proved your metal by week's end, away with ya."
+"Everything, eh? We'll see about that. It would do to have a lighter load. I'll try you on and see if this works out, Mister Boydell. But, if you've not proved your metal by week's end, away with ya."
 
 Ephraim noted the bite in the smith's warning. He thought back to the hot, sweaty days as a young boy. It just occurred to him that he may not be in the best shape to swing a hammer. He had to try. "There's something more?"
 
