@@ -154,9 +154,68 @@ The meal ended abruptly there. The interrogation stole whatever appetite Jeffry 
 
 _My thoughts exactly._ "Sobeit. Split the team and send them out. Have them all report back in a fortnight." Widow Piper's is a fine place for us to headquarter until they return. See to it."
 
+* * *
+
+The next morning, Dorian assembled his men and instructed them to visit the next two towns down each road, then report back. He told them to ask for a preacher or smith, working on the theory Ephraim was using his trade. They broke up and headed to the stable to ride on.
+
+A few minutes later, Sergeant Tailor returned with a sheepish look on his face. "Sir, Doris has a limp."
+
+"Sergeant, I don't know what you do with your mounts. They always come up limp."
+
+"I dunno, sir. It's not like I had them growing up." Sergeant Tailor's accent came from the worst parts of London. Ensign Mabbott knew where they found him, a jail not much farther form there.
+
+"Fine. Take Black Betty. She's rock steady. But go easy on her. She's still a bit wild."
+
+## Mook dies in Burnt Cabin / Sidneyville
+
+**November 20, N.S 1763.**
+
+<!-- https://en.wikipedia.org/wiki/Fannett_Township,_Franklin_County,_Pennsylvania -->
+<!-- https://en.wikipedia.org/wiki/Burnt_Cabins,_Pennsylvania -->
+
+Lance Corporal Miller rode uneasily toward Fannett. He was a foot soldier, unaccustomed to riding a horse. They had been riding since they left New Haven, so he was getting better at it. He would rather be walking.
+
+The town itself was a ride up a narrow path through the mountains from Shippensburg. Miller knew well the area may have savages. The French may have withdrawn to focus on other parts of the world, but the savages were native to the land. They would not leave. The presence of several English settlements did nothing to alleviate his professional concern. The journey took all day.
+
+He arrived in Fannett as the sun had just set. Its reputation as a town was a far cry from what it was. Four cabins flanked the trail. There would be no Ephraim Biggs here. He was ordered to ask.
+
+He dismounted and went to the more substantial of the cabins. None of them looked inviting. He pounded on the door, wishing he had his musket instead of a pistol and hatchet.
+
+The door opened up slightly. The barrel of a musket poking through. "What do you want?" The accent was Irish.
+
+"Sir, I am looking for Ephraim Biggs. He's a preacher, or smith, or something." He hesitated. "Um, he's a friend of mine."
+
+"You're the only stranger in these parts."
+
+"Alright. No need to be alarmed. As I said, he's a friend. He said he was coming this way."
+
+A harumph came from the other side of the door. "Your friend must have sent you the wrong way, mister."
+
+"Alright. I believe you." He took a moment to assess the situation. He needed shelter through the night so he could press on the next day. "Is there somewhere for my horse and I to stay?"
+
+"Not here. Be off with you."
+
+The door slammed as the musket barrel was withdrawn. Miller breathed a sigh of relief. He tried the other cabins to see if any would accept him for the night. With each refusal, he grew more frustrated. _If they knew I was a part of the regiment sent to protect them._ He wanted to exercise what authority being a member of the Royal American Regiment conveyed, but suspected by their Irish accent the attempt would meet with more than the hostility he had just experienced.
+
+He considered his options, and remembered the clearing. He saw it right at dusk, a few furlongs back. He led the horse back the half mile to the clearing, and settled down for the night. Sleeping in the open was not novel to him, though in those times he was accompanied by several hundred men and muskets with pickets and cannon. He counted himself lucky when his unit was reassigned to New Haven. It was as far from any of their campaigns as he could have expected. He cursed this detail to hunt a fugitive as he fell asleep. He did not understand why a simple murder would result in such a manhunt. They happen with regularity in England.
+
+He woke the next day sore and cold. His horse was content grazing on some nearby grass. Miller made a small fire for warmth and ate a bit of breakfast. "If I wait another day or two and head back, they will be none the wiser," he said to the horse. "It's not like you would report me. You like this place well enough. None of these people would report to Captain Bethlehem either." It was just the sort of thing he sorely wanted to do. He suspected that bastard would ask him some silly question like a description of the settlements. "Bethlehem has that glare that read right through you."
+
+He finished breakfast and extinguished the fire. He resaddled the horse and resumed his journey down the path. It was another climb through a mountain down a narrow path. At the bottom of the mountain he crossed a creek. A few minutes later, he stopped. There were several burnt cabins along the path. The path itself was used. There was no sign of habitation. He looked up at the sun and judged it was barely noon.
+
+"Well, this is the second town. If a many like Biggs came this way, I'd be surprised." He patted his horse. "I know where you can get your supper. Let's go back to Fannett." He turned the horse around.
+
+As they reached the creek, he felt a sharp pain in his chest. He recoiled from the suddenness of it and accidentally pulled on the tether. The horse reared back, dumping him onto the trail.
+
+Miller looked at the source of pain and saw an arrow lodged in his lower right chest, just above where the ribcage starts. He unconsciously screamed. He simultaneously wanted to pull it out or run. While he hesitated, another arrow slammed into his chest, closer to the heart. He started to run, but felt his legs losing their ability to move. A third arrow went through the breastbone and into his heart. His legs went out from under him.
+
+He tried to get up, but none of his muscles responded. He wanted to run away, but could not. He rested his head on the path, smelling the earthiness of it.
+
+As he faded to semi-consciousness, he felt his head being grabbed and jerked. He could not see the face, but the hair was long. He imagined it was a beautiful woman cradling his head. She combed his hair with a very sharp comb. He fell asleep.
+
 ## Ephraim Thrives in Chambersburg
 
-**November 20, N.S 1763.** Ephraim wiped his brow. The long day's work had taken its toll. Not as much as it had the first few weeks, but enough to assure him he would sleep well tonight. He grinded from apprentice into journeyman at his father's smithy from the age of seven to seventeen. He knew his way around the shop. Had he kept at it, he would have become a master by 21.
+**November 21, N.S 1763.** Ephraim wiped his brow. The long day's work had taken its toll. Not as much as it had the first few weeks, but enough to assure him he would sleep well tonight. He grinded from apprentice into journeyman at his father's smithy from the age of seven to seventeen. He knew his way around the shop. Had he kept at it, he would have become a master by 21.
 
 It was grueling work, and his father wanted him to follow Jeffry's lead and become an attorney. This despite Jeffry's insistence that he study in Philadelphia, hoping to enter into Dr. Franklin's society.
 
@@ -164,7 +223,7 @@ The last think Ephraim wanted was apprentice to an attorney. He refused. For yea
 
 O'brien daily reminded Ephraim why he should have stayed at Yale. Not that he could under the circumstances. He would not be welcome in Connecticut ever again. He put that out of his mind and finished cleaning the shop. The sun was nearly set and he had not finished. It had been this way for weeks. He only got rest on Sundays, and spent most of his time then asleep. O'brien was getting the most out of the bargain that he could. Ephraim's income was limited to sleeping in the loft and foot from O'brien's table.
 
-Taking a short break Ephraim looked out to the road that led back to Shippensburg. He saw a man walking, followed by a horse on its tether. The horse limped on its front left leg. Ephraim sighed. It would be nightfall before he finished.
+Taking a short break Ephraim looked out to the road that led back to Shippensburg. He saw a man walking, followed by a beautiful black horse on its tether. The horse limped on its front left leg. Ephraim sighed. It would be nightfall before he finished.
 
 He walked toward the man, shortening the distance. "Your horse. Bit of a limp?" His voice strained to speak though a dry mouth.
 
@@ -235,23 +294,6 @@ Ephraim chuckled, agreeing with the sentiment. "We'll have to see what happens w
 "Not yet. Weather's getting dank. I'll let you stay on through the season."
 
 "You can stay in the loft, and I'll pay you what I can. That should give you enough to press on into Virginia come."
-
-- [ ] Need clue it's MOOK-1.
-
-## Mook dies in Burnt Cabin / Sidneyville
-
-**November 25, N.S 1763.**
-
-<!-- https://en.wikipedia.org/wiki/Fannett_Township,_Franklin_County,_Pennsylvania -->
-<!-- https://en.wikipedia.org/wiki/Burnt_Cabins,_Pennsylvania -->
-
-Mook heads down the trail toward Fort Pitt, over mountains, etc. 
-
-Arrives in Fannet Township, which has just a couple families and very angry.
-
-Mook continues West, arrives in village with burned cabins. Signs of recent habitation. Considers going further toward Ft. Pitt. Dreads being alone and encountering Indians. Decides it is a dead-end.
-
-As he leaves the settlement, he is shot in the chest by Indians. Runs a bit, but loses strength quickly. Feels his head being grabbed and jerked as he starts to pass out from blood loss.
 
 ## Mortimer Picks up Pursuit
 

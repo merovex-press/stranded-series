@@ -28,12 +28,16 @@
 
 **November 10,  1762 (Wednesday)** - _Mortimer Bethlehem_ shows up at Jeffry's office a few weeks later, looking for Ephraim. In the ensuing conversation, Mortimer learns Ephraim is trained as a smith, not just a preacher. He doubts Jeffry's honesty, but will not confront him. Afterwards, he argues briefly with his 2nd man _Dorian Mabbott_ about how to handle Jeffry; instead agreeing to focus on the goal of capturing Ephraim. Mortimer sends scouts to neighboring towns.
 
-- [ ]: Introduce Mortimer Bethlehem
-- [ ]: Introduce Dorian Mabbott
+* Captain Mortimer Bethlehem
+  * Good at cards because he's good at reading people
+  * Aristocrat but not first-born
+  * Observes lots of things, but forgets certain details
+  * Disdainful of lower classes, but respecter of people and opinions
+* Ensign Dorian Mabbott
 
 ##### Ephraim "Boydell" at Smithy - Chambersburg / O'Brien's Smithy - Day
 
-**November 20, 1762 (Saturday)** Ephraim fixes _MOOK-1_'s horse's hoof, foregoing compensation (overseen by Chester approvingly) He later catches Ephraim sleeping in the shop and takes pity by giving him a blanket, etc. They talk politics and Ephraim finds Chester is pro-Liberty.
+**November 20, 1762 (Saturday)** Ephraim fixes _Sergeant Dan Tailor's_ horse's hoof, foregoing compensation (overseen by Chester approvingly) He later catches Ephraim sleeping in the shop and takes pity by giving him a blanket, etc. They talk politics and Ephraim finds Chester is pro-Liberty.
 
 ## Mook dies - Burnt Cabin / Sidneyville  - Day
 
@@ -50,7 +54,7 @@
 
 ##### Ephraim's Chambersburg escape - Chambersburg / O'brien's Smithy - Day
 
-**November 30 1762** Ephraim is working in the back of the smithy, when Dorian & Mook-1 shows up asking to talk with Jeffry. Ephraim is immediately suspicious, and climbs the ladder to the loft. When Dorian overhears him asking Chester where he lives, he grabs what few possessions he has and uses a rope to escape through the loft's door to the ground below, obfuscated from the road. He runs into MOOK-2 who is waiting for such a move, and the ensuing fight alerts _MOOK-1_ and Ephraim runs away. Dorian warns Chester that they will be back, and he, _MOOK-1_ and others pursue Ephraim. Ephraim steals a horse and gallops away, under pursuit. The race goes until night, with Ephraim fretful that he escaped. He headed into the wilderness. He lets the horse go, hoping it will distract Dorian's team. Hearing their hushed voices, he realizes the hunt is not over.
+**November 30 1762** Ephraim is working in the back of the smithy, when Dorian & Sergeant Dan Tailor shows up asking to talk with Jeffry. Ephraim is immediately suspicious, and climbs the ladder to the loft. When Dorian overhears him asking Chester where he lives, he grabs what few possessions he has and uses a rope to escape through the loft's door to the ground below, obfuscated from the road. He runs into MOOK-2 who is waiting for such a move, and the ensuing fight alerts _Sergeant Dan Tailor_ and Ephraim runs away. Dorian warns Chester that they will be back, and he, _Sergeant Dan Tailor_ and others pursue Ephraim. Ephraim steals a horse and gallops away, under pursuit. The race goes until night, with Ephraim fretful that he escaped. He headed into the wilderness. He lets the horse go, hoping it will distract Dorian's team. Hearing their hushed voices, he realizes the hunt is not over.
 
 ##### Ephraim captured by Dorian - Wilderness - Dawn
 
@@ -58,7 +62,7 @@ Through the night, he continues to evade Dorian's men. Thinking he is safe, he f
 
 ##### Kariwase ambushes Ephraim & Dorian
 
-Kariwase & his band pick up on the pursuit and follow. They surround Dorian's team when they surround Ephraim. Due to the weapons, they opt to attack at dawn, when the English are the most tired. They open fire, killing _MOOK-1_ and alerting Dorian's men. Given they are veterans of the French & Indian War, they respond accordingly.
+Kariwase & his band pick up on the pursuit and follow. They surround Dorian's team when they surround Ephraim. Due to the weapons, they opt to attack at dawn, when the English are the most tired. They open fire, killing _Sergeant Dan Tailor_ and alerting Dorian's men. Given they are veterans of the French & Indian War, they respond accordingly.
 
 ##### Ephraim escapes Ambush
 
@@ -98,7 +102,7 @@ Ephraim uses the rifle and two clips of bullets to kill them. He loots the bodie
 
 ##### Dorian heads to Philadelphia
 
-Dorian emerges back to Chambersburg and has MOOK-1 & MOOK-3 remain in case Ephraim survives; he is convinced he is dead but errs on the side of caution. He then starts the trip back to Philadelphia with MOOK-4. Mook-1 & -3 agree to alternate who sleeps in the loft and who sleeps in the widow's house.
+Dorian emerges back to Chambersburg and has Sergeant Dan Tailor & MOOK-3 remain in case Ephraim survives; he is convinced he is dead but errs on the side of caution. He then starts the trip back to Philadelphia with MOOK-4. Sergeant Dan Tailor & -3 agree to alternate who sleeps in the loft and who sleeps in the widow's house.
 
 ##### Ephraim heads to Philadelphia
 
@@ -106,7 +110,7 @@ Ephraim emerges a couple days later, tired. At dusk, he slips into the loft, whe
 
 ##### Ephraim's return discovered
 
-Next day, MOOK-1 finds MOOK-3 unconscious. Reviving him, he finds that Ephraim is still alive. Unsure what to do next, he and MOOK-3 head for Philadelphia.
+Next day, Sergeant Dan Tailor finds MOOK-3 unconscious. Reviving him, he finds that Ephraim is still alive. Unsure what to do next, he and MOOK-3 head for Philadelphia.
 
 ##### Kariwase inspects Ephraim's handiwork
 
