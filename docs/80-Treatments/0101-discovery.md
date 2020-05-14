@@ -39,9 +39,9 @@
 
 **November 20, 1762 (Saturday)** Ephraim fixes _Sergeant Dan Tailor's_ horse's hoof, foregoing compensation (overseen by Chester approvingly) He later catches Ephraim sleeping in the shop and takes pity by giving him a blanket, etc. They talk politics and Ephraim finds Chester is pro-Liberty.
 
-## Mook dies - Burnt Cabin / Sidneyville  - Day
+#### Mook dies - Burnt Cabin / Sidneyville  - Day
 
-**November 25 1762. (Thursday)** , A Mook travels through Fannet Township to Burnt Cabins / Sidneyville. Gets sense of dread at abandoned township, but is killed by indians before he can depart.
+**November 25 1762. (Thursday)** , A Mook (Lance Corporal Miller) travels through Fannet Township to Burnt Cabins / Sidneyville. Gets sense of dread at abandoned township, but is killed by indians before he can depart.
 
 ##### Mortimer Detects Ephraim - Shippensburg / Widow's Tavern - Day
 

@@ -106,27 +106,27 @@ That seemed to put Jeffry at ease. He hesitated for a moment before joining them
 
 There was serving bowl of Indian pudding. Mortimer pushed it toward Jeffry. He offered a spare bowl and wooden spoon to Jeffry, who took it from him. Jeffry filled his bowl. Dorian set a mug of ale at Jeffry's place. The three ate together, trading small talk for most of the meal.
 
-"Thank you, gentlemen. We are not yet offering plots for sale. Once a peace treaty is signed, perhaps."
+"Thank you, gentlemen, for that wonderful breakfast. Piper has excellent pudding. I am afraid we are not offering plots for sale quite yet. Once a peace treaty is signed, perhaps."
 
 "I imaging in time Shippensburg will be a thriving city. Handsome countryside. We are not here for that. Have you heard from your brother Ephraim?"
 
-Jeffry paused for a moment. It was almost imperceptible, but enough for Mortimer to know that he had. "No, I haven't. He should be in New Haven."
+Jeffry paused for a moment. His facial expression changed almost imperceptibly. It was enough for Mortimer to judge that Ephraim was here recently. "No, I haven't. He should be in New Haven." Mortimer thought Jeffry did not sound like he expected Ephraim to actually be in New Haven.
 
 "Should be, but he is not. He left New Haven some months ago, and I'm tasked with finding him."
 
 "Is he in some sort of trouble?"
 
-Mortimer paused. As a younger brother, he would want nothing better but for his older brother to disappear. Then he would have title and would not be traipsing over the back side of America. Would Jeffry protect his brother or not? Mortimer decided confronting him with a hard statement would yield a worthwhile reaction. "I'm afraid he is. Ephraim Biggs murdered an English officer last June in New Haven. I've been dispatched to find him for execution."
+Mortimer paused. As a younger brother, he would want nothing better but for his older brother to disappear. Then he would have title and would not be traipsing over the back side of America, to Mortimer's brother's delight. Would Jeffry protect his brother or not? Mortimer decided confronting him with a hard statement would yield a worthwhile reaction. "I'm afraid he is. Ephraim Biggs murdered an English officer last June in New Haven. I've been dispatched to find him for execution."
 
 Dorian started to react when Mortimer cut him off with a glare. It denied him the chance to see Jeffry's reaction.
 
-"But--- No. I don't believe it. Jeffy isn't the murderous sort."
+"But...No. I don't believe it. Jeffy isn't the murderous sort."
 
 Mortimer let a silent pause work for him. Colonial Colonel Whiting hated playing All Fours against Mortimer because of his ability to read the other players. He tried those tactics here. When Jeffry looked down, he gave a glance and wink to Dorian. "Tried and convicted, I'm afraid. He managed to escape the jail soon after. Ensign Mabbott and I have been in pursuit ever since. He gave us a slip in Philadelphia, but we hear rumor that he headed this way. Pray, when did you last see your brother?"
 
 "Not since he went to Yale."
 
-It was a lie that Mortimer read easily. He opted to change tact. "Well, he must not have come this way, then. Ensign, you may have been right. He went to Baltimore." He noticed Jeffry relax his shoulders, though the look of shock on his face remained. "What amazed me that a Puritan ministerial student would be capable of murder with his bare hands. How is it that you became an attorney and he went a different path?"
+It was a lie that Mortimer read easily. He opted to change tact. "Well, he must not have come this way, then. We were convinced he would seek refuge with family. Ensign, you may have been right. He went to Baltimore." He noticed Jeffry relax his shoulders, though the look of shock on his face remained. "What amazed me that a Puritan ministerial student would be capable of murder with his bare hands. How is it that you became an attorney and he went a different path?"
 
 "We weren't born into wealth, if that's what you mean. Our forefathers were smiths. Our grandfather came over after Queen Anne's War. Our father did well enough to send us to college so we could advance the family's position."
 
@@ -136,15 +136,15 @@ The meal ended abruptly there. The interrogation stole whatever appetite Jeffry 
 
 "What was that about?" Dorian said.
 
-"About the conviction? I had to know whether Jeffry knew about the murder. I had to dress it up." He set back in his chair. He steepled his hands together, and tapped his upper lip. "His brother went through here, but failed to tell his brother why. I doubt they are very close. Jeffry is quite a few years older. Did you notice anything else?"
+"About the conviction? I had to know whether Jeffry knew about the murder. I dressed it up a bit." He set back in his chair. He steepled his hands together, and tapped his upper lip. "His brother went through here, but failed to tell his brother why. I doubt they are very close. Jeffry is quite a few years older. Did you notice anything else?"
 
 "They are smiths."
 
-"Quite. Ephraim will not conceal himself as a pastor. Too obvious, and not as much call for that out here."
+"Quite. Ephraim will not conceal himself as a pastor. Too obvious, and not as much call for that out here. Scottish Presbyterians and Purtain Separatists."
 
 "You suppose he reverted to smithing?"
 
-"It makes sense. Either that or he's fled the country and gone south." Ensign Mabbott had not been in America for long. Mortimer decided to size him up a bit. "What do you propose?"
+"It makes sense. Either that or he's fled the country and gone south." Ensign Mabbott had not been in America for long. Mortimer decided to size him up a bit. "What course of action do you propose?"
 
 "Well, we are close to Indian country. There are not too many places that could take a smith. He could have fled south, but his resources would only take him too far. I'll wager a pint that he is in a nearby town working as a smith."
 
@@ -156,15 +156,15 @@ _My thoughts exactly._ "Sobeit. Split the team and send them out. Have them all 
 
 * * *
 
-The next morning, Dorian assembled his men and instructed them to visit the next two towns down each road, then report back. He told them to ask for a preacher or smith, working on the theory Ephraim was using his trade. They broke up and headed to the stable to ride on.
+The next morning, Dorian assembled his men and instructed them to visit the next two towns down each road, then report back. That would fit within Bethlehem's orders and give some indication which way Ephraim went. He told them to ask for a preacher or smith, working on the theory Ephraim was using his trade. They broke up and headed to the stable to ride on.
 
 A few minutes later, Sergeant Tailor returned with a sheepish look on his face. "Sir, Doris has a limp."
 
 "Sergeant, I don't know what you do with your mounts. They always come up limp."
 
-"I dunno, sir. It's not like I had them growing up." Sergeant Tailor's accent came from the worst parts of London. Ensign Mabbott knew where they found him, a jail not much farther form there.
+"I dunno, sir. It's not like I had them growing up." Sergeant Tailor's accent came from the worst parts of London.
 
-"Fine. Take Black Betty. She's rock steady. But go easy on her. She's still a bit wild."
+Ensign Mabbott knew where they found him, a jail not much farther from there. "Fine. Take myBlack Betty. She's rock steady. But go easy on her. She's still a bit wild."
 
 ## Mook dies in Burnt Cabin / Sidneyville
 
@@ -173,11 +173,11 @@ A few minutes later, Sergeant Tailor returned with a sheepish look on his face. 
 <!-- https://en.wikipedia.org/wiki/Fannett_Township,_Franklin_County,_Pennsylvania -->
 <!-- https://en.wikipedia.org/wiki/Burnt_Cabins,_Pennsylvania -->
 
-Lance Corporal Miller rode uneasily toward Fannett. He was a foot soldier, unaccustomed to riding a horse. They had been riding since they left New Haven, so he was getting better at it. He would rather be walking.
+Lance Corporal Miller rode uneasily toward Fannett. He was a foot soldier, unaccustomed to riding a horse. They had been riding since they left New Haven, so he was getting better at it. He would rather be walking. He cursed Ephraim Biggs for pulling him further away from civilization.
 
-The town itself was a ride up a narrow path through the mountains from Shippensburg. Miller knew well the area may have savages. The French may have withdrawn to focus on other parts of the world, but the savages were native to the land. They would not leave. The presence of several English settlements did nothing to alleviate his professional concern. The journey took all day.
+The town of Fannett was a ride up a narrow path through the mountains from Shippensburg. Miller knew well the area may have savages. The French may have withdrawn to focus on other parts of the world, but the savages were native to the land. They would not leave. The presence of several English settlements did nothing to alleviate his professional concern. He rode carefully, watchful for any sign of threat. The journey took all day.
 
-He arrived in Fannett as the sun had just set. Its reputation as a town was a far cry from what it was. Four cabins flanked the trail. There would be no Ephraim Biggs here. He was ordered to ask.
+He arrived in Fannett as the sun had just set. Its reputation as a town was a far cry from what it was. Four cabins flanked the trail. There would be no Ephraim Biggs here. The officers ordered him ask, so he would ask.
 
 He dismounted and went to the more substantial of the cabins. None of them looked inviting. He pounded on the door, wishing he had his musket instead of a pistol and hatchet.
 
@@ -189,27 +189,27 @@ The door opened up slightly. The barrel of a musket poking through. "What do you
 
 "Alright. No need to be alarmed. As I said, he's a friend. He said he was coming this way."
 
-A harumph came from the other side of the door. "Your friend must have sent you the wrong way, mister."
+A harumph came from the other side of the door. "Your friend must have sent you the wrong way, Englishman."
 
 "Alright. I believe you." He took a moment to assess the situation. He needed shelter through the night so he could press on the next day. "Is there somewhere for my horse and I to stay?"
 
 "Not here. Be off with you."
 
-The door slammed as the musket barrel was withdrawn. Miller breathed a sigh of relief. He tried the other cabins to see if any would accept him for the night. With each refusal, he grew more frustrated. _If they knew I was a part of the regiment sent to protect them._ He wanted to exercise what authority being a member of the Royal American Regiment conveyed, but suspected by their Irish accent the attempt would meet with more than the hostility he had just experienced.
+The door slammed as the musket barrel was withdrawn. Miller breathed a sigh of relief. He tried the other cabins to see if any would accept him for the night. With each refusal, he grew more frustrated. _If they knew I was a part of the regiment sent to protect them._ He wanted to exercise what authority being a member of the Royal American Regiment conveyed, but suspected by their Irish accents the effort would meet with more than the hostility he had just experienced.
 
-He considered his options, and remembered the clearing. He saw it right at dusk, a few furlongs back. He led the horse back the half mile to the clearing, and settled down for the night. Sleeping in the open was not novel to him, though in those times he was accompanied by several hundred men and muskets with pickets and cannon. He counted himself lucky when his unit was reassigned to New Haven. It was as far from any of their campaigns as he could have expected. He cursed this detail to hunt a fugitive as he fell asleep. He did not understand why a simple murder would result in such a manhunt. They happen with regularity in England.
+He considered his options, and remembered the clearing. He saw it right at dusk, a few furlongs back. He led the horse back to the clearing, and settled down for the night. Sleeping in the open was not novel to him, though in those times he was accompanied by several hundred men and muskets with pickets and cannon. He counted himself lucky when his unit was reassigned to New Haven. It was as far from any of their campaigns as he could have expected. He cursed this detail to hunt a fugitive as he fell asleep. He did not understand why a simple murder would result in such a manhunt. They happen with regularity in England.
 
-He woke the next day sore and cold. His horse was content grazing on some nearby grass. Miller made a small fire for warmth and ate a bit of breakfast. "If I wait another day or two and head back, they will be none the wiser," he said to the horse. "It's not like you would report me. You like this place well enough. None of these people would report to Captain Bethlehem either." It was just the sort of thing he sorely wanted to do. He suspected that bastard would ask him some silly question like a description of the settlements. "Bethlehem has that glare that read right through you."
+He woke the next day sore and cold. His horse was content grazing on some nearby grass. Miller made a small fire for warmth. He ate a bit of breakfast. "If I wait another day or two and head back, they will be none the wiser," he said to the horse. "It's not like you would report me. You like this place well enough. None of these people would report to Captain Bethlehem either." It was just the sort of thing he sorely wanted to do. He suspected that bastard would ask him some silly question like a description of the settlements. "Bethlehem has that glare that read right through you."
 
-He finished breakfast and extinguished the fire. He resaddled the horse and resumed his journey down the path. It was another climb through a mountain down a narrow path. At the bottom of the mountain he crossed a creek. A few minutes later, he stopped. There were several burnt cabins along the path. The path itself was used. There was no sign of habitation. He looked up at the sun and judged it was barely noon.
+He finished breakfast and extinguished the fire. He resaddled the horse and resumed his journey down the path. It was another climb through a mountain down a narrow path. At the bottom of the mountain he crossed a creek. A few minutes later, he stopped. There were several burnt cabins along the path. The path itself was used, but there was no sign of habitation. He looked up at the sun and judged it was barely noon.
 
 "Well, this is the second town. If a many like Biggs came this way, I'd be surprised." He patted his horse. "I know where you can get your supper. Let's go back to Fannett." He turned the horse around.
 
 As they reached the creek, he felt a sharp pain in his chest. He recoiled from the suddenness of it and accidentally pulled on the tether. The horse reared back, dumping him onto the trail.
 
-Miller looked at the source of pain and saw an arrow lodged in his lower right chest, just above where the ribcage starts. He unconsciously screamed. He simultaneously wanted to pull it out or run. While he hesitated, another arrow slammed into his chest, closer to the heart. He started to run, but felt his legs losing their ability to move. A third arrow went through the breastbone and into his heart. His legs went out from under him.
+Miller looked at the source of pain and saw an arrow lodged in his lower right chest, just above where the ribcage starts. He unconsciously screamed. He simultaneously wanted to pull it out or run. While he hesitated, another arrow slammed into his chest, closer to the heart. He tried to run, but his legs lost their ability to move. A third arrow went through the breastbone and into his heart. His legs went out from under him.
 
-He tried to get up, but none of his muscles responded. He wanted to run away, but could not. He rested his head on the path, smelling the earthiness of it.
+He tried to get up, but none of his muscles responded. He wanted to run away, but could not. He rested his head on the path, smelling the earthiness of it. He was tired. The ride made him want to take a nap.
 
 As he faded to semi-consciousness, he felt his head being grabbed and jerked. He could not see the face, but the hair was long. He imagined it was a beautiful woman cradling his head. She combed his hair with a very sharp comb. He fell asleep.
 
