@@ -6,9 +6,11 @@
         "biggs",
         "boydell",
         "boydell's",
+        "calverts",
         "chambersburg",
         "conococheague",
         "decocked",
+        "elizabethtown",
         "fannett",
         "garand",
         "gentlemen's",
@@ -21,6 +23,7 @@
         "mook",
         "mooks",
         "moritmer",
+        "penns",
         "prentise",
         "prentised",
         "reece",
@@ -31,5 +34,9 @@
         "unsoftened",
         "winsland",
         "winsland's"
+    ],
+    "ignoreWords": [
+        "shippens",
+        "thirdtown"
     ]
 }

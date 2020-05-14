@@ -28,12 +28,12 @@
 
 **November 10,  1762 (Wednesday)** - _Mortimer Bethlehem_ shows up at Jeffry's office a few weeks later, looking for Ephraim. In the ensuing conversation, Mortimer learns Ephraim is trained as a smith, not just a preacher. He doubts Jeffry's honesty, but will not confront him. Afterwards, he argues briefly with his 2nd man _Dorian Mabbott_ about how to handle Jeffry; instead agreeing to focus on the goal of capturing Ephraim. Mortimer sends scouts to neighboring towns.
 
-* Captain Mortimer Bethlehem
-  * Good at cards because he's good at reading people
-  * Aristocrat but not first-born
-  * Observes lots of things, but forgets certain details
-  * Disdainful of lower classes, but respecter of people and opinions
-* Ensign Dorian Mabbott
+- Captain Mortimer Bethlehem
+  - Good at cards because he's good at reading people
+  - Aristocrat but not first-born
+  - Observes lots of things, but forgets certain details
+  - Disdainful of lower classes, but respecter of people and opinions
+- Ensign Dorian Mabbott
 
 ##### Ephraim "Boydell" at Smithy - Chambersburg / O'Brien's Smithy - Day
 
@@ -41,7 +41,7 @@
 
 #### Mook dies - Burnt Cabin / Sidneyville  - Day
 
-**November 25 1762. (Thursday)** , A Mook (Lance Corporal Miller) travels through Fannet Township to Burnt Cabins / Sidneyville. Gets sense of dread at abandoned township, but is killed by indians before he can depart.
+**November 25 1762. (Thursday)** , A Mook (Lance Corporal Miller) travels through Fannett Township to Burnt Cabins / Sidneyville. Gets sense of dread at abandoned township, but is killed by indians before he can depart.
 
 ##### Mortimer Detects Ephraim - Shippensburg / Widow's Tavern - Day
 
