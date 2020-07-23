@@ -7,6 +7,7 @@
   "editor.tabCompletion": "on",
   "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
   "editor.fontSize": 16,
+  "editor.fontLigatures": true,
   "editor.fontWeight": "400",
   "editor.suggest.statusBar.visible": true,
   "files.autoSave": "afterDelay",
@@ -27,11 +28,12 @@
         "so",
         "start",
         "started",
-        "teh",
+        "teh"
   ],
   "cSpell.ignoreRegExpList": [
     "'s\\b"
   ],
+  "editor.rulers": [80],
   "cSpell.maxDuplicateProblems": 10,
   "cSpell.maxNumberOfProblems": 1000,
   "cSpell.minWordLength": 3,
@@ -72,7 +74,11 @@
   "markdown-toc.insertAnchor": true,
   "markdown-toc.orderedList": true,
   "markdownlint.run": "onSave",
+  "[markdown]": {
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
+    "editor.fontFamily": "'Fira Sans'"
+  },
   "merge-conflict.autoNavigateNextConflict.enabled": true,
-  "scss.lint.boxModel": "warning",
-  "cSpell.numSuggestions": 10
+  "scss.lint.boxModel": "warning"
 }
