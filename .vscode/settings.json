@@ -65,7 +65,8 @@
     "editor.wordWrapColumn": 70,
     "editor.lineHeight": 30,
     "editor.fontSize": 18,
-    "editor.fontFamily": "'Fira Sans','Source Serif Pro', Literata"
+    "editor.fontFamily": "'Fira Sans','Source Serif Pro', Literata",
+    
   },
   "markdown.preview.fontSize": 18,
   "markdownShortcuts.icons.citations": true,

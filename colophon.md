@@ -1,7 +1,7 @@
 # Colophon
 
 <!-- colophon -->
-This series uses the software industry [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery) practice to automate rote book production activities. We automate by using [Circle CI](https://circleci.com/) and [Github Actions](https://github.com/features/actions). The specific actions are found in either the `.github` or `.circleci` directories in this repository. These automations use Docker
+This series uses the software industry [Continuous Delivery](https://en.wikipedia.org/wiki/Continuous_delivery) practice to automate rote book production activities. We automate by using [Github Actions](https://github.com/features/actions). The specific actions are found in either the `.github` or `.circleci` directories in this repository. These automations use Docker
 
 **Commit Style.**
 In order to try to put some structure to my commits, I add the following "types" to commit messages using the format `<type>(<scope>): <subject>`.
