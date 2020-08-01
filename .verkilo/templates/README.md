@@ -66,7 +66,7 @@ These are the major characters in the series and their roles.
 
 <!-- major-character-section -->
 
-### Historical
+## Historical Characters
 
 <!-- historical-character-section -->
 
