@@ -11,6 +11,13 @@ major-character:
     * **[%{name}](%{filename})** (%{season})
     %{summary}
   header: ''
+historical-character:
+  list: []
+  sortby: :name
+  template: |
+    * **[%{name}](%{filename})** (%{season})
+    %{summary}
+  header: ''
 season:
   list: []
   sortby: :order
@@ -58,6 +65,10 @@ trope:
 These are the major characters in the series and their roles.
 
 <!-- major-character-section -->
+
+### Historical
+
+<!-- historical-character-section -->
 
 ## Key Locations
 
