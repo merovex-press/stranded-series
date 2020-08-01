@@ -2,7 +2,7 @@
 name: Ben Franklin
 role: hero
 order: 1
-type: historical
+type: historical-character
 season: seasons 3–5; guest season 1; recurring season 2
 actor: <who would you want to portray him?>
 summary:
