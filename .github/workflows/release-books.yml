@@ -20,7 +20,7 @@ jobs:
       - name: Upload Artifacts
         uses: actions/upload-artifact@v1
         with:
-          name: stranded-series
+          name: strand-series
           path: build
   job_2:
     name: Upload Books to Release
@@ -29,11 +29,11 @@ jobs:
       - name: Download Artifacts from Build
         uses: actions/download-artifact@v1
         with:
-          name: stranded-series
+          name: strand-series
       - name: Draft Release & Upload Artifacts
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "/home/runner/work/stranded-series/stranded-series/stranded-series/*"
+          artifacts: "/home/runner/work/strand-series/strand-series/strand-series/*"
           tag: book-release
           draft: true
           token: ${{ secrets.GITHUB_TOKEN }}

@@ -9,7 +9,7 @@ In the 18th Century, British-Americans uncover an [ancient acropolis] that intro
 
 Throughout the 19th Century, a secret British society reverse-engineers the [Neutrinovoltaic power][phlebotinum]. This increases degrees of separation between Britain and the rest of the world, creating a [decade dissonance]. A technological espionage struggle ensues among the great powers. The Napoleonic & Crimean wars occur per OTL, but with different outcomes. British North America starts its Western expansion, leading to the Mexican war, which becomes British.
 
-By the 20th Century, technological equilibrium is established with Britain replicating its IRL trade dominance benefiting Europe. The UK re-invents slipstream travel, with Albert Strand ultimately stranded on Elysion and trying to get home. Belize becomes the launch region for space travel.
+By the 20th Century, technological equilibrium is established with Britain replicating its IRL trade dominance benefiting Europe. The UK re-invents slipstream travel, with Albert Strand ultimately strand on Elysion and trying to get home. Belize becomes the launch region for space travel.
 
 In Strand Series, we explore the perennial struggle of a society when its technological capabilities out-strips its morality. Most Americans do not understand the technology they use. Nor are they interested in its long-term implications. We also explore the tension between centralism/de-centralism, individualism, etc. As religion was a significant part of society, Christianity will be explored in a manner non-threatening to the reader.
 

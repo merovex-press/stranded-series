@@ -1,6 +1,6 @@
 ---
 title: "Discovery"
-subtitle: "Stranded Series: Book 1"
+subtitle: "Strand Series: Book 1"
 # ===============================================
 # Other titles by the author
 # other-titles:

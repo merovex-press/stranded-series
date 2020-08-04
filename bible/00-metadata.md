@@ -1,6 +1,6 @@
 ---
-title: "Stranded Series Bible"
-subtitle: "The world building guide for the Stranded Series"
+title: "Strand Series Bible"
+subtitle: "The world building guide for the Strand Series"
 
 # Copyright Information
 rights: Copyright © 2019 Ben Wilson

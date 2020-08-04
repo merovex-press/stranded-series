@@ -1,7 +1,7 @@
-# Stranded
+# Strand
 
 <!--ts-->
-   * [Stranded](#stranded)
+   * [Strand](#strand)
       * [Concept](#concept)
          * [Logline](#logline)
          * [Synopsis](#synopsis)
@@ -33,7 +33,7 @@
 
 ### Logline
 
-A homesick slipstream scientist watches an alien society from space. When his orbital is attacked, he is forced to abandon ship and finds himself stranded on the planet's surface.
+A homesick slipstream scientist watches an alien society from space. When his orbital is attacked, he is forced to abandon ship and finds himself strand on the planet's surface.
 
 <!-- Write a short and powerful description of the core concept. Two sentences is ideal. A logline for a scripted series will often describe the main character's plight and unique circumstance that drives the story.  -->
 

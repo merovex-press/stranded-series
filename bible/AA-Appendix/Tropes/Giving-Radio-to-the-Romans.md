@@ -17,7 +17,7 @@ Either way, this is a long term plan. Even optimistic heroes will expect to take
 
 [Ancient Astronauts][9fxRzT6A] and explorers rediscovering [lost colonies][M0WCmQYS] occasionally fall into the trope, if the story goes into detail about how they introduce technological advances, but they normally gloss that over. By contrast, works in this subgenre typically go into great details about the new technologies being introduced to the past, and their social impact, as well as addressing all the problems that would realistically crop up.
 
-If the stranded party has a phone to a high-tech society, whether in the future or on another world, this trope can still apply. The phone can provide them with all the information they need, but they still have to deal with the immense practical problems involved in getting from medieval to modern technology. It would still take decades to get 14th century England from church bells to digital clocks, even with an internet connection to the present day, and the full resources of the kingdom at your disposal. However, if the stranded party can get actual physical objects from their high-tech friends, the difficulties melt away, and this trope does not apply.
+If the strand party has a phone to a high-tech society, whether in the future or on another world, this trope can still apply. The phone can provide them with all the information they need, but they still have to deal with the immense practical problems involved in getting from medieval to modern technology. It would still take decades to get 14th century England from church bells to digital clocks, even with an internet connection to the present day, and the full resources of the kingdom at your disposal. However, if the strand party can get actual physical objects from their high-tech friends, the difficulties melt away, and this trope does not apply.
 
 If a Hero succeeds, there's still a risk of [going horribly wrong][PNef0Ya1], [going horribly right][eruRVYhM], or both.
 
@@ -38,7 +38,7 @@ If the Hero went back in time with the purpose of using this trope to change his
 
 <!-- Reference URLs -->
 [askHV3lK]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TrappedInThePast 
-[5L3MU579]: https://tvtropes.org/pmwiki/pmwiki.php/Main/StrandedWithEdison 
+[5L3MU579]: https://tvtropes.org/pmwiki/pmwiki.php/Main/StrandWithEdison 
 [S3PpCKJX]: https://tvtropes.org/pmwiki/pmwiki.php/Main/TechnologyLevels 
 [9fxRzT6A]: https://tvtropes.org/pmwiki/pmwiki.php/Main/AncientAstronauts 
 [M0WCmQYS]: https://tvtropes.org/pmwiki/pmwiki.php/Main/LostColony 

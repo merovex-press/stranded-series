@@ -1,4 +1,4 @@
-# Stranded Series
+# Strand Series
 
 ![Compile Books](https://github.com//workflows/Compile%20Books/badge.svg)
 ![Compile Readme](https://github.com//workflows/Compile%20Readme/badge.svg)
@@ -12,7 +12,7 @@ In the 18th Century, British-Americans uncover an [ancient acropolis] that intro
 
 Throughout the 19th Century, a secret British society reverse-engineers the [Neutrinovoltaic power][phlebotinum]. This increases degrees of separation between Britain and the rest of the world, creating a [decade dissonance]. A technological espionage struggle ensues among the great powers. The Napoleonic & Crimean wars occur per OTL, but with different outcomes. British North America starts its Western expansion, leading to the Mexican war, which becomes British.
 
-By the 20th Century, technological equilibrium is established with Britain replicating its IRL trade dominance benefiting Europe. The UK re-invents slipstream travel, with Albert Strand ultimately stranded on Elysion and trying to get home. Belize becomes the launch region for space travel.
+By the 20th Century, technological equilibrium is established with Britain replicating its IRL trade dominance benefiting Europe. The UK re-invents slipstream travel, with Albert Strand ultimately strand on Elysion and trying to get home. Belize becomes the launch region for space travel.
 
 In Strand Series, we explore the perennial struggle of a society when its technological capabilities out-strips its morality. Most Americans do not understand the technology they use. Nor are they interested in its long-term implications. We also explore the tension between centralism/de-centralism, individualism, etc. As religion was a significant part of society, Christianity will be explored in a manner non-threatening to the reader.
 
@@ -54,7 +54,7 @@ We also explain how American remaining a part of Great Britain would not have hi
 ### Concept
 
 <!-- setting_overview -->
-**Stranded** is an alternate history (low-fantasy) series diverging in the 18th Century when British North America undergoes [technologic acceleration][VcUi1erb] caused by discovered lost technology. The British believe the technology to come from ancient aliens they named the "Toltec" or "Forefathers" after the native mounds where the technology was discovered; there are no aliens in the series.
+**Strand** is an alternate history (low-fantasy) series diverging in the 18th Century when British North America undergoes [technologic acceleration][VcUi1erb] caused by discovered lost technology. The British believe the technology to come from ancient aliens they named the "Toltec" or "Forefathers" after the native mounds where the technology was discovered; there are no aliens in the series.
 Access to advanced technology early set the British on a path to global dominance unabated in the 20th Century.
 
 In the 18th Century, Toltec discoveries led to advanced weapons (automatic rifles). In the 19th Century, Toltec Neutrinovoltaic technology accelerated the industrial era. By the early 20th Century, Brits were in space and leveraging Toltec technology for [Slipstream][ltDHHbfX] (faster-than-light) travel. Traveling the Slipsteam reveals "[Elysion][UPkFi3ZN]," an inhabited earth-like planet two knots from Earth. Afraid this was the alien homeworld, the British set up on an abandoned Toltec orbital to observe Elysion, which led to Elysian anthropology.
@@ -62,17 +62,17 @@ In the 18th Century, Toltec discoveries led to advanced weapons (automatic rifle
 Elysion inhabitants are humans genetically identical to Earth. Albert encounters the Hela, a dark-skinned, Indo-European-appearing ethnicity speaking what Albert determines is an older Germanic (Icelandic) language. The Hela, technologically in the Renaissance, are in the early stages of a civil war, with a rival branch of the ruling family seeking to gain power.
 
 <!-- Reference URLs -->
-[VcUi1erb]: https://github.com/Merovex/stranded-series/blob/master/series-bible/AA-Appendix/Tropes/GivingRadioToTheRomans.md
-[vLFiDV9E]: https://github.com/Merovex/stranded-series/blob/master/series-bible/AA-Appendix/Tropes/Advanced-Ancient-Humans.md
-[ltDHHbfX]: https://github.com/Merovex/stranded-series/blob/master/series-bible/08-Science-Cosmology/slipstream.md
-[UPkFi3ZN]: https://github.com/Merovex/stranded-series/blob/master/series-bible/04-Locations/Elysion/00-elysion.md
+[VcUi1erb]: https://github.com/Merovex/strand-series/blob/master/series-bible/AA-Appendix/Tropes/GivingRadioToTheRomans.md
+[vLFiDV9E]: https://github.com/Merovex/strand-series/blob/master/series-bible/AA-Appendix/Tropes/Advanced-Ancient-Humans.md
+[ltDHHbfX]: https://github.com/Merovex/strand-series/blob/master/series-bible/08-Science-Cosmology/slipstream.md
+[UPkFi3ZN]: https://github.com/Merovex/strand-series/blob/master/series-bible/04-Locations/Elysion/00-elysion.md
 [Read more](./bible/02-Setting/00-Setting-Introduction.md)
 <!-- /setting_overview -->
 
 ### Format
 
 <!-- format_overview -->
-**Stranded** is a novella series broken down into seasons. Each season comprises 8--10 novellas as "chapters." This follows the [UK drama](https://tvtropes.org/pmwiki/pmwiki.php/Main/BritishBrevity) or [Anime](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwelveEpisodeAnime) series season length. (See [research](research/season-episode.md))
+**Strand** is a novella series broken down into seasons. Each season comprises 8--10 novellas as "chapters." This follows the [UK drama](https://tvtropes.org/pmwiki/pmwiki.php/Main/BritishBrevity) or [Anime](https://tvtropes.org/pmwiki/pmwiki.php/Main/TwelveEpisodeAnime) series season length. (See [research](research/season-episode.md))
 
 **Pattern.** Seasons follow three intertwined storylines: combat, espionage/technology and diplomacy.
 
@@ -176,7 +176,7 @@ These tropes were found on TV Tropes and provide a reference to how the series h
 <!-- contributing -->
 First of all, thank you for thinking of contributing. Writing is a largely solo effort, so direct contribution is unlikely with the exception of beta readers and editors. If you find a mistake somewhere, the reader community and I would love it if you would create an issue. I will review and address all legitimate issues posted.
 
-Before creating an issue, please [check this list](https://github.com/Merovex/stranded-series/issues) as you might find out that you don't need to create one. When you are creating a report, please include as many details as possible.
+Before creating an issue, please [check this list](https://github.com/Merovex/strand-series/issues) as you might find out that you don't need to create one. When you are creating a report, please include as many details as possible.
 [Read more](./CONTRIBUTING.md)
 <!-- /contributing -->
 

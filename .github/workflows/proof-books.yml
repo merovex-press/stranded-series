@@ -16,5 +16,5 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@v1
         with:
-          name: stranded-series
+          name: strand-series
           path: build
