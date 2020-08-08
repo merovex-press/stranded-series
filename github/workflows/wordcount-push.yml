@@ -1,0 +1,19 @@
+
+name: Wordcount Books (on Demand)
+on: [push]
+jobs:
+  build:
+    if: "contains(toJSON(github.event.commits.*.message), '@verkilo wordcount')"
+    name: Wordcount
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get repo
+        uses: actions/checkout@main
+        with:
+          ref: develop
+      - name: Run wordcount (Docker)
+        uses: docker://merovex/verkilo:latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACTION: wordcount
+          FLAGS: "--delta"
