@@ -4,25 +4,24 @@
 # the repository's README based on the template and other Markdown files
 # In the repository.
 # =================================================
-# on: [push]
-on:
-  pull_request:
-    types:
-      - closed
-    branches:
-      - master
-
 name: Compile Readme
+on: [push]
 jobs:
   build:
+    if: "contains(toJSON(github.event.commits.*.message), '@verkilo readme')"
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v1
+      - name: Get repo
+        uses: actions/checkout@main
         with:
-          fetch-depth: 1
+          ref: master
       - name: Compile
-        uses: docker://merovex/pandoc-book-readme:latest
+        uses: docker://merovex/readme-writer:latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPO_NAME: Merovex/strand-series
+      - name: Commit files
+        run: |
+          git config --global user.email "ben@merovex.com"
+          git config --global user.name "Ben W"
+          git commit -am "Rebuilt README from contents"
+          git push origin $(git symbolic-ref HEAD | cut -d'/' -f3)
