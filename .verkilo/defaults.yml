@@ -30,7 +30,23 @@ toc: false
 toc-depth: 2
 chapter-color: Maroon
 
-seriffont: "Source Serif Pro"
+mainfont: "Literata"
 sansfont: "Source Sans Pro"
-monofont: "Source Code Pro"
+monofont: "Fira Code"
+
+other-titles:
+  -
+    name: Postal Marines
+    tag: Military space opera
+    books:
+      - Bellicose
+      - Luctation
+      - Imbroglio
+      - Scintilla
+  -
+    name: Stranded
+    tag: Alternative History
+    books:
+      - Discovery
+
 ---

@@ -1,7 +1,7 @@
-# Stranded Series Bible
+# Strand Series Bible
 
 <!--ts-->
-   * [Stranded Series Bible](#stranded-series-bible)
+   * [Strand Series Bible](#strand-series-bible)
       * [FRANCHISE](#franchise)
          * [Concept](#concept)
          * [Central Conflict / Theme](#central-conflict--theme)

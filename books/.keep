@@ -1,5 +1,5 @@
 ---
-title: "Stranded: Discovery"
+title: "Strand: Discovery"
 subtitle: "Lorem Series Book 1"
 # ===============================================
 # Other titles by the author

@@ -1,6 +1,6 @@
 #### Space Travel
 
-This section discusses the application of slower-than-light (STL) space travel. As IRL, **Stranded** space travel involves use of reaction drives, though Toltec technology accelerated the development of very efficient drives.
+This section discusses the application of slower-than-light (STL) space travel. As IRL, **Strand** space travel involves use of reaction drives, though Toltec technology accelerated the development of very efficient drives.
 
 ##### Edison Drives
 

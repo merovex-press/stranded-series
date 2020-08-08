@@ -2,7 +2,7 @@
 ## Business Plan
 
 <!-- buisness-plan -->
-The **Stranded Series** provides bite-sized, high-volume, through-provoking entertainment to its target audience by releasing serial novellas as books & audiobooks.
+The **Strand Series** provides bite-sized, high-volume, through-provoking entertainment to its target audience by releasing serial novellas as books & audiobooks.
 Our audience are people who find themselves on the road for longer than a typical commute and want to pass the time.
 We attract & engage with our audience through ads, blogging (written, video, audio), limited social media and newsletter.
 We distribute through Amazon with a pricing structure that optimizes royalties without irritating our audience.
@@ -17,15 +17,15 @@ We distribute through Amazon with a pricing structure that optimizes royalties w
 
 <!-- Who are the customers? What do they think? See? Feel? Do? -->
 
-Stranded readers come from a wide background. They like history, are skeptical, but accept diverse values and opinions while retaining their own. They like to wonder what would happen if a few things in the past turned out differently.
+Strand readers come from a wide background. They like history, are skeptical, but accept diverse values and opinions while retaining their own. They like to wonder what would happen if a few things in the past turned out differently.
 
-1. **White-collar travelers.** Some Stranded readers commute, so they want to have short bursts of entertainment that fits in the time spent waiting in the airport or in the air.
-2. **Super-Commuters.** Some Stranded readers spend 2 hours a day on commuting. Like white-collar travelers, they are looking for entertainment that fits their travel time.
-2. **Blue-collar truckers.** Some Stranded readers are on the road for work. These are truckers who are looking for something to keep them from getting bored for longer periods.
+1. **White-collar travelers.** Some Strand readers commute, so they want to have short bursts of entertainment that fits in the time spent waiting in the airport or in the air.
+2. **Super-Commuters.** Some Strand readers spend 2 hours a day on commuting. Like white-collar travelers, they are looking for entertainment that fits their travel time.
+2. **Blue-collar truckers.** Some Strand readers are on the road for work. These are truckers who are looking for something to keep them from getting bored for longer periods.
 
 ### Genres
 
-Stranded is an Alternate/Alternative History genre series. The Genre Research table below shows there are three genre keyword paths that all point to the same best-seller list. Stranded is a political thriller (set against the backdrop of a political power struggle. They usually involve various extra-legal plots, designed to give political power to someone, while his opponents try to stop him. Political corruption, terrorism, and warfare are common themes).  [@PoliticalThriller2020]
+Strand is an Alternate/Alternative History genre series. The Genre Research table below shows there are three genre keyword paths that all point to the same best-seller list. Strand is a political thriller (set against the backdrop of a political power struggle. They usually involve various extra-legal plots, designed to give political power to someone, while his opponents try to stop him. Political corruption, terrorism, and warfare are common themes).  [@PoliticalThriller2020]
 
 Table: Genre Research
 
@@ -51,7 +51,7 @@ Alternate History      130:30         390:4000   Books > Literature & Fiction >
 
 What’s compelling about the proposition? Why do customers buy, use?
 
-Stranded provides uplifting serial fiction novellas to satisfy our customer segments' desire for entertainment. Each novella should be short enough to fit in the time a reader / listener is either at the airport, in the air, or in the car. Novellas seasons are long enough to fill a long-hauler's driving week. Being short, we are not competing heavily for their time with other entertainment options. We fill the gap.
+Strand provides uplifting serial fiction novellas to satisfy our customer segments' desire for entertainment. Each novella should be short enough to fit in the time a reader / listener is either at the airport, in the air, or in the car. Novellas seasons are long enough to fill a long-hauler's driving week. Being short, we are not competing heavily for their time with other entertainment options. We fill the gap.
 
 Our Author business model is "solo-developed high-volume fiction." We seek to put out a new 10-book season every two years to start, launching a new book very 2 months. In a perfect world (full-time writing), a new season would launch every year with books released monthly. In both cases, there is time for two months off.
 
@@ -88,7 +88,7 @@ Revenue Streams: How does the business earn revenue from the value propositions?
 - **Printed.** A printed season should also cost $30 as it comprises the equivalent of 3 novels ($29.88)
 - **Audiobook.** Sell [Audible](https://www.acx.com/help/what-s-the-deal/200497690) at the season, making $3 per sale, $6 if I record it myself.
 
-Stranded does not engage in subscription content services. I do not want to monetize the direct relationship between author and audience so that I can focus on them as people and not dollar signs.
+Strand does not engage in subscription content services. I do not want to monetize the direct relationship between author and audience so that I can focus on them as people and not dollar signs.
 
 ### Key Activities
 
@@ -147,17 +147,17 @@ What can the company not do so it can focus on its Key Activities?
     - [ ] Amazon Ads ([#26], Research Amazon Ads)
     - [ ] Mailchimp ([#32], Revise Mailchimp setup) -->
 
-[#23]: https://github.com/Merovex/stranded-series/issues/23
-[#24]: https://github.com/Merovex/stranded-series/issues/24
-[#25]: https://github.com/Merovex/stranded-series/issues/25
-[#26]: https://github.com/Merovex/stranded-series/issues/26
-[#27]: https://github.com/Merovex/stranded-series/issues/27
-[#30]: https://github.com/Merovex/stranded-series/issues/30
-[#32]: https://github.com/Merovex/stranded-series/issues/32
-[#33]: https://github.com/Merovex/stranded-series/issues/33
-[#9]: https://github.com/Merovex/stranded-series/issues/9
-[#81]: https://github.com/Merovex/stranded-series/issues/81
-[#82]: https://github.com/Merovex/stranded-series/issues/82
+[#23]: https://github.com/Merovex/strand-series/issues/23
+[#24]: https://github.com/Merovex/strand-series/issues/24
+[#25]: https://github.com/Merovex/strand-series/issues/25
+[#26]: https://github.com/Merovex/strand-series/issues/26
+[#27]: https://github.com/Merovex/strand-series/issues/27
+[#30]: https://github.com/Merovex/strand-series/issues/30
+[#32]: https://github.com/Merovex/strand-series/issues/32
+[#33]: https://github.com/Merovex/strand-series/issues/33
+[#9]: https://github.com/Merovex/strand-series/issues/9
+[#81]: https://github.com/Merovex/strand-series/issues/81
+[#82]: https://github.com/Merovex/strand-series/issues/82
 
 ### Cost Structure
 

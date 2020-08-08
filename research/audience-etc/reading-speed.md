@@ -14,4 +14,4 @@ Average reading time for a blog post is 7 minutes. Therefore, a short-story blog
 
 <!-- "Wrongfully accused of murder, anthropologist Alfred Sevrin flees the orbital to the alien world below. Alfred must adapt to the alien society and its intrigues, and decides to use his superior understanding of technology to his advantage.
 
-"Stranded is an alt-history (alternative history) science fiction setting where the 18th Century British explorers discover advanced alien artifacts, radically advancing their technology and shaping society. This short story fleshes out the context the setting is set against." -->
+"Strand is an alt-history (alternative history) science fiction setting where the 18th Century British explorers discover advanced alien artifacts, radically advancing their technology and shaping society. This short story fleshes out the context the setting is set against." -->
