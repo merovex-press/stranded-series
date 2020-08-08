@@ -1,0 +1,43 @@
+{
+    "version": "0.1",
+    "words": [
+        "absentmindely",
+        "adair",
+        "biggs",
+        "boydell",
+        "boydell's",
+        "calverts",
+        "chambersburg",
+        "conococheague",
+        "decocked",
+        "elizabethtown",
+        "fannett",
+        "garand",
+        "gentlemen's",
+        "jeffy",
+        "kariwase",
+        "kariwase's",
+        "longcoat",
+        "loudon",
+        "mabbott",
+        "mook",
+        "mooks",
+        "moritmer",
+        "penns",
+        "prentise",
+        "prentised",
+        "reece",
+        "sharpsburg",
+        "shippensburg",
+        "sidneyville",
+        "tanacharison",
+        "unsoftened",
+        "winsland",
+        "winsland's"
+    ],
+    "ignoreWords": [
+        "bigg",
+        "shippens",
+        "thirdtown"
+    ]
+}
