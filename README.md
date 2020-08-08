@@ -8,6 +8,8 @@
 <!-- concept_overview -->
 **Strand** is  a [low fantasy], [Type-X] [alternative-history] series written by Ben Wilson.
 
+test
+
 In the 18th Century, British-Americans uncover an [ancient acropolis] that introduces ([advanced, ancient human]) [lost technology] in the Ohio Territory at the end of the Seven Years' War. This leads to [America remaining in the UK] despite continued struggle by the Sons of Liberty. Britain becomes a [low culture, high tech] society. We have a faction (SOL) who want to divide, and a faction (Tory) who want to unite; both want to control the strange tech, but ultimately come together to keep it from the French & Indians.
 
 Throughout the 19th Century, a secret British society reverse-engineers the [Neutrinovoltaic power][phlebotinum]. This increases degrees of separation between Britain and the rest of the world, creating a [decade dissonance]. A technological espionage struggle ensues among the great powers. The Napoleonic & Crimean wars occur per OTL, but with different outcomes. British North America starts its Western expansion, leading to the Mexican war, which becomes British.
@@ -34,20 +36,24 @@ We also explain how American remaining a part of Great Britain would not have hi
 
 ## Contents
 
-* [Overview](#overview)
-  * [Concept](#concept)
-  * [Format](#format)
-  * [Audience](#audience)
-* [Characters](#characters)
-* [Key Locations](#key-locations)
-* [Synopses](#synopses)
-* [References](#references)
-  * [Tropes](#tropes)
-  * [Glossary](#glossary)
-  * [Abridged Bibliography](#abridged-bibliography)
-* [Contributing](#contributing)
-* [Colophon](#colophon)
-* [License](#license)
+- [Strand Series](#strand-series)
+  - [Contents](#contents)
+  - [Overview](#overview)
+    - [Concept](#concept)
+    - [Format](#format)
+    - [Audience](#audience)
+  - [Series Plot / Outline](#series-plot--outline)
+  - [Characters](#characters)
+    - [Major Characters](#major-characters)
+    - [Historical Characters](#historical-characters)
+  - [Key Locations](#key-locations)
+  - [Synopses](#synopses)
+  - [References](#references)
+    - [Tropes](#tropes)
+    - [Glossary](#glossary)
+  - [Contributing](#contributing)
+  - [Colophon](#colophon)
+  - [License](#license)
 
 ## Overview
 
