@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 # Strand Series
 
 ![Compile Books](https://github.com//workflows/Compile%20Books/badge.svg)
@@ -230,4 +229,3 @@ Copyright 2018-20 - Benjamin C. Wilson - All Rights Reserved (Likely lapse in 21
 <!-- /license -->
 
 Goal: Inspire the next generation of Christians to engage in secular literature for God's glory.
->>>>>>> main
