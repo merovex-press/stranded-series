@@ -10,7 +10,7 @@ jobs:
       - name: Get repo
         uses: actions/checkout@main
         with:
-          ref: develop
+          ref: main
       - name: Run wordcount (Docker)
         uses: docker://merovex/verkilo:latest
         env:
