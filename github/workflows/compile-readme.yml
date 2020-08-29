@@ -12,9 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Get repo
-        uses: actions/checkout@main
+        uses: actions/checkout@master
         with:
-          ref: master
+          ref: main
       - name: Compile
         uses: docker://merovex/readme-writer:latest
         env:
@@ -24,4 +24,4 @@ jobs:
           git config --global user.email "ben@merovex.com"
           git config --global user.name "Ben W"
           git commit -am "Rebuilt README from contents"
-          git push origin $(git symbolic-ref HEAD | cut -d'/' -f3)
+          git push origin main

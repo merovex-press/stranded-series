@@ -1,0 +1,11 @@
+{%- if items %}
+{%- if title %}
+
+### {{title}}
+{% endif %}
+
+{%- assign array = items | sort: "name" -%}
+{%- for c in array %}
+* [{{c.name}}]({{c.filename}}){% if c.books %}({{c.books}}){% endif %}{% if c.seasons %}({{c.seasons}}){% endif %} {{c.summary}}
+{%- endfor %}
+{%- endif %}

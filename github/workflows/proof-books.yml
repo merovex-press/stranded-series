@@ -17,5 +17,5 @@ jobs:
       - name: Upload artifacts
         uses: actions/upload-artifact@v1
         with:
-          name: postal-marines-series
+          name: strand-series
           path: build

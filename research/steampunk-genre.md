@@ -38,7 +38,7 @@ What I am writing is not related to [Gaslamp Fantasy](https://tvtropes.org/pmwik
 * [TV Trope: Alternate Techline](https://www.notion.so/merovex/Alternate-Techline-TV-Tropes-ae7af13861774832abc9e8f0976d526b) That we have jumped the technology tree.
 * [TV Trope: Schizo Tech](https://www.notion.so/merovex/Schizo-Tech-TV-Tropes-3a7e59d59f9f4d55a956c8f150683756) Anachronism Stew done to invoke Rule of Cool.
   - This hits the nail on the head in terms of having wildly diverging tech due to ...
-  - (Stranded is Schizo Tech.)
+  - (Strand is Schizo Tech.)
 * [TV Trope: Advanced Ancient Acropolis](https://www.notion.so/merovex/Advanced-Ancient-Acropolis-TV-Tropes-81869d4fc1d143fb9b87595730b73a9e) A lost or hidden civilization much more advanced than the rest of the world outside it.
   - Any schizotech is tied to a dead society.
 * [TV Tropes: Lost Technology](https://tvtropes.org/pmwiki/pmwiki.php/Main/LostTechnology)
