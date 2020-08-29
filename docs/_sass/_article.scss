@@ -1,0 +1,84 @@
+article {
+  &.page {
+    p {
+      letter-spacing: -0.03;
+      line-height: 1.58;
+    }
+    padding: 80px 10px 10px 10px;
+    max-width: 70ch;
+  }
+  text-align: left;
+  width: 90%;
+  max-width: 50em;
+  margin: 0 auto;
+  font-family: var(--font-article);
+  strong {
+    color: var(--strong-fg);
+  }
+  em {
+    color: var(--emphasis-fg);
+  }
+  .metadata {
+    font-size: 80%;
+    opacity: 80%;
+    text-align: center;
+    .tags {
+      a {
+        &+a:before {
+          content: "\b7\a0";
+          color: var(--foreground);
+        }
+      }
+    }
+  }
+  &+ article {
+    padding: 10px;
+  }
+  blockquote {
+    cite {
+      display: block;
+      opacity: 0.6;
+    }
+  }
+  small {
+    font-family: var(--font-system);
+  }
+  table {
+    table-layout:fixed;
+    width:100%;
+    overflow-x: scroll;
+    scroll-behavior: auto;
+    th {
+      background: var(--primary);
+    }
+    th[scope=row] {
+      background: transparent;
+      color: var(--foreground);
+    }
+  }
+  pre, code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    background: rgba($gray-500,0.4);
+  }
+  .footnotes {
+    border-top: 2px solid var(--red);
+    font-size: 0.8em;
+    font-family: var(--font-system);
+  }
+  .related {
+    display: flex;
+    justify-content: space-between;
+    margin: 1em 0;
+    a {
+      &.next {
+        text-align: right;
+      }
+    }
+  }
+}
+.post-item {
+  .svg-inline--fa {
+    color: var(--primary);
+  }
+}

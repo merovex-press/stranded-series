@@ -1,0 +1,119 @@
+
+$hue: hue($primary);
+$sat: saturation($primary);
+$light: lightness($primary);
+$offset: $hue % 10;
+@debug $hue;
+@debug $sat;
+@debug $light;
+@debug $offset;
+// Nordic Woods
+
+$primary:      hsl($hue, $sat, $light);
+$primary-drk:  hsl($hue, 20, 15);
+$gray:         hsl($hue, 8, 50);
+$red:          hsl(340+$offset, $sat, $light) !default;
+$orange:       hsl(20+$offset,  $sat, $light) !default;
+$yellow:       hsl(40+$offset,  $sat, $light) !default;
+$green:        hsl(120+$offset, $sat, $light) !default;
+$blue:         hsl(210+$offset, $sat, $light) !default;
+$indigo:       hsl(220+$offset, $sat, $light) !default;
+$violet:       hsl(260+$offset, $sat, $light) !default;
+// @debug $green;
+@import 'colors-extra';
+
+$lite-bg: $gray-900;
+$dark-bg: $gray-200;
+
+:root {
+  --font-heading: #{$heading-fonts};
+  --font-monospace: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+  --font-article: #{$serif-fonts};
+  --font-sans: #{$system-fonts};
+  --font-serif: #{$serif-fonts};
+  --font-system: #{$system-fonts};
+
+  --red:              #{$red};
+  --orange:           #{$orange};
+  --yellow:           #{$yellow};
+  --green:            #{$green};
+  --blue:             #{$blue};
+  --indigo:           #{$indigo};
+  --violet:           #{$violet};
+
+  --red-text:         #{contrast($red,      $lite-bg,0)};
+  --orange-text:      #{contrast($orange,   $lite-bg,0)};
+  --yellow-text:      #{contrast($yellow,   $lite-bg,0)};
+  --green-text:       #{contrast($green,    $lite-bg,0)};
+  --blue-text:        #{contrast($blue,     $lite-bg,0)};
+  --indigo-text:      #{contrast($indigo,   $lite-bg,0)};
+  --violet-text:      #{contrast($violet,   $lite-bg,0)};
+
+  --primary:          #{contrast($primary,  $lite-bg,4)};
+  --foreground:       #{contrast(#808080, $lite-bg,7)};
+
+  --background:       #{$white};
+  --midnight:         #{$gray-100};
+  --black:            #{$gray-200};
+  --gray:             #{$gray-300};
+  --highlight:        #{$gray-500};
+  --mono-2:           #{$gray-600};
+  --silver:           #{$gray-700};
+  --white:            #{$white};
+  --navbar-bg:        #{$gray-900};
+  --card-bg:          #{$gray-800};
+  --button-text:      #{$gray-900};
+  --hero-button:      #{contrast($blue,  $dark-bg, 4)};
+  --hero-success:     #{contrast($green, $dark-bg, 4)};
+  --hero-button-text: #{$black};
+  // Buttons
+  // Success, Warn, Fail, Info, with Text contrast
+  --zebra-bg:         #{$gray-900};
+  --footer-bg:        #{$gray-900};
+  --footer-fg:        #{contrast(#777, $gray-900, 7)};
+  --strong-fg:        #{contrast(#808080, $lite-bg,7)}
+  --emphasis-fg:      #{contrast(#808080, $lite-bg,7)}
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --red:         #{contrast($red,    $dark-bg,4)};
+    --orange:      #{contrast($orange, $dark-bg,4)};
+    --yellow:      #{contrast($yellow, $dark-bg,4)};
+    --green:       #{contrast($green,  $dark-bg,4)};
+    --blue:        #{contrast($blue,   $dark-bg,4)};
+    --indigo:      #{contrast($indigo, $dark-bg,4)};
+    --violet:      #{contrast($violet, $dark-bg,4)};
+
+    --red-text:    #{contrast($red,    $dark-bg,4)};
+    --orange-text: #{contrast($orange, $dark-bg,4)};
+    --yellow-text: #{contrast($yellow, $dark-bg,4)};
+    --green-text:  #{contrast($green,  $dark-bg,4)};
+    --blue-text:   #{contrast($blue,   $dark-bg,4)};
+    --indigo-text: #{contrast($indigo, $dark-bg,4)};
+    --violet-text: #{contrast($violet, $dark-bg,4)};
+
+    --primary:     #{contrast($primary,  $dark-bg,4)};
+    --foreground:  #{contrast($gray-500, $dark-bg,7)};
+    --white:       #{$white};
+    --silver:      #{$gray-700};
+    --gray:        #{$gray-400};
+    --mono-2:      #{$gray-500};
+    --highlight:   #{$gray-500};
+    --background:  #{$gray-100};
+    --black:       #{$black};
+    --button-text: #{$gray-100};
+
+    --zebra-bg:    #{$gray-300};
+    --navbar-bg:   #{$gray-100};
+    --card-bg:     #{$gray-300};
+    --footer-bg:   #{$gray-100};
+    --footer-fg:   #{contrast(#777, $gray-100, 7)};
+    --strong-fg:   #{contrast($orange, $dark-bg,4.5)};
+    --emphasis-fg: #{contrast($violet, $dark-bg,5.5)};
+    --image-filter: grayscale(60%);
+  }
+}
+img:not([src*=".svg"]) {
+  filter: var(--image-filter);
+}

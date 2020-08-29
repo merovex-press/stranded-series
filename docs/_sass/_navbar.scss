@@ -1,0 +1,45 @@
+body > header > nav {
+  background: var(--navbar-bg);
+  // box-shadow: 0 0 0.5rem var(--primary);
+  .brand {
+    font-family: "IMFellEnglish";
+    font-size: 1.5em;
+    .subtitle {
+      color: var(--primary);
+      opacity: 0.4;
+    }
+    svg {
+      height: 30px;
+      transition: 0.4s;
+      fill: var(--primary);
+    }
+  }
+  .subscribe {
+    background: var(--primary) !important;
+  }
+  &.transparent {
+    background: rgba(#000, 0.8);
+    box-shadow: none;
+    color: rgba(#FFF, 0.7);
+    svg {
+      fill: var(--white);
+    }
+    .subscribe {
+      background: var(--red) !important;
+    }
+  }
+  .burger {
+    font-size: 2em;
+  }
+  .menu {
+    text-transform: uppercase;
+    font-family: $system-fonts;
+    a {
+    }
+    i {
+      margin-right: 0.3em;
+    }
+    #home-link {
+    }
+  }
+}

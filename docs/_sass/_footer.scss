@@ -1,0 +1,14 @@
+body > footer {
+  display: flex;
+  flex-shrink: 0;
+  font-size: 0.85rem;
+  justify-content: space-around;
+  padding-top: 1in;
+  padding: 0.5em 0;
+  text-align: center;
+  text-transform: uppercase;
+  a {
+    text-decoration: underline;
+  }
+  font-family: var(--font-system);
+}

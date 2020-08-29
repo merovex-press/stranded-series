@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <title></title>
+      <meta name="author" content="">
+      <meta name="description" content="">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link href="/assets/2020.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <nav id='sitenav'>
+      <a href="/" class="brand">Horatio Beech</a>
+        <input id="bmenub" type="checkbox" class="show">
+        <label for="bmenub" class="burger pseudo button">&#8801;<span class='sr-only'>menu</span></label>
+        <div class="menu">
+          <a class='pseudo' href="/#featured" id='home-link'>
+            {% include icon.html icon='fad fa-home' %} Home
+          </a>
+          <a class='pseudo' href="{{ '/#books' | relative_url }}">
+            {% include icon.html icon='fad fa-books' %} Books
+          </a>
+          <a class='pseudo' href="{{ '/#bio' | relative_url }}">
+            {% include icon.html icon='fad fa-id-card' %} Bio
+          </a>
+          <a class='pseudo' rel="prefetch" href="{{ '/posts/' | relative_url }}">
+            {% include icon.html icon='fad fa-newspaper' %} Blog
+          </a>
+          <a rel="prefetch" href="{{ '/subscribe/' | relative_url }}" class="subscribe">
+            {% include icon.html icon='fad fa-envelope' %} Become an Insider
+          </a>
+        </div>
+      </nav>
+    </header>
+    <main>
+      {{ content }}
+    </main>
+    <footer>
+      <div>Hello from Virginia</div>
+      <div><a href="/privacy">privacy</a></div>
+      <div><a href="/terms">terms</a></div>
+      <div>Copyright 2020</div>
+    </footer>
+  </body>
+</html>
