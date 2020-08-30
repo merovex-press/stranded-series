@@ -1,4 +1,6 @@
 ---
+layout: null
+permalink: /humans.txt
 ---
 /* SITE */
 Last Updated: {{ site.time | date:"%Y/%m/%d" }}
