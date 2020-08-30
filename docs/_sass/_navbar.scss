@@ -1,45 +1,149 @@
-body > header > nav {
+body > header {
   background: var(--navbar-bg);
-  // box-shadow: 0 0 0.5rem var(--primary);
+  color: var(--navbar-fg);
+  @extend .z-depth-1;
+  a {
+    @extend .button;
+    &:hover {
+      @extend .shadow;
+    }
+    &+a {
+      margin-left: 0.5em;
+    }
+  }
   .brand {
-    font-family: "IMFellEnglish";
-    font-size: 1.5em;
-    .subtitle {
-      color: var(--primary);
-      opacity: 0.4;
+    display: flex;
+    align-items: center;
+    span {
+      font-family: IMFellEnglish;
+      font-size: 2rem;
+      color: var(--navbar-brand-fg)
     }
     svg {
-      height: 30px;
-      transition: 0.4s;
-      fill: var(--primary);
+      height: 2rem;
+      width: auto;
+      margin-right: 0.4em;
+      fill: var(--navbar-brand-fg);
     }
   }
-  .subscribe {
-    background: var(--primary) !important;
-  }
-  &.transparent {
-    background: rgba(#000, 0.8);
-    box-shadow: none;
-    color: rgba(#FFF, 0.7);
-    svg {
-      fill: var(--white);
+  a.subscribe {
+    background: var(--subscribe-bg);
+    color:      var(--subscribe-fg);
+    border-radius: 0.3em;
+    padding: 0.3em 0.6em;
+    @extend .z-depth-2;
+    &:hover {
+      @extend .z-depth-1;
     }
-    .subscribe {
-      background: var(--red) !important;
+    &:visited {
+      color: var(--subscribe-fg);
+    }
+  }
+  nav {
+    [type=checkbox] {
+      opacity: 0;
+      width: 0;
+      position: absolute;
+      display: inline-block;
     }
   }
   .burger {
-    font-size: 2em;
+    display: none;
   }
-  .menu {
-    text-transform: uppercase;
-    font-family: $system-fonts;
-    a {
-    }
-    i {
-      margin-right: 0.3em;
-    }
-    #home-link {
+  @media all and (max-width: 60em) {
+    nav {
+      .burger {
+        display: inline-block;
+        cursor: pointer;
+        bottom: -1000em;
+        margin: 0;
+        ~ .menu {
+          position: fixed;
+          min-height: 100%;
+          top: 0;
+          right: 0;
+          bottom: -1000em;
+          margin: 0;
+          background: #fff;
+          transition: all 0.5s ease;
+          transform: none;
+        }
+      }
+      .show:checked ~ .burger {
+        position: fixed;
+        min-height: 100%;
+        top: 0;
+        right: 0;
+        bottom: -1000em;
+        margin: 0;
+        background: #fff;
+        transition: all 0.5s ease;
+        transform: none;
+      }
+      .burger ~ .menu {
+        z-index: 11;
+      }
+      .show {
+        &:checked {
+          ~ .burger {
+            color: transparent;
+            width: 100%;
+            border-radius: 0;
+            background: rgba(0, 0, 0, 0.2);
+            transition: all 0.5s ease;
+          }
+          ~ .menu {
+            > * {
+              &:nth-child(1) {
+                transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+              }
+              &:nth-child(2) {
+                transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.1s;
+              }
+              &:nth-child(3) {
+                transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.2s;
+              }
+              &:nth-child(4) {
+                transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.3s;
+              }
+              &:nth-child(5) {
+                transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.4s;
+              }
+              &:nth-child(6) {
+                transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0.5s;
+              }
+              transform: translateX(0);
+              transition: all 0.5s ease-in-out 0.6s;
+            }
+            transform: scaleX(1);
+            background: var(--body-bg);
+            color: var(--body-fg);
+          }
+        }
+        ~ .menu {
+          width: 70%;
+          max-width: 300px;
+          transform-origin: center right;
+          transition: all 0.25s ease;
+          transform: scaleX(0);
+
+          > * {
+            transform: translateX(100%);
+            transition: all 0s ease 0.5s;
+          }
+        }
+      }
+      .burger ~ .menu > {
+        * {
+          display: block;
+          margin: 0.3em;
+          text-align: left;
+          max-width: calc(100% - 0.6em);
+        }
+        a {
+          padding: 0.3em 0.9em;
+        }
+      }
     }
   }
 }

@@ -1,119 +1,139 @@
 
+@mixin pcs-text($color: $gray-500, $light: $lite-bg, $dark: $dark-bg) {
+  color: contrast($color, $light, 7);
+  @media (prefers-color-scheme: dark) {
+    color: contrast($color, $dark, 7);
+  }
+}
+@mixin pcs($color, $ratio:4.5) {
+  $dark: contrast($color, $dark-bg, $ratio);
+  background-color: $color;
+  color: contrast($gray-500, $color);
+  @media (prefers-color-scheme: dark) {
+    background-color: $dark;
+    color: contrast($gray-500, $dark);
+  }
+}
+@function text-contrast($bg, $fg:$gray-500) {
+  $c: contrast($fg, $bg, 6);
+  @debug $c;
+  @return contrast($fg, $bg, 6);
+}
+@function dark-text($fg:$gray-500) {
+  @return contrast($fg, $dark-bg, 6);
+}
+
 $hue: hue($primary);
 $sat: saturation($primary);
 $light: lightness($primary);
 $offset: $hue % 10;
-@debug $hue;
-@debug $sat;
-@debug $light;
-@debug $offset;
-// Nordic Woods
+// @debug $hue;
+// @debug $sat;
+// @debug $light;
+// @debug $offset;
 
 $primary:      hsl($hue, $sat, $light);
-$primary-drk:  hsl($hue, 20, 15);
-$gray:         hsl($hue, 8, 50);
-$red:          hsl(340+$offset, $sat, $light) !default;
-$orange:       hsl(20+$offset,  $sat, $light) !default;
-$yellow:       hsl(40+$offset,  $sat, $light) !default;
-$green:        hsl(120+$offset, $sat, $light) !default;
-$blue:         hsl(210+$offset, $sat, $light) !default;
-$indigo:       hsl(220+$offset, $sat, $light) !default;
-$violet:       hsl(260+$offset, $sat, $light) !default;
-// @debug $green;
-@import 'colors-extra';
+$primary-dark: hsl($hue, $sat, $light/2);
 
-$lite-bg: $gray-900;
-$dark-bg: $gray-200;
+$gsat: 6 !default;
 
-:root {
-  --font-heading: #{$heading-fonts};
-  --font-monospace: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
-  --font-article: #{$serif-fonts};
-  --font-sans: #{$system-fonts};
-  --font-serif: #{$serif-fonts};
-  --font-system: #{$system-fonts};
+$red:      hsl(  0+$offset, $sat, $light) !default;
+$orange:   hsl( 40+$offset, $sat, $light) !default;
+$yellow:   hsl( 60+$offset, $sat, $light) !default;
+$green:    hsl(120+$offset, $sat, $light) !default;
+$blue:     hsl(240+$offset, $sat, $light) !default;
+$indigo:   hsl(270+$offset, $sat, $light) !default;
+$violet:   hsl(300+$offset, $sat, $light) !default;
+$white:    hsl($hue, $gsat, 98) !default;
+$black:    hsl($hue, $gsat, 5) !default; // from 8
 
-  --red:              #{$red};
-  --orange:           #{$orange};
-  --yellow:           #{$yellow};
-  --green:            #{$green};
-  --blue:             #{$blue};
-  --indigo:           #{$indigo};
-  --violet:           #{$violet};
+$gray-100: hsl($hue, $gsat, 10) !default;
+$gray-200: hsl($hue, $gsat, 20) !default;
+$gray-300: hsl($hue, $gsat, 30) !default;
+$gray-400: hsl($hue, $gsat, 40) !default;
+$gray-500: hsl($hue, $gsat, 50) !default;
+$gray-600: hsl($hue, $gsat, 60) !default;
+$gray-700: hsl($hue, $gsat, 70) !default;
+$gray-800: hsl($hue, $gsat, 80) !default;
+$gray-900: hsl($hue, $gsat, 90) !default;
+$gray:     $gray-500;
 
-  --red-text:         #{contrast($red,      $lite-bg,0)};
-  --orange-text:      #{contrast($orange,   $lite-bg,0)};
-  --yellow-text:      #{contrast($yellow,   $lite-bg,0)};
-  --green-text:       #{contrast($green,    $lite-bg,0)};
-  --blue-text:        #{contrast($blue,     $lite-bg,0)};
-  --indigo-text:      #{contrast($indigo,   $lite-bg,0)};
-  --violet-text:      #{contrast($violet,   $lite-bg,0)};
+$primary-100: tint-color($primary, 8) !default;
+$primary-200: tint-color($primary, 6) !default;
+$primary-300: tint-color($primary, 4) !default;
+$primary-400: tint-color($primary, 2) !default;
+$primary-500: $primary !default;
+$primary-600: shade-color($primary, 2) !default;
+$primary-700: shade-color($primary, 4) !default;
+$primary-800: shade-color($primary, 6) !default;
+$primary-900: shade-color($primary, 8) !default;
 
-  --primary:          #{contrast($primary,  $lite-bg,4)};
-  --foreground:       #{contrast(#808080, $lite-bg,7)};
+$red-100: tint-color($red, 8) !default;
+$red-200: tint-color($red, 6) !default;
+$red-300: tint-color($red, 4) !default;
+$red-400: tint-color($red, 2) !default;
+$red-500: $red !default;
+$red-600: shade-color($red, 2) !default;
+$red-700: shade-color($red, 4) !default;
+$red-800: shade-color($red, 6) !default;
+$red-900: shade-color($red, 8) !default;
 
-  --background:       #{$white};
-  --midnight:         #{$gray-100};
-  --black:            #{$gray-200};
-  --gray:             #{$gray-300};
-  --highlight:        #{$gray-500};
-  --mono-2:           #{$gray-600};
-  --silver:           #{$gray-700};
-  --white:            #{$white};
-  --navbar-bg:        #{$gray-900};
-  --card-bg:          #{$gray-800};
-  --button-text:      #{$gray-900};
-  --hero-button:      #{contrast($blue,  $dark-bg, 4)};
-  --hero-success:     #{contrast($green, $dark-bg, 4)};
-  --hero-button-text: #{$black};
-  // Buttons
-  // Success, Warn, Fail, Info, with Text contrast
-  --zebra-bg:         #{$gray-900};
-  --footer-bg:        #{$gray-900};
-  --footer-fg:        #{contrast(#777, $gray-900, 7)};
-  --strong-fg:        #{contrast(#808080, $lite-bg,7)}
-  --emphasis-fg:      #{contrast(#808080, $lite-bg,7)}
-}
+$orange-100: tint-color($orange, 8) !default;
+$orange-200: tint-color($orange, 6) !default;
+$orange-300: tint-color($orange, 4) !default;
+$orange-400: tint-color($orange, 2) !default;
+$orange-500: $orange !default;
+$orange-600: shade-color($orange, 2) !default;
+$orange-700: shade-color($orange, 4) !default;
+$orange-800: shade-color($orange, 6) !default;
+$orange-900: shade-color($orange, 8) !default;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --red:         #{contrast($red,    $dark-bg,4)};
-    --orange:      #{contrast($orange, $dark-bg,4)};
-    --yellow:      #{contrast($yellow, $dark-bg,4)};
-    --green:       #{contrast($green,  $dark-bg,4)};
-    --blue:        #{contrast($blue,   $dark-bg,4)};
-    --indigo:      #{contrast($indigo, $dark-bg,4)};
-    --violet:      #{contrast($violet, $dark-bg,4)};
+$yellow-100: tint-color($yellow, 8) !default;
+$yellow-200: tint-color($yellow, 6) !default;
+$yellow-300: tint-color($yellow, 4) !default;
+$yellow-400: tint-color($yellow, 2) !default;
+$yellow-500: $yellow !default;
+$yellow-600: shade-color($yellow, 2) !default;
+$yellow-700: shade-color($yellow, 4) !default;
+$yellow-800: shade-color($yellow, 6) !default;
+$yellow-900: shade-color($yellow, 8) !default;
 
-    --red-text:    #{contrast($red,    $dark-bg,4)};
-    --orange-text: #{contrast($orange, $dark-bg,4)};
-    --yellow-text: #{contrast($yellow, $dark-bg,4)};
-    --green-text:  #{contrast($green,  $dark-bg,4)};
-    --blue-text:   #{contrast($blue,   $dark-bg,4)};
-    --indigo-text: #{contrast($indigo, $dark-bg,4)};
-    --violet-text: #{contrast($violet, $dark-bg,4)};
+$green-100: tint-color($green, 8) !default;
+$green-200: tint-color($green, 6) !default;
+$green-300: tint-color($green, 4) !default;
+$green-400: tint-color($green, 2) !default;
+$green-500: $green !default;
+$green-600: shade-color($green, 2) !default;
+$green-700: shade-color($green, 4) !default;
+$green-800: shade-color($green, 6) !default;
+$green-900: shade-color($green, 8) !default;
 
-    --primary:     #{contrast($primary,  $dark-bg,4)};
-    --foreground:  #{contrast($gray-500, $dark-bg,7)};
-    --white:       #{$white};
-    --silver:      #{$gray-700};
-    --gray:        #{$gray-400};
-    --mono-2:      #{$gray-500};
-    --highlight:   #{$gray-500};
-    --background:  #{$gray-100};
-    --black:       #{$black};
-    --button-text: #{$gray-100};
+$blue-100: tint-color($blue, 8) !default;
+$blue-200: tint-color($blue, 6) !default;
+$blue-300: tint-color($blue, 4) !default;
+$blue-400: tint-color($blue, 2) !default;
+$blue-500: $blue !default;
+$blue-600: shade-color($blue, 2) !default;
+$blue-700: shade-color($blue, 4) !default;
+$blue-800: shade-color($blue, 6) !default;
+$blue-900: shade-color($blue, 8) !default;
 
-    --zebra-bg:    #{$gray-300};
-    --navbar-bg:   #{$gray-100};
-    --card-bg:     #{$gray-300};
-    --footer-bg:   #{$gray-100};
-    --footer-fg:   #{contrast(#777, $gray-100, 7)};
-    --strong-fg:   #{contrast($orange, $dark-bg,4.5)};
-    --emphasis-fg: #{contrast($violet, $dark-bg,5.5)};
-    --image-filter: grayscale(60%);
-  }
-}
-img:not([src*=".svg"]) {
-  filter: var(--image-filter);
-}
+$indigo-100: tint-color($indigo, 8) !default;
+$indigo-200: tint-color($indigo, 6) !default;
+$indigo-300: tint-color($indigo, 4) !default;
+$indigo-400: tint-color($indigo, 2) !default;
+$indigo-500: $indigo !default;
+$indigo-600: shade-color($indigo, 2) !default;
+$indigo-700: shade-color($indigo, 4) !default;
+$indigo-800: shade-color($indigo, 6) !default;
+$indigo-900: shade-color($indigo, 8) !default;
+
+$violet-100: tint-color($violet, 8) !default;
+$violet-200: tint-color($violet, 6) !default;
+$violet-300: tint-color($violet, 4) !default;
+$violet-400: tint-color($violet, 2) !default;
+$violet-500: $violet !default;
+$violet-600: shade-color($violet, 2) !default;
+$violet-700: shade-color($violet, 4) !default;
+$violet-800: shade-color($violet, 6) !default;
+$violet-900: shade-color($violet, 8) !default;

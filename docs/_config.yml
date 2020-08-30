@@ -18,14 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+venue: Virginia
 title: Horatio Beech, Author
+firstname: Horatio
+fullname: Horatio Beech
 email: me@horatiobeech.com
 description: >- # this means to ignore newlines until "baseurl:"
   Horatio Beech is the author of the Strand Series, a low fantasy, Type-X alternative-history novel/novella series. Eighteenth-Century British-Americans discovered advanced technology in the Ohio Territory at the end of the Seven Year's War.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+email: me@horatiobeech.com
 # twitter_username: jekyllrb
 # github_username:  jekyll
+
+mailchimp: https://dausha.us2.list-manage.com/subscribe/post?u=958ff43d5b0de49bac9ad4e21&amp;id=72de3b22a5
+mailchimp_bot: b_958ff43d5b0de49bac9ad4e21_72de3b22a5
 
 # Build settings
 # theme: minima

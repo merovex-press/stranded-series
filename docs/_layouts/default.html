@@ -1,19 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
       <meta charset="utf-8">
-      <title></title>
-      <meta name="author" content="">
-      <meta name="description" content="">
+      <title>{{page.title}}</title>
+      <meta name="author" content="{{site.author}}">
+      <meta name="description" content="{{site.description}}">
+      <meta name="keywords" content="{{site.keywords}}">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link href="/assets/2020.css" rel="stylesheet">
+      <link rel="canonical" href="{{site.url}}" />
+
+      <noscript>
+        <link rel="stylesheet" href="/assets/css/2020.css">
+        <link rel="stylesheet" href="/assets/css/fontawesome.min.css">
+      </noscript>
+      <link rel="stylesheet" href="/assets/css/fontawesome.min.css" media="screen" onload="this.media='all'">
+      <link rel="stylesheet" href="/assets/css/2020.css" media="screen" onload="this.media='all'">
   </head>
   <body>
     <header>
-      <nav id='sitenav'>
-      <a href="/" class="brand">Horatio Beech</a>
+      <a href="/" class="brand">
+        {{ config.extra.brand | safe }}
+        <span>{{site.title}}</span>
+      </a>
+      <nav>
         <input id="bmenub" type="checkbox" class="show">
-        <label for="bmenub" class="burger pseudo button">&#8801;<span class='sr-only'>menu</span></label>
+        <label for="bmenub" class="burger pseudo button">&#9776;</label>
         <div class="menu">
           <a class='pseudo' href="/#featured" id='home-link'>
             {% include icon.html icon='fad fa-home' %} Home
@@ -37,10 +48,14 @@
       {{ content }}
     </main>
     <footer>
-      <div>Hello from Virginia</div>
-      <div><a href="/privacy">privacy</a></div>
-      <div><a href="/terms">terms</a></div>
-      <div>Copyright 2020</div>
+      {%- if site.venue %}
+      <div>
+        {% include icon.html icon='far fa-laugh' %} Hello from <a href="/uses">{{site.venue}}</a>.
+      </div>
+      {%- endif %}
+      <div><a href='{{'/privacy/' | relative_url}}'>Privacy</a></div>
+      <div><a href='{{'/permissions/' | relative_url}}'>Terms of Use</a></div>
+      <div>{% include icon.html icon='far fa-copyright' %} 1998&ndash;{{ site.time | date: '%Y' }}</div>
     </footer>
   </body>
 </html>

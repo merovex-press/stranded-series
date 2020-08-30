@@ -1,4 +1,4 @@
-@import 'colors';
+
 
 @function pow($base, $exponents) {
   $raised: 1;
@@ -52,7 +52,7 @@
       }
     }
   }
-  @return if(lightness($color) < 51, #000, #FFF) // Couldn't find an answer
+  @return if(lightness($color) < 51, #000, #FFF) // Couldnt find an answer
 }
 
 @function tint-color($color, $level) {

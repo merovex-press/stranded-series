@@ -1,0 +1,108 @@
+---
+---
+
+$system-fonts: Hind, -apple-system, system-ui, "Segoe UI", Roboto, Lato, Helvetica, Arial, sans-serif;
+$serif-fonts: "CrimsonText", Georgia, "Times New Roman", Times, serif;
+$heading-fonts: IMFellEnglish, $serif-fonts;
+$mono-fonts: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+$table-fonts: $system-fonts;
+
+// Cornell Brand colors
+$primary:#B31B1B;
+$red:  $primary;
+$blue:   #1b67b3;
+$green:  #1bb31b;
+$orange: #b3671b;
+$navy:   #073949;
+$dark-warm-grey: #A2998B;
+$sea-grey: #9FAD9F;
+
+@import 'functions';
+
+@include font('IMFellEnglish', '../fonts/IMFellEnglish-Regular');
+@include font('IMFellEnglish-Italic', '../fonts/IMFellEnglish-Italic');
+@include font('CrimsonText-Regular', '../fonts/CrimsonText-Regular');
+@include font('CrimsonText-Italic', '../fonts/CrimsonText-Italic');
+@include font('CrimsonText-Bold', '../fonts/CrimsonText-Bold');
+@include font('CrimsonText-BoldItalic', '../fonts/CrimsonText-BoldItalic');
+@include font('Hind-Regular', '../fonts/Hind-Regular');
+
+@import 'reset';
+@import 'colors';
+
+$lite-bg: $white;
+$dark-bg: $gray-200;
+
+$link-fg: $blue;
+$link-fg-visited: $indigo;
+$footer-bg: $navy;
+$footer-fg: contrast($gray-500, $navy,7);
+
+:root {
+  --font-heading:    #{$heading-fonts};
+  --font-monospace:  #{$mono-fonts};
+  --font-article:    #{$serif-fonts};
+  --font-sans:       #{$system-fonts};
+  --font-serif:      #{$serif-fonts};
+  --font-system:     #{$system-fonts};
+  --font-table:      #{$table-fonts};
+
+  --primary:           #{$primary};
+  --navbar-bg:         #fcf6ef;
+  --navbar-brand-fg:   #{$primary};
+  --subscribe-bg:      #{$white};
+  --subscribe-fg:      #{$primary};
+  --body-bg:           #{$white};
+  --body-fg:           #{contrast($gray-500, $lite-bg, 7)};
+  --menu-bg:           #{$white};
+  --menu-fg:           #{contrast($gray-500, $lite-bg, 7)};
+  --body-link:         #{$blue};
+  --body-link-visited: #{$violet};
+  --warning-color:     #{$yellow};
+  --error-color:       #{$red};
+  --success-color:     #{$green};
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --strong-fg:         #{dark-text($orange)};
+    --emphasis-fg:       #{dark-text($indigo)};
+    --primary:           #{$primary-dark};
+    --navbar-bg:         #{$gray-300};
+    --navbar-fg:         #{text-contrast($gray-300, $gray-600)};
+    --navbar-brand-fg:   #{text-contrast($gray-300, $primary)};
+    --subscribe-bg:      #{$white};
+    --subscribe-fg:      #{$primary};
+    --menu-bg:           #{$dark-bg};
+    --menu-fg:           #{dark-text()};
+    --body-bg:           #{$dark-bg};
+    --body-fg:           #{dark-text()};
+    --body-link:         #{dark-text($blue)};
+    --body-link-visited: #{dark-text($violet)};
+    --warning-color:     #{contrast($yellow, $dark-bg, 4)};
+    --error-color:       #{contrast($red, $dark-bg, 4)};
+    --success-color:     #{contrast($green, $dark-bg, 4)};
+  }
+  img:not([src*=".svg"]) {
+    filter: grayscale(60%);
+  }
+}
+@import 'framing';
+@import 'button';
+@import 'form';
+@import 'table';
+@import 'article';
+@import 'navbar';
+@import 'heading';
+@import 'footer';
+
+h1, h2, h3 {
+  font-family: var(--font-heading);
+}
+h2 {
+  border-bottom: 1px solid;
+  border-color: var(--body-fg);
+  line-height: 0.7em;
+  text-shadow: 1px 1px 1px var(--body-bg);
+  padding-bottom: 0;
+  margin-bottom: 1em;
+}

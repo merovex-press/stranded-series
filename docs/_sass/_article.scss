@@ -3,6 +3,13 @@ article {
     p {
       letter-spacing: -0.03;
       line-height: 1.58;
+      font-family: var(--font-serif);
+      &+ p {
+        text-indent: 1em;
+      }
+      &:last-of-type {
+        margin-bottom: 3em;
+      }
     }
     padding: 80px 10px 10px 10px;
     max-width: 70ch;
@@ -12,12 +19,6 @@ article {
   max-width: 50em;
   margin: 0 auto;
   font-family: var(--font-article);
-  strong {
-    color: var(--strong-fg);
-  }
-  em {
-    color: var(--emphasis-fg);
-  }
   .metadata {
     font-size: 80%;
     opacity: 80%;
@@ -26,7 +27,7 @@ article {
       a {
         &+a:before {
           content: "\b7\a0";
-          color: var(--foreground);
+          @include pcs-text();
         }
       }
     }
@@ -42,19 +43,6 @@ article {
   }
   small {
     font-family: var(--font-system);
-  }
-  table {
-    table-layout:fixed;
-    width:100%;
-    overflow-x: scroll;
-    scroll-behavior: auto;
-    th {
-      background: var(--primary);
-    }
-    th[scope=row] {
-      background: transparent;
-      color: var(--foreground);
-    }
   }
   pre, code {
     white-space: pre-wrap;

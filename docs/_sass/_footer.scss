@@ -4,11 +4,16 @@ body > footer {
   font-size: 0.85rem;
   justify-content: space-around;
   padding-top: 1in;
-  padding: 0.5em 0;
+  padding: 1em 0;
   text-align: center;
   text-transform: uppercase;
+  background: $footer-bg;
+  color: $footer-fg;
   a {
     text-decoration: underline;
+    color: contrast($link-fg, $footer-bg, 7);
+    &:visited {
+      color: contrast($link-fg-visited, $footer-bg, 7);
+    }
   }
-  font-family: var(--font-system);
 }

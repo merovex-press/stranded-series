@@ -3,7 +3,7 @@
   "editor.tabSize": 2,
   "editor.renderWhitespace": "boundary",
   "editor.wordWrap": "wordWrapColumn",
-  "editor.mouseWheelZoom": true,
+  "editor.mouseWheelZoom": false,
   "editor.tabCompletion": "on",
   "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
   "editor.fontSize": 16,
