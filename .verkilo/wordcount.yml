@@ -2,7 +2,7 @@
 '2020-08-09':
   0101-discovery: 8357
   _total: 8357
-  _comment: "Initialized"
+  _comment: Initialized
   _Δtotal: 0
 '2020-08-16':
   0101-discovery: 8357
@@ -12,3 +12,7 @@
   0101-discovery: 8357
   _total: 8357
   _Δtotal: 0
+'2020-08-30':
+  0101-discovery: 8359
+  _total: 8359
+  _Δtotal: 2
