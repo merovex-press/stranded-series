@@ -1,0 +1,104 @@
+// $hue: hue($primary);
+// $sat: saturation($primary);
+// $light: lightness($primary);
+// $offset: $hue % 10;
+
+@function pale($color) {
+  // Used for the background.
+  @return lighten( desaturate( $color, 10 ), 30 );
+}
+@function light($color) {
+  // Used for the cube's top.
+  @return lighten( saturate( $color, 25 ), 20 );
+}
+@function dark($color) {
+  // Used for the cube's side.
+  @return darken( desaturate( $color, 20 ), 12 );
+}
+
+// $primary:      hsl($hue, $sat, $light);
+// $primary-drk:  hsl($hue, 20, 15);
+
+
+
+// $red:          hsl(340+$offset, $sat, $light) !default;
+// $orange:       hsl( 20+$offset, $sat, $light) !default;
+// $yellow:       hsl( 40+$offset, $sat, $light) !default;
+// $green:        hsl(120+$offset, $sat, $light) !default;
+// $blue:         hsl(210+$offset, $sat, $light) !default;
+// $indigo:       hsl(220+$offset, $sat, $light) !default;
+// $violet:       hsl(260+$offset, $sat, $light) !default;
+// $white:        hsl($hue, $gsat, 97) !default;
+// $gray:         hsl($hue, $gsat, 50) !default;
+// $black:        hsl($hue, $gsat, 5) !default; // from 8
+
+
+// $colors: (
+//   'brand':  hsl($hue, $sat, $light),
+//   'secondary': $blue,
+//   'red':    hsl(340+$offset, $sat, $light),
+//   'orange': hsl( 20+$offset, $sat, $light),
+//   'yellow': hsl( 50+$offset, $sat, $light),
+//   'green':  hsl(110+$offset, $sat, $light),
+//   'blue':   hsl(200+$offset, $sat, $light),
+//   'indigo': hsl(220+$offset, $sat, $light),
+//   'violet': hsl(260+$offset, $sat, $light),
+//   // 'gray':   hsl($hue, $gsat, 50),
+//   'gray': #53565A,
+//   'black':  hsl($hue, $gsat, 5),
+//   'white':  hsl($hue, $gsat, 97),
+
+//   // 'black': hsla(0, 0%, 0%, 1),
+//   // 'blue':     hsla(196, 85%, 57%, 1),
+//   // 'brown':    hsla(15, 40%, 33%, 1),
+//   // 'charcoal': hsla(0, 0%, 23%, 1),
+//   // 'emerald': hsla(140, 52%, 55%, 1),
+//   // 'green': hsla(101, 55%, 60%, 1),
+//   // 'grey': hsla(0, 0%, 47%, 1),
+//   // 'indigo': hsla(225, 57%, 47%, 1),
+//   // 'orange': hsla(34, 100%, 53%, 1),
+//   // 'pink': hsla(309, 80%, 70%, 1),
+//   // 'purple': hsla(285, 67%, 60%, 1),
+//   // 'red': hsla(11, 85%, 57%, 1),
+//   // 'silver': hsla(0, 0%, 80%, 1),
+//   'slate': hsla(210, 20%, 33%, 1),
+//   // 'teal': hsla(180, 100%, 24%, 1),
+//   // 'white': hsla(0, 100%, 100%, 1),
+//   // 'yellow': hsla(55, 100%, 57%, 1),
+// );
+
+// Primary
+// Secondary
+// Surface
+// Background
+// Success
+// Warning
+// Error
+// Info
+
+$colormap: ();
+@each $name, $color in $colors {
+  $generated: (
+    50:  tint-color($color, 11),
+    100: tint-color($color, 8),
+    200: tint-color($color, 6),
+    300: tint-color($color, 4),
+    400: tint-color($color, 2),
+    500: $color,
+    600: shade-color($color, 2),
+    700: shade-color($color, 4),
+    800: shade-color($color, 6),
+    900: shade-color($color, 8),
+    dark: dark($color),
+    light: light($color),
+    pale: pale($color),
+  );
+  $colormap: map-merge($colormap, ($name: $generated));
+}
+@function clr($color, $type: 500) {
+  @if map-has-key($colormap, $color) and map-has-key(map-get($colormap, $color), $type) {
+      @return map-get(map-get($colormap, $color), $type);
+  }
+  @warn 'Unknown #{$color} - #{$type} in #{$color}.';
+  @return white;
+}

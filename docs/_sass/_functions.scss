@@ -1,5 +1,3 @@
-
-
 @function pow($base, $exponents) {
   $raised: 1;
   @for $i from 1 through $exponents {
@@ -31,18 +29,23 @@
   @return $ratio;
 }
 
-@function contrast($color, $bgcolor: $color, $threshold:5.0) {
+@function contrast($color, $bgcolor: $color, $threshold:5.0,$debug:false) {
   // $threshold: 4.5; // 4.5 = WCAG AA,7= WCAG AAA
   // $threshold: 5.0;
-  $list: 0,7,14,21,28,35,42,49,56,63,70,77,84,91;
+  // $list: 0,7,14,21,28,35,42,49,56,63,70,77,84,91;
+  // @each $percent in $list {
+  $list: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12;
   @each $percent in $list {
-    $lighter: lighten($color, $percent);
-    $darker: darken($color, $percent);
-    $darker-ratio: contrast_ratio($bgcolor, $darker);
+    // $lighter:       lighten($color, $percent);
+    // $darker:        darken($color, $percent);
+    $lighter:       tint-color($color, $percent);
+    $darker:        shade-color($color, $percent);
+    $darker-ratio:  contrast_ratio($bgcolor, $darker);
     $lighter-ratio: contrast_ratio($bgcolor, $lighter);
 
     @if($darker-ratio > $lighter-ratio){
       @if ($darker-ratio > $threshold){
+        // @debug HERE $color $bgcolor $darker $debug;
         @return $darker;
       }
     }
@@ -58,10 +61,10 @@
 @function tint-color($color, $level) {
   @return mix(white, $color, $level * 8%);
 }
-
 @function shade-color($color, $level) {
   @return mix(black, $color, $level * 8%);
 }
+
 @mixin font($font-family, $font-file) {
   @font-face {
     font-family: $font-family;

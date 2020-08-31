@@ -7,13 +7,13 @@ body > footer {
   padding: 1em 0;
   text-align: center;
   text-transform: uppercase;
-  background: $footer-bg;
-  color: $footer-fg;
+  background: var(--secondary-bg);
+  color: var(--secondary-bg-text);
   a {
-    text-decoration: underline;
-    color: contrast($link-fg, $footer-bg, 7);
+    text-decoration: underline !important;
+    color: var(--secondary-bg-link);
     &:visited {
-      color: contrast($link-fg-visited, $footer-bg, 7);
+      color: var(--secondary-bg-link);
     }
   }
 }

@@ -57,13 +57,13 @@ html {
   font-display:optional;
   body {
     a {
-      color: var(--body-link);
+      color: var(--background-bg-link);
       &:visited {
-        color: var(--body-link-visited);
+        color: var(--background-bg-link-visited);
       }
     }
-    background: var(--body-bg);
-    color: var(--body-fg);
+    background: var(--background-bg);
+    color: var(--background-bg-text);
     & > header {
       display: flex;
       height: 3em;
@@ -112,8 +112,9 @@ html {
     margin: 1em;
   }
   nav .show ~ .menu {
-    background: var(--menu-bg);
-    color: var(--menu-fg);
+    // // background: var(--secondary-bg);
+    // background: red;
+    // // color: var(--secondary-bg-text);
   }
   .posts {
     li { text-align: center;}

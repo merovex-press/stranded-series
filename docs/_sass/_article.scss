@@ -1,9 +1,20 @@
 article {
   &.page {
+    h1, h2, h3 {
+      font-family: var(--font-heading);
+    }
+    h2 {
+      border-bottom: 1px solid;
+      border-color: var(--background-bg-text);
+      line-height: 0.7em;
+      text-shadow: 1px 1px 1px var(--background-bg);
+      padding-bottom: 0;
+      margin-bottom: 1em;
+    }
     p {
       letter-spacing: -0.03;
       line-height: 1.58;
-      font-family: var(--font-serif);
+      font-family: var(--font-article);
       &+ p {
         text-indent: 1em;
       }
@@ -27,7 +38,7 @@ article {
       a {
         &+a:before {
           content: "\b7\a0";
-          @include pcs-text();
+          color: var(--body-fg);
         }
       }
     }
@@ -36,6 +47,8 @@ article {
     padding: 10px;
   }
   blockquote {
+    padding: 1em 6%;
+    font-family: var(--font-system);
     cite {
       display: block;
       opacity: 0.6;
@@ -47,7 +60,9 @@ article {
   pre, code {
     white-space: pre-wrap;
     word-wrap: break-word;
-    background: rgba($gray-500,0.4);
+    // background: rgba($gray-500,0.4);
+    background: var(--surface-bg);
+    color: var(--surface-bg-text);
   }
   .footnotes {
     border-top: 2px solid var(--red);

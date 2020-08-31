@@ -1,6 +1,7 @@
 body > header {
-  background: var(--navbar-bg);
-  color: var(--navbar-fg);
+  background: var(--primary-bg);
+  color: var(--primary-bg-text);
+  // font-size: 1.2rem;
   @extend .z-depth-1;
   a {
     @extend .button;
@@ -16,19 +17,19 @@ body > header {
     align-items: center;
     span {
       font-family: IMFellEnglish;
-      font-size: 2rem;
-      color: var(--navbar-brand-fg)
+      font-size: 1.5em;
+      color: var(--primary-bg-text);
     }
     svg {
-      height: 2rem;
+      height: 1.5em;
       width: auto;
       margin-right: 0.4em;
-      fill: var(--navbar-brand-fg);
+      fill: var(--primary-bg-text);
     }
   }
   a.subscribe {
-    background: var(--subscribe-bg);
-    color:      var(--subscribe-fg);
+    background: var(--primary-pale-bg);
+    color:      var(--primary-pale-bg-text);
     border-radius: 0.3em;
     padding: 0.3em 0.6em;
     @extend .z-depth-2;
@@ -36,7 +37,7 @@ body > header {
       @extend .z-depth-1;
     }
     &:visited {
-      color: var(--subscribe-fg);
+      color: var(--primary-pale-bg-text);
     }
   }
   nav {
@@ -116,8 +117,8 @@ body > header {
               transition: all 0.5s ease-in-out 0.6s;
             }
             transform: scaleX(1);
-            background: var(--body-bg);
-            color: var(--body-fg);
+            background: var(--surface-bg);
+            color: var(--surface-bg-text);
           }
         }
         ~ .menu {

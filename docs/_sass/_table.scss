@@ -1,15 +1,3 @@
-// Alert-Stripe sets the background color with even-row striping for tables.
-@mixin alert-stripe($color) {
-  $light: rgba($color, 0.8);
-  $dark:  desaturate(darken($light, 0), 30);
-  td, th {
-    @include pcs($light);
-  }
-  &:nth-child(even) td, &:nth-child(even) th {
-    @include pcs($dark);
-  }
-}
-
 table {
   text-align: left;
   font-family: var(--font-table);
@@ -19,24 +7,34 @@ table {
   scroll-behavior: auto;
   @extend .z-depth-1;
   margin-bottom: 1.6em;
+  background: var(--surface-bg);
+  color: var(--surface-bg-text);
+  border-radius: 4px;
+  th[scope=col], th {
+    background: var(--secondary-pale-bg);
+    color: var(--secondary-pale-bg-text);
+    text-align: left;
+  }
   th[scope=row] {
     background: transparent;
-    @include pcs-text();
+    color: var(--body-fg);
   }
   td, th {
     padding: 0.3em 2.4em 0.3em 0.6em;
   }
-  th {
-    text-align: left;
-    @include pcs($primary);
-  }
   tr.success {
-    @include alert-stripe($green);
+    background: var(--success-bg);
+    color: var(--success-bg-text);
   }
   tr.warning {
-    @include alert-stripe($orange);
+    background: var(--warning-bg);
+    color: var(--warning-bg-text);
   }
   tr.error {
-    @include alert-stripe($red);
+    background: var(--error-bg);
+    color: var(--error-bg-text);
+  }
+  tr:nth-child(odd) td, tr:nth-child(odd) th {
+    backdrop-filter: unquote("contrast(0.8)")
   }
 }

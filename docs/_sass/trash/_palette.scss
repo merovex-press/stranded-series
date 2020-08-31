@@ -1,0 +1,102 @@
+$class-prefix : 'jd-';
+$mypalette: ();
+$palette: (
+  colors: (
+    'green': $green,
+    'cornell': #B31B1B,
+    // 'olive': $color-olive,
+    // 'sunset': $color-orange,
+    // 'saddle': $color-saddle,
+    'gold':  $yellow,
+    'sky':  $blue
+  ),
+  tones: (
+    'dark': 10,
+    'normal' : 0,
+    'light' : -10
+  ),
+  alpha: (
+    'low': 0.40,
+    'medium': 0.60,
+    'high': 0.80
+  ),
+  mix: (
+    'color': #ff0000,
+    'keep': 100%
+  )
+);
+$palette_debug : true;
+
+@function map-deep-get($map, $keys...) {
+    @each $key in $keys {
+        $map: map-get($map, $key);
+    }
+    @return $map;
+}
+// temp loop variable to cache values
+// $v : '';
+// loop through primary colors in palette
+// @each $colors in map-keys(map-get($palette, colors)) {
+//   $v : map-deep-get($palette, "colors", $colors);
+//   /* generate a class for the main color (no specific tone or alpha applied) */
+//   .#{$class-prefix}paint-color-#{$colors} {
+//     background-color: $v !important;
+//   }
+
+//   /* generate a variable in the color map for the main color (no specific tone or alpha applied) */
+//   $mypalette: map-merge($mypalette, ( #{$colors} : $v ));
+
+//   /* loop through tones */
+//   @each $tones in map-keys(map-get($palette, tones)) {
+
+//   /* for the primary colors, generate a class and variable for each tone variation */
+//   .#{$class-prefix}paint-color-#{$colors}-#{$tones} {
+
+//     /* darken or lighten the primary color based on the tone value being positive or negative */
+//     @if map-deep-get($palette, "tones", $tones) > 0 {
+//       $v : darken(map-deep-get($palette, "colors", $colors),map-deep-get($palette, "tones", $tones));
+//       background-color: $v !important;
+//       $mypalette: map-merge($mypalette, ( #{$colors}_#{$tones} : $v ));
+//     } @else {
+//       $v : lighten(map-deep-get($palette, "colors", $colors),abs(map-deep-get($palette, "tones", $tones)));
+//       background-color: $v !important;
+//       $mypalette: map-merge($mypalette, ( #{$colors}_#{$tones} : $v ));
+//     }
+//   }
+
+//   /* for each tone of a primary color, loop through the alpha variations */
+//   @each $alpha in map-keys(map-get($palette, alpha)) {
+
+//     /* generate an alpha variation class and variable for each alpha variation of a tone variation of a primary color */
+//     .#{$class-prefix}paint-color-#{$colors}-#{$tones}-#{$alpha} { 
+
+//     /* generate the class. first we darken or lighten the tone of the color, then we deassemble the color into 
+//     /* rgb channels so that we can set the alpha channel using rgba */
+//       @if map-deep-get($palette, "tones", $tones) > 0 { 
+//         $v : rgba(
+//           red(darken(map-deep-get($palette, "colors", $colors),map-deep-get($palette, "tones", $tones))),
+//           green(darken(map-deep-get($palette, "colors", $colors),map-deep-get($palette, "tones", $tones))),
+//           blue(darken(map-deep-get($palette, "colors", $colors),map-deep-get($palette, "tones", $tones))),
+//         map-deep-get($palette, "alpha", $alpha));
+
+//         background-color: $v !important; 
+//         $mypalette: map-merge($mypalette, ( #{$colors}_#{$tones}_#{$alpha} : $v ));
+//       } @else {
+//         $v : rgba(
+//         red(lighten(map-deep-get($palette, "colors", $colors),abs(map-deep-get($palette, "tones", $tones)))),
+//         green(lighten(map-deep-get($palette, "colors", $colors),abs(map-deep-get($palette, "tones", $tones)))),
+//         blue(lighten(map-deep-get($palette, "colors", $colors),abs(map-deep-get($palette, "tones", $tones)))),
+//         map-deep-get($palette, "alpha", $alpha));
+
+//         background-color: $v !important; 
+//         $mypalette: map-merge($mypalette, ( #{$colors}_#{$tones}_#{$alpha} : $v )); 
+//       }
+//     }
+//   }
+//   }
+// }
+@if $palette_debug {
+  @each $color in $mypalette {
+    @debug $color;
+  }
+}

@@ -16,12 +16,12 @@ figure {
     position: absolute;
     bottom: 0;
     width: 100%;
-    background-color: var(--foreground);
+    background-color: var(--body-fg);
     padding: 0px 8px;
     font-size: 0.9rem;
-    color: var(--background);
+    color: var(--body-bg);
     a {
-      color: var(--background);
+      color: var(--body-bg);
       text-decoration: underline;
     }
   }

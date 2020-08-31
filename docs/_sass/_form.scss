@@ -96,7 +96,8 @@ textarea,
   margin: 0;
   height: 2.1em;
   padding: 0.3em 0.6em;
-  border: 1px solid rgba($gray-500,0.5);
+  border: 1px solid;
+  border-color: var(--border-color);
   background-color: #fff;
   border-radius: 0.2em;
   transition: all 0.3s;
