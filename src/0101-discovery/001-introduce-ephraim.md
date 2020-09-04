@@ -10,6 +10,10 @@ Ephraim hued up and bolted down the lane. A nearby bolt of lightening flashed an
 @body This is a test Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
  -->
 
+<!-- @tk Ephraim needs help, seriously
+@body This is a test Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+ -->
+
 He stood and shook himself off. He picked up his bag and continued down the lane. After two steps, he stopped. Mud on his face oozed toward his eyes. He looked up into the rain, letting the water help him wash the mud from his face away.
 
 Soaked to the bone, he stopped running down the lane. It was a cold, dark rain, but in a few minutes he would be warm and dry.
