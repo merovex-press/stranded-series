@@ -1,5 +1,5 @@
 ---
-title: "Strand Series Bible"
+title: "Strand Handy Book"
 subtitle: "The world building guide for the Strand Series"
 
 # Copyright Information
