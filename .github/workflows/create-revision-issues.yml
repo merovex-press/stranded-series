@@ -1,22 +1,20 @@
 
-name: Wordcount Books (on Demand)
+name: Revision Issues Maintainer (on Demand)
 on: [push]
 jobs:
   build:
     if: "contains(toJSON(github.event.commits.*.message), '@verkilo log revision issues')"
-    name: Wordcount
+    name: Log revision issues
     runs-on: ubuntu-latest
     steps:
       - name: Get repo
         uses: actions/checkout@main
         with:
           ref: main
-      - name: Run wordcount (Docker)
+      - name: Run bot (Docker)
         uses: docker://merovex/revision-issue-bot:latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # ACTION: wordcount
-          # FLAGS: "--delta"
       - name: Commit files
         run: |
           git config --global user.email "ben@merovex.com"
