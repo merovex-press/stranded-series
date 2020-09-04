@@ -1,10 +1,16 @@
 a430d730aa1cf0f9302d5ef5baaced4e:
   body: ''
   location: ./src/0101-discovery/001-introduce-ephraim.md
+  number: 115
   title: New Issue without body
-  number: 116
 d1ec22f0f75e98f4909d9f6a9cc5f345:
   body: ''
   location: ./src/0101-discovery/001-introduce-ephraim.md
-  title: Existing issue
   number: 116
+  title: Existing issue
+d25703e395c8c2305bccaf9c2e00acc6:
+  body: ''
+  created_at: 2020-09-04 18:46:04
+  location: ./src/0101-discovery/000-prolog-introduce-kariwase.md
+  number: 117
+  title: Test a new add
