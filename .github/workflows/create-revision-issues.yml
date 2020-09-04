@@ -1,0 +1,25 @@
+
+name: Wordcount Books (on Demand)
+on: [push]
+jobs:
+  build:
+    if: "contains(toJSON(github.event.commits.*.message), '@verkilo log revision issues')"
+    name: Wordcount
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get repo
+        uses: actions/checkout@main
+        with:
+          ref: main
+      - name: Run wordcount (Docker)
+        uses: docker://merovex/revision-issue-bot:latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # ACTION: wordcount
+          # FLAGS: "--delta"
+      - name: Commit files
+        run: |
+          git config --global user.email "ben@merovex.com"
+          git config --global user.name "Ben W"
+          git commit -am "Updating Revision Issues"
+          git push origin $(git symbolic-ref HEAD | cut -d'/' -f3)
