@@ -15,7 +15,8 @@ jobs:
         uses: docker://merovex/revision-issue-bot:latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit on change
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "@verkilo logged revision issues"
       # - name: Commit files
