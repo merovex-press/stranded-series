@@ -1,1 +1,12 @@
----
+a430d730aa1cf0f9302d5ef5baaced4e:
+  body: ''
+  created_at: 2020-09-04 18:26:56
+  location: ./src/0101-discovery/001-introduce-ephraim.md
+  number: 116
+  title: New Issue without body
+d1ec22f0f75e98f4909d9f6a9cc5f345:
+  body: ''
+  created_at: 2020-09-04 18:26:56
+  location: ./src/0101-discovery/001-introduce-ephraim.md
+  number: 115
+  title: Existing issue
