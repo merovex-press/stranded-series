@@ -15,9 +15,12 @@ jobs:
         uses: docker://merovex/revision-issue-bot:latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit files
-        run: |
-          git config --global user.email "ben@merovex.com"
-          git config --global user.name "Ben W"
-          git commit -am "@verkilo logged revision issues"
-          git push origin $(git symbolic-ref HEAD | cut -d'/' -f3)
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "@verkilo logged revision issues"
+      # - name: Commit files
+      #   run: |
+      #     git config --global user.email "ben@merovex.com"
+      #     git config --global user.name "Ben W"
+      #     git commit -am "@verkilo logged revision issues"
+      #     git push origin $(git symbolic-ref HEAD | cut -d'/' -f3)
