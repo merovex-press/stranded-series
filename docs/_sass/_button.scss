@@ -5,15 +5,17 @@
 }
 button, .btn {
   @extend .button;
-  background: var(--primary);
-  color: var(--button_fg);
+  background: var(--primary-bg);
   &.success {
-    background: var(--success-color);
+    background: var(--success-bg);
+    color: var(--success-bg-text);
   }
   &.warning {
-    background: var(--warning-color);
+    background: var(--warning-bg);
+    color: var(--warning-bg-text);
   }
   &.danger, &.error {
-    background: var(--error-color);
+    background: var(--error-bg);
+    color: var(--error-bg-text);
   }
 }

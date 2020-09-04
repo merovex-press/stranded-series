@@ -6,13 +6,15 @@
 
 Ephraim hued up and bolted down the lane. A nearby bolt of lightening flashed and thunder roared at the same time. The nearness scared him. He dove down, into a mud puddle. As suddenly as the lightening came, Ephraim felt foolish for jumping into the mud.
 
-<!-- @tk Ephraim needs help
+<!-- @old-tk Resolved issue
 @body This is a test Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
  -->
 
-<!-- @tk Ephraim needs help, seriously
-@body This is a test Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+<!-- @tk Existing issue
+This is a test Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
  -->
+
+ <!-- @tk New Issue without body -->
 
 He stood and shook himself off. He picked up his bag and continued down the lane. After two steps, he stopped. Mud on his face oozed toward his eyes. He looked up into the rain, letting the water help him wash the mud from his face away.
 

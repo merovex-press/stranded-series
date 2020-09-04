@@ -3,7 +3,7 @@ name: Revision Issues Maintainer (on Demand)
 on: [push]
 jobs:
   build:
-    if: "contains(toJSON(github.event.commits.*.message), '@verkilo log revision issues')"
+    if: "! contains(toJSON(github.event.commits.*.message), '@verkilo loging revision issues')"
     name: Log revision issues
     runs-on: ubuntu-latest
     steps:
@@ -19,5 +19,5 @@ jobs:
         run: |
           git config --global user.email "ben@merovex.com"
           git config --global user.name "Ben W"
-          git commit -am "Updating Revision Issues"
+          git commit -am "@verkilo loging revision issues"
           git push origin $(git symbolic-ref HEAD | cut -d'/' -f3)
