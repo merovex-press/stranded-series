@@ -1,10 +1,18 @@
-a430d730aa1cf0f9302d5ef5baaced4e:
+MjdmZjhiY2Yt:
   body: ''
-  location: ./src/0101-discovery/001-introduce-ephraim.md
-  number: 115
-  title: New Issue without body
-d1ec22f0f75e98f4909d9f6a9cc5f345:
+  created_at: 2020-09-05 15:46:12
+  location: ./src/0101-discovery/000-prolog-introduce-kariwase.md
+  number: 136
+  title: Test a new add
+RXhpc3Rpbmcg:
   body: ''
+  created_at: 2020-09-05 13:36:14
   location: ./src/0101-discovery/001-introduce-ephraim.md
-  number: 116
+  number: 129
   title: Existing issue
+TmV3IElzc3Vl:
+  body: Adding a body now. Seriously. Really.
+  created_at: 2020-09-05 13:36:14
+  location: ./src/0101-discovery/001-introduce-ephraim.md
+  number: 130
+  title: New Issue without body, has one now.
