@@ -12,7 +12,10 @@ Through the night, he continues to evade Dorian's men. Thinking he is safe, he f
 
 Kariwase & his band pick up on the pursuit and follow. They surround Dorian's team when they surround Ephraim. Due to the weapons, they opt to attack at dawn, when the English are the most tired. They open fire, killing _MOOK-1_ and alerting Dorian's men. Given they are veterans of the French & Indian War, they respond accordingly.
 
-<!-- @tk-ZDQ1ZTQwM2Qt Test -->
+<!-- @tk-ZDQ1ZTQwM2Qt Test, Renaming
+
+Adding a body because I can.
+ -->
 
 ## Ephraim escapes Ambush
 
