@@ -6,7 +6,7 @@ Satisfied his warriors were in place, he stood. He walked down the incline and i
 
 He kicked one in the head, hard enough to wake him. The stomach would have been softer, but not as rewarding. He held his war mace behind his arm, hiding it from the trappers.
 
-<!-- @tk Test a new add 
+<!-- @tk-YzY3ZDIxY2It Test a new add 
 @body Now with body?
 -->
 
