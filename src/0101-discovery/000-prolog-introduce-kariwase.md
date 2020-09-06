@@ -6,7 +6,9 @@ Satisfied his warriors were in place, he stood. He walked down the incline and i
 
 He kicked one in the head, hard enough to wake him. The stomach would have been softer, but not as rewarding. He held his war mace behind his arm, hiding it from the trappers.
 
-<!-- @tk-MjdmZjhiY2Yt Test a new add -->
+<!-- @tk Test a new add 
+@body Now with body?
+-->
 
 "Ow! Amos---" The trapper's voice trailed off when he looked at who kicked him. The trapper looked about, not seeing the other indians.
 

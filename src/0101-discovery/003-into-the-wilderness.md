@@ -12,6 +12,8 @@ Through the night, he continues to evade Dorian's men. Thinking he is safe, he f
 
 Kariwase & his band pick up on the pursuit and follow. They surround Dorian's team when they surround Ephraim. Due to the weapons, they opt to attack at dawn, when the English are the most tired. They open fire, killing _MOOK-1_ and alerting Dorian's men. Given they are veterans of the French & Indian War, they respond accordingly.
 
+<!-- @tk Test -->
+
 ## Ephraim escapes Ambush
 
 During the ensuing fight, Ephraim finds an opening in a large hollowed log that he crawls through. This lets him get outside Dorian's containment. As the fight shifts, he is able to emerge again after the Indians have passed, allowing him to escape their containment. He is shoeless, but able to disappear.

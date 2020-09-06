@@ -1,5 +1,5 @@
 
-name: Revision Issues Maintainer (on Demand)
+name: Revise Revision Issues
 on: [push]
 jobs:
   build:
