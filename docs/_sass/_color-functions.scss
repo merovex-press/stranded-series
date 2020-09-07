@@ -66,15 +66,27 @@ $color-debug: false !default;
   }
 }
 
-$t: clr("gray");
+$t: clr("iron-gall");
 $b: clr("blue");
 $v: clr("violet");
 
 @mixin cvar($name, $color, $w: 500) {
   $c: clr($color,$w);
+  // $t: #333;
+  // @debug $name $color;
+  // @debug $c;
+  // @debug $t;
+  // $aa: a11y-color($t, $c, 'AAA');
+  // @debug $aa;
   --#{$name}-bg: #{$c};
   --#{$name}-fg: #{$c};
-  --#{$name}-bg-text: #{contrast($t, $c, 6, "BG-Text")};
-  --#{$name}-bg-link: #{contrast($b, $c, 6)};
-  --#{$name}-bg-link-visited: #{contrast($v, $c, 6)};
+  --#{$name}-bg-text: #{a11y-color($t, $c, 'AAA')};
+  --#{$name}-bg-hi-text: #{a11y-color($t, $c, 'AAA')};
+  --#{$name}-bg-link: #{a11y-color($b, $c, 'AAA')};
+  --#{$name}-bg-link-visited: #{a11y-color($v, $c, 'AAA')};
+  // --#{$name}-bg-text: #{contrast($t, $c, 5)};
+  // --#{$name}-bg-hi-text: #{contrast($t, $c, 5)};
+  // --#{$name}-bg-link: #{contrast($b, $c, 5)};
+  // --#{$name}-bg-link-visited: #{contrast($v, $c, 5)};
 }
+// a11y-color(#c0c, #000)

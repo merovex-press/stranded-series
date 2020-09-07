@@ -13,7 +13,7 @@ $brand:#A6192E;
 $gray: #53565A;
 $offset: hue($brand) % 10;
 $violet: hsl(270+$offset, saturation($brand), lightness($brand));
-$colors: (
+$cornell: (
   'brand':    #A6192E,
   'secondary':#49516D,
   'red':      #EF3340,
@@ -26,8 +26,26 @@ $colors: (
   'sea-grey': #94A596,
   'gray':     #53565A,
   'black':    #222222,
-  'white':    #FFFFFF,
+  'iron-gall': #3E353B,
+  'white':    #F0EBE0,
 );
+$cranberry: (
+  'brand':    #3B517C,
+  'secondary':#7c663b,
+  'ternary':  #bfa778,
+  'red':      #EF3340,
+  'orange':   #ED8B00,
+  'yellow':   #A69219,
+  'green':    #009a15,
+  'blue':     #00389a,
+  'indigo':   #49516D,
+  'violet':   #62009a,
+  'gray':     #594d55,
+  'black':    #231d21,
+  'iron-gall':#3E353B,
+  'white':    #fff7e9,
+);
+$colors: $cranberry;
 
 @import 'bowb';
 
@@ -38,7 +56,7 @@ $colors: (
 @include font('CrimsonText-Bold',       '../fonts/CrimsonText-Bold');
 @include font('CrimsonText-BoldItalic', '../fonts/CrimsonText-BoldItalic');
 @include font('Hind-Regular',           '../fonts/Hind-Regular');
-
+// #F0EBE0
 :root {
   --font-heading:   #{$heading-fonts};
   --font-monospace: #{$mono-fonts};
@@ -48,30 +66,31 @@ $colors: (
   --font-system:    #{$system-fonts};
   @include cvar("primary",        "brand",  500); // Primary
   @include cvar("primary-pale",   "brand",  pale);// Primary
-  @include cvar("secondary",      "secondary", 800); // Secondary
-  @include cvar("secondary-pale", "secondary", pale);// Secondary
-  @include cvar("background", "white");   // Background
-  @include cvar("dark",       "gray", 'dark');   // Background
-  @include cvar("surface", "yellow", 50); // Surface
-  @include cvar("success", "green", 100); // Success
-  @include cvar("warning", "yellow", 100);// Warning
-  @include cvar("error", "red", 100);     // Error
-  @include cvar("info", "blue", 100);     // Info
+  @include cvar("secondary",      "secondary", 600); // Secondary
+  @include cvar("ternary",        "ternary", 400);// Secondary
+  @include cvar("background",     "white");   // Background
+  @include cvar("dark",           "iron-gall", 'dark');   // Background
+  @include cvar("surface",        "yellow", 50); // Surface
+  @include cvar("success",        "green", 100); // Success
+  @include cvar("warning",        "yellow", 100);// Warning
+  @include cvar("error",          "red", 100);     // Error
+  @include cvar("info",           "blue", 100);     // Info
+  @include cvar("white",          "white", 100);     // Info
 }  
 
 @media (prefers-color-scheme: dark) {
   :root {
-    @include cvar("primary",        "brand",  500); // Primary
-    @include cvar("primary-pale",   "brand",  pale);// Primary
-    @include cvar("secondary",      "secondary", 500); // Secondary
-    @include cvar("secondary-pale", "secondary", pale);// Secondary
-    @include cvar("background", "gray", 800);   // Background
-    @include cvar("dark",       "gray", 900);   // Background
-    @include cvar("surface", "yellow", 50); // Surface
-    @include cvar("success", "green", 100); // Success
-    @include cvar("warning", "yellow", 100);// Warning
-    @include cvar("error", "red", 100);     // Error
-    @include cvar("info", "blue", 100);     // Info
+    @include cvar("primary",      "brand",  600); // Primary
+    @include cvar("primary-pale", "brand",  pale);// Primary
+    @include cvar("secondary",    "secondary", 600); // Secondary
+    @include cvar("ternary",      "ternary", 800);// Secondary
+    @include cvar("background",   "iron-gall", 900);   // Background
+    @include cvar("dark",         "iron-gall", 900);   // Background
+    @include cvar("surface",      "yellow", 50); // Surface
+    @include cvar("success",      "green", 100); // Success
+    @include cvar("warning",      "yellow", 100);// Warning
+    @include cvar("error",        "red", 100);     // Error
+    @include cvar("info",         "blue", 100);     // Info
   }
   img:not([src*=".svg"]) {
     filter: grayscale(60%);

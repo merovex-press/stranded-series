@@ -63,6 +63,9 @@ html {
       }
     }
     background: var(--background-bg);
+    @media (prefers-color-scheme: light) {
+      background-image: url('/assets/images/backgrounds/beige-paper.png');
+    }
     color: var(--background-bg-text);
     & > header {
       display: flex;

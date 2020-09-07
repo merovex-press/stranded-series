@@ -1,7 +1,22 @@
 article {
   &.page {
+
     h1, h2, h3 {
       font-family: var(--font-heading);
+    }
+    .ghost {
+      font-size: 40vw;
+      line-height: 1;
+      position: absolute;
+      top: 10vh;
+      left: 0;
+      padding-left: 5vw;
+      color: rgba(#808080,0.1);
+      white-space: nowrap;
+      overflow-x: hidden;
+      font-family: var(--font-heading);
+      z-index: -500;
+      width: 100%;
     }
     h2 {
       border-bottom: 1px solid;

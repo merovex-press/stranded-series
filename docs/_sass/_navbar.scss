@@ -1,6 +1,6 @@
 body > header {
   background: var(--primary-bg);
-  color: var(--primary-bg-text);
+  color: var(--primary-bg-hi-text);
   // font-size: 1.2rem;
   @extend .z-depth-1;
   a {
@@ -28,8 +28,8 @@ body > header {
     }
   }
   a.subscribe {
-    background: var(--primary-pale-bg);
-    color:      var(--primary-pale-bg-text);
+    background: var(--white-bg);
+    color:      var(--white-bg-text);
     border-radius: 0.3em;
     padding: 0.3em 0.6em;
     @extend .z-depth-2;
@@ -37,7 +37,7 @@ body > header {
       @extend .z-depth-1;
     }
     &:visited {
-      color: var(--primary-pale-bg-text);
+      color: var(--white-bg-text);
     }
   }
   nav {
