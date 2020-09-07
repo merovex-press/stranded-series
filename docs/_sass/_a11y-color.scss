@@ -289,7 +289,7 @@ $black: #101010 !default;
       // Scale both the lightness and saturation, but half for saturation
       // @debug $i $step $step/2;
       // $fg: scale-color($fg, $lightness: $step);
-      $sat-step: 0;
+      $sat-step: 0%;
       @if saturation($fg) > 10 {
         $sat-step: $step/2
       }
