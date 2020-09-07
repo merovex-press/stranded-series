@@ -3,7 +3,7 @@ title: "Strand Handy Book"
 subtitle: "The world building guide for the Strand Series"
 
 # Copyright Information
-rights: Copyright © 2019 Ben Wilson
+rights: Copyright © 2019-20 Ben Wilson
 
 biblio-title: Bibliography
 trimsize: Textbook
