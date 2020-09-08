@@ -1,6 +1,11 @@
-#feature {
-  background: var(--ternary-bg);
-  color: var(--ternary-bg-text);
-  min-height: 53vh;
-  margin-bottom: 5vh;
+.home {
+  #feature {
+    background: var(--ternary-bg);
+    color: var(--ternary-bg-text);
+    min-height: 53vh;
+    margin-bottom: 5vh;
+  }
+  section.body {
+    padding: 1in 0;
+  }
 }

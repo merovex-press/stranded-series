@@ -1,3 +1,7 @@
+
+.zebra {
+  backdrop-filter: unquote("contrast(0.8)")
+}
 table {
   text-align: left;
   font-family: var(--font-table);
@@ -35,6 +39,6 @@ table {
     color: var(--error-bg-text);
   }
   tr:nth-child(odd) td, tr:nth-child(odd) th {
-    backdrop-filter: unquote("contrast(0.8)")
+    @extend .zebra;
   }
 }
