@@ -1,6 +1,6 @@
 import yaml
 
-file = "pa.yml"
+file = "md.yml"
 
 first = []
 last = []
@@ -26,5 +26,5 @@ names = {
 }
 y = yaml.dump(names)
 print(y)
-with open('pennsylvania-names.yml','w') as f:
+with open('maryland-names.yml','w') as f:
   f.write(y)
