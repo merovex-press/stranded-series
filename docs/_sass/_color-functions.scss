@@ -35,7 +35,7 @@ $colormap: ();
       @return map-get(map-get($colormap, $color), $type);
   }
   @warn 'Unknown #{$color} - #{$type} in #{$color}.';
-  @return white;
+  @return #FFFFFF;
 }
 
 $color-debug: false !default;
@@ -72,21 +72,11 @@ $v: clr("violet");
 
 @mixin cvar($name, $color, $w: 500) {
   $c: clr($color,$w);
-  // $t: #333;
-  // @debug $name $color;
-  // @debug $c;
-  // @debug $t;
-  // $aa: a11y-color($t, $c, 'AAA');
-  // @debug $aa;
   --#{$name}-bg: #{$c};
   --#{$name}-fg: #{$c};
-  --#{$name}-bg-text: #{a11y-color($t, $c, 'AAA')};
-  --#{$name}-bg-hi-text: #{a11y-color($t, $c, 'AAA')};
-  --#{$name}-bg-link: #{a11y-color($b, $c, 'AAA')};
-  --#{$name}-bg-link-visited: #{a11y-color($v, $c, 'AAA')};
-  // --#{$name}-bg-text: #{contrast($t, $c, 5)};
-  // --#{$name}-bg-hi-text: #{contrast($t, $c, 5)};
-  // --#{$name}-bg-link: #{contrast($b, $c, 5)};
-  // --#{$name}-bg-link-visited: #{contrast($v, $c, 5)};
+  --#{$name}-bg-text: #{contrast($t, $c)};
+  --#{$name}-bg-hi-text: #{contrast($t, $c)};
+  --#{$name}-bg-link: #{contrast($b, $c)};
+  --#{$name}-bg-link-visited: #{contrast($v, $c)};
 }
 // a11y-color(#c0c, #000)

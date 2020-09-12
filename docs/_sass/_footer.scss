@@ -7,13 +7,13 @@ body > footer {
   padding: 1em 0;
   text-align: center;
   text-transform: uppercase;
-  background: var(--secondary-bg);
-  color: var(--secondary-bg-text);
+  background: var(--dark-bg);
+  color: var(--dark-bg-text);
   a {
     text-decoration: underline !important;
-    color: var(--secondary-bg-link);
+    color: var(--dark-bg-link);
     &:visited {
-      color: var(--secondary-bg-link);
+      color: var(--dark-bg-link);
     }
   }
 }

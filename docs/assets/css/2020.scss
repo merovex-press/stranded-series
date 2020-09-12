@@ -31,6 +31,8 @@ $cornell: (
 );
 $cranberry: (
   'brand':    #3B517C,
+  // 'brand':    #456ca1,
+  // 'brand': #3A5A88,
   'secondary':#7c663b,
   'ternary':  #bfa778,
   'red':      #EF3340,
@@ -65,8 +67,8 @@ $colors: $cranberry;
   --font-serif:     #{$serif-fonts};
   --font-system:    #{$system-fonts};
   @include cvar("primary",        "brand",  500); // Primary
-  @include cvar("primary-pale",   "brand",  pale);// Primary
-  @include cvar("secondary",      "secondary", 600); // Secondary
+  // @include cvar("primary-pale",   "brand",  pale);// Primary
+  @include cvar("secondary",      "secondary", 400); // Secondary
   @include cvar("ternary",        "ternary", 400);// Secondary
   @include cvar("background",     "white");   // Background
   @include cvar("dark",           "iron-gall", 'dark');   // Background
@@ -81,7 +83,7 @@ $colors: $cranberry;
 @media (prefers-color-scheme: dark) {
   :root {
     @include cvar("primary",      "brand",  600); // Primary
-    @include cvar("primary-pale", "brand",  pale);// Primary
+    // @include cvar("primary-pale", "brand",  pale);// Primary
     @include cvar("secondary",    "secondary", 600); // Secondary
     @include cvar("ternary",      "ternary", 800);// Secondary
     @include cvar("background",   "iron-gall", 900);   // Background

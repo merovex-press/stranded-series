@@ -29,23 +29,28 @@
   @return $ratio;
 }
 
-@function contrast($color, $bgcolor: $color, $threshold:5.0,$debug:false) {
+@function contrast($color, $bgcolor: $color, $threshold:4.5,$debug:false) {
   // $threshold: 4.5; // 4.5 = WCAG AA,7= WCAG AAA
   // $threshold: 5.0;
-  $list: 0,7,14,21,28,35,42,49,56,63,70,77,84,91;
+  // $list: 0,7,14,21,28,35,42,49,56,63,70,77,84,91;
   // @each $percent in $list {
   // $list: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12;
-  @each $percent in $list {
-    $lighter:       lighten($color, $percent);
-    $darker:        darken($color, $percent);
-    // $lighter:       tint-color($color, $percent);
-    // $darker:        shade-color($color, $percent);
+  $percent: 0;
+  $lighter: 0;
+  $darker: 0;
+  $lighter-ratio: 0;
+  $darker-ratio: 0;
+  @while $percent < 100 {
+  // @each $percent in $list {
+    // $lighter:       lighten($color, $percent);
+    // $darker:        darken($color, $percent);
+    $lighter:       tint-color($color, $percent);
+    $darker:        shade-color($color, $percent);
     $darker-ratio:  contrast_ratio($bgcolor, $darker);
     $lighter-ratio: contrast_ratio($bgcolor, $lighter);
 
     @if($darker-ratio > $lighter-ratio){
       @if ($darker-ratio > $threshold){
-        // @debug HERE $color $bgcolor $darker $debug;
         @return $darker;
       }
     }
@@ -54,15 +59,18 @@
         @return $lighter;
       }
     }
+    $percent: $percent + 2;
   }
-  @return if(lightness($color) < 51, #000, #FFF) // Couldnt find an answer
+  @debug BAD Color Combo $color, $bgcolor L($lighter-ratio)  D($darker-ratio);
+  @return if($lighter-ratio > $darker-ratio, #FFF, #000);
+  // @return if(lightness($color) < 51, $darker, $lighter) // Couldnt find an answer
 }
 
 @function tint-color($color, $level) {
-  @return mix(white, $color, $level * 8%);
+  @return mix(white, $color, $level * 1%);
 }
 @function shade-color($color, $level) {
-  @return mix(black, $color, $level * 8%);
+  @return mix(black, $color, $level * 1%);
 }
 
 @mixin font($font-family, $font-file) {

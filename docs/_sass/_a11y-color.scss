@@ -283,9 +283,9 @@ $black: #101010 !default;
     // Loop through with a @while statement until the color combination passes our required ratio
     // Scale the color by our step value until the expression is false
     // This might loop many times depending on the colors
-    // $i: 0;
-    @while color-contrast($fg, $bg) < $ratio {
-      // $i: $i + 1;
+    $i: 0;
+    @while color-contrast($fg, $bg) < $ratio and $i < 288 {
+      $i: $i + 1;
       // Scale both the lightness and saturation, but half for saturation
       // @debug $i $step $step/2;
       // $fg: scale-color($fg, $lightness: $step);
@@ -294,7 +294,7 @@ $black: #101010 !default;
         $sat-step: $step/2
       }
       $fg: scale-color($fg, $lightness: $step, $saturation:$sat-step);
-      // @debug saturation($fg);
+      @debug $fg $bg saturation($fg), color-contrast($fg, $bg), $step $ratio $i;
     }
     @return $fg;
   }

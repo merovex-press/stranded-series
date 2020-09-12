@@ -100,5 +100,5 @@ $colormap: ();
       @return map-get(map-get($colormap, $color), $type);
   }
   @warn 'Unknown #{$color} - #{$type} in #{$color}.';
-  @return white;
+  @return #FFFFFF;
 }
