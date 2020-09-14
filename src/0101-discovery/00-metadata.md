@@ -33,9 +33,9 @@ synopsis: |
 monofont: "P22 Declaration Pro"
 sansfont: "Crimson Text"
 seriffont: "Libre Caslon Text"
-fancybreak:  \adforn{21}\quad\adforn{11}\quad\adforn{49}
-\titleformat{\paragraph}[runin]
-  {\normalfont\normalsize\bfseries}{}{15pt}{\uline{\theparagraph\hspace*{1em}#1.}}
+fancybreak: \adforn{21}\quad\adforn{11}\quad\adforn{49}
+# \titleformat{\paragraph}[runin]
+#   {\normalfont\normalsize\bfseries}{}{15pt}{\uline{\theparagraph\hspace*{1em}#1.}}
 header-includes:
   - \usepackage{xcolor}
   - \titleformat{\chapter}[block]{\normalfont\sffamily\huge\bfseries\color{Maroon}}{}{0pt}{\Huge\sffamily\textit}
