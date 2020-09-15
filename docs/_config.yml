@@ -34,10 +34,32 @@ email: me@horatiobeech.com
 mailchimp: https://dausha.us2.list-manage.com/subscribe/post?u=958ff43d5b0de49bac9ad4e21&amp;id=72de3b22a5
 mailchimp_bot: b_958ff43d5b0de49bac9ad4e21_72de3b22a5
 
+licenses:
+  CC0:
+    tag: "CC0"
+    url: "https://creativecommons.org/share-your-work/public-domain/cc0/"
+  PD:
+    tag: "Public Domain"
+    url: "https://creativecommons.org/share-your-work/public-domain/cc0/"
+  RR:
+    tag: "Rights Reserved"
+    url: "#"
+  BY:
+    tag: "CC BY 2.0"
+    url: "https://creativecommons.org/licenses/by/2.0/"
+  BY-SA:
+    tag: "CC BY-SA 2.0"
+    url: "https://creativecommons.org/licenses/by-sa/2.0/"
+  BY-ND:
+    tag: "CC BY-ND 2.0"
+    url: "https://creativecommons.org/licenses/by-nd/2.0/"
+
 # Build settings
-# theme: minima
+permalink: /posts/:title
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo
 
 # Exclude from processing.
 # The following items will not be processed, by default.
