@@ -43,6 +43,8 @@ layout: default
       </div>
     </div>
   </header>
-  {{content}}
+  <p class='lead'>{{ page.excerpt| remove: '<p>' | remove: '</p>' }}</p>
+  {% include historical-research-series.html %}
+  {{ content | remove_first:page.excerpt }}
   {%include related-posts.html %}
 </article>

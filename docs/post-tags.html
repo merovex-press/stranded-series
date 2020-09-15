@@ -1,0 +1,21 @@
+---
+layout: page
+permalink: /posts/tags/
+regenerate: true
+---
+{%- assign sorted_tags = site.tags | sort -%}
+
+<article class="visual">
+{%- for tag in sorted_tags -%}
+  {%- assign t = tag | first -%}
+  {%- assign posts = tag | last -%}
+  <h2 id='{{t | downcase | replace: " ", "-"}}' style="text-align: center">{{ t | titlecase }}</h2>
+  <ul class="posts">
+    {%- for post in posts -%}
+      {%- if post.tags contains t -%}
+      {% include post-list-item.html %}
+      {%- endif -%}
+    {%- endfor -%}
+  </ul>
+{%- endfor -%}
+</article>
