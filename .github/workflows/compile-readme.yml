@@ -16,7 +16,7 @@ jobs:
         with:
           ref: main
       - name: Compile
-        uses: docker://merovex/readme-writer:latest
+        uses: docker://merovex/readme-writer-bot:latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit files
