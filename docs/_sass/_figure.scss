@@ -3,7 +3,7 @@ figure {
   margin: 0;
   padding-top: 56.25%;
   position: relative;
-  border-radius: 3px;
+  border-radius: 0.5vh;
   background-size: cover;
   img {
     position: absolute;
@@ -16,12 +16,18 @@ figure {
     position: absolute;
     bottom: 0;
     width: 100%;
-    background-color: var(--body-fg);
-    padding: 0px 8px;
+    z-index: 100;
+    padding: 0.5vh;
     font-size: 0.9rem;
-    color: var(--body-bg);
+    font-family: var(--font-system);
+    background: var(--dark-bg);
+    color: white;
+    opacity: 0.8;
     a {
-      color: var(--body-bg);
+      color: white;
+      &:visited {
+        color: white;
+      }
       text-decoration: underline;
     }
   }

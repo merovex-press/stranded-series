@@ -3,7 +3,7 @@
 
 
 $system-fonts: Hind, -apple-system, system-ui, "Segoe UI", Roboto, Lato, Helvetica, Arial, sans-serif;
-$serif-fonts: "CrimsonText", Georgia, "Times New Roman", Times, serif;
+$serif-fonts: "CrimsonText", Cambria, Georgia, "Times New Roman", Times, serif;
 $heading-fonts: IMFellEnglish, $serif-fonts;
 $mono-fonts: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
 $table-fonts: $system-fonts;
@@ -67,7 +67,6 @@ $colors: $cranberry;
   --font-serif:     #{$serif-fonts};
   --font-system:    #{$system-fonts};
   @include cvar("primary",        "brand",  500); // Primary
-  // @include cvar("primary-pale",   "brand",  pale);// Primary
   @include cvar("secondary",      "secondary", 400); // Secondary
   @include cvar("ternary",        "ternary", 400);// Secondary
   @include cvar("background",     "white");   // Background

@@ -1,6 +1,10 @@
 article {
   &.page {
-
+    .lead {
+      font-size: 1.1em;
+      line-height: 1.3;
+      padding-bottom: 2vh;
+    }
     font-family: var(--font-article);
     h1, h2, h3 {
       font-family: var(--font-heading);
@@ -81,14 +85,18 @@ article {
   margin: 0 auto;
   font-family: var(--font-article);
   .metadata {
+    font-family: var(--font-system);
+    padding: 1vh;
     font-size: 80%;
     opacity: 80%;
     text-align: center;
     .tags {
+      padding: 1vh;
       a {
+        text-decoration: none;
         &+a:before {
           content: "\b7\a0";
-          color: var(--body-fg);
+          color: var(--background-text);
         }
       }
     }
