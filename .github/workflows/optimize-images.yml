@@ -10,7 +10,7 @@ jobs:
         with:
           ref: main
       - name: Optimize
-        uses: docker://merovex/optimize-images-bot:latest
+        uses: docker://merovex/optimize-image-bot:latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit on change
