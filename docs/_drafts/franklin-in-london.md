@@ -1,11 +1,11 @@
 ---
 photo:
-  image: rome-1799670.jpg
-  creator: Erik Vinding
-  creator_url: https://pixabay.com/users/martieda-999650/
-  source_url: https://pixabay.com/photos/rome-bridge-view-italy-landmark-1799670/
+  image: london-530055.jpg
+  creator: Adam Derewecki
+  creator_url: https://pixabay.com/users/derwiki-562673/
+  source_url: https://pixabay.com/photos/london-parliament-england-ben-ben-530055/
   license: CC0
-  caption: Roman Bridges
+  caption: London & Parliament
 created_at: 2019-09-11T06:33:50-04:00
 date: 2020-07-22T07:33:47-04:00
 title: "Benjamin Franklin in London"
