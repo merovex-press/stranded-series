@@ -1,11 +1,11 @@
 ---
 photo:
-  image: sheep-5078377_1920.jpg
-  creator: Erik Vinding
-  creator_url: https://pixabay.com/users/vinding-11802576/
-  source_url: https://pixabay.com/photos/sheep-lamb-the-wadden-sea-national-5078377/
+  image: church-3416894.jpg
+  creator: Ulrike Leone
+  creator_url: https://pixabay.com/users/ulleo-1834854/
+  source_url: https://pixabay.com/photos/church-dome-historically-sicily-3416894/
   license: CC0
-  caption: It puts the lanolin in the baa-baa-baa-basket, or it gets the hoo-hoo-hoo-hose again.
+  caption: Some empires are not of this world
 created_at: 2019-09-11T06:33:50-04:00
 date: 2020-07-22T07:33:47-04:00
 title: "Elusive Empires"

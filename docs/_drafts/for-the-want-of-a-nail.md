@@ -1,11 +1,11 @@
 ---
 photo:
-  image: sheep-5078377_1920.jpg
-  creator: Erik Vinding
-  creator_url: https://pixabay.com/users/vinding-11802576/
-  source_url: https://pixabay.com/photos/sheep-lamb-the-wadden-sea-national-5078377/
+  image: ruin-540835.jpg
+  creator: Frank Winkler
+  creator_url: https://pixabay.com/users/FrankWinkler-64960/
+  source_url: https://pixabay.com/photos/ruin-lumber-decay-lapsed-540835/
   license: CC0
-  caption: It puts the lanolin in the baa-baa-baa-basket, or it gets the hoo-hoo-hoo-hose again.
+  caption: When all your problems are nails, where is the hammer?
 created_at: 2019-09-11T06:33:50-04:00
 date: 2020-07-22T07:33:47-04:00
 title: "For the Want of a Nail"
