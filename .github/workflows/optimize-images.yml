@@ -1,0 +1,19 @@
+name: Optimize Images
+on: [push]
+jobs:
+  build:
+    if: "!contains(toJSON(github.event.commits.*.message), '@verkilo optimized images')"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get repo
+        uses: actions/checkout@master
+        with:
+          ref: main
+      - name: Optimize
+        uses: docker://merovex/optimize-images-bot:latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit on change
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "@verkilo optimized images"
