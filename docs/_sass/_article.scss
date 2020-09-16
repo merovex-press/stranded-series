@@ -12,13 +12,16 @@ article {
       display: flex;
       flex-flow: column;
       font-family: var(--font-system);
-      font-size: 0.8em;
       justify-content: center;
-      margin: 1em;
+      margin: 1vh;
       p, h4 {
         &:last-of-type {
           margin: 0.5vh 1vh;
         }
+        font-size: 0.8em;
+      }
+      h4 {
+        font-size: 1.0em;
       }
       &.info {
         border: 0.3vh solid rgba(clr('blue', 500), 0.4);
