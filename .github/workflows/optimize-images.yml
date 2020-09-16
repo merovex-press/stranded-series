@@ -20,6 +20,8 @@ jobs:
           echo Changed files: ${{ steps.get_file_changes.outputs.files }}
       - name: Optimize
         uses: docker://merovex/optimize-image-bot:latest
+        with:
+          args: ${{ steps.get_file_changes.outputs.files }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit on change
