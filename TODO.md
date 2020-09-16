@@ -11,6 +11,8 @@
 
 ## Series
 
+fixed now?
+
 - [ ] Outline Series
 - [ ]
 
