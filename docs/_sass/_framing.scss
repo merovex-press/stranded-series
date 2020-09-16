@@ -56,6 +56,7 @@ html {
   scroll-behavior: smooth;
   font-display:optional;
   body {
+    // ::selection { background-color: var(--primary); color: var(--white) }
     a {
       color: var(--background-bg-link);
       &:visited {
@@ -75,6 +76,7 @@ html {
     }
     & > main {
       flex-grow: 1;
+      // ::selection { background-color: var(--primary); color: var(--white) }
       min-height: calc(100vh - 4.5em);
       display: flex;
       flex-direction: column;
