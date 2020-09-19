@@ -34,7 +34,7 @@ body > header {
     @extend .z-depth-2;
     &:hover {
       @extend .z-depth-1;
-      border-color: clr('primary',600);
+      border-color: clr('brand',50);
     }
     &:visited {
       color: white;
@@ -117,8 +117,8 @@ body > header {
               transition: all 0.5s ease-in-out 0.6s;
             }
             transform: scaleX(1);
-            background: var(--surface-bg);
-            color: var(--surface-bg-text);
+            background: var(--navbar-bg);
+            color: var(--navbar-bg-text);
           }
         }
         ~ .menu {
