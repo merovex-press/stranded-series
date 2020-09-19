@@ -1,7 +1,6 @@
 body > header {
-  background: var(--primary-bg);
-  color: var(--primary-bg-hi-text);
-  // font-size: 1.2rem;
+  background: var(--navbar-bg);
+  color: white;
   @extend .z-depth-1;
   a {
     @extend .button;
@@ -18,26 +17,27 @@ body > header {
     span {
       font-family: IMFellEnglish;
       font-size: 1.5em;
-      color: var(--primary-bg-text);
+      color: white;
     }
     svg {
       height: 1.5em;
       width: auto;
       margin-right: 0.4em;
-      fill: var(--primary-bg-text);
+      fill: white;
     }
   }
   a.subscribe {
-    background: var(--white-bg);
-    color:      var(--white-bg-text);
-    border-radius: 0.3em;
-    padding: 0.3em 0.6em;
+    background: var(--primary-bg);
+    border: 0.2vh solid;
+    border-color: var(--navbar-bg);
+    color: white;
     @extend .z-depth-2;
     &:hover {
       @extend .z-depth-1;
+      border-color: clr('primary',600);
     }
     &:visited {
-      color: var(--white-bg-text);
+      color: white;
     }
   }
   nav {

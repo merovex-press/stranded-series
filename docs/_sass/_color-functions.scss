@@ -30,6 +30,7 @@ $colormap: ();
   );
   $colormap: map-merge($colormap, ($name: $generated));
 }
+
 @function clr($color, $type: 500) {
   @if map-has-key($colormap, $color) and map-has-key(map-get($colormap, $color), $type) {
       @return map-get(map-get($colormap, $color), $type);

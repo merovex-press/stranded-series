@@ -44,6 +44,7 @@ $cranberry: (
   'violet':   #62009a,
   'gray':     #594d55,
   'black':    #231d21,
+  // 'iron-gall':#8A7588,
   'iron-gall':#3E353B,
   'white':    #fff7e9,
 );
@@ -69,7 +70,7 @@ $colors: $cranberry;
   @include cvar("primary",        "brand",  500); // Primary
   @include cvar("secondary",      "secondary", 400); // Secondary
   @include cvar("ternary",        "ternary", 400);// Secondary
-  @include cvar("background",     "white");   // Background
+  @include cvar("background",     "white",100);   // Background
   @include cvar("dark",           "iron-gall", 'dark');   // Background
   @include cvar("surface",        "yellow", 50); // Surface
   @include cvar("success",        "green", 100); // Success
@@ -77,12 +78,12 @@ $colors: $cranberry;
   @include cvar("error",          "red", 100);     // Error
   @include cvar("info",           "blue", 100);     // Info
   @include cvar("white",          "white", 100);     // Info
+  @include cvar("navbar",         "iron-gall", 700);     // Info
 }  
 
 @media (prefers-color-scheme: dark) {
   :root {
     @include cvar("primary",      "brand",  600); // Primary
-    // @include cvar("primary-pale", "brand",  pale);// Primary
     @include cvar("secondary",    "secondary", 600); // Secondary
     @include cvar("ternary",      "ternary", 800);// Secondary
     @include cvar("background",   "iron-gall", 900);   // Background
