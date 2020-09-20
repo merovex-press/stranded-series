@@ -71,13 +71,13 @@ $t: clr("iron-gall");
 $b: clr("blue");
 $v: clr("violet");
 
-@mixin cvar($name, $color, $w: 500) {
+@mixin cvar($name, $color, $w: 500, $wcag:5) {
   $c: clr($color,$w);
   --#{$name}-bg: #{$c};
   --#{$name}-fg: #{$c};
-  --#{$name}-bg-text: #{contrast($t, $c)};
-  --#{$name}-bg-hi-text: #{contrast($t, $c)};
-  --#{$name}-bg-link: #{contrast($b, $c)};
-  --#{$name}-bg-link-visited: #{contrast($v, $c)};
+  --#{$name}-bg-text: #{contrast($t, $c, $wcag)};
+  --#{$name}-bg-hi-text: #{contrast($t, $c, $wcag)};
+  --#{$name}-bg-link: #{contrast($b, $c, $wcag)};
+  --#{$name}-bg-link-visited: #{contrast($v, $c, $wcag)};
 }
 // a11y-color(#c0c, #000)

@@ -26,7 +26,7 @@ $cornell: (
   'sea-grey': #94A596,
   'gray':     #53565A,
   'black':    #222222,
-  'iron-gall': #3E353B,
+  'iron-gall':#3E353B,
   'white':    #F0EBE0,
 );
 $cranberry: (
@@ -44,7 +44,6 @@ $cranberry: (
   'violet':   #62009a,
   'gray':     #594d55,
   'black':    #231d21,
-  // 'iron-gall':#8A7588,
   'iron-gall':#3E353B,
   'white':    #fff7e9,
 );
@@ -67,32 +66,32 @@ $colors: $cranberry;
   --font-sans:      #{$system-fonts};
   --font-serif:     #{$serif-fonts};
   --font-system:    #{$system-fonts};
-  @include cvar("primary",        "brand",  500); // Primary
+  @include cvar("primary",        "brand",     500); // Primary
   @include cvar("secondary",      "secondary", 400); // Secondary
-  @include cvar("ternary",        "ternary", 400);// Secondary
-  @include cvar("background",     "white",100);   // Background
+  @include cvar("ternary",        "ternary",   400);// Secondary
+  @include cvar("background",     "white",     100, 6);   // Background
   @include cvar("dark",           "iron-gall", 'dark');   // Background
-  @include cvar("surface",        "yellow", 50); // Surface
-  @include cvar("success",        "green", 100); // Success
-  @include cvar("warning",        "yellow", 100);// Warning
-  @include cvar("error",          "red", 100);     // Error
-  @include cvar("info",           "blue", 100);     // Info
-  @include cvar("white",          "white", 100);     // Info
+  @include cvar("surface",        "yellow",    50); // Surface
+  @include cvar("success",        "green",     100); // Success
+  @include cvar("warning",        "yellow",    100);// Warning
+  @include cvar("error",          "red",       100);     // Error
+  @include cvar("info",           "blue",      100);     // Info
+  @include cvar("white",          "white",     100);     // Info
   @include cvar("navbar",         "iron-gall", 700);     // Info
 }  
 
 @media (prefers-color-scheme: dark) {
   :root {
-    @include cvar("primary",      "brand",  600); // Primary
+    @include cvar("primary",      "brand",     600); // Primary
     @include cvar("secondary",    "secondary", 600); // Secondary
-    @include cvar("ternary",      "ternary", 800);// Secondary
-    @include cvar("background",   "iron-gall", 900);   // Background
+    @include cvar("ternary",      "ternary",   800);// Secondary
+    @include cvar("background",   "iron-gall", 900, 6);   // Background
     @include cvar("dark",         "iron-gall", 900);   // Background
-    @include cvar("surface",      "yellow", 50); // Surface
-    @include cvar("success",      "green", 100); // Success
-    @include cvar("warning",      "yellow", 100);// Warning
-    @include cvar("error",        "red", 100);     // Error
-    @include cvar("info",         "blue", 100);     // Info
+    @include cvar("surface",      "yellow",     50); // Surface
+    @include cvar("success",      "green",     100); // Success
+    @include cvar("warning",      "yellow",    100);// Warning
+    @include cvar("error",        "red",       100);     // Error
+    @include cvar("info",         "blue",      100);     // Info
   }
   img:not([src*=".svg"]) {
     filter: grayscale(60%);

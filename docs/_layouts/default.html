@@ -8,7 +8,6 @@
       <meta name="keywords" content="{{site.keywords}}">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="canonical" href="{{site.url}}" />
-
       <noscript>
         <link rel="stylesheet" href="/assets/css/2020.css">
         <link rel="stylesheet" href="/assets/css/fontawesome.min.css">
@@ -29,17 +28,17 @@
           <a class='pseudo' href="/#featured" id='home-link'>
             {% include icon.html icon='fad fa-home' %} Home
           </a>
-          <a class='pseudo' href="{{ '/#books' | relative_url }}">
+          <a class='pseudo' href="/#books">
             {% include icon.html icon='fad fa-books' %} Books
           </a>
-          <a class='pseudo' href="{{ '/#bio' | relative_url }}">
+          <a class='pseudo' href="/#bio">
             {% include icon.html icon='fad fa-id-card' %} Bio
           </a>
-          <a class='pseudo' rel="prefetch" href="{{ '/posts/' | relative_url }}">
+          <a class='pseudo' rel="prefetch" href="/posts/">
             {% include icon.html icon='fad fa-newspaper' %} Blog
           </a>
-          <a rel="prefetch" href="{{ '/subscribe/' | relative_url }}" class="subscribe">
-            {% include icon.html icon='fad fa-envelope' %} Be an Insider
+          <a rel="prefetch" href="/subscribe/" class="subscribe">
+            {% include icon.html icon='fad fa-envelope' %} Subscribe
           </a>
         </div>
       </nav>
@@ -53,9 +52,9 @@
         {% include icon.html icon='far fa-laugh' %} Hello from <a href="/uses">{{site.venue}}</a>.
       </div>
       {%- endif %}
-      <div><a href='{{'/privacy/' | relative_url}}'>Privacy</a></div>
-      <div><a href='{{'/permissions/' | relative_url}}'>Terms of Use</a></div>
-      <div>{% include icon.html icon='far fa-copyright' %} 1998&ndash;{{ site.time | date: '%Y' }}</div>
+      <div><a href='/privacy/'>Privacy</a></div>
+      <div><a href='/permissions/'>Terms of Use</a></div>
+      <div>{% include icon.html icon='far fa-copyright' %} {{ site.time | date: '%Y' }}</div>
     </footer>
   </body>
 </html>

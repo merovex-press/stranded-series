@@ -92,3 +92,18 @@
   padding: 0;
   position: absolute;
 }
+@function bg($color, $type: 500) {
+  background-color: clr($color, $type);
+}
+@function fg($color, $type: 500) {
+  color: clr($color, $type);
+}
+@function border($color, $type: 500) {
+  stroke: clr($color, $type);
+}
+@function border($color, $type: 500) {
+  border-color: clr($color, $type);
+}
+@function fill($color, $type: 500) {
+  fill: clr($color, $type);
+}
