@@ -13,7 +13,7 @@ $brand:#A6192E;
 $gray: #53565A;
 $offset: hue($brand) % 10;
 $violet: hsl(270+$offset, saturation($brand), lightness($brand));
-$cornell: (
+$cornell: ( // Colors from Cornell's brand guidance.
   'brand':    #A6192E,
   'secondary':#49516D,
   'red':      #EF3340,
@@ -29,10 +29,8 @@ $cornell: (
   'iron-gall':#3E353B,
   'white':    #F0EBE0,
 );
-$cranberry: (
+$colors: ( // "Cranberry"
   'brand':    #3B517C,
-  // 'brand':    #456ca1,
-  // 'brand': #3A5A88,
   'secondary':#7c663b,
   'ternary':  #bfa778,
   'red':      #EF3340,
@@ -47,9 +45,9 @@ $cranberry: (
   'iron-gall':#3E353B,
   'white':    #fff7e9,
 );
-$colors: $cranberry;
 
-@import 'bowb';
+
+@import 'mero';
 
 @include font('IMFellEnglish',          '../fonts/IMFellEnglish-Regular');
 @include font('IMFellEnglish-Italic',   '../fonts/IMFellEnglish-Italic');
