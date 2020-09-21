@@ -4,11 +4,16 @@ body > header {
   @extend .z-depth-1;
   a {
     @extend .button;
+    color: var(--navbar-bw-text);
     &:hover {
       @extend .shadow;
+      color: var(--navbar-bw-text);
+    }
+    &:visited {
+      color: var(--navbar-bw-text);
     }
     &+a {
-      margin-left: 0.5em;
+      margin-left: $mero-separation;
     }
   }
   .brand {
@@ -27,10 +32,10 @@ body > header {
     }
   }
   a.subscribe {
-    background: var(--primary-bg);
-    border: 0.2vh solid;
+    background: $mero-brand;
+    border: $mero-border;
     border-color: var(--navbar-bg);
-    color: white;
+    color: $mero-brand-text;
     @extend .z-depth-2;
     &:hover {
       @extend .z-depth-1;
@@ -51,7 +56,7 @@ body > header {
   .burger {
     display: none;
   }
-  @media all and (max-width: 60em) {
+  @media all and (max-width: $mero-breakpoint) {
     nav {
       .burger {
         display: inline-block;

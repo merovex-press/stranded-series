@@ -1,0 +1,27 @@
+.button {
+  text-decoration: none;
+  border-radius: $mero-radius;
+  padding: 0.3em 0.6em;
+}
+button, .btn {
+  @extend .button;
+  &.brand {
+    background: $mero-brand;
+    color: $mero-brand-text;
+  }
+  &.success {
+    background: $mero-success;
+    color: $mero-success-text;
+  }
+  &.warning {
+    background: $mero-warning;
+    color: $mero-warning-text;
+  }
+  &.danger, &.error {
+    background: $mero-error;
+    color: $mero-error-text;
+  }
+  &.pseudo {
+    background: rgba(#808080, $mero-transparency);
+  }
+}

@@ -2,25 +2,22 @@
 // This represents a self-contained, replicable entity
 
 // Variables
-$picnic-card-shadow: 0 !default;
-$picnic-card-border: $picnic-border !default;
-$picnic-card-radius: $picnic-radius !default;
-
-
-
+$mero-card-shadow: 0 !default;
+$mero-card-border: $mero-border !default;
+$mero-card-radius: $mero-radius !default;
 // Styles
 
 // http://8gramgorilla.com/mastering-sass-extends-and-placeholders/
 %card {
 
   position: relative;
-  box-shadow: $picnic-card-shadow;
-  border-radius: $picnic-card-radius;
-  border: $picnic-card-border;
+  box-shadow: $mero-card-shadow;
+  border-radius: $mero-card-radius;
+  border: $mero-card-border;
   overflow: hidden;
   text-align: left;
-  background: $picnic-white;
-  margin-bottom: $picnic-separation;
+  background: $mero-white;
+  margin-bottom: $mero-separation;
   padding: 0;
   transition: all .3s ease;
 
@@ -56,13 +53,13 @@ $picnic-card-radius: $picnic-radius !default;
   hr {
     border: none;
     height: 1px;
-    background-color: $picnic-dull;
+    background-color: $mero-dull;
   }
 
   header {
     font-weight: bold;
     position: relative;
-    border-bottom: 1px solid $picnic-dull;
+    border-bottom: 1px solid $mero-dull;
 
     h1,
     h2,
@@ -87,7 +84,7 @@ $picnic-card-radius: $picnic-radius !default;
     }
 
   p {
-    margin: $picnic-separation / 2 0;
+    margin: $mero-separation / 2 0;
 
     &:first-child {
       margin-top: 0;
@@ -113,7 +110,7 @@ $picnic-card-radius: $picnic-radius !default;
     width: auto;
 
     &:hover {
-      color: $picnic-error;
+      color: $mero-error;
       }
     }
 
@@ -126,7 +123,10 @@ $picnic-card-radius: $picnic-radius !default;
     }
 
   .dangerous {
-    background: $picnic-error;
+    background: $mero-error;
     float: right;
     }
   }
+.card {
+  @extend %card;
+}

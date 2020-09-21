@@ -29,7 +29,10 @@
   }
   @return $ratio;
 }
-
+@function text-bw($color) {
+  $luma: luma($color) + 0.0001;
+  @return if($luma < 49, white, black);
+}
 @function contrast($color, $bg: $color, $threshold:4.5,$debug:false) {
   // $threshold: 4.5; // 4.5 = WCAG AA,7= WCAG AAA
   $percent: 0;
@@ -55,10 +58,9 @@
     }
     $percent: $percent + 2;
   }
-  @warn Contrast Warning $color, $bg L($lighter-ratio)  D($darker-ratio) ($threshold);
+  // @warn Contrast Warning $color, $bg L($lighter-ratio)  D($darker-ratio) ($threshold);
   @return if($lighter-ratio > $darker-ratio, #FFF, #000);
 }
-
 @function tint-color($color, $level) {
   @return mix(white, $color, $level * 1%);
 }
@@ -147,12 +149,12 @@ $t: clr("iron-gall");
 $b: clr("blue");
 $v: clr("violet");
 
-@mixin cvar($name, $color, $w: 500, $wcag:5) {
+@mixin cvar($name, $color, $w: 500, $wcag:4.7) {
   $c: clr($color,$w);
+  --#{$name}: #{$c};
   --#{$name}-bg: #{$c};
   --#{$name}-fg: #{$c};
-  --#{$name}-bg-text: #{contrast($t, $c, $wcag)};
-  --#{$name}-bg-hi-text: #{contrast($t, $c, $wcag)};
+  --#{$name}-bw-text: #{text-bw($c)};
   --#{$name}-bg-link: #{contrast($b, $c, $wcag)};
   --#{$name}-bg-link-visited: #{contrast($v, $c, $wcag)};
 }

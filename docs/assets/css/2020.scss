@@ -64,7 +64,7 @@ $colors: ( // "Cranberry"
   --font-sans:      #{$system-fonts};
   --font-serif:     #{$serif-fonts};
   --font-system:    #{$system-fonts};
-  @include cvar("primary",        "brand",     500); // Primary
+  @include cvar("brand",        "brand",     500); // Primary
   @include cvar("secondary",      "secondary", 400); // Secondary
   @include cvar("ternary",        "ternary",   400);// Secondary
   @include cvar("background",     "white",     100, 6);   // Background
@@ -80,7 +80,7 @@ $colors: ( // "Cranberry"
 
 @media (prefers-color-scheme: dark) {
   :root {
-    @include cvar("primary",      "brand",     600); // Primary
+    @include cvar("brand",      "brand",     600); // Primary
     @include cvar("secondary",    "secondary", 600); // Secondary
     @include cvar("ternary",      "ternary",   800);// Secondary
     @include cvar("background",   "iron-gall", 900, 6);   // Background
