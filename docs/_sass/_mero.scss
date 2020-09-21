@@ -1,3 +1,4 @@
+// Inspired by https://github.com/franciscop/picnic
 
 $mero-color-variation: 10% !default;
 $mero-transparency: .2 !default;
@@ -30,29 +31,42 @@ $mero-overlay: rgba($mero-black, $mero-transparency);
 // Transitions
 $mero-transition: all .3s;
 
-@import './mero/reset';
+@import './mero/normalize';
 @import './mero/functions';
 @import './mero/z-depth';
 
-// Forms
+@import './mero/generic';
 
+// Simple Elements
 @import './mero/label';
 @import './mero/button';
-@import './mero/form';
-
-//
-@import './mero/framing';
 @import './mero/code';
-@import './mero/tooltip';
-@import './mero/stack';
-@import './mero/grid';
 
-@import './mero/tabs';
+// Forms
+@import './mero/input';
+@import './mero/select';
+@import './mero/radio';
+@import './mero/checkbox';
+
+// Components
+@import './mero/grid';
 @import './mero/table';
-@import './mero/article';
+
+// Extra
+@import './mero/stack';
+@import './mero/card';
+@import './mero/modal';
+
+@import './mero/dropimage';
+@import './mero/tabs';
+@import './mero/tooltip';
+
+// My Flair
 @import './mero/navbar';
-@import './mero/heading';
 @import './mero/footer';
 @import './mero/home';
+
+@import './mero/article';
 @import './mero/figure';
-@import './mero/card';
+
+@import './mero/framing';
