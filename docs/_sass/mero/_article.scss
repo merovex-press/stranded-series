@@ -39,6 +39,10 @@ article {
         border: 0.3vh solid rgba(clr('red', 500), 0.4);
         background: rgba(clr('red',500), 0.2);
       }
+      &.brand {
+        border: 0.3vh solid rgba(clr('brand', 500), 0.4);
+        background: rgba(clr('brand',500), 0.2);
+      }
       &.success {
         border: 0.3vh solid rgba(clr('green', 500), 0.4);
         background: rgba(clr('green',500), 0.2);
@@ -115,13 +119,7 @@ article {
   small {
     font-family: var(--font-system);
   }
-  pre, code {
-    white-space: pre-wrap;
-    word-wrap: break-word;
-    // background: rgba($gray-500,0.4);
-    background: var(--surface-bg);
-    color: var(--surface-bg-text);
-  }
+
   .footnotes {
     border-top: 2px solid var(--red);
     font-size: 0.8em;

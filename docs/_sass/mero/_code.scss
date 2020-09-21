@@ -1,0 +1,13 @@
+  pre, code {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    line-height: 1.3;
+    font-size: 0.9em;
+    padding: $mero-separation / 2 $mero-separation;
+    // background: rgba($gray-500,0.4);
+    background: var(--code);
+    color: var(--code-bw-text);
+    font-family: var(--font-monospace);
+    overflow-x: scroll;
+    border-radius: $mero-radius;
+  }

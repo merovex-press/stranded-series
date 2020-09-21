@@ -3,26 +3,32 @@ body > header {
   color: white;
   @extend .z-depth-1;
   a {
-    @extend .button;
-    color: var(--navbar-bw-text);
-    &:hover {
-      @extend .shadow;
+    text-decoration: none;
+  }
+  nav {
+    a {
+      @extend .button;
       color: var(--navbar-bw-text);
-    }
-    &:visited {
-      color: var(--navbar-bw-text);
-    }
-    &+a {
-      margin-left: $mero-separation;
+      &:hover {
+        @extend .shadow;
+        color: var(--navbar-bw-text);
+      }
+      &:visited {
+        color: var(--navbar-bw-text);
+      }
+      &+a {
+        margin-left: $mero-separation;
+      }
     }
   }
-  .brand {
+  
+  .navbar-brand {
     display: flex;
     align-items: center;
     span {
-      font-family: IMFellEnglish;
+      font-family: var(--font-brand);
       font-size: 1.5em;
-      color: white;
+        color: white;
     }
     svg {
       height: 1.5em;

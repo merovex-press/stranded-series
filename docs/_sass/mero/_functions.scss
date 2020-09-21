@@ -153,7 +153,7 @@ $v: clr("violet");
   $c: clr($color,$w);
   --#{$name}: #{$c};
   --#{$name}-bg: #{$c};
-  --#{$name}-fg: #{$c};
+  --#{$name}-text: #{$c};
   --#{$name}-bw-text: #{text-bw($c)};
   --#{$name}-bg-link: #{contrast($b, $c, $wcag)};
   --#{$name}-bg-link-visited: #{contrast($v, $c, $wcag)};

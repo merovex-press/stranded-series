@@ -25,6 +25,9 @@ html {
         color: var(--background-bg-link-visited);
       }
     }
+    img {
+      max-width: 100%;
+    }
     background: var(--background-bg);
     @media (prefers-color-scheme: light) {
       background-image: url('/assets/images/backgrounds/beige-paper.png');
@@ -45,11 +48,11 @@ html {
       justify-content: center;
       font-family: var(--font-body);
       strong, b {
-        color: var(--strong-fg);
+        color: var(--strong-text);
         font-weight: bold;
       }
       em {
-        color: var(--emphasis-fg);
+        color: var(--emphasis-text);
         font-style: italic;
       }
     }

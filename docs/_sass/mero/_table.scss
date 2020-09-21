@@ -4,39 +4,39 @@
 }
 table {
   text-align: left;
-  font-family: var(--font-table);
+  font-family: var(--font-system);
   table-layout:fixed;
   width:100%;
   overflow-x: scroll;
   scroll-behavior: auto;
   @extend .z-depth-1;
   margin-bottom: 1.6em;
-  background: var(--surface-bg);
-  color: var(--surface-bg-text);
+  background: var(--table-bg);
+  color: var(--table-bw-text);
   border-radius: 4px;
   th[scope=col], th {
-    background: var(--secondary-pale-bg);
-    color: var(--secondary-pale-bg-text);
+    background: var(--brand-bg);
+    color: var(--brand-bw-text);
     text-align: left;
   }
   th[scope=row] {
     background: transparent;
-    color: var(--body-fg);
+    color: var(--body-text);
   }
   td, th {
     padding: 0.3em 2.4em 0.3em 0.6em;
   }
   tr.success {
     background: var(--success-bg);
-    color: var(--success-bg-text);
+    color: var(--success-bw-text);
   }
   tr.warning {
     background: var(--warning-bg);
-    color: var(--warning-bg-text);
+    color: var(--warning-bw-text);
   }
   tr.error {
     background: var(--error-bg);
-    color: var(--error-bg-text);
+    color: var(--error-bw-text);
   }
   tr:nth-child(odd) td, tr:nth-child(odd) th {
     @extend .zebra;
