@@ -6,8 +6,8 @@ photo:
   source_url: https://pixabay.com/photos/city-night-dark-architecture-lamps-89197/
   license: CC0
   caption: Empires are often misunderstood
-created_at: 2019-09-11T06:33:50-04:00
-date: 2020-07-22T07:33:47-04:00
+created_at: 2019-11-11T06:33:50-04:00
+date: 2020-11-22T07:33:47-04:00
 title: "Understanding British Empire"
 tags: [Historical Research, Book]
 categories: ["Diary"]

@@ -1,6 +1,26 @@
 ---
 ---
 
+$mero-grid-sizes: 600 900;
+$mero-grid-count: one two three four;
+$mero-grid-count-sizes: (
+  three: 33.33333%,
+  two: 50%,
+);
+$mero-grid-part: full third two-third;
+$mero-grid-part-sizes: (
+  full: 100%,
+  third: 33.33333%,
+  half: 50%,
+  two-third: 66.66666%,
+);
+$mero-grid-offpart: none third two-third;
+$mero-grid-offpart-sizes: (
+  third: 33.33333%,
+  two-third: 66.66666%,
+  half: 50%,
+  none: 0
+);
 
 $system-fonts: Hind, -apple-system, system-ui, "Segoe UI", Roboto, Lato, Helvetica, Arial, sans-serif;
 $serif-fonts: "CrimsonText", Cambria, Georgia, "Times New Roman", Times, serif;
@@ -45,9 +65,10 @@ $colors: ( // "Cranberry"
   'iron-gall':#3E353B,
   'white':    #fff7e9,
 );
-
+$text-base: 'iron-gall';
 
 @import 'mero';
+@import 'posts';
 
 @include font('IMFellEnglish',          '../fonts/IMFellEnglish-Regular');
 @include font('IMFellEnglish-Italic',   '../fonts/IMFellEnglish-Italic');
@@ -58,43 +79,49 @@ $colors: ( // "Cranberry"
 @include font('Hind-Regular',           '../fonts/Hind-Regular');
 // #F0EBE0
 :root {
-  --font-heading:   #{$heading-fonts};
-  --font-monospace: #{$mono-fonts};
-  --font-article:   #{$serif-fonts};
-  --font-sans:      #{$system-fonts};
-  --font-serif:     #{$serif-fonts};
-  --font-system:    #{$system-fonts};
-  --font-brand:     #{$heading-fonts};
-  @include cvar("brand",          "brand",     100); // Primary
-  @include cvar("secondary",      "secondary", 400); // Secondary
-  @include cvar("ternary",        "ternary",   400);// Secondary
-  @include cvar("background",     "white",     100, 6);   // Background
-  @include cvar("dark",           "iron-gall", 'dark');   // Background
-  @include cvar("surface",        "yellow",    50); // Surface
-  @include cvar("code",           "gray",    50); // Surface
-  @include cvar("success",        "green",     100); // Success
-  @include cvar("warning",        "yellow",    100);// Warning
-  @include cvar("error",          "red",       100);     // Error
-  @include cvar("info",           "blue",      100);     // Info
-  @include cvar("white",          "white",     100);     // Info
-  @include cvar("navbar",         "iron-gall", 700);     // Info
+    --font-heading:   #{$heading-fonts};
+    --font-monospace: #{$mono-fonts};
+    --font-article:   #{$serif-fonts};
+    --font-sans:      #{$system-fonts};
+    --font-serif:     #{$serif-fonts};
+    --font-system:    #{$system-fonts};
+    --font-brand:     #{$heading-fonts};
+    @include cvar("brand",      "brand",     100); // Primary
+    @include cvar("secondary",  "secondary", 400); // Secondary
+    @include cvar("ternary",    "ternary",   400); // Ternary
+    @include cvar("background", "white",     100, 6); // Background
+    @include cvar("dark",       "iron-gall", 'dark'); // Background
+    @include cvar("surface",    "yellow",    50); // Surface
+    @include cvar("code",       "gray",      50); // Surface
+    @include cvar("success",    "green",     100); // Success
+    @include cvar("warning",    "yellow",    100); // Warning
+    @include cvar("error",      "red",       100); // Error
+    @include cvar("info",       "blue",      100); // Info
+    @include cvar("white",      "white",     100); // Info
+    @include cvar("navbar",     "iron-gall", 700); // Info
 }  
 
 @media (prefers-color-scheme: dark) {
   :root {
-    @include cvar("brand",        "brand",     600); // Primary
-    @include cvar("secondary",    "secondary", 600); // Secondary
-    @include cvar("ternary",      "ternary",   800);// Secondary
-    @include cvar("code",         "gray",       50); // Surface
-    @include cvar("background",   "iron-gall", 900, 6);   // Background
-    @include cvar("dark",         "iron-gall", 900);   // Background
-    @include cvar("surface",      "yellow",     50); // Surface
-    @include cvar("success",      "green",     100); // Success
-    @include cvar("warning",      "yellow",    100);// Warning
-    @include cvar("error",        "red",       100);     // Error
-    @include cvar("info",         "blue",      100);     // Info
+    @include cvar("brand",      "brand",     600); // Primary
+    @include cvar("secondary",  "secondary", 600); // Secondary
+    @include cvar("ternary",    "ternary",   800); // Secondary
+    @include cvar("code",       "gray",       50); // Surface
+    @include cvar("background", "iron-gall", 900, 6); // Background
+    @include cvar("dark",       "iron-gall", 900); // Background
+    @include cvar("surface",    "yellow",     50); // Surface
+    @include cvar("success",    "green",     100); // Success
+    @include cvar("warning",    "yellow",    100); // Warning
+    @include cvar("error",      "red",       100); // Error
+    @include cvar("info",       "blue",      100); // Info
   }
   img:not([src*=".svg"]) {
     filter: grayscale(60%);
+  }
+}
+
+html > body {
+  @media (prefers-color-scheme: light) {
+    background-image: url('/assets/images/backgrounds/beige-paper.png');
   }
 }

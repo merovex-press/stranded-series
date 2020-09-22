@@ -145,15 +145,16 @@ $color-debug: false !default;
   }
 }
 
-$t: clr("iron-gall");
-$b: clr("blue");
-$v: clr("violet");
-
 @mixin cvar($name, $color, $w: 500, $wcag:4.7) {
+  global: $text-base;
+  $t: clr($text-base);
+  $b: clr('blue');
+  $v: clr('violet');
   $c: clr($color,$w);
   --#{$name}: #{$c};
   --#{$name}-bg: #{$c};
   --#{$name}-text: #{$c};
+  --#{$name}-bg-text: #{contrast($t, $c, 7)};
   --#{$name}-bw-text: #{text-bw($c)};
   --#{$name}-bg-link: #{contrast($b, $c, $wcag)};
   --#{$name}-bg-link-visited: #{contrast($v, $c, $wcag)};

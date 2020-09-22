@@ -19,3 +19,20 @@ li {
 label {
   cursor: pointer;
 }
+a {
+  color: var(--background-bg-link);
+  &:visited {
+    color: var(--background-bg-link-visited);
+  }
+}
+
+@media (max-width: $mero-breakpoint) {
+  .desktop {
+    display: none;
+  }
+}
+@media (min-width: $mero-breakpoint) {
+  .mobile {
+    display: none;
+  }
+}
