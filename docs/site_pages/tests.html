@@ -145,7 +145,7 @@ permalink: /tests/
 
 <div class="flex three">
   <div>
-    <label class="dropimage" style="background-image: url('/assets/images/articles/29044558485_9a62351d12_o.webp');">
+    <label class="dropimage" style="background-image: url('/assets/images/articles/city-89197.jpg');">
       <input name="filea" title="Drop image or click me" type="file">
     </label>
   </div>
@@ -273,13 +273,42 @@ permalink: /tests/
 </div>
 
 
+<h2>Figure</h2>
+
+<figure style="background-image: url(/assets/images/low/articles/city-89197.jpg);">
+  <picture>
+    <!-- Support Desktop -->
+    <source srcset="/assets/images/desktop/articles/city-89197.webp 1920w,
+                      /assets/images/desktop/articles/city-89197@2x.webp 2x" media="(min-width: 1024px)"
+      type="image/webp">
+    <!-- Support Tablet -->
+    <source srcset="/assets/images/tablet/articles/city-89197.webp 1020w,
+                      /assets/images/tablet/articles/city-89197@2x.webp 2x"
+      media="(min-width: 640px) and (max-width: 1023px)" type="image/webp">
+    <!-- Support Mobile -->
+    <source srcset="/assets/images/mobile/articles/city-89197.webp 630w,
+                      /assets/images/mobile/articles/city-89197@2x.webp 2x" media="(max-width: 639px)"
+      type="image/webp">
+    <img src="/assets/images/articles/city-89197.jpg" alt="" />
+  </picture>
+
+  <figcaption>
+    <a href='https://pixabay.com/photos/city-night-dark-architecture-lamps-89197/'>Empires are often misunderstood</a>
+    by
+    <a href='https://pixabay.com/users/PublicDomainPictures-14/'>Public Domain Pictures</a>
+    is licensed under
+    <a href="https://creativecommons.org/share-your-work/public-domain/cc0/" class="license">
+      CC0
+    </a>
+  </figcaption>
+</figure>
+
 <h2 id="nav">Nav</h2>
 
 <p>
   
   <nav style="position: relative; z-index: 9">
     <a href="#" class="brand">
-      <img class="logo" src="/assets/images/articles/c.jpg" />
       <span>Picnic CSS</span>
     </a>
 
