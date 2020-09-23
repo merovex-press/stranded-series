@@ -66,6 +66,7 @@ $colors: ( // "Cranberry"
   'white':    #fff7e9,
 );
 $text-base: 'iron-gall';
+$mero-input-background: var(--input);
 
 @import 'mero';
 @import 'posts';
@@ -77,6 +78,7 @@ $text-base: 'iron-gall';
 @include font('CrimsonText-Bold',       '../fonts/CrimsonText-Bold');
 @include font('CrimsonText-BoldItalic', '../fonts/CrimsonText-BoldItalic');
 @include font('Hind-Regular',           '../fonts/Hind-Regular');
+
 // #F0EBE0
 :root {
     --font-heading:   #{$heading-fonts};
@@ -99,6 +101,8 @@ $text-base: 'iron-gall';
     @include cvar("info",       "blue",      100); // Info
     @include cvar("white",      "white",     100); // Info
     @include cvar("navbar",     "iron-gall", 700); // Info
+    @include cvar("input",     "white", 50);
+    --card: #{rgba(#FFF,0.3)};
 }  
 
 @media (prefers-color-scheme: dark) {
@@ -114,6 +118,8 @@ $text-base: 'iron-gall';
     @include cvar("warning",    "yellow",    100); // Warning
     @include cvar("error",      "red",       100); // Error
     @include cvar("info",       "blue",      100); // Info
+    @include cvar("input",     "gray", 100);
+    --card: #{rgba(#000,0.3)};
   }
   img:not([src*=".svg"]) {
     filter: grayscale(60%);

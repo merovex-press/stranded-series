@@ -9,16 +9,24 @@ $mero-input-background: $mero-white !default;
 %input {
   line-height: 1.5;
   margin: 0;
+  color: var(--select-bw-text);
+  font-family: var(--font-system);
   height: $mero-input-height;
-  padding: $mero-input-padding;
-  border: $mero-border;
-  background-color: $mero-input-background;
+  padding: calc($mero-input-padding - 4px);
+
+  border: 4px solid var(--input);
+  // border: $mero-border;
+  background-color: var(--input);
   border-radius: $mero-radius;
   transition: $mero-transition;
   width: 100%;
+  &::placeholder {
+    color: var(--select-bg-text);
+    opacity: 60%;
+  }
 
   &:focus {
-    border: 1px solid $mero-primary;
+    border: 4px dotted clr('red');
     outline: 0;
   }
 }

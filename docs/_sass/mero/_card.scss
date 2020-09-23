@@ -16,7 +16,7 @@ $mero-card-radius: $mero-radius !default;
   border: $mero-card-border;
   overflow: hidden;
   text-align: left;
-  background: $mero-white;
+  background: var(--card);
   margin-bottom: $mero-separation;
   padding: 0;
   transition: all .3s ease;
