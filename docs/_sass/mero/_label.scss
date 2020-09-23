@@ -10,7 +10,7 @@ $mero-label-radius: $mero-radius !default;
   margin: 0;
   padding: $mero-label-padding;
   vertical-align: middle;
-  background: $mero-primary;
+  background: $mero-brand;
   color: $mero-white;
   border: 0;
   border-radius: $mero-label-radius;
@@ -31,7 +31,9 @@ $mero-label-radius: $mero-radius !default;
   &.warning {
     background: $mero-warning;
   }
-
+  &.brand {
+    background: $mero-brand;
+  }
   &.error {
     background: $mero-error;
   }

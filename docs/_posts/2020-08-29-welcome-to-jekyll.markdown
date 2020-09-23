@@ -1,6 +1,6 @@
 ---
 photo:
-  image: sheep-5078377_1920.jpg
+  image: rome-1799670.jpg
   creator: Erik Vinding
   creator_url: https://pixabay.com/users/vinding-11802576/
   source_url: https://pixabay.com/photos/sheep-lamb-the-wadden-sea-national-5078377/

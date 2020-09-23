@@ -5,4 +5,5 @@
 layout: home
 permalink: "/"
 klass: home
+regenerate: true
 ---

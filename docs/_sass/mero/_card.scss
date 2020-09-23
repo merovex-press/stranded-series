@@ -9,7 +9,7 @@ $mero-card-radius: $mero-radius !default;
 
 // http://8gramgorilla.com/mastering-sass-extends-and-placeholders/
 %card {
-
+  font-family: var(--font-system);
   position: relative;
   box-shadow: $mero-card-shadow;
   border-radius: $mero-card-radius;
