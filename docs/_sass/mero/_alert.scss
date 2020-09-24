@@ -1,0 +1,39 @@
+    .alert {
+      align-items: center;
+      background: rgba(#808080,0.2);
+      border-radius: 1vh;
+      display: flex;
+      flex-flow: column;
+      font-family: var(--font-system);
+      justify-content: center;
+      margin: 1vh;
+      p, h4 {
+        &:last-of-type {
+          margin: 0.5vh 1vh;
+        }
+        font-size: 0.8em;
+      }
+      h4 {
+        font-size: 1.0em;
+      }
+      &.info {
+        border: 0.3vh solid rgba(clr('blue', 500), 0.4);
+        background: rgba(clr('blue',500), 0.2);
+      }
+      &.warning {
+        border: 0.3vh solid rgba(clr('yellow', 500), 0.4);
+        background: rgba(clr('yellow',500), 0.2);
+      }
+      &.danger, &.error {
+        border: 0.3vh solid rgba(clr('red', 500), 0.4);
+        background: rgba(clr('red',500), 0.2);
+      }
+      &.brand {
+        border: 0.3vh solid rgba(clr('brand', 500), 0.4);
+        background: rgba(clr('brand',500), 0.2);
+      }
+      &.success {
+        border: 0.3vh solid rgba(clr('green', 500), 0.4);
+        background: rgba(clr('green',500), 0.2);
+      }
+    }

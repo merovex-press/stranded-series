@@ -1,7 +1,7 @@
 ---
 ---
 
-$mero-grid-sizes: 600 900;
+$mero-grid-sizes: 600 1100;
 $mero-grid-count: one two three four;
 $mero-grid-count-sizes: (
   three: 33.33333%,
@@ -106,28 +106,14 @@ $mero-input-background: var(--input);
 }  
 
 @media (prefers-color-scheme: dark) {
-  :root {
-    @include cvar("brand",      "brand",     600); // Primary
-    @include cvar("secondary",  "secondary", 600); // Secondary
-    @include cvar("ternary",    "ternary",   800); // Secondary
-    @include cvar("code",       "gray",       50); // Surface
-    @include cvar("background", "iron-gall", 900, 6); // Background
-    @include cvar("dark",       "iron-gall", 900); // Background
-    @include cvar("surface",    "yellow",     50); // Surface
-    @include cvar("success",    "green",     100); // Success
-    @include cvar("warning",    "yellow",    100); // Warning
-    @include cvar("error",      "red",       100); // Error
-    @include cvar("info",       "blue",      100); // Info
-    @include cvar("input",     "gray", 100);
-    --card: #{rgba(#000,0.3)};
+  html, body > header, body > footer {
+    filter: invert(1) hue-rotate(180deg);
   }
   img:not([src*=".svg"]) {
-    filter: grayscale(60%);
+    filter: invert(1) hue-rotate(180deg) saturate(30%);
   }
 }
 
 html > body {
-  @media (prefers-color-scheme: light) {
-    background-image: url('/assets/images/backgrounds/beige-paper.png');
-  }
+  background-image: url('/assets/images/backgrounds/beige-paper.png');
 }
