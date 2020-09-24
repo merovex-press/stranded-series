@@ -1,0 +1,5 @@
+<div class="flex xone xtwo-600 xthree-1100 center">
+  {% for post in site.posts limit:3 %}
+  <div>{%include post-card.html%}</div>
+  {% endfor %}
+</div>

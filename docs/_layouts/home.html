@@ -23,11 +23,7 @@ layout: default
 <section class='body zebra'>
   <article>
     <h2>News</h2>
-    <div class="flex one two-600 three-900 center">
-      {% for post in site.posts limit:3 %}
-        <div>{%include post-card.html%}</div>
-      {% endfor %}
-    </div>
+    {%include post-card-row.html%}
   </article>
 </section>
 <section class='body'>

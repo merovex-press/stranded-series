@@ -105,15 +105,6 @@ $mero-input-background: var(--input);
     --card: #{rgba(#FFF,0.3)};
 }  
 
-@media (prefers-color-scheme: dark) {
-  html, body > header, body > footer {
-    filter: invert(1) hue-rotate(180deg);
-  }
-  img:not([src*=".svg"]) {
-    filter: invert(1) hue-rotate(180deg) saturate(30%);
-  }
-}
-
 html > body {
   background-image: url('/assets/images/backgrounds/beige-paper.png');
 }

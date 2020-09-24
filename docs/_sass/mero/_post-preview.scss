@@ -1,0 +1,14 @@
+.post-preview {
+  max-width: 70ch;
+  .meta, footer {
+    opacity: 70%;
+    font-size: 85%;
+    font-style: italic;
+    a {
+      color: var(--background-fg);
+    }
+  }
+  p {
+    margin-top: 0;
+  }
+}

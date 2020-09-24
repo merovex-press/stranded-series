@@ -11,7 +11,7 @@ date: 2020-11-22T07:33:47-04:00
 title: "Understanding British Empire"
 tags: [Historical Research, Book]
 categories: ["Diary"]
-description: "Silence is not golden, but it is of the lambs. With a couple years of relative silence, I'm in motion again."
+description: "This book is called Professor Hyam's swansong, a collection of essays. Here's what I learned."
 author: Ben Wilson
 draft: true
 layout: post

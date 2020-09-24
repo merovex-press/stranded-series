@@ -8,13 +8,4 @@
   section.body {
     padding: 1in 0;
   }
-  .card-labels {
-    a { 
-      @extend %label;
-      // padding: 0 2px;
-      line-height: 1;
-      font-size: 60%;
-      text-decoration: none;
-    }
-  }
 }
