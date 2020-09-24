@@ -56,10 +56,6 @@ article {
       padding: 1vh;
       a {
         text-decoration: none;
-        &+a:before {
-          content: "\b7\a0";
-          color: var(--background-text);
-        }
       }
     }
   }
