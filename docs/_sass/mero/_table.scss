@@ -4,7 +4,7 @@
 }
 table {
   text-align: left;
-  font-family: var(--font-system);
+  font-family: $system-fonts;
   table-layout:fixed;
   width:100%;
   overflow-x: scroll;

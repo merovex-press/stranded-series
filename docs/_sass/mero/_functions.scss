@@ -30,6 +30,9 @@
   }
   @return $ratio;
 }
+@function text-contrast($bg,$wcag:5) {
+  @return contrast(#808080, $bg, $wcag);
+}
 @function text-bw($color) {
   $luma: luma($color) + 0.0001;
   @return if($luma < 49, white, black);
@@ -146,20 +149,20 @@ $color-debug: false !default;
   }
 }
 
-@mixin cvar($name, $color, $w: 500, $wcag:4.7) {
-  global: $text-base;
-  $t: clr($text-base);
-  $b: clr('blue');
-  $v: clr('violet');
-  $c: clr($color,$w);
-  --#{$name}: #{$c};
-  --#{$name}-bg: #{$c};
-  --#{$name}-text: #{$c};
-  --#{$name}-bg-text: #{contrast($t, $c, 7)};
-  --#{$name}-bw-text: #{text-bw($c)};
-  --#{$name}-bg-link: #{contrast($b, $c, $wcag)};
-  --#{$name}-bg-link-visited: #{contrast($v, $c, $wcag)};
-}
+// @mixin cvar($name, $color, $w: 500, $wcag:4.7) {
+//   global: $text-base;
+//   $t: clr($text-base);
+//   $b: clr('blue');
+//   $v: clr('violet');
+//   $c: clr($color,$w);
+//   --#{$name}: #{$c};
+//   --#{$name}-bg: #{$c};
+//   --#{$name}-text: #{$c};
+//   --#{$name}-bg-text: #{contrast($t, $c, 7)};
+//   --#{$name}-bw-text: #{text-bw($c)};
+//   --#{$name}-bg-link: #{contrast($b, $c, $wcag)};
+//   --#{$name}-bg-link-visited: #{contrast($v, $c, $wcag)};
+// }
 // a11y-color(#c0c, #000)
 @mixin bg($color, $type: 500) {
   background-color: clr($color, $type);

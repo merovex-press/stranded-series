@@ -1,20 +1,16 @@
 body > header {
-  background: var(--navbar-bg);
-  color: white;
+  background: $mero-navbar-bg;
+  color: text-bw($mero-navbar-bg);
   @extend .z-depth-1;
   a {
     text-decoration: none;
   }
   nav {
     a {
-      @extend .button;
-      color: var(--navbar-bw-text);
-      &:hover {
-        @extend .shadow;
-        color: var(--navbar-bw-text);
-      }
+      @extend %button;
+      color: text-bw($mero-navbar-bg);
       &:visited {
-        color: var(--navbar-bw-text);
+        color: text-bw($mero-navbar-bg);
       }
       &+a {
         margin-left: $mero-separation;
@@ -26,29 +22,23 @@ body > header {
     display: flex;
     align-items: center;
     span {
-      font-family: var(--font-brand);
+      font-family: $brand-font;
       font-size: 1.5em;
-        color: white;
+        color: text-bw($mero-navbar-bg);
     }
     svg {
       height: 1.5em;
       width: auto;
       margin-right: 0.4em;
-      fill: white;
+      fill: text-bw($mero-navbar-bg);
     }
   }
   a.subscribe {
+    @extend %button;
     background: $mero-brand;
-    border: $mero-border;
-    border-color: var(--navbar-bg);
-    color: $mero-brand-text;
-    @extend .z-depth-2;
-    &:hover {
-      @extend .z-depth-1;
-      border-color: clr('brand',50);
-    }
+    color: text-bw($mero-brand);
     &:visited {
-      color: white;
+      color: text-bw($navbar-bg);
     }
   }
   nav {
@@ -128,8 +118,8 @@ body > header {
               transition: all 0.5s ease-in-out 0.6s;
             }
             transform: scaleX(1);
-            background: var(--navbar-bg);
-            color: var(--navbar-bg-text);
+            background: $navbar-bg;
+            color: text-bw($navbar-bg);
           }
         }
         ~ .menu {

@@ -20,9 +20,9 @@ label {
   cursor: pointer;
 }
 a {
-  color: var(--background-bg-link);
+  color: $mero-blue;
   &:visited {
-    color: var(--background-bg-link-visited);
+    color: $mero-violet;
   }
 }
 

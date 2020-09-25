@@ -13,7 +13,7 @@ $mero-radio-border: 1px solid #aaa !default;
   
   + .checkable:hover:before,
   &:focus + .checkable:before {
-    border: 1px solid $mero-primary;
+    border: 1px solid $mero-brand;
     }
   
   + .checkable {

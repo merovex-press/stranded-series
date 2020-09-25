@@ -19,7 +19,7 @@ figure {
     z-index: 10;
     padding: 0.5vh;
     font-size: 0.9rem;
-    font-family: var(--font-system);
+    font-family: $system-fonts;
     background: var(--dark-bg);
     color: white;
     opacity: 0.8;

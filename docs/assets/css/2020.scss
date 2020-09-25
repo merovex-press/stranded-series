@@ -1,6 +1,7 @@
 ---
 ---
 
+
 $mero-grid-sizes: 600 1100;
 $mero-grid-count: one two three four;
 $mero-grid-count-sizes: (
@@ -29,10 +30,10 @@ $mono-fonts: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
 $table-fonts: $system-fonts;
 
 // Cornell Brand colors
-$brand:#A6192E;
-$gray: #53565A;
-$offset: hue($brand) % 10;
-$violet: hsl(270+$offset, saturation($brand), lightness($brand));
+// $brand:#A6192E;
+// $gray: #53565A;
+// $offset: hue($brand) % 10;
+// $violet: hsl(270+$offset, saturation($brand), lightness($brand));
 $cornell: ( // Colors from Cornell's brand guidance.
   'brand':    #A6192E,
   'secondary':#49516D,
@@ -65,8 +66,27 @@ $colors: ( // "Cranberry"
   'iron-gall':#3E353B,
   'white':    #fff7e9,
 );
-$text-base: 'iron-gall';
+
+@import 'mero/functions';
+
+$mero-red:    clr('red');
+$mero-orange: clr('orange');
+$mero-yellow: clr('yellow');
+$mero-green:  clr('green');
+$mero-blue:   clr('blue');
+$mero-indigo: clr('indigo');
+$mero-violet: clr('violet');
+
+$mero-body-bg: clr('white',100);
+$mero-footer-bg: clr('iron-gall');
+// $text-base: 'iron-gall';
 $mero-input-background: var(--input);
+$article-font: $serif-fonts;
+$brand-font: $heading-fonts;
+
+$mero-brand: clr('brand',100);
+$mero-primary: $mero-brand;
+$mero-navbar-bg: clr('iron-gall', 700);
 
 @import 'mero';
 @import 'posts';
@@ -79,31 +99,26 @@ $mero-input-background: var(--input);
 @include font('CrimsonText-BoldItalic', '../fonts/CrimsonText-BoldItalic');
 @include font('Hind-Regular',           '../fonts/Hind-Regular');
 
+
+
 // #F0EBE0
-:root {
-    --font-heading:   #{$heading-fonts};
-    --font-monospace: #{$mono-fonts};
-    --font-article:   #{$serif-fonts};
-    --font-sans:      #{$system-fonts};
-    --font-serif:     #{$serif-fonts};
-    --font-system:    #{$system-fonts};
-    --font-brand:     #{$heading-fonts};
-    @include cvar("brand",      "brand",     100); // Primary
-    @include cvar("secondary",  "secondary", 400); // Secondary
-    @include cvar("ternary",    "ternary",   400); // Ternary
-    @include cvar("background", "white",     100, 6); // Background
-    @include cvar("dark",       "iron-gall", 'dark'); // Background
-    @include cvar("surface",    "yellow",    50); // Surface
-    @include cvar("code",       "gray",      50); // Surface
-    @include cvar("success",    "green",     100); // Success
-    @include cvar("warning",    "yellow",    100); // Warning
-    @include cvar("error",      "red",       100); // Error
-    @include cvar("info",       "blue",      100); // Info
-    @include cvar("white",      "white",     100); // Info
-    @include cvar("navbar",     "iron-gall", 700); // Info
-    @include cvar("input",     "white", 50);
-    --card: #{rgba(#FFF,0.3)};
-}  
+// :root {
+//     @include cvar("brand",      "brand",     100); // Primary
+//     @include cvar("secondary",  "secondary", 400); // Secondary
+//     @include cvar("ternary",    "ternary",   400); // Ternary
+//     @include cvar("background", "white",     100, 6); // Background
+//     @include cvar("dark",       "iron-gall", 'dark'); // Background
+//     @include cvar("surface",    "yellow",    50); // Surface
+//     @include cvar("code",       "gray",      50); // Surface
+//     @include cvar("success",    "green",     100); // Success
+//     @include cvar("warning",    "yellow",    100); // Warning
+//     @include cvar("error",      "red",       100); // Error
+//     @include cvar("info",       "blue",      100); // Info
+//     @include cvar("white",      "white",     100); // Info
+//     @include cvar("navbar",     "iron-gall", 700); // Info
+//     @include cvar("input",     "white", 50);
+//     --card: #{rgba(#FFF,0.3)};
+// }  
 
 html > body {
   background-image: url('/assets/images/backgrounds/beige-paper.png');

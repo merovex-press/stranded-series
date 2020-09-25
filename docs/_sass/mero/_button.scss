@@ -21,7 +21,7 @@ $mero-button-radius: $mero-label-radius !default;
   // Avoid the input { height: 2.2 }
   height: auto;
   vertical-align: baseline;
-  font-family: var(--font-system);
+  font-family: $system-fonts;
 
   // This avoids a nasty "hover" issue (slightly taller on hover)
   box-shadow: 0 0 rgba($mero-black, 0) inset;

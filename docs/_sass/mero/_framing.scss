@@ -22,8 +22,8 @@ html {
     img {
       max-width: 100%;
     }
-    background: var(--background-bg);
-    color: var(--background-bg-text);
+    background: $mero-body-bg;
+    color: text-contrast($mero-body-bg,7);
     & > header {
       display: flex;
       height: 3em;
@@ -32,18 +32,16 @@ html {
     }
     & > main {
       flex-grow: 1;
-      ::selection { background-color: var(--brand); color: var(--white) }
+      ::selection { background-color: $mero-brand; color: $mero-white }
       min-height: calc(100vh - 4.5em);
       display: flex;
       flex-direction: column;
       justify-content: center;
-      font-family: var(--font-body);
+      font-family: $system-fonts;
       strong, b {
-        color: var(--strong-text);
         font-weight: bold;
       }
       em {
-        color: var(--emphasis-text);
         font-style: italic;
       }
     }

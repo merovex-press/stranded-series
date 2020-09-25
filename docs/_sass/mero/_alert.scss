@@ -4,7 +4,7 @@
       border-radius: 1vh;
       display: flex;
       flex-flow: column;
-      font-family: var(--font-system);
+      font-family: $system-fonts;
       justify-content: center;
       margin: 1vh;
       p, h4 {

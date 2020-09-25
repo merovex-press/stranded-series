@@ -45,7 +45,7 @@ select {
     &:focus + input,
     &:focus + textarea,
     &:focus + select {
-      border-top-color: $mero-primary;
+      border-top-color: $mero-brand;
       }
     }
   }

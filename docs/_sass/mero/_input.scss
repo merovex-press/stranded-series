@@ -10,7 +10,7 @@ $mero-input-background: $mero-white !default;
   line-height: 1.5;
   margin: 0;
   color: var(--select-bw-text);
-  font-family: var(--font-system);
+  font-family: $system-fonts;
   height: $mero-input-height;
   padding: calc($mero-input-padding - 4px);
 

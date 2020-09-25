@@ -1,22 +1,27 @@
 // Inspired by https://github.com/franciscop/picnic
+@import './mero/functions';
 
 $mero-color-variation: 10% !default;
 $mero-transparency: .2 !default;
 
-$mero-error:        var(--error)   !default;
-$mero-error-text:   var(--error-bw-text)   !default;
-$mero-success:      var(--success) !default;
-$mero-success-text: var(--success-bw-text) !default;
-$mero-warning:      var(--warning) !default;
-$mero-warning-text: var(--warning-bw-text) !default;
-$mero-brand:        var(--brand) !default;
-$mero-primary:        var(--primary) !default;
-$mero-primary-text:   var(--primary-bw-text) !default;
-$mero-brand-text:   var(--brand-bw-text) !default;
+$mero-error:        clr('red') !default;
+$mero-success:      clr('green') !default;
+$mero-warning:      clr('orange') !default;
+$mero-brand:        clr('brand') !default;
 
-$mero-white: var(--white) !default;
-$mero-black: var(--black) !default;
-$mero-dull:  var(--gray) !default;
+$mero-red: clr('red');
+$mero-orange: clr('orange');
+$mero-yellow: clr('yellow');
+$mero-green: clr('green');
+$mero-blue: clr('blue');
+$mero-indigo: clr('indigo');
+$mero-violet: clr('violet');
+
+$mero-white: clr('white') !default;
+$mero-black: clr('black') !default;
+$mero-dull:  clr('gray') !default;
+
+$navbar-bg: clr('brand') !default;
 
 // Spaces
 $mero-separation: .6em !default;
@@ -32,7 +37,6 @@ $mero-overlay: rgba($mero-black, $mero-transparency);
 $mero-transition: all .3s;
 
 @import './mero/normalize';
-@import './mero/functions';
 @import './mero/z-depth';
 
 @import './mero/generic';
@@ -77,7 +81,7 @@ $mero-transition: all .3s;
   html, body > header, body > footer {
     filter: invert(1) hue-rotate(180deg);
   }
-  img:not([src*=".svg"]) {
+  img:not([src*=".svg"]), .dropimage {
     filter: invert(1) hue-rotate(180deg) saturate(30%);
   }
 }

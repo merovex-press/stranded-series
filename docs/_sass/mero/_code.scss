@@ -7,7 +7,7 @@
     // background: rgba($gray-500,0.4);
     background: var(--code);
     color: var(--code-bw-text);
-    font-family: var(--font-monospace);
+    font-family: $mono-fonts;
     overflow-x: scroll;
     border-radius: $mero-radius;
   }
