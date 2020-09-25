@@ -3,7 +3,7 @@
   .post-preview {
   max-width: 70ch;
   &+ .post-preview {
-    border-top: 0.2vh solid rgba(#808080,0.5);
+    border-top: 0.2vh solid rgba($mero-body-fg,0.5);
     margin-top: 3vh;
   }
   .meta, footer {
@@ -11,7 +11,7 @@
     font-size: 85%;
     font-style: italic;
     a {
-      color: var(--background-fg);
+      color: $mero-body-fg;
     }
   }
   p {

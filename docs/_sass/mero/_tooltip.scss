@@ -1,5 +1,5 @@
 // Variables for the tooltips
-$mero-tooltip-background: rgba(#000, 0.7) !default;
+$mero-tooltip-background: rgba($mero-black, 0.7) !default;
 $mero-tooltip-size: .8em !default;
 
 // Only display the tooltip for elements with <element data-tooltip="blabla">

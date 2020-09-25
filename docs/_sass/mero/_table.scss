@@ -1,4 +1,3 @@
-
 .zebra {
   backdrop-filter: unquote("contrast(0.8)")
 }
@@ -11,32 +10,29 @@ table {
   scroll-behavior: auto;
   @extend .z-depth-1;
   margin-bottom: 1.6em;
-  background: var(--table-bg);
-  color: var(--table-bw-text);
+  background: $mero-body-bg;
+  color: text-contrast($mero-body-bg,7);
   border-radius: 4px;
   th[scope=col], th {
-    background: var(--brand-bg);
-    color: var(--brand-bw-text);
+    background: $mero-brand;
+    color: text-contrast($mero-brand,7);
     text-align: left;
   }
   th[scope=row] {
     background: transparent;
-    color: var(--body-text);
   }
   td, th {
     padding: 0.3em 2.4em 0.3em 0.6em;
   }
+  
   tr.success {
-    background: var(--success-bg);
-    color: var(--success-bw-text);
+    @include alert-colors($mero-green);
   }
   tr.warning {
-    background: var(--warning-bg);
-    color: var(--warning-bw-text);
+    @include alert-colors($mero-orange);
   }
   tr.error {
-    background: var(--error-bg);
-    color: var(--error-bw-text);
+    @include alert-colors($mero-red);
   }
   tr:nth-child(odd) td, tr:nth-child(odd) th {
     @extend .zebra;

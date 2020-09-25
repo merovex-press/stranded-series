@@ -1,4 +1,5 @@
 $mero-footer-bg: #000 !default;
+$mero-footer-fg: text-contrast($mero-footer-bg);
 body > footer {
   display: flex;
   flex-shrink: 0;
@@ -9,12 +10,12 @@ body > footer {
   text-align: center;
   text-transform: uppercase;
   background: $mero-footer-bg;
-  color: text-contrast($mero-footer-bg);
+  color: $mero-footer-fg;
   a {
     text-decoration: underline !important;
-    color: text-contrast($mero-footer-bg);
+    color: $mero-footer-fg;
     &:visited {
-      color: text-contrast($mero-footer-bg);
+      color: $mero-footer-fg;
     }
   }
 }

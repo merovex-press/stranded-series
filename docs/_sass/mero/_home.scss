@@ -1,7 +1,7 @@
 .home {
   #feature {
-    background: var(--brand-bg);
-    color: var(--brand-bg-text);
+    background: $mero-brand;
+    color: text-contrast($mero-brand,7);
     min-height: 53vh;
     margin-bottom: 5vh;
   }

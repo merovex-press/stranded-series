@@ -1,3 +1,5 @@
+$mero-body-fg: text-contrast($mero-body-bg, 7) !default;
+$mero-background-image: false !default;
 
 @media
 (-webkit-min-device-pixel-ratio: 2),
@@ -18,12 +20,17 @@ html {
   scroll-behavior: smooth;
   font-display:optional;
   body {
-    // ::selection { background-color: var(--primary); color: var(--white) }
     img {
       max-width: 100%;
     }
-    background: $mero-body-bg;
-    color: text-contrast($mero-body-bg,7);
+    ;
+    @if $mero-background-image {
+      background: $mero-body-bg url($mero-background-image);
+    }
+    @else {
+      background: $mero-body-bg;
+    }
+    color: $mero-body-fg;
     & > header {
       display: flex;
       height: 3em;
@@ -32,7 +39,10 @@ html {
     }
     & > main {
       flex-grow: 1;
-      ::selection { background-color: $mero-brand; color: $mero-white }
+      ::selection {
+        background-color: $mero-brand;
+        color: $mero-white
+      }
       min-height: calc(100vh - 4.5em);
       display: flex;
       flex-direction: column;

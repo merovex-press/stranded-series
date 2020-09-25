@@ -1,6 +1,8 @@
+$mero-navbar-fg: text-contrast($mero-navbar-bg, 7) !default;
+
 body > header {
   background: $mero-navbar-bg;
-  color: text-bw($mero-navbar-bg);
+  color: $mero-navbar-fg;
   @extend .z-depth-1;
   a {
     text-decoration: none;
@@ -8,9 +10,9 @@ body > header {
   nav {
     a {
       @extend %button;
-      color: text-bw($mero-navbar-bg);
+      color: $mero-navbar-fg;
       &:visited {
-        color: text-bw($mero-navbar-bg);
+        color: $mero-navbar-fg;
       }
       &+a {
         margin-left: $mero-separation;
@@ -24,13 +26,13 @@ body > header {
     span {
       font-family: $brand-font;
       font-size: 1.5em;
-        color: text-bw($mero-navbar-bg);
+        color: $mero-navbar-fg;
     }
     svg {
       height: 1.5em;
       width: auto;
       margin-right: 0.4em;
-      fill: text-bw($mero-navbar-bg);
+      fill: $mero-navbar-fg;
     }
   }
   a.subscribe {

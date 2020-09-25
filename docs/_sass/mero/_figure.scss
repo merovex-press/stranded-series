@@ -1,3 +1,5 @@
+$mero-figcaption-bg: text-contrast($mero-body-bg) !default;
+$mero-figcaption-fg: text-contrast($mero-figcaption-bg,7) !default;
 figure {
   overflow: hidden;
   margin: 0;
@@ -20,8 +22,8 @@ figure {
     padding: 0.5vh;
     font-size: 0.9rem;
     font-family: $system-fonts;
-    background: var(--dark-bg);
-    color: white;
+    background: $mero-figcaption-bg;
+    color: $mero-figcaption-fg;
     opacity: 0.8;
     a {
       color: white;

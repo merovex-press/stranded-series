@@ -1,7 +1,9 @@
-    .alert {
+
+.alert {
       align-items: center;
       background: rgba(#808080,0.2);
-      border-radius: 1vh;
+      border-radius: $mero-radius;
+      border: 0.3vh solid gray;
       display: flex;
       flex-flow: column;
       font-family: $system-fonts;
@@ -17,23 +19,18 @@
         font-size: 1.0em;
       }
       &.info {
-        border: 0.3vh solid rgba(clr('blue', 500), 0.4);
-        background: rgba(clr('blue',500), 0.2);
+        @include alert-colors($mero-blue);
       }
       &.warning {
-        border: 0.3vh solid rgba(clr('yellow', 500), 0.4);
-        background: rgba(clr('yellow',500), 0.2);
+        @include alert-colors($mero-orange);
       }
       &.danger, &.error {
-        border: 0.3vh solid rgba(clr('red', 500), 0.4);
-        background: rgba(clr('red',500), 0.2);
+        @include alert-colors($mero-red);
       }
       &.brand {
-        border: 0.3vh solid rgba(clr('brand', 500), 0.4);
-        background: rgba(clr('brand',500), 0.2);
+        @include alert-colors($mero-brand);
       }
       &.success {
-        border: 0.3vh solid rgba(clr('green', 500), 0.4);
-        background: rgba(clr('green',500), 0.2);
+        @include alert-colors($mero-green);
       }
     }

@@ -5,7 +5,7 @@
    justify-content: center;
    line-height: 1.2;
    h1 {
-     border-right: 0.1rem solid var(--foreground);
+     border-right: 0.1rem solid text-contrast($mero-body-bg, 7);
      padding-right: 1rem;
      margin-right: 1rem;
    }

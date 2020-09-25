@@ -5,6 +5,7 @@
 $mero-card-shadow: 0 !default;
 $mero-card-border: $mero-border !default;
 $mero-card-radius: $mero-radius !default;
+$mero-card-bg: $mero-white !default;
 // Styles
 
 // http://8gramgorilla.com/mastering-sass-extends-and-placeholders/
@@ -16,7 +17,7 @@ $mero-card-radius: $mero-radius !default;
   border: $mero-card-border;
   overflow: hidden;
   text-align: left;
-  background: var(--card);
+  background: $mero-card-bg;
   margin-bottom: $mero-separation;
   padding: 0;
   transition: all .3s ease;
