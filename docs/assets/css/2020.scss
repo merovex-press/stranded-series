@@ -26,8 +26,9 @@ $mero-grid-offpart-sizes: (
 $system-fonts: Hind, -apple-system, system-ui, "Segoe UI", Roboto, Lato, Helvetica, Arial, sans-serif;
 $serif-fonts: "CrimsonText", Cambria, Georgia, "Times New Roman", Times, serif;
 $heading-fonts: IMFellEnglish, $serif-fonts;
-$mono-fonts: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
+$mono-fonts: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 $table-fonts: $system-fonts;
+
 
 // Cornell Brand colors
 // $brand:#A6192E;
@@ -86,6 +87,7 @@ $brand-font: $heading-fonts;
 $mero-brand: clr('brand',100);
 $mero-primary: $mero-brand;
 $mero-navbar-bg: clr('iron-gall', 700);
+$mero-code-bg: clr('gray',500);
 $mero-background-image: '/assets/images/backgrounds/beige-paper.png';
 
 @import 'mero';

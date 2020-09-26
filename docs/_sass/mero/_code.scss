@@ -1,8 +1,9 @@
-$mero-code-bg: text-contrast($mero-body-bg);
-$mero-code-fg: text-contrast($mero-code-bg, 7);
+$mero-code-bg: text-contrast($mero-body-bg) !default;
+$mero-code-fg: text-contrast($mero-code-bg, 7) !default;
 pre, code {
     background: $mero-code-bg;
     border-radius: $mero-radius;
+    border-color: darken($mero-code-bg, 20%);
     color: $mero-code-fg;
     font-family: $mono-fonts;
     font-size: 0.9em;
