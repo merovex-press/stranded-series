@@ -1,11 +1,20 @@
+$home-zebra-bg: rgba(clr('iron-gall'), 0.1) !default;
+$home-zebra-fg: clr('iron-gall',900) !default;
 .home {
   #feature {
     position: relative;
     overflow: hidden;
-    color: text-contrast($mero-brand,7);
+    color: text-bw($mero-brand);
     min-height: 53vh;
-    background: url(/assets/images/hero/oil-underlay.jpg);
-    background-size: cover;
+    .fnord {
+      z-index: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 100%;
+      transform: translate(-50%, -50%);
+      filter: saturate(0%);
+    }
     .underlay {
       position: absolute;
       top: 50%;
@@ -13,9 +22,19 @@
       width: 100%;
       transform: translate(-50%, -50%);
       filter: opacity(0.3) blur(1px);
+      z-index: 1;
+    }
+    div.container {
+      position: absolute;
+      top: 0;
+      z-index: 2;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 100%;
+      height: 100%;
     }
     article {
-      z-index: 2;
       color: text-bw($mero-brand);
       text-shadow: 1px 1px 1px rgba(#000,1);
       opacity: 1;
@@ -31,5 +50,14 @@
   section.body {
     padding: 1in 0;
     font-family: $serif-fonts;
+    div {
+      width: 90%;
+      max-width: 50em;
+      margin: 0 auto;
+    }
+    &:nth-of-type(even) {
+      background: $home-zebra-bg;
+      color: $home-zebra-fg;
+    }
   }
 }

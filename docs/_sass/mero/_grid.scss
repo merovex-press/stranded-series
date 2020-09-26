@@ -99,9 +99,11 @@ $mero-grid-offpart-sizes: (
 .flex.grow > * {
   flex-grow: 1;
 }
-
-.center {
+%center {
   justify-content: center;
+}
+.center {
+  @extend %center;
 }
 
 @each $count in $mero-grid-count {

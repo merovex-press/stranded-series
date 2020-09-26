@@ -75,10 +75,11 @@ $mero-transition: all .3s;
 @import './mero/framing';
 @import './mero/figure';
 @import './mero/alert';
+@import './mero/book-summary';
 @import './mero/post-preview';
 
 @media (prefers-color-scheme: dark) {
-  html, body > header, body > footer {
+  html, body > header, body > footer, .invert {
     filter: invert(1) hue-rotate(180deg);
   }
   img:not([src*=".svg"]), .dropimage {

@@ -61,6 +61,18 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo
 
+collections:
+  books:
+    output: true
+    permalink: /books/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "books"
+    values:
+      layout: "book"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -80,3 +92,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+kramdown:
+  input                   : GFM
+  hard_wrap               : false
+  auto_ids                : true
+  footnote_nr             : 1
+  entity_output           : as_char
+  toc_levels              : 2..4
+  smart_quotes            : lsquo,rsquo,ldquo,rdquo
+  syntax_highlighter_opts:
+    disable               : true
