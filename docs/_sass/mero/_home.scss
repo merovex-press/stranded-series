@@ -1,7 +1,11 @@
 $home-zebra-bg: rgba(clr('iron-gall'), 0.1) !default;
 $home-zebra-fg: clr('iron-gall',900) !default;
 .home {
+  h2, h3 {
+    font-family: $heading-fonts;
+  }
   #feature {
+    @extend .desktop;
     position: relative;
     overflow: hidden;
     color: text-bw($mero-brand);

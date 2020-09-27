@@ -1,7 +1,10 @@
 $mero-footer-bg: #000 !default;
 $mero-footer-fg: text-contrast($mero-footer-bg);
 body > footer {
-  display: flex;
+  // display: flex;
+  @extend .flex;
+  @extend .one;
+  @extend .four-1100;
   flex-shrink: 0;
   font-size: 0.85rem;
   justify-content: space-around;
@@ -10,6 +13,7 @@ body > footer {
   text-align: center;
   text-transform: uppercase;
   background: $mero-footer-bg;
+  border-top: 1em solid $mero-brand;
   color: $mero-footer-fg;
   a {
     text-decoration: underline !important;

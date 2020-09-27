@@ -100,3 +100,10 @@ $mero-background-image: '/assets/images/backgrounds/beige-paper.png';
 @include font('CrimsonText-Bold',       '../fonts/CrimsonText-Bold');
 @include font('CrimsonText-BoldItalic', '../fonts/CrimsonText-BoldItalic');
 @include font('Hind-Regular',           '../fonts/Hind-Regular');
+
+.page-copyright {
+  font-family: $system-fonts;
+  font-size: 80%;
+  text-align: center;
+  opacity: 20%;
+}

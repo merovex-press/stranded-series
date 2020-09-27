@@ -17,7 +17,8 @@ article {
       top: 10vh;
       left: 0;
       padding-left: 5vw;
-      color: rgba(#808080,0.075);
+      color: $body-text-color;
+      opacity: 7%;
       white-space: nowrap;
       overflow-x: hidden;
       font-family: $heading-fonts;
