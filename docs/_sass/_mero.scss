@@ -79,10 +79,15 @@ $mero-transition: all .3s;
 @import './mero/post-preview';
 
 @media (prefers-color-scheme: dark) {
+  img:not([src*=".svg"]), .dropimage {
+    filter: invert(1) hue-rotate(180deg) saturate(50%);
+  }
   html, body > header, body > footer, .invert {
     filter: invert(1) hue-rotate(180deg);
   }
-  img:not([src*=".svg"]), .dropimage {
-    filter: invert(1) hue-rotate(180deg) saturate(30%);
+  .invert {
+    img {
+      filter: invert(0) hue-rotate(0);
+    }
   }
 }
