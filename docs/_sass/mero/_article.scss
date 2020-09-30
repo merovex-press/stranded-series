@@ -1,6 +1,7 @@
 $body-text-color: text-contrast($mero-body-bg, 7);
 article {
   &.page {
+    z-index: 0;
     .lead {
       font-size: 1.1em;
       line-height: 1.3;

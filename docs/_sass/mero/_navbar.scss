@@ -2,8 +2,8 @@ $mero-navbar-fg: text-contrast($mero-navbar-bg, 7) !default;
 
 body > header {
   background: $mero-navbar-bg;
+  z-index: 11;
   color: $mero-navbar-fg;
-  @extend .z-depth-1;
   a {
     text-decoration: none;
   }
@@ -56,6 +56,8 @@ body > header {
   }
   @media all and (max-width: $mero-breakpoint) {
     nav {
+
+      // animation: show-pane .2s cubic-bezier(0,0,0,1);
       .burger {
         display: inline-block;
         cursor: pointer;
@@ -97,6 +99,7 @@ body > header {
             transition: all 0.5s ease;
           }
           ~ .menu {
+            z-index: 10;
             > * {
               &:nth-child(1) {
                 transition: all 0.5s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
@@ -130,7 +133,6 @@ body > header {
           transform-origin: center right;
           transition: all 0.25s ease;
           transform: scaleX(0);
-
           > * {
             transform: translateX(100%);
             transition: all 0s ease 0.5s;

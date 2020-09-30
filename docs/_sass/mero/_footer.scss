@@ -5,6 +5,7 @@ body > footer {
   @extend .flex;
   @extend .one;
   @extend .four-1100;
+  z-index: 0;
   flex-shrink: 0;
   font-size: 0.85rem;
   justify-content: space-around;
