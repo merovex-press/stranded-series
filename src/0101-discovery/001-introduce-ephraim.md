@@ -106,6 +106,9 @@ Ephraim finished his rum. "I just need to get away from Philadelphia, that's all
 
 Jeffry glared at him, just like their father used to. "I will let you stay a few days. After that, you should continue down Wagon Road."
 
+<!-- TODO: Complete Scene one
+This scene is not over. Need to show him milling the town and bristling at the troops passing through at the Widow's tavern. Needs to establish he is a tinkerer by repairing the toy. -->
+
 * * *
 
 ## Ephraim Finds Refuge

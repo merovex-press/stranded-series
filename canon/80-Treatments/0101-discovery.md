@@ -15,6 +15,7 @@
 **September, 14 1762.** _Ephraim Biggs_ is a Son of Liberty on the lamb. In the rain, he arrives at his brother's _Jeffry Biggs_ home in _Shippensburg, PA_. Once inside and warmed, he asks his brother to shelter him. In the conversation, they argue over why he was there, which leads into the Sons of Liberty and the real reason why Ephraim is on the run. He refuses his brother, and the next morning Ephraim leaves.
 
 - [x]: Make sure to show the wife & kids; she's pregnant.
+- [ ]: Need to show Ephraim repairing a toy.
 
 ##### Ephraim finds refuge - Chambersburg / O'Brien's Smithy - Noon
 

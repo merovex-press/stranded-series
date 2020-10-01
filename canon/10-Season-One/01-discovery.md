@@ -54,19 +54,27 @@ The militia lifts the siege of Fort Pitt using the advanced weapons; news of whi
 
 **Prolog:** The Iroquois under KARIWASE capture & kill a trapper asleep in his camp, announcing the global threat.
 
+<!-- Ben, Each chapter should be 10K words, 8 Sections. Be patient and take your time. With prolog & Chapter 1, you should establish the main characters either directly or via reference.
+-->
 
-**Act 1.** Ephraim George BIGGS is a rebel Son of Liberty on the run from HIM a UK bounty-hunter MORTIMER REECE. He shows up at his brother's house in the rain looking for refuge, but his brother (ever the lawyer) finds out why and sends him away (he repairs Jeffry's son's toy, showing him as a tinkerer). He goes to another town and gets hired as a smith who comments on his breeding, hands, and disrespect for civil authority.
+**Act 1 / Chapter 1.** Ephraim George BIGGS is a rebel Son of Liberty on the run from HIM a UK bounty-hunter MORTIMER REECE. He shows up at his brother's house in the rain looking for refuge, but his brother (ever the lawyer) finds out why and sends him away (he repairs Jeffry's son's toy, showing him as a tinkerer).
+<!-- Spend more time in the conversation with the Biggs brother to introduce other key characters? Set their conflict as one very passionate and irrational. -->
+Ephriam goes to another town and gets hired as a smith who comments on his breeding, hands, and disrespect for civil authority. "I'm not fond of the color red."
 Meanwhile, Reece shows up at Jeff's house on the trail, but Jeff avoids giving up his brother; but Reece learned that Ephraim was trained as a smith. He has his men comb the countryside looking for towns with new smiths.
 This leads to Reece finding Ephraim under an assumed name, when a fight breaks out and Ephraim flees into the wilderness. But, Reece pursues, with Ephraim's capture.	This leads to Reece finding Ephraim under an assumed name, when a fight breaks out and Ephraim flees into the wilderness. But, Reece pursues, with Ephraim's capture.
-The Iroquois under Kariwase pick up on the pursuit and hunt them, resulting in a firefight that lets Ephraim escape (shoeless).	The Iroquois under Kariwase pick up on the pursuit and hunt them, resulting in a firefight that lets Ephraim escape (shoeless).
-Ephraim flees wounded & pursued by the Iroquois, when he falls into the TEMPLE unconscious. Reece and team get split during the fog of war, with a third rejoining with Reece & beating a retreat to civilization. Ephraim flees wounded & pursued by the Iroquois, when he falls into the TEMPLE unconscious. Reece and team get split during the fog of war, with a third rejoining with Reece & beating a retreat to civilization.
-When Ephraim comes to, he is able to start a small fire for light, letting him find material to dress his wound. He explores the temple and discovers the rifle ala Conan the Barbarian. He experiments with it until he accidentally fires it. His continued exploration leads him to a larger space, an artificial light (the lightening bug), and a trove of weapons and ammunition.
 
-**Act 2.** Excited by the prospects, Ephraim decides to take a few toys to Philadelphia to the Sons of Liberty. But, he first has to escape the Iroquois party.
+**Chapter 2.** The Iroquois under Kariwase pick up on the pursuit and hunt them, resulting in a firefight that lets Ephraim escape (shoeless).	The Iroquois under Kariwase pick up on the pursuit and hunt them, resulting in a firefight that lets Ephraim escape (shoeless).
+Ephraim flees wounded & pursued by the Iroquois, when he falls into the TEMPLE unconscious. Reece and team get split during the fog of war, with a third rejoining with Reece & beating a retreat to civilization. Ephraim flees wounded & pursued by the Iroquois, when he falls into the TEMPLE unconscious. Reece and team get split during the fog of war, with a third rejoining with Reece & beating a retreat to civilization.
+When Ephraim comes to, he is able to start a small fire for light, letting him find material to dress his wound. He explores the temple and discovers the rifle ala Conan the Barbarian. He experiments with it until he accidentally fires it. His continued exploration leads him to a larger space, an artificial light (the lightening bug), and a trove of weapons and ammunition. Excited by the prospects, Ephraim decides to take a few toys to Philadelphia to the Sons of Liberty. But, he first has to escape the Iroquois party.
+
+**Act 2. / Chapter 3.**
+<!-- Put in 4-Act structure.  -->
 He finds a way out of the Temple, but the pursuit resumes when he gives away his position. He shoots the hunting party killing the five of them in rapid succession. Rather than run, he loots the bodies for shoes and uses their arrows to conceal the wounds.
 With a makeshift sled, he pulls out his samples and heads to Philadelphia, but he stops by his place in Smithytown, which alerts Mortimer that he is not dead.
 Meanwhile, Kariwase discovers the slain warrior party and discovers the ruse, bewildered he tracks Mortimer's sled until he realizes it is leaving their territory.
 Mortimer, alerted to Ephraim's return confronts the Smithy, but is thwarted somehow, and has his men resume searching neighboring towns while he goes back to Jeffry.
+
+**Chapter 4.**
 Ephraim arrives in Philadelphia and quietly makes himself known to the Sons. After a meal, he arranges a rural demonstration of the rifles, but SOLOMON SHARPE reports this to WARREN BOYDELL, who sends word to Mortimer.
 Meanwhile, Kariwase meets with Pontiac and receives instructions related to the brewing war.
 Mortimer meets with Jeffry and is flustered, accusing him of harboring a fugitive (and of being a coward by not challenging a duel), but when he gets back to his room in the Inn has word from Boydell of Ephraim's location. He hurries back to Philadelphia.
