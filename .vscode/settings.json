@@ -70,7 +70,7 @@
   "[markdown]": {
     "editor.lineHeight": 30,
     "editor.fontSize": 18,
-    "editor.fontFamily": "Literata, 'Fira Sans','Source Serif Pro', Literata",
+    "editor.fontFamily": "Literata, Cambria, Georgia, 'Noto Serif', 'Times New Roman', Times, serif'",
     "editor.wordWrap": "wordWrapColumn",
     "editor.wordWrapColumn": 80,
   },
