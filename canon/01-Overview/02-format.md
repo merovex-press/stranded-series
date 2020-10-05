@@ -57,4 +57,4 @@ We plot the episodes in order: 10, 1, 6, 2-5, 9, 7, 8.
 * **Trio Pattern.** Each episode comprises three storylines where each storyline comprises eight segments.
   - Combat covers the tactical, human conflict (with blood as necessary).
   - Diplomacy engages the world changing political, social aspects of the divergence.
-  - Stealth brings in the back-stabbing, conniving element, which is closely tied to either Combat or Diplomacy.
+  - Stealth brings in the back-stabbing, conniving element, which is tied to either Combat or Diplomacy.
