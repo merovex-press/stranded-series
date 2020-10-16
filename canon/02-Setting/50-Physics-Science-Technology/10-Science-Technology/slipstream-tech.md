@@ -9,6 +9,7 @@ Slipstream technology describes the ability to get from Earth to Slipstream and 
 Table: Slipstream Rediscovery Timeline
 
 ----------  ------------------------------------------------------------
+
   1828      Slipstream travel discovered in computer
   1831      Society for Slipsteam Research (SSR) established
  1854-1895   Building out the infrastructure
@@ -22,4 +23,5 @@ Table: Slipstream Rediscovery Timeline
   1923      Orbital in Elysion system started
   1929      Elysion Orbital operational
   1936      Elysion Orbital attacked
+
 ----------  ------------------------------------------------------------

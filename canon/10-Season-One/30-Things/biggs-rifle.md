@@ -1,0 +1,1 @@
+**Bigg's Rifle** is an 8-round en-bloc top-fed .308 caliber rifle with an injection molded polycarbonate, glass-filled stock. It has a 45 centimeter (17.7") barrel. It is remarkably similar to the M1 Tanker variant.

@@ -77,6 +77,10 @@ Kariwase's team captures or kills much of Dorian's team. MOOK-2 and two others b
 
 Resting, Ephraim overhears the Indians, and continues to flee. They finally are able to see him on a mound and open fire. He runs like a rabbit, and falls into a hole. The Indians start to climb, when one observes it's an old haunted mound; they beat a retreat.
 
+- [ ] Needs to fight an indian so he has the bow & arrow to test against the dragon armor
+
+- [ ] Show him agonizing over the killing, reflecting on the feeling this time verses the last.
+
 #### Chapter 4 - Into the Darkness
 
 ##### Ephraim discovers technology
