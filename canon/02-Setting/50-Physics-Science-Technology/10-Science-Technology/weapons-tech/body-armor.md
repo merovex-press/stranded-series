@@ -27,9 +27,7 @@ Table: Comparison of the Properties of Natural Spider Silk, Kevlar® and Steel
 
 BABT is the non-penetrating injury resulting from the rapid deformation of armors covering the body. Called **mushrooming**. Injuries will be rib fracture, hematoma in the lung, heart.
 
-* keep deflection under 2 inches, 44mm? But it looks like <28mm is all that's safe, more than that there's a chance for injury.
-
-* 50% of pigs died with 40mm, vice 25% at 34mm
+* 50% of pigs died with 40mm, vice 25% at 34mm, 0% at 28mm.
 
 * takes about 5 minutes to recover after being shot...low blood pressure and low O<sub>2</sub> levels
 
