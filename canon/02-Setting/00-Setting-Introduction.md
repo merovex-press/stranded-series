@@ -12,10 +12,12 @@ In the 18th Century, Toltec discoveries led to advanced weapons (automatic rifle
 Elysion inhabitants are humans genetically identical to Earth. Albert encounters the Hela, a dark-skinned, Indo-European-appearing ethnicity speaking what Albert determines is an older Germanic (Icelandic) language. The Hela, technologically in the Renaissance, are in the early stages of a civil war, with a rival branch of the ruling family seeking to gain power.
 
 <!-- Reference URLs -->
+
 [VcUi1erb]: https://github.com/Merovex/strand-series/blob/master/series-bible/AA-Appendix/Tropes/GivingRadioToTheRomans.md
 [vLFiDV9E]: https://github.com/Merovex/strand-series/blob/master/series-bible/AA-Appendix/Tropes/Advanced-Ancient-Humans.md
 [ltDHHbfX]: https://github.com/Merovex/strand-series/blob/master/series-bible/08-Science-Cosmology/slipstream.md
 [UPkFi3ZN]: https://github.com/Merovex/strand-series/blob/master/series-bible/04-Locations/Elysion/00-elysion.md
+
 <!-- /setting-overview -->
 
 **Organization.** This section is organized by major topic.

@@ -1,0 +1,1 @@
+**Dragon silk vest** is body armor made from [dragon silk](https://en.wikipedia.org/wiki/Dragon_silk), a lightweight, [executive vest](https://premierbodyarmor.com/products/discreet-executive-vest) This provides protection against NIJ Level IIIA (.357 bullet, musket ball), but does not provide protection against arrows. It weighs 1 pound.
