@@ -1,0 +1,881 @@
+{
+  "ui": {
+    "currentView": "outline",
+    "currentTimeline": 1,
+    "timelineIsExpanded": true,
+    "orientation": "horizontal",
+    "darkMode": true,
+    "characterSort": "name~asc",
+    "characterFilter": {
+      "Worldview": [],
+      "physical traits": [],
+      "personality": [],
+      "tragedy": [],
+      "lie believed": [],
+      "fear": [],
+      "flaw": [],
+      "accomplishment": []
+    },
+    "placeSort": "name~asc",
+    "placeFilter": {
+      "LatLong": []
+    },
+    "noteSort": "title~asc",
+    "noteFilter": null,
+    "zoomState": null,
+    "zoomIndex": 4,
+    "timelineFilter": null
+  },
+  "file": {
+    "fileName": "/Users/merovex/Github/merovex-press/strand-series/Untitled.pltr",
+    "loaded": true,
+    "dirty": true,
+    "version": "2020.9.11"
+  },
+  "series": {
+    "name": "Stranded Series",
+    "premise": "Advanced technology in the 18th Century",
+    "genre": "Alt-History",
+    "theme": "",
+    "templates": []
+  },
+  "books": {
+    "1": {
+      "id": 1,
+      "title": "Discovery",
+      "premise": "",
+      "genre": "",
+      "theme": "",
+      "templates": [],
+      "timelineTemplates": [
+        {
+          "id": "pl17",
+          "name": "Snowflake Method"
+        }
+      ],
+      "imageId": null
+    },
+    "2": {
+      "id": 2,
+      "title": "Realization",
+      "premise": "",
+      "genre": "",
+      "theme": "",
+      "templates": [],
+      "timelineTemplates": [],
+      "imageId": null
+    },
+    "3": {
+      "id": 3,
+      "title": "Disclosure",
+      "premise": "",
+      "genre": "",
+      "theme": "",
+      "templates": [],
+      "timelineTemplates": [],
+      "imageId": null
+    },
+    "4": {
+      "id": 4,
+      "title": "Recognition",
+      "premise": "",
+      "genre": "",
+      "theme": "",
+      "templates": [],
+      "timelineTemplates": [],
+      "imageId": null
+    },
+    "5": {
+      "id": 5,
+      "title": "Encounter",
+      "premise": "",
+      "genre": "",
+      "theme": "",
+      "templates": [],
+      "timelineTemplates": [],
+      "imageId": null
+    },
+    "6": {
+      "id": 6,
+      "title": "Introduction",
+      "premise": "",
+      "genre": "",
+      "theme": "",
+      "templates": [],
+      "timelineTemplates": [],
+      "imageId": null
+    },
+    "7": {
+      "id": 7,
+      "title": "Certification",
+      "premise": "",
+      "genre": "",
+      "theme": "",
+      "templates": [],
+      "timelineTemplates": [],
+      "imageId": null
+    },
+    "8": {
+      "id": 8,
+      "title": "Tested",
+      "premise": "",
+      "genre": "",
+      "theme": "",
+      "templates": [],
+      "timelineTemplates": [],
+      "imageId": null
+    },
+    "allIds": [
+      1,
+      6,
+      2,
+      5,
+      7,
+      8,
+      3,
+      4
+    ]
+  },
+  "characters": [
+    {
+      "id": 1,
+      "name": "Ephraim Biggs",
+      "description": "Dude",
+      "notes": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "color": null,
+      "cards": [],
+      "noteIds": [],
+      "templates": [],
+      "tags": [],
+      "categoryId": "1",
+      "imageId": null,
+      "bookIds": [
+        1
+      ],
+      "accomplishment": "",
+      "Worldview": "",
+      "physical traits": "",
+      "personality": "",
+      "tragedy": "",
+      "lie believed": "",
+      "fear": "",
+      "flaw": ""
+    },
+    {
+      "id": 2,
+      "name": "Jeffry Biggs",
+      "description": "",
+      "notes": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "color": null,
+      "cards": [],
+      "noteIds": [],
+      "templates": [],
+      "tags": [],
+      "categoryId": "1",
+      "imageId": null,
+      "bookIds": [],
+      "Worldview": "This is his Worldview",
+      "accomplishment": "He accomplishes",
+      "physical traits": "This is what he looks like",
+      "personality": "this is his personality",
+      "tragedy": "life sucks",
+      "lie believed": "so he believes that life sucks",
+      "fear": "he's terrified it will continue to suck",
+      "flaw": "and he speaks backwards"
+    }
+  ],
+  "chapters": [
+    {
+      "id": 3,
+      "bookId": 2,
+      "position": 0,
+      "title": "Section 1",
+      "time": 0,
+      "autoOutlineSort": true,
+      "fromTemplateId": null
+    },
+    {
+      "id": 4,
+      "bookId": 3,
+      "position": 0,
+      "title": "auto",
+      "time": 0,
+      "autoOutlineSort": true,
+      "fromTemplateId": null
+    },
+    {
+      "id": 5,
+      "bookId": 4,
+      "position": 0,
+      "title": "auto",
+      "time": 0,
+      "autoOutlineSort": true,
+      "fromTemplateId": null
+    },
+    {
+      "id": 6,
+      "bookId": 5,
+      "position": 0,
+      "title": "auto",
+      "time": 0,
+      "autoOutlineSort": true,
+      "fromTemplateId": null
+    },
+    {
+      "id": 7,
+      "bookId": 6,
+      "position": 0,
+      "title": "auto",
+      "time": 0,
+      "autoOutlineSort": true,
+      "fromTemplateId": null
+    },
+    {
+      "id": 8,
+      "bookId": 7,
+      "position": 0,
+      "title": "auto",
+      "time": 0,
+      "autoOutlineSort": true,
+      "fromTemplateId": null
+    },
+    {
+      "id": 9,
+      "bookId": 8,
+      "position": 0,
+      "title": "auto",
+      "time": 0,
+      "autoOutlineSort": true,
+      "fromTemplateId": null
+    },
+    {
+      "id": 13,
+      "bookId": 1,
+      "position": 0,
+      "title": "Section 1",
+      "time": 0,
+      "autoOutlineSort": true,
+      "fromTemplateId": "pl17"
+    },
+    {
+      "id": 12,
+      "bookId": 1,
+      "position": 1,
+      "title": "Section 2",
+      "time": 0,
+      "autoOutlineSort": false,
+      "fromTemplateId": "pl17"
+    },
+    {
+      "id": 15,
+      "bookId": 1,
+      "position": 2,
+      "title": "auto",
+      "time": 0,
+      "templates": [],
+      "autoOutlineSort": true,
+      "fromTemplateId": "pl17"
+    },
+    {
+      "id": 14,
+      "bookId": 1,
+      "position": 3,
+      "title": "auto",
+      "time": 0,
+      "templates": [],
+      "autoOutlineSort": true,
+      "fromTemplateId": "pl17"
+    },
+    {
+      "id": 16,
+      "bookId": 1,
+      "position": 4,
+      "title": "auto",
+      "time": 0,
+      "templates": [],
+      "autoOutlineSort": true,
+      "fromTemplateId": "pl17"
+    },
+    {
+      "id": 17,
+      "bookId": 1,
+      "position": 5,
+      "title": "Scene Five?",
+      "time": 0,
+      "templates": [],
+      "autoOutlineSort": true,
+      "fromTemplateId": "pl17"
+    },
+    {
+      "id": 18,
+      "bookId": 1,
+      "position": 6,
+      "title": "auto",
+      "time": 0,
+      "templates": [],
+      "autoOutlineSort": true,
+      "fromTemplateId": "pl17"
+    },
+    {
+      "id": 19,
+      "bookId": 1,
+      "position": 7,
+      "title": "Stuff",
+      "time": 0,
+      "autoOutlineSort": true,
+      "fromTemplateId": "pl17"
+    }
+  ],
+  "cards": [
+    {
+      "id": 9,
+      "lineId": 3,
+      "chapterId": 3,
+      "beatId": null,
+      "seriesLineId": null,
+      "bookId": null,
+      "positionWithinLine": 0,
+      "positionInChapter": 0,
+      "title": "Realization Prolog",
+      "description": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "characters": [],
+      "places": [],
+      "templates": [],
+      "imageId": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 8,
+      "lineId": 11,
+      "chapterId": 12,
+      "beatId": null,
+      "seriesLineId": null,
+      "bookId": null,
+      "positionWithinLine": 1,
+      "positionInChapter": 0,
+      "title": "FIve",
+      "description": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "characters": [],
+      "places": [],
+      "templates": [],
+      "imageId": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 7,
+      "lineId": 10,
+      "chapterId": 12,
+      "beatId": null,
+      "seriesLineId": null,
+      "bookId": null,
+      "positionWithinLine": 3,
+      "positionInChapter": 0,
+      "title": "Four",
+      "description": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "characters": [],
+      "places": [],
+      "templates": [],
+      "imageId": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 6,
+      "lineId": 12,
+      "chapterId": 14,
+      "beatId": null,
+      "seriesLineId": null,
+      "bookId": null,
+      "positionWithinLine": 0,
+      "positionInChapter": 3,
+      "title": "Interviews Jeffry",
+      "description": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "characters": [],
+      "places": [],
+      "templates": [],
+      "imageId": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 5,
+      "lineId": null,
+      "chapterId": null,
+      "beatId": 1,
+      "seriesLineId": 1,
+      "bookId": null,
+      "positionWithinLine": 0,
+      "positionInChapter": 0,
+      "title": "Discover technology",
+      "description": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "characters": [],
+      "places": [],
+      "templates": [],
+      "imageId": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 4,
+      "lineId": 11,
+      "chapterId": 13,
+      "beatId": null,
+      "seriesLineId": null,
+      "bookId": null,
+      "positionWithinLine": 0,
+      "positionInChapter": 0,
+      "title": "Ambush Trappers",
+      "description": [
+        {
+          "children": [
+            {
+              "text": "KARIWASE and his band stalk up on trappers sleeping, and capture them. Bewildered, the lead trapper speaks in French, until Kariwase points out the English accent. Kariwase observes how the French & Indian war started, then does the same to the trapper to the excitement of his men."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "characters": [],
+      "places": [],
+      "templates": [],
+      "imageId": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 3,
+      "lineId": 10,
+      "chapterId": 12,
+      "beatId": null,
+      "seriesLineId": null,
+      "bookId": null,
+      "positionWithinLine": 2,
+      "positionInChapter": 4,
+      "title": "Three",
+      "description": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "characters": [],
+      "places": [],
+      "templates": [],
+      "imageId": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 2,
+      "lineId": 10,
+      "chapterId": 15,
+      "beatId": null,
+      "seriesLineId": null,
+      "bookId": null,
+      "positionWithinLine": 1,
+      "positionInChapter": 2,
+      "title": "Two",
+      "description": [
+        {
+          "children": [
+            {
+              "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "characters": [],
+      "places": [],
+      "templates": [],
+      "imageId": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 1,
+      "lineId": 10,
+      "chapterId": 12,
+      "beatId": null,
+      "seriesLineId": null,
+      "bookId": null,
+      "positionWithinLine": 0,
+      "positionInChapter": 1,
+      "title": "Scene",
+      "description": [
+        {
+          "children": [
+            {
+              "text": "One, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "characters": [
+        1,
+        2
+      ],
+      "places": [],
+      "templates": [],
+      "imageId": null,
+      "fromTemplateId": null
+    }
+  ],
+  "lines": [
+    {
+      "id": 12,
+      "bookId": 1,
+      "title": "Bethlehem",
+      "color": "#e5554f",
+      "position": 2,
+      "expanded": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 11,
+      "bookId": 1,
+      "title": "Kariwase",
+      "color": "#78be20",
+      "position": 1,
+      "expanded": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 9,
+      "bookId": 8,
+      "title": "",
+      "color": "#6cace4",
+      "position": 0,
+      "expanded": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 8,
+      "bookId": 7,
+      "title": "",
+      "color": "#6cace4",
+      "position": 0,
+      "expanded": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 7,
+      "bookId": 6,
+      "title": "",
+      "color": "#6cace4",
+      "position": 0,
+      "expanded": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 6,
+      "bookId": 5,
+      "title": "",
+      "color": "#6cace4",
+      "position": 0,
+      "expanded": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 5,
+      "bookId": 4,
+      "title": "",
+      "color": "#6cace4",
+      "position": 0,
+      "expanded": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 4,
+      "bookId": 3,
+      "title": "",
+      "color": "#6cace4",
+      "position": 0,
+      "expanded": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 3,
+      "bookId": 2,
+      "title": "Main",
+      "color": "#6cace4",
+      "position": 0,
+      "expanded": null,
+      "fromTemplateId": null
+    },
+    {
+      "id": 10,
+      "bookId": 1,
+      "title": "Ephriam",
+      "color": "#6cace4",
+      "position": 0,
+      "expanded": null,
+      "fromTemplateId": null
+    }
+  ],
+  "customAttributes": {
+    "characters": [
+      {
+        "name": "Worldview",
+        "type": "text"
+      },
+      {
+        "name": "accomplishment",
+        "type": "text"
+      },
+      {
+        "name": "physical traits",
+        "type": "text"
+      },
+      {
+        "name": "personality",
+        "type": "text"
+      },
+      {
+        "name": "tragedy",
+        "type": "text"
+      },
+      {
+        "name": "lie believed",
+        "type": "text"
+      },
+      {
+        "name": "fear",
+        "type": "text"
+      },
+      {
+        "name": "flaw",
+        "type": "text"
+      }
+    ],
+    "places": [
+      {
+        "name": "LatLong",
+        "type": "text"
+      }
+    ],
+    "cards": [],
+    "scenes": [],
+    "lines": []
+  },
+  "places": [
+    {
+      "id": 1,
+      "name": "Burnt Cabin",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "notes": [
+        {
+          "children": [
+            {
+              "text": "This is a test"
+            }
+          ],
+          "type": "heading-one"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "children": [
+            {
+              "text": "Lorem ipsum dolor sit amet, "
+            },
+            {
+              "text": "consectetur",
+              "bold": true
+            },
+            {
+              "text": " adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+            }
+          ]
+        }
+      ],
+      "color": null,
+      "cards": [],
+      "noteIds": [],
+      "templates": [],
+      "tags": [],
+      "imageId": null,
+      "bookIds": [
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Shippensburg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "notes": [
+        {
+          "children": [
+            {
+              "text": "This is a note."
+            }
+          ]
+        }
+      ],
+      "color": null,
+      "cards": [],
+      "noteIds": [],
+      "templates": [],
+      "tags": [],
+      "imageId": null,
+      "bookIds": []
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "title": "This is a tag",
+      "color": "OrangeRed"
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "title": "",
+      "content": [
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "characters": [],
+      "places": [],
+      "lastEdited": 1604576560444,
+      "templates": [],
+      "imageId": null,
+      "bookIds": []
+    }
+  ],
+  "beats": [
+    {
+      "id": 1,
+      "position": 0,
+      "title": "Discovery",
+      "time": 0,
+      "templates": [],
+      "autoOutlineSort": true
+    },
+    {
+      "id": 2,
+      "title": "Book 2",
+      "time": 0,
+      "position": 1,
+      "autoOutlineSort": true
+    }
+  ],
+  "seriesLines": [
+    {
+      "id": 2,
+      "title": "Season Two",
+      "color": "#78be20",
+      "position": 1,
+      "expanded": null
+    },
+    {
+      "id": 1,
+      "color": "#6cace4",
+      "title": "Season One",
+      "position": 0,
+      "expanded": null
+    }
+  ],
+  "categories": {
+    "characters": [
+      {
+        "id": 1,
+        "name": "Main",
+        "position": 0
+      },
+      {
+        "id": 2,
+        "name": "Supporting",
+        "position": 1
+      },
+      {
+        "id": 3,
+        "name": "Other",
+        "position": 2
+      }
+    ],
+    "places": [],
+    "notes": [],
+    "tags": []
+  },
+  "images": {}
+}

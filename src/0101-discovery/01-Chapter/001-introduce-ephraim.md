@@ -1,6 +1,18 @@
+---
+scene:
+  title:  Ephraim seeks refuge
+  summary: _Ephraim Biggs_ is a Son of Liberty on the lamb. In the rain, he arrives at his brother's _Jeffry Biggs_ home in _Shippensburg, PA_. Once inside and warmed, he asks his brother to shelter him. In the conversation, they argue over why he was there, which leads into the Sons of Liberty and the real reason why Ephraim is on the run. He refuses his brother, and the next morning Ephraim leaves.
+  line: ephraim
+  date:  September 14 N.S., 1762
+  tasks:
+    - Make sure to show the wife & kids; she's pregnant.
+    - Need to show Ephraim repairing a toy.
+  characters:
+    - Ephraim Biggs
+    - Jeffry Biggs
+    - Mrs. Biggs
+---
 # Chapter 1
-
-## Ephraim Seeks Refuge
 
 **September, 14 N.S. 1762.** It was a dark and stormy night. Ephraim Biggs stood under the building's eave as rivulets of rain poured over its edge. Between lightening flashes, he could see the lane ahead. Puddles of brown rain collected and formed a small stream. _Four more doors._
 

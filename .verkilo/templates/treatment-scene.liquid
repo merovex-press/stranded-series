@@ -1,0 +1,14 @@
+### {{scene.order}} - {{scene.title}}
+
+{% if scene.place -%}
+**{{scene.place}}**
+{% endif -%}
+
+{% if scene.date -%}
+**{{scene.date}}**
+{% endif -%}
+{{scene.summary}}
+
+{% for task in scene.tasks -%}
+- [ ] task
+{% endfor %}

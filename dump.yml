@@ -1,0 +1,243 @@
+'1':
+  cards:
+  - beatId: null
+    bookId: null
+    chapterId: 12
+    characters: []
+    description:
+    - children:
+      - text: ''
+    fromTemplateId: null
+    id: 8
+    imageId: null
+    lineId: 11
+    places: []
+    positionInChapter: 0
+    positionWithinLine: 1
+    seriesLineId: null
+    tags: []
+    templates: []
+    title: FIve
+  - beatId: null
+    bookId: null
+    chapterId: 12
+    characters: []
+    description:
+    - children:
+      - text: ''
+    fromTemplateId: null
+    id: 7
+    imageId: null
+    lineId: 10
+    places: []
+    positionInChapter: 0
+    positionWithinLine: 3
+    seriesLineId: null
+    tags: []
+    templates: []
+    title: Four
+  - beatId: null
+    bookId: null
+    chapterId: 14
+    characters: []
+    description:
+    - children:
+      - text: ''
+    fromTemplateId: null
+    id: 6
+    imageId: null
+    lineId: 12
+    places: []
+    positionInChapter: 3
+    positionWithinLine: 0
+    seriesLineId: null
+    tags: []
+    templates: []
+    title: Interviews Jeffry
+  - beatId: null
+    bookId: null
+    chapterId: 13
+    characters: []
+    description:
+    - children:
+      - text: KARIWASE and his band stalk up on trappers sleeping, and capture them.
+          Bewildered, the lead trapper speaks in French, until Kariwase points out
+          the English accent. Kariwase observes how the French & Indian war started,
+          then does the same to the trapper to the excitement of his men.
+    fromTemplateId: null
+    id: 4
+    imageId: null
+    lineId: 11
+    places: []
+    positionInChapter: 0
+    positionWithinLine: 0
+    seriesLineId: null
+    tags: []
+    templates: []
+    title: Ambush Trappers
+  - beatId: null
+    bookId: null
+    chapterId: 12
+    characters: []
+    description:
+    - children:
+      - text: ''
+    fromTemplateId: null
+    id: 3
+    imageId: null
+    lineId: 10
+    places: []
+    positionInChapter: 4
+    positionWithinLine: 2
+    seriesLineId: null
+    tags: []
+    templates: []
+    title: Three
+  - beatId: null
+    bookId: null
+    chapterId: 15
+    characters: []
+    description:
+    - children:
+      - text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+          tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+          quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+          consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+          cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
+          non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    fromTemplateId: null
+    id: 2
+    imageId: null
+    lineId: 10
+    places: []
+    positionInChapter: 2
+    positionWithinLine: 1
+    seriesLineId: null
+    tags: []
+    templates: []
+    title: Two
+  - beatId: null
+    bookId: null
+    chapterId: 12
+    characters:
+    - 1
+    - 2
+    description:
+    - children:
+      - text: One, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - children:
+      - text: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
+          ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
+          in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur
+          sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+          mollit anim id est laborum.
+    fromTemplateId: null
+    id: 1
+    imageId: null
+    lineId: 10
+    places: []
+    positionInChapter: 1
+    positionWithinLine: 0
+    seriesLineId: null
+    tags: []
+    templates: []
+    title: Scene
+  genre: ''
+  id: 1
+  imageId: null
+  premise: ''
+  templates: []
+  theme: ''
+  timelineTemplates:
+  - id: pl17
+    name: Snowflake Method
+  title: Discovery
+'2':
+  cards:
+  - beatId: null
+    bookId: null
+    chapterId: 3
+    characters: []
+    description:
+    - children:
+      - text: ''
+    fromTemplateId: null
+    id: 9
+    imageId: null
+    lineId: 3
+    places: []
+    positionInChapter: 0
+    positionWithinLine: 0
+    seriesLineId: null
+    tags: []
+    templates: []
+    title: Realization Prolog
+  genre: ''
+  id: 2
+  imageId: null
+  premise: ''
+  templates: []
+  theme: ''
+  timelineTemplates: []
+  title: Realization
+'3':
+  cards: []
+  genre: ''
+  id: 3
+  imageId: null
+  premise: ''
+  templates: []
+  theme: ''
+  timelineTemplates: []
+  title: Disclosure
+'4':
+  cards: []
+  genre: ''
+  id: 4
+  imageId: null
+  premise: ''
+  templates: []
+  theme: ''
+  timelineTemplates: []
+  title: Recognition
+'5':
+  cards: []
+  genre: ''
+  id: 5
+  imageId: null
+  premise: ''
+  templates: []
+  theme: ''
+  timelineTemplates: []
+  title: Encounter
+'6':
+  cards: []
+  genre: ''
+  id: 6
+  imageId: null
+  premise: ''
+  templates: []
+  theme: ''
+  timelineTemplates: []
+  title: Introduction
+'7':
+  cards: []
+  genre: ''
+  id: 7
+  imageId: null
+  premise: ''
+  templates: []
+  theme: ''
+  timelineTemplates: []
+  title: Certification
+'8':
+  cards: []
+  genre: ''
+  id: 8
+  imageId: null
+  premise: ''
+  templates: []
+  theme: ''
+  timelineTemplates: []
+  title: Tested

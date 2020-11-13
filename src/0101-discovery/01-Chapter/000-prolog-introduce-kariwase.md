@@ -1,3 +1,14 @@
+---
+scene:
+  title: Introduce Kariwase
+  summary: KARIWASE and his band stalk up on trappers sleeping, and capture them. Bewildered, the lead trapper speaks in French, until Kariwase points out the English accent. Kariwase observes how the French & Indian war started, then does the same to the trapper to the excitement of his men.
+  date: Sunday May 1, N.S. 1763.
+  tasks:
+    - Create menace / global stakes
+  characters:
+    - Kariwase
+---
+
 # Prologue
 
 **Sunday May 1, N.S. 1763.** Rays from the pre-dawn sun filtered through the upper branches. Kariwase scanned the perimeter of the clearing. He and his fellow Shawnee smelled the smoke a few miles downwind. Over the past hour, they quietly positioned themselves around the campsite. The white trappers chose a site flanked on three sides by hills and on a fourth by the river. Kariwase thanked the Great Spirit they chose poorly.

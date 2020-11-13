@@ -6,7 +6,7 @@
   "editor.mouseWheelZoom": false,
   "editor.tabCompletion": "on",
   "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
-  "editor.fontSize": 16,
+  "editor.fontSize": 18,
   "editor.fontLigatures": true,
   "editor.fontWeight": "400",
   "editor.suggest.statusBar.visible": true,
@@ -64,7 +64,10 @@
   "markdownShortcuts.icons.citations": true,
   "markdownShortcuts.icons.image": true,
   "markdownShortcuts.icons.link": true,
-  gruvboxMaterial.italicKeywords: true,
+  "gruvboxMaterial.italicKeywords": true,
+  "[json]": {
+    "editor.formatOnSave": true
+  },
   "markdown-toc.insertAnchor": true,
   "markdown-toc.orderedList": true,
   "markdownlint.run": "onSave",
