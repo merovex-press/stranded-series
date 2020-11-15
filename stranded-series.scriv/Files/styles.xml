@@ -60,12 +60,14 @@
     </Style>
     <Style Name="Code Block" ID="5554FC6F-CD08-4D72-818C-BCE36532057B" Type="Para+Char" FontChange="Face+Size" Next="5554FC6F-CD08-4D72-818C-BCE36532057B">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2576
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset0 FiraCode-Light_Regular;}
 {\colortbl;\red255\green255\blue255;}
 {\*\expandedcolortbl;;}
-\pard\tx720\tx1080\tx1440\tx1800\tx2160\li720\pardirnatural\partightenfactor0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl288\slmult1\pardirnatural\partightenfactor0
 
-\f0\fs22 \cf0 Attributes}]]></Format>
+\f0\fs24 \cf0 \{\\Scrv_ps=
+\f1\fs22 Attributes
+\f0\fs24 \\end_Scrv_ps\}}]]></Format>
     </Style>
     <Style Name="Code Span" ID="0BBC7703-59FB-42F0-AF6D-6C16E078E602" Type="Char" FontChange="Face+Size">
         <Format><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2576
