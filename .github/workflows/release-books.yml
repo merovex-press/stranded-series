@@ -1,4 +1,3 @@
-
 name: Release Books
 on: [push]
 jobs:
@@ -17,7 +16,7 @@ jobs:
       - name: Upload Artifacts
         uses: actions/upload-artifact@v1
         with:
-          name: postal-marines-series
+          name: stranded-series
           path: build
   job_2:
     if: "contains(toJSON(github.event.commits.*.message), '@verkilo release')"
@@ -27,11 +26,11 @@ jobs:
       - name: Download Artifacts from Build
         uses: actions/download-artifact@v1
         with:
-          name: postal-marines-series
+          name: stranded-series
       - name: Draft Release & Upload Artifacts
         uses: ncipollo/release-action@v1
         with:
-          artifacts: "/home/runner/work/postal-marines-series/postal-marines-series/postal-marines-series/*"
+          artifacts: "/home/runner/work/stranded-series/stranded-series/stranded-series/*"
           tag: book-release
           draft: true
           token: ${{ secrets.GITHUB_TOKEN }}
