@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="27981A39-4E2E-443C-9C7D-8CFDDFCF5265" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Bens-MacBook-Pro" Author="Ben Wilson" Modified="2020-11-15 11:43:21 -0500" ModID="F67300F2-099F-4968-A795-7100463E0A72">
+<ScrivenerProject Identifier="27981A39-4E2E-443C-9C7D-8CFDDFCF5265" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Bens-MacBook-Pro" Author="Ben Wilson" Modified="2020-11-16 17:40:04 -0500" ModID="0F76572B-8626-4969-AB43-DD8A6170C7D8">
     <Binder>
         <BinderItem UUID="CE51AB6A-821B-4263-AD24-C758EFA07ACC" Type="DraftFolder" Created="2020-11-14 09:56:11 -0500" Modified="2020-11-14 16:33:07 -0500">
             <Title>Manuscripts</Title>
@@ -1107,15 +1107,6 @@
                         <SelectedSubdocumentUUIDs>055ABECC-255F-49D2-9AE1-B27A47CC1E69</SelectedSubdocumentUUIDs>
                     </CorkboardAndOutliner>
                     <Children>
-                        <BinderItem UUID="A43C5CE0-40D5-494F-9C96-05962FBC2752" Type="Text" Created="2020-11-15 07:22:16 -0500" Modified="2020-11-15 07:24:30 -0500">
-                            <Title>metadata</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>771,445</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
                         <BinderItem UUID="B63B467D-6942-4506-8D2E-2970EC3537FC" Type="Text" Created="2020-11-14 11:12:50 -0500" Modified="2020-11-14 18:01:49 -0500">
                             <Title>Prolog</Title>
                             <MetaData>
@@ -1691,6 +1682,15 @@
                                 <TextSelection>14,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
+                        <BinderItem UUID="A43C5CE0-40D5-494F-9C96-05962FBC2752" Type="Text" Created="2020-11-15 07:22:16 -0500" Modified="2020-11-15 13:38:41 -0500">
+                            <Title>metadata</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>265,27</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
                     </Children>
                 </BinderItem>
                 <BinderItem UUID="1DB329C9-327C-4E48-9235-47308F52BB36" Type="Folder" Created="2020-11-14 11:51:59 -0500" Modified="2020-11-15 11:37:04 -0500">
@@ -1879,6 +1879,74 @@
                         <TextSelection>233,8</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="8AC0D78B-9864-4FD9-ABBD-675A08BA3DF4" Type="Text" Created="2020-11-16 05:46:14 -0500" Modified="2020-11-16 05:46:17 -0500">
+                    <Title>Frontmatter</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="5D5C53DC-4577-462F-9667-DB11D37E068B" Type="Text" Created="2020-11-16 05:47:19 -0500" Modified="2020-11-16 06:28:48 -0500">
+                            <Title>Half Title</Title>
+                            <MetaData>
+                                <SectionType>0B36C225-D4E1-4171-BC88-502B9FA75492</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>22,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="723117A3-0859-4704-A05A-099FDF54A078" Type="Text" Created="2020-11-16 05:47:27 -0500" Modified="2020-11-16 06:34:15 -0500">
+                            <Title>Series Title Page</Title>
+                            <MetaData>
+                                <SectionType>0B36C225-D4E1-4171-BC88-502B9FA75492</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="19383F72-F5CF-43E3-963C-AC7187EC0713" Type="Text" Created="2020-11-16 05:47:33 -0500" Modified="2020-11-16 06:31:18 -0500">
+                            <Title>Title Page</Title>
+                            <MetaData>
+                                <SectionType>0B36C225-D4E1-4171-BC88-502B9FA75492</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>121,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="C8ACDC0D-1CB5-4CBC-BB65-EC0DD381500F" Type="Text" Created="2020-11-16 05:46:18 -0500" Modified="2020-11-16 06:33:55 -0500">
+                            <Title>Copyright Page</Title>
+                            <MetaData>
+                                <SectionType>0B36C225-D4E1-4171-BC88-502B9FA75492</SectionType>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>28,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="EDD1B505-BC42-4449-9B37-E78CD6749ACC" Type="Text" Created="2020-11-16 06:38:14 -0500" Modified="2020-11-16 06:41:48 -0500">
+                            <Title>-- Blank Page --</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>1,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="DC403C5B-5E05-4F19-A3AA-046933741C09" Type="Text" Created="2020-11-16 06:41:37 -0500" Modified="2020-11-16 06:41:37 -0500">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
             </Children>
         </BinderItem>
         <BinderItem UUID="4A172210-75BB-4212-A91A-E8830A4BE12A" Type="Folder" Created="2020-11-14 22:39:23 -0500" Modified="2020-11-14 22:39:27 -0500">
@@ -1975,6 +2043,16 @@
                     <TextSettings>
                         <TextSelection>509,0</TextSelection>
                     </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="A4EFF7F0-480D-40A2-847A-151ECFE26461" Type="WebArchive" Created="2020-11-15 12:05:58 -0500" Modified="2020-11-15 12:05:58 -0500">
+                    <Title>Series Bible Thoughts</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://hollowlands.com/2014/09/creating-a-book-series-bible-using-scrivener-scapple-and-aeon-timeline/</OriginalURL>
+                    </MediaSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -2278,6 +2356,34 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
+                <BinderItem UUID="53642E71-4DF0-4024-9BD7-0E871BCC5588" Type="Folder" Created="2020-11-16 05:46:01 -0500" Modified="2020-11-16 05:46:04 -0500">
+                    <Title>Frontmatter</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="AA4A64F6-F177-48B2-8A9F-D58D2B7CCAB4" Type="Text" Created="2020-11-16 05:47:42 -0500" Modified="2020-11-16 06:37:45 -0500">
+                    <Title>Dedication</Title>
+                    <MetaData>
+                        <SectionType>0B36C225-D4E1-4171-BC88-502B9FA75492</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>27,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="0B655F79-2330-4BE9-A96F-77595EF058A5" Type="Text" Created="2020-11-15 05:49:20 -0500" Modified="2020-11-15 10:49:02 -0500">
+                    <Title>scriv-canon-2020-11-15</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
             </Children>
         </BinderItem>
     </Binder>
@@ -2298,6 +2404,7 @@
     <SectionTypes>
         <TypeDefinitions>
             <Type ID="0B36C225-D4E1-4171-BC88-502B9FA75492">Book</Type>
+            <Type ID="5A57B6B6-48E2-448D-910A-31813B0BADB1">Blank Page</Type>
             <Type ID="F6793316-11AC-4CCB-B13C-C9A86D1639C4">Part</Type>
             <Type ID="2C4FE77B-DEEC-4141-A5BE-8E83C8A3070F">Chapter</Type>
             <Type ID="94890CF8-8553-4049-A7A4-4F8B0DB98FE8">Titled Section</Type>
@@ -2356,14 +2463,14 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-11-14 09:56:10 -0500" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-11-16 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="9244" Characters="55047" Date="2020-11-15 05:04:45 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-11-17 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2020-11-16 16:52:54 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-11-15 00:00:00 -0500">
-        <DraftWordCount>9244</DraftWordCount>
-        <DraftCharCount>55047</DraftCharCount>
-        <OtherWordCount>113</OtherWordCount>
-        <OtherCharCount>48</OtherCharCount>
+    <RecentWritingHistory Date="2020-11-16 00:00:00 -0500">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>134</OtherWordCount>
+        <OtherCharCount>1041</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>4A172210-75BB-4212-A91A-E8830A4BE12A</TemplateFolderUUID>
     <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>

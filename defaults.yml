@@ -1,0 +1,6 @@
+---
+pdf-engine: xelatex
+template: /Users/merovex/Github/merovex-press/strand-series/template.tex
+variables:
+  documentclass: memoir
+  has-frontmatter: true

@@ -13,6 +13,7 @@
             <ResampleImages DPI="72">No</ResampleImages>
             <ConvertRichTextToMMD>Yes</ConvertRichTextToMMD>
             <ConvertTablesAndListToMMD>Yes</ConvertTablesAndListToMMD>
+            <TreatPFAsRawMarkup>Yes</TreatPFAsRawMarkup>
             <Links>
                 <PlainTextBackLinks>Yes</PlainTextBackLinks>
             </Links>
@@ -58,7 +59,7 @@
             </FountainTitlePageMetaData>
         </MetaData>
     </ProjectSettings>
-    <CurrentFileType>pdf</CurrentFileType>
+    <CurrentFileType>mmd-pdf</CurrentFileType>
     <FormatSettings>
         <Format ID="EF2ADC2D-2894-4FBB-8DD7-EF2F4338F3E7">
             <SectionLayouts>
@@ -77,20 +78,33 @@
                 <Type ID="264DD17F-6557-45C3-A9D4-99AE5E84B14D">AS-IS</Type>
             </SectionLayouts>
         </Format>
-        <Format ID="76141B5D-246F-4592-BB30-9DF40410511C">
+        <Format ID="AEB30818-EE9D-4CC5-B301-8863BE705EBF">
             <SectionLayouts>
                 <Type ID="0B36C225-D4E1-4171-BC88-502B9FA75492">AS-IS</Type>
-                <Type ID="94890CF8-8553-4049-A7A4-4F8B0DB98FE8">D1057067-9CF1-44C3-A4C8-34A90A393E89</Type>
-                <Type ID="79486D13-922C-4EDA-9960-77156764F5DA">01CEDCD8-52BD-42D7-92EA-1273BBD2302C</Type>
+                <Type ID="F6793316-11AC-4CCB-B13C-C9A86D1639C4">AS-IS</Type>
                 <Type ID="2C4FE77B-DEEC-4141-A5BE-8E83C8A3070F">72A8A17D-2FF3-4C8D-8A4C-7895908E7EE5</Type>
+                <Type ID="94890CF8-8553-4049-A7A4-4F8B0DB98FE8">01CEDCD8-52BD-42D7-92EA-1273BBD2302C</Type>
                 <Type ID="FCBDC9C1-99A6-4F9E-A978-0E63D83B5605">8ECF8E44-3BEF-4ECB-B122-7EE33A7BEEA7</Type>
                 <Type ID="A0196C7F-ADBE-4C2E-9E17-7F77BFB6B4E1">25332942-AD04-4BAC-B61F-1BA5CF243440</Type>
+                <Type ID="B6E2CA1F-944D-49C2-B3BF-2F33C7CB1E78">CD3667E7-7D82-4B42-B9D6-1656D7F085B0</Type>
                 <Type ID="264DD17F-6557-45C3-A9D4-99AE5E84B14D">AS-IS</Type>
             </SectionLayouts>
             <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">2D675938-BCD5-420E-9F54-80D84F84F3F6</DefaultFrontMatter>
+                <DefaultFrontMatter Add="Yes">BEAD1D37-9234-4A74-AC49-1D6254082697</DefaultFrontMatter>
                 <DefaultBackMatter Add="Yes">57B21F25-5290-44C2-8B39-E86FA97B0476</DefaultBackMatter>
             </FrontAndBackMatter>
+        </Format>
+        <Format ID="mmd-latex-book">
+            <SectionLayouts>
+                <Type ID="0B36C225-D4E1-4171-BC88-502B9FA75492">AS-IS</Type>
+                <Type ID="F6793316-11AC-4CCB-B13C-C9A86D1639C4">AS-IS</Type>
+                <Type ID="2C4FE77B-DEEC-4141-A5BE-8E83C8A3070F">AS-IS</Type>
+                <Type ID="94890CF8-8553-4049-A7A4-4F8B0DB98FE8">AS-IS</Type>
+                <Type ID="FCBDC9C1-99A6-4F9E-A978-0E63D83B5605">AS-IS</Type>
+                <Type ID="A0196C7F-ADBE-4C2E-9E17-7F77BFB6B4E1">AS-IS</Type>
+                <Type ID="B6E2CA1F-944D-49C2-B3BF-2F33C7CB1E78">AS-IS</Type>
+                <Type ID="264DD17F-6557-45C3-A9D4-99AE5E84B14D">AS-IS</Type>
+            </SectionLayouts>
         </Format>
         <Format ID="4489B53E-5F6F-45C6-ADE8-752AD709EAD8">
             <SectionLayouts>
@@ -108,25 +122,26 @@
             <SectionLayouts>
                 <Type ID="FCBDC9C1-99A6-4F9E-A978-0E63D83B5605">TEXT-SECTION</Type>
             </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">8AC0D78B-9864-4FD9-ABBD-675A08BA3DF4</DefaultFrontMatter>
+            </FrontAndBackMatter>
         </Format>
         <Format ID="mmd-barebones">
             <SectionLayouts>
                 <Type ID="FCBDC9C1-99A6-4F9E-A978-0E63D83B5605">AS-IS</Type>
             </SectionLayouts>
         </Format>
-        <Format ID="AEB30818-EE9D-4CC5-B301-8863BE705EBF">
+        <Format ID="76141B5D-246F-4592-BB30-9DF40410511C">
             <SectionLayouts>
                 <Type ID="0B36C225-D4E1-4171-BC88-502B9FA75492">AS-IS</Type>
-                <Type ID="F6793316-11AC-4CCB-B13C-C9A86D1639C4">AS-IS</Type>
+                <Type ID="94890CF8-8553-4049-A7A4-4F8B0DB98FE8">D1057067-9CF1-44C3-A4C8-34A90A393E89</Type>
                 <Type ID="2C4FE77B-DEEC-4141-A5BE-8E83C8A3070F">72A8A17D-2FF3-4C8D-8A4C-7895908E7EE5</Type>
-                <Type ID="94890CF8-8553-4049-A7A4-4F8B0DB98FE8">01CEDCD8-52BD-42D7-92EA-1273BBD2302C</Type>
                 <Type ID="FCBDC9C1-99A6-4F9E-A978-0E63D83B5605">8ECF8E44-3BEF-4ECB-B122-7EE33A7BEEA7</Type>
                 <Type ID="A0196C7F-ADBE-4C2E-9E17-7F77BFB6B4E1">25332942-AD04-4BAC-B61F-1BA5CF243440</Type>
-                <Type ID="B6E2CA1F-944D-49C2-B3BF-2F33C7CB1E78">CD3667E7-7D82-4B42-B9D6-1656D7F085B0</Type>
                 <Type ID="264DD17F-6557-45C3-A9D4-99AE5E84B14D">AS-IS</Type>
             </SectionLayouts>
             <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">BEAD1D37-9234-4A74-AC49-1D6254082697</DefaultFrontMatter>
+                <DefaultFrontMatter Add="Yes">2D675938-BCD5-420E-9F54-80D84F84F3F6</DefaultFrontMatter>
                 <DefaultBackMatter Add="Yes">57B21F25-5290-44C2-8B39-E86FA97B0476</DefaultBackMatter>
             </FrontAndBackMatter>
         </Format>
@@ -149,9 +164,10 @@
     </FormatSettings>
     <LastUsedFormats>
         <Print>EF2ADC2D-2894-4FBB-8DD7-EF2F4338F3E7</Print>
-        <mmd-latex>DEFAULT</mmd-latex>
+        <mmd-latex>AE98066C-321D-4686-9AE8-84A4A3612B41</mmd-latex>
+        <mmd-pdf>AE98066C-321D-4686-9AE8-84A4A3612B41</mmd-pdf>
         <pandoc-docbook>DEFAULT</pandoc-docbook>
-        <mmd>B5056653-577A-439E-AC05-15C15ACECF88</mmd>
-        <pdf>4489B53E-5F6F-45C6-ADE8-752AD709EAD8</pdf>
+        <mmd>76141B5D-246F-4592-BB30-9DF40410511C</mmd>
+        <pdf>DEFAULT</pdf>
     </LastUsedFormats>
 </CompileSettings>

@@ -7,15 +7,15 @@
 	<key>CommentsUseTextScale</key>
 	<true/>
 	<key>CompileFolder</key>
-	<string>/Users/merovex/Github/merovex-press/strand-series/src/scriv-canon</string>
+	<string>/Users/merovex/Downloads</string>
 	<key>NotesScaleFactor</key>
 	<real>1.25</real>
 	<key>SuppressBookmarksFolderCheck</key>
 	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {501, 1204}}</string>
-		<string>{{502, 0}, {1657, 1204}}</string>
+		<string>{{0, 0}, {501, 1232}}</string>
+		<string>{{502, 0}, {1993, 1232}}</string>
 	</array>
 	<key>bookmarksPreviewTextSettings</key>
 	<dict>
@@ -139,6 +139,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>1846561C-000F-4B99-8EE3-4B13D5032107</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>19383F72-F5CF-43E3-963C-AC7187EC0713</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -340,6 +345,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>53642E71-4DF0-4024-9BD7-0E871BCC5588</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>558F2A4C-7E42-479A-8E12-FD9B6508AFF8</key>
 		<dict>
 			<key>Row</key>
@@ -361,6 +371,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>5C68FACC-69C6-439A-A880-7B4C9BAFFAC4</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>5D5C53DC-4577-462F-9667-DB11D37E068B</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -430,6 +445,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>723117A3-0859-4704-A05A-099FDF54A078</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>74C64818-C256-4FB3-93ED-E7F5DBFE792F</key>
 		<dict>
 			<key>DocID</key>
@@ -483,6 +503,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>80A35D3F-15EC-4EC5-A787-D61665D9AC24</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>8AC0D78B-9864-4FD9-ABBD-675A08BA3DF4</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -592,6 +617,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>A4EFF7F0-480D-40A2-847A-151ECFE26461</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>A532B7BB-335D-4B9A-9CA0-E03AD08F9E01</key>
 		<dict>
 			<key>Row</key>
@@ -618,6 +648,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>A8E9CDAA-7317-4298-AE33-AC13C5AF65A3</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>AA4A64F6-F177-48B2-8A9F-D58D2B7CCAB4</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -703,6 +738,11 @@
 			<integer>-1</integer>
 		</dict>
 		<key>C798A52C-5B60-4674-AC04-0D373FD57919</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
+		<key>C8ACDC0D-1CB5-4CBC-BB65-EC0DD381500F</key>
 		<dict>
 			<key>Row</key>
 			<integer>-1</integer>
@@ -905,6 +945,8 @@
 			<integer>-1</integer>
 		</dict>
 	</dict>
+	<key>collectionsHeight</key>
+	<real>102.5</real>
 	<key>collectionsRepresentedBinderDocumentsInfo</key>
 	<dict>
 		<key>MainID</key>
@@ -914,12 +956,12 @@
 	</dict>
 	<key>collectionsSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {501, 100}}</string>
-		<string>{{0, 101}, {501, 1077}}</string>
+		<string>{{0, 0}, {501, 102.5}}</string>
+		<string>{{0, 103.5}, {501, 1074.5}}</string>
 	</array>
 	<key>editorSplitFrames</key>
 	<array>
-		<string>{{673, 0}, {673, 1202}}</string>
+		<string>{{933.5, 0}, {932.5, 1204}}</string>
 	</array>
 	<key>fullScreenBackgroundFade</key>
 	<real>1</real>
@@ -942,11 +984,11 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1263, 1174}}</string>
-		<string>{{1264, 0}, {393, 1174}}</string>
+		<string>{{0, 0}, {1599, 1202}}</string>
+		<string>{{1600, 0}, {393, 1202}}</string>
 	</array>
 	<key>inspectorWidth</key>
-	<real>227</real>
+	<real>393</real>
 	<key>lastDocumentSplitType</key>
 	<integer>1</integer>
 	<key>mainDocumentEditor.cardWidth</key>
@@ -956,6 +998,8 @@
 		<key>textScaleFactor</key>
 		<real>1.25</real>
 	</dict>
+	<key>mainDocumentEditor.interCardSpacing</key>
+	<real>30</real>
 	<key>mainDocumentEditor.outlinerColumnsWidths</key>
 	<dict>
 		<key>label</key>
@@ -967,15 +1011,41 @@
 		<key>title</key>
 		<real>789</real>
 	</dict>
+	<key>mainDocumentEditor.qrSplitFrame</key>
+	<array>
+		<string>{{0, 0}, {932.5, 586.5}}</string>
+		<string>{{0, 587.5}, {932.5, 586.5}}</string>
+	</array>
 	<key>mainDocumentEditor.scrollRect</key>
-	<string>{{0, 0}, {620, 294}}</string>
+	<string>{{0, 0}, {621.33333333333326, 765.33333333330427}}</string>
 	<key>mainDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>172 113 2159 1260 0 0 2560 1415 </string>
+	<string>65 113 2495 1260 0 0 2560 1415 </string>
+	<key>projectStatsSheet</key>
+	<dict>
+		<key>countDraftFootnotes</key>
+		<integer>1</integer>
+		<key>currentCompileGroupOnly</key>
+		<integer>0</integer>
+		<key>excludeAnnots</key>
+		<integer>0</integer>
+		<key>excludeFN</key>
+		<integer>0</integer>
+		<key>includeSubdocs</key>
+		<integer>1</integer>
+		<key>options</key>
+		<integer>0</integer>
+		<key>paperbackCountUsesChars</key>
+		<integer>0</integer>
+		<key>useFastStats</key>
+		<integer>1</integer>
+		<key>wordsOrCharsPerPaperbackPage</key>
+		<integer>350</integer>
+	</dict>
 	<key>searchResultsTable</key>
 	<dict>
 		<key>order</key>
@@ -988,11 +1058,15 @@
 			<real>499</real>
 		</dict>
 	</dict>
+	<key>supportingDocumentEditor.cardWidth</key>
+	<real>300</real>
 	<key>supportingDocumentEditor.dockedQRTextSettings</key>
 	<dict>
 		<key>textScaleFactor</key>
 		<real>1.25</real>
 	</dict>
+	<key>supportingDocumentEditor.interCardSpacing</key>
+	<real>30</real>
 	<key>supportingDocumentEditor.outlinerColumnsWidths</key>
 	<dict>
 		<key>label</key>
@@ -1005,7 +1079,7 @@
 		<real>275</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 7.1054273576010019e-14}, {612, 745.33333333333314}}</string>
+	<string>{{0, 0.66666666666787933}, {612, 765.33333333333326}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>

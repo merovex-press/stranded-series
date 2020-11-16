@@ -922,7 +922,7 @@
         <CodeSpanID>4D668845-4B90-43A5-B5FE-0E0C26D6C9B1</CodeSpanID>
         <CaptionStyleID>CAD594FA-0C95-4C43-B438-A631AA7C098B</CaptionStyleID>
         <AddClosingHashesToTitles>Yes</AddClosingHashesToTitles>
-        <LaTeXDocumentClass>Memoir</LaTeXDocumentClass>
+        <LaTeXDocumentClass>None</LaTeXDocumentClass>
     </MMD>
     <EBookSettings>
         <BaseFormat><![CDATA[{\rtf1\ansi\ansicpg1252\cocoartf2576
@@ -953,5 +953,9 @@
             <Version>2</Version>
         </PandocSettings>
     </EBookSettings>
-    <PostProcessing Enabled="No" Type="Script"/>
+    <PostProcessing Enabled="Yes" Type="Path">
+        <Path>/usr/local/bin/pandoc</Path>
+        <Args>--template=/Users/merovex/Github/merovex-press/strand-series/xtemplate.tex --webtex --defaults=/Users/merovex/Github/merovex-press/strand-series/defaults.yml -o &lt;$outputname&gt;.pdf</Args>
+        <Env>/Library/TeX/texbin</Env>
+    </PostProcessing>
 </CompileFormat>
