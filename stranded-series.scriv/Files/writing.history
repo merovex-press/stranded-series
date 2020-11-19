@@ -2,5 +2,8 @@
 <WritingHistory>
     <Day dwc="1193" dcc="6756" dtwc="0" owc="276" occ="1657" dtcc="0">2020-11-14</Day>
     <Day dwc="9244" dcc="55047" dtwc="0" owc="113" occ="48" dtcc="0">2020-11-15</Day>
-    <Day dwc="0" dcc="0" owc="1" occ="10">2020-11-16</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="134" occ="1041" dtcc="0">2020-11-16</Day>
+    <Day dwc="0" dcc="0" dtwc="0" owc="73" occ="702" dtcc="0">2020-11-17</Day>
+    <Day dwc="1" dcc="115" dtwc="0" owc="104" occ="753" dtcc="0">2020-11-18</Day>
+    <Day dwc="0" dcc="-100" owc="0" occ="0">2020-11-19</Day>
 </WritingHistory>
