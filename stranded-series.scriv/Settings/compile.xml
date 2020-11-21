@@ -148,20 +148,6 @@
                 <Type ID="FCBDC9C1-99A6-4F9E-A978-0E63D83B5605">AS-IS</Type>
             </SectionLayouts>
         </Format>
-        <Format ID="76141B5D-246F-4592-BB30-9DF40410511C">
-            <SectionLayouts>
-                <Type ID="0B36C225-D4E1-4171-BC88-502B9FA75492">AS-IS</Type>
-                <Type ID="94890CF8-8553-4049-A7A4-4F8B0DB98FE8">D1057067-9CF1-44C3-A4C8-34A90A393E89</Type>
-                <Type ID="2C4FE77B-DEEC-4141-A5BE-8E83C8A3070F">72A8A17D-2FF3-4C8D-8A4C-7895908E7EE5</Type>
-                <Type ID="FCBDC9C1-99A6-4F9E-A978-0E63D83B5605">8ECF8E44-3BEF-4ECB-B122-7EE33A7BEEA7</Type>
-                <Type ID="A0196C7F-ADBE-4C2E-9E17-7F77BFB6B4E1">25332942-AD04-4BAC-B61F-1BA5CF243440</Type>
-                <Type ID="264DD17F-6557-45C3-A9D4-99AE5E84B14D">AS-IS</Type>
-            </SectionLayouts>
-            <FrontAndBackMatter>
-                <DefaultFrontMatter Add="Yes">2D675938-BCD5-420E-9F54-80D84F84F3F6</DefaultFrontMatter>
-                <DefaultBackMatter Add="Yes">57B21F25-5290-44C2-8B39-E86FA97B0476</DefaultBackMatter>
-            </FrontAndBackMatter>
-        </Format>
         <Format ID="AEB30818-EE9D-4CC5-B301-8863BE705EBF">
             <SectionLayouts>
                 <Type ID="0B36C225-D4E1-4171-BC88-502B9FA75492">AS-IS</Type>
@@ -175,6 +161,20 @@
             </SectionLayouts>
             <FrontAndBackMatter>
                 <DefaultFrontMatter Add="Yes">BEAD1D37-9234-4A74-AC49-1D6254082697</DefaultFrontMatter>
+                <DefaultBackMatter Add="Yes">57B21F25-5290-44C2-8B39-E86FA97B0476</DefaultBackMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="76141B5D-246F-4592-BB30-9DF40410511C">
+            <SectionLayouts>
+                <Type ID="0B36C225-D4E1-4171-BC88-502B9FA75492">AS-IS</Type>
+                <Type ID="94890CF8-8553-4049-A7A4-4F8B0DB98FE8">D1057067-9CF1-44C3-A4C8-34A90A393E89</Type>
+                <Type ID="2C4FE77B-DEEC-4141-A5BE-8E83C8A3070F">72A8A17D-2FF3-4C8D-8A4C-7895908E7EE5</Type>
+                <Type ID="FCBDC9C1-99A6-4F9E-A978-0E63D83B5605">8ECF8E44-3BEF-4ECB-B122-7EE33A7BEEA7</Type>
+                <Type ID="A0196C7F-ADBE-4C2E-9E17-7F77BFB6B4E1">25332942-AD04-4BAC-B61F-1BA5CF243440</Type>
+                <Type ID="264DD17F-6557-45C3-A9D4-99AE5E84B14D">AS-IS</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">2D675938-BCD5-420E-9F54-80D84F84F3F6</DefaultFrontMatter>
                 <DefaultBackMatter Add="Yes">57B21F25-5290-44C2-8B39-E86FA97B0476</DefaultBackMatter>
             </FrontAndBackMatter>
         </Format>

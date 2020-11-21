@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="27981A39-4E2E-443C-9C7D-8CFDDFCF5265" Version="2.0" Creator="SCRMAC-3.1.5-12258" Device="Bens-MacBook-Pro" Author="Ben Wilson" Modified="2020-11-19 07:29:30 -0500" ModID="B664D5A4-3472-487C-9BC7-19B61D22EF0B">
+<ScrivenerProject Identifier="27981A39-4E2E-443C-9C7D-8CFDDFCF5265" Version="2.0" Creator="SCRMAC-3.2.1-14481" Device="Benjamins-MacBook-Pro" Author="" Modified="2020-11-21 06:21:00 -0500" ModID="BE769E13-2898-4B95-9FB6-BDC5F7EBBC3E">
     <Binder>
         <BinderItem UUID="CE51AB6A-821B-4263-AD24-C758EFA07ACC" Type="DraftFolder" Created="2020-11-14 09:56:11 -0500" Modified="2020-11-14 16:33:07 -0500">
             <Title>Manuscripts</Title>
@@ -1484,6 +1484,7 @@
                         <BinderItem UUID="F378EEC5-B557-494F-B3DD-A3146C7080BB" Type="Text" Created="2020-11-19 06:00:17 -0500" Modified="2020-11-19 06:00:19 -0500">
                             <Title>Prolog</Title>
                             <MetaData>
+                                <SectionType>2C4FE77B-DEEC-4141-A5BE-8E83C8A3070F</SectionType>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
@@ -1493,7 +1494,7 @@
                                 <BinderItem UUID="B63B467D-6942-4506-8D2E-2970EC3537FC" Type="Text" Created="2020-11-14 11:12:50 -0500" Modified="2020-11-19 06:05:44 -0500">
                                     <Title>Prolog</Title>
                                     <MetaData>
-                                        <SectionType>0B36C225-D4E1-4171-BC88-502B9FA75492</SectionType>
+                                        <SectionType>FCBDC9C1-99A6-4F9E-A978-0E63D83B5605</SectionType>
                                         <LabelID>0</LabelID>
                                         <StatusID>0</StatusID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -1531,13 +1532,13 @@
                                 <SelectedSubdocumentUUIDs>33F5B159-6E9D-40CD-AD27-64FA6DB82AFF</SelectedSubdocumentUUIDs>
                             </CorkboardAndOutliner>
                             <Children>
-                                <BinderItem UUID="33F5B159-6E9D-40CD-AD27-64FA6DB82AFF" Type="Text" Created="2020-11-14 11:13:10 -0500" Modified="2020-11-19 06:38:21 -0500">
+                                <BinderItem UUID="33F5B159-6E9D-40CD-AD27-64FA6DB82AFF" Type="Text" Created="2020-11-14 11:13:10 -0500" Modified="2020-11-21 06:20:11 -0500">
                                     <Title>Ephraim rejected by brother</Title>
                                     <MetaData>
                                         <SectionType>FCBDC9C1-99A6-4F9E-A978-0E63D83B5605</SectionType>
                                         <LabelID>3</LabelID>
                                         <IncludeInCompile>Yes</IncludeInCompile>
-                                        <NotesTextSelection>57,0</NotesTextSelection>
+                                        <NotesTextSelection>0,57</NotesTextSelection>
                                         <CustomMetaData>
                                             <MetaDataItem>
                                                 <FieldID>characters1</FieldID>
@@ -1546,7 +1547,7 @@
                                         </CustomMetaData>
                                     </MetaData>
                                     <TextSettings>
-                                        <TextSelection>0,0</TextSelection>
+                                        <TextSelection>899,0</TextSelection>
                                     </TextSettings>
                                 </BinderItem>
                                 <BinderItem UUID="91E90149-AB17-4B9D-A084-5B8BD47C1D49" Type="Text" Created="2020-11-15 09:22:54 -0500" Modified="2020-11-19 05:50:56 -0500">
@@ -2222,79 +2223,6 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem UUID="9ECB237D-15B2-414E-9F90-8C318EB8501B" Type="Folder" Created="2020-11-14 13:38:46 -0500" Modified="2020-11-14 14:53:28 -0500">
-            <Title>Metacontent</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>0,0</TextSelection>
-            </TextSettings>
-            <Children>
-                <BinderItem UUID="57B21F25-5290-44C2-8B39-E86FA97B0476" Type="Text" Created="2020-11-14 14:40:51 -0500" Modified="2020-11-19 06:49:47 -0500">
-                    <Title>CTA / Contact</Title>
-                    <MetaData>
-                        <SectionType>FCBDC9C1-99A6-4F9E-A978-0E63D83B5605</SectionType>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>225,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="767C9507-7189-4419-A0BF-A7C50334D49F" Type="Text" Created="2020-11-17 05:20:37 -0500" Modified="2020-11-19 07:25:38 -0500">
-                    <Title>Scrivnomatic</Title>
-                    <MetaData>
-                        <SectionType>264DD17F-6557-45C3-A9D4-99AE5E84B14D</SectionType>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>1275,1</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
-        </BinderItem>
-        <BinderItem UUID="4A172210-75BB-4212-A91A-E8830A4BE12A" Type="Folder" Created="2020-11-14 22:39:23 -0500" Modified="2020-11-14 22:39:27 -0500">
-            <Title>Templates</Title>
-            <MetaData>
-                <IncludeInCompile>Yes</IncludeInCompile>
-            </MetaData>
-            <TextSettings>
-                <TextSelection>0,0</TextSelection>
-            </TextSettings>
-            <Children>
-                <BinderItem UUID="74C64818-C256-4FB3-93ED-E7F5DBFE792F" Type="Text" Created="2020-11-14 13:27:25 -0500" Modified="2020-11-14 22:41:05 -0500">
-                    <Title>Major Character</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <CustomMetaData>
-                            <MetaDataItem>
-                                <FieldID>characters1</FieldID>
-                                <Value>0</Value>
-                            </MetaDataItem>
-                            <MetaDataItem>
-                                <FieldID>places</FieldID>
-                                <Value>Shippensburg</Value>
-                            </MetaDataItem>
-                        </CustomMetaData>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>394,0</TextSelection>
-                    </TextSettings>
-                    <Bookmarks>
-                        <Bookmark BinderUUID="B63B467D-6942-4506-8D2E-2970EC3537FC"/>
-                    </Bookmarks>
-                </BinderItem>
-                <BinderItem UUID="2C08579B-ECFE-4271-ACCB-BE38194037A4" Type="Text" Created="2020-11-14 22:41:42 -0500" Modified="2020-11-15 09:03:22 -0500">
-                    <Title>Minor Character</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>525,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-            </Children>
-        </BinderItem>
         <BinderItem UUID="9D16E3B6-36DA-4AA6-9A00-E9943ADA1219" Type="ResearchFolder" Created="2020-11-14 09:56:11 -0500" Modified="2020-11-14 09:56:11 -0500">
             <Title>Research</Title>
             <MetaData>
@@ -2345,6 +2273,16 @@
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
                             </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="F466095B-A61D-4D9D-8BAF-B04E2BFAED44" Type="WebArchive" Created="2020-11-21 06:17:31 -0500" Modified="2020-11-21 06:17:31 -0500">
+                            <Title>Safely Decock Flintlock</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>webarchive</FileExtension>
+                            </MetaData>
+                            <MediaSettings>
+                                <OriginalURL>https://answers.yahoo.com/question/index?qid=20141020061334AAujVoR</OriginalURL>
+                            </MediaSettings>
                         </BinderItem>
                     </Children>
                 </BinderItem>
@@ -2571,6 +2509,89 @@
                             </MediaSettings>
                         </BinderItem>
                     </Children>
+                </BinderItem>
+                <BinderItem UUID="2392307B-0995-42C4-B58B-6332CB60C224" Type="WebArchive" Created="2020-11-21 06:20:44 -0500" Modified="2020-11-21 06:20:44 -0500">
+                    <Title>Wikipedia: Shippensburg</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>webarchive</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <OriginalURL>https://en.wikipedia.org/wiki/Shippensburg,_Pennsylvania%20</OriginalURL>
+                    </MediaSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="4A172210-75BB-4212-A91A-E8830A4BE12A" Type="Folder" Created="2020-11-14 22:39:23 -0500" Modified="2020-11-14 22:39:27 -0500">
+            <Title>Templates</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="74C64818-C256-4FB3-93ED-E7F5DBFE792F" Type="Text" Created="2020-11-14 13:27:25 -0500" Modified="2020-11-14 22:41:05 -0500">
+                    <Title>Major Character</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <CustomMetaData>
+                            <MetaDataItem>
+                                <FieldID>characters1</FieldID>
+                                <Value>0</Value>
+                            </MetaDataItem>
+                            <MetaDataItem>
+                                <FieldID>places</FieldID>
+                                <Value>Shippensburg</Value>
+                            </MetaDataItem>
+                        </CustomMetaData>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>394,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="B63B467D-6942-4506-8D2E-2970EC3537FC"/>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="2C08579B-ECFE-4271-ACCB-BE38194037A4" Type="Text" Created="2020-11-14 22:41:42 -0500" Modified="2020-11-15 09:03:22 -0500">
+                    <Title>Minor Character</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>525,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="9ECB237D-15B2-414E-9F90-8C318EB8501B" Type="Folder" Created="2020-11-14 13:38:46 -0500" Modified="2020-11-14 14:53:28 -0500">
+            <Title>Metacontent</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="57B21F25-5290-44C2-8B39-E86FA97B0476" Type="Text" Created="2020-11-14 14:40:51 -0500" Modified="2020-11-19 06:49:47 -0500">
+                    <Title>CTA / Contact</Title>
+                    <MetaData>
+                        <SectionType>FCBDC9C1-99A6-4F9E-A978-0E63D83B5605</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>225,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="767C9507-7189-4419-A0BF-A7C50334D49F" Type="Text" Created="2020-11-17 05:20:37 -0500" Modified="2020-11-21 06:04:51 -0500">
+                    <Title>Scrivomatic</Title>
+                    <MetaData>
+                        <SectionType>264DD17F-6557-45C3-A9D4-99AE5E84B14D</SectionType>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>381,0</TextSelection>
+                    </TextSettings>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -3018,10 +3039,10 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="67103BA3-A30D-4B15-8BC4-EE052C63F621" Color="0.835064 0.835192 0.835003">
+        <Collection Type="Binder" ID="67103BA3-A30D-4B15-8BC4-EE052C63F621" Color="0.112547 0.112547 0.112547">
             <Title>Binder</Title>
         </Collection>
-        <Collection Type="RecentSearch" ID="76CE5E66-8DF9-4BEB-BB97-8D2D9DE5375D" Color="0.483173 0.796281 0.932227">
+        <Collection Type="RecentSearch" ID="76CE5E66-8DF9-4BEB-BB97-8D2D9DE5375D" Color="0.190667 0.172702 0.216529">
             <Title>Search Results</Title>
         </Collection>
     </Collections>
@@ -3093,15 +3114,15 @@
     </CustomMetaDataSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2020-11-14 09:56:10 -0500" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-11-20 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="-320" Characters="-2109" Date="2020-11-19 05:25:15 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2020-11-22 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="-6" Characters="-80" Date="2020-11-21 06:18:25 -0500"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2020-11-19 00:00:00 -0500">
-        <DraftWordCount>-320</DraftWordCount>
-        <DraftCharCount>-2109</DraftCharCount>
-        <OtherWordCount>17</OtherWordCount>
-        <OtherCharCount>147</OtherCharCount>
+    <RecentWritingHistory Date="2020-11-21 00:00:00 -0500">
+        <DraftWordCount>-6</DraftWordCount>
+        <DraftCharCount>-80</DraftCharCount>
+        <OtherWordCount>2</OtherWordCount>
+        <OtherCharCount>9</OtherCharCount>
     </RecentWritingHistory>
     <TemplateFolderUUID>4A172210-75BB-4212-A91A-E8830A4BE12A</TemplateFolderUUID>
-    <PrintSettings PaperSize="611.999972,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>

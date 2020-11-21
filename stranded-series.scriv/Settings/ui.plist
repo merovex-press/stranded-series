@@ -14,8 +14,8 @@
 	<false/>
 	<key>binderSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {501, 1204}}</string>
-		<string>{{502, 0}, {1870, 1204}}</string>
+		<string>{{0, 0}, {289, 939}}</string>
+		<string>{{290, 0}, {1654, 939}}</string>
 	</array>
 	<key>bookmarksPreviewTextSettings</key>
 	<dict>
@@ -1249,6 +1249,11 @@
 			<key>Row</key>
 			<integer>-1</integer>
 		</dict>
+		<key>F466095B-A61D-4D9D-8BAF-B04E2BFAED44</key>
+		<dict>
+			<key>Row</key>
+			<integer>-1</integer>
+		</dict>
 		<key>F4A4FEA9-DEC1-4293-8048-475FEA27A54C</key>
 		<dict>
 			<key>Row</key>
@@ -1324,8 +1329,8 @@
 	<integer>2</integer>
 	<key>inspectorSplitFrames</key>
 	<array>
-		<string>{{0, 0}, {1476, 1174}}</string>
-		<string>{{1477, 0}, {393, 1174}}</string>
+		<string>{{0, 0}, {1260, 909}}</string>
+		<string>{{1261, 0}, {393, 909}}</string>
 	</array>
 	<key>inspectorWidth</key>
 	<real>393</real>
@@ -1364,7 +1369,7 @@
 		<real>1.5</real>
 	</dict>
 	<key>mainWindowFrame</key>
-	<string>188 113 2372 1260 0 0 2560 1415 </string>
+	<string>94 160 1944 967 0 0 2048 1127 </string>
 	<key>projectStatsSheet</key>
 	<dict>
 		<key>countDraftFootnotes</key>
@@ -1395,7 +1400,7 @@
 		<key>widths</key>
 		<dict>
 			<key>TITLE</key>
-			<real>499</real>
+			<real>200</real>
 		</dict>
 	</dict>
 	<key>supportingDocumentEditor.cardWidth</key>
@@ -1419,7 +1424,7 @@
 		<real>275</real>
 	</dict>
 	<key>supportingDocumentEditor.scrollRect</key>
-	<string>{{0, 5.3053857603420811e-12}, {612, 745.33333333333326}}</string>
+	<string>{{0, 312.6666666666668}, {612, 568.66666666666652}}</string>
 	<key>supportingDocumentEditor.textEditorState</key>
 	<dict>
 		<key>textScaleFactor</key>
