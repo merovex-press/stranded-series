@@ -1,0 +1,14 @@
+
+C:: England dispatches troops to secure the Temple, agitating Indians and Colonists alike.
+E:: while the French try to find its location by subterfuge; fanning the flame of Indian & American independence. 
+D:: Whigs secretly meet with Ben Franklin to find a way forward.
+T:: Wireless communication established between London & Philadelphia...both for England & America, unbeknownst to one another.
+
+- S1 - King George introduced to tech, This changes everything.
+- S2 - A1 - Decision made to secure the location
+- S3 - Strand brothers find & loot Temple
+- S4 - A2 - French learn of the tech
+- S5 - Temple secured, Brother’s narrowly escape, Colonists upset
+- S6 - A3 - Wireless connection made
+- S7 - Negotiation with Franklin (exclusive access)
+- S8 - A4 - French get some tech?
